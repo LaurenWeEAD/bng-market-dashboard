@@ -38,7 +38,24 @@ h3 {
   border-bottom: 3px solid #bfd730;
   box-sizing: border-box;
 }
+.jump-links {
+  font-size: 15px;
+  padding-bottom: 18px;
+  margin-bottom: 28px;
+}
 
+.jump-links a {
+  display: inline-block;
+  margin-left: 12px;
+  color: #27313d;
+  text-decoration: none;
+  border-bottom: 2px solid #bfd730;
+}
+
+.jump-links a:hover {
+  color: #000;
+  border-bottom-color: #9fb51f;
+}
     #key-takeaway {
   width: 100%;
   max-width: 1080px;
@@ -240,8 +257,20 @@ table {
   </div>
 </div>
 
-  <div class="section">
-    <h3>National Gain Site Map</h3>
+  <div class="section jump-links">
+  <strong>Jump to:</strong>
+  <a href="#map">Map</a>
+  <a href="#market-value">Market Value</a>
+  <a href="#habitat-utilisation">Habitat Utilisation</a>
+  <a href="#habitat-opportunity">Habitat Opportunity</a>
+  <a href="#lnrs-opportunity">LNRS Opportunity</a>
+  <a href="#southwest">South West</a>
+  <a href="#methodology">Methodology</a>
+</div>
+  
+  
+<div class="section" id="map">
+  <h3>National Gain Site Map</h3>
 
     <p>
       Registered biodiversity gain sites from the public BNG register. Use the filter to show sites with remaining registered habitat, hedgerow or watercourse extent.
@@ -324,11 +353,11 @@ Search a location or click anywhere on the map to find the nearest available gai
     </p>
   </div>
 
-  <div class="section">
+<div class="section" id="market-value">
 <h3>Indicative Allocated BNG Market Value</h3>
 
 <p>
-  These estimates apply indicative biodiversity unit pricing to allocated biodiversity units reported in the Biodiversity Gain Site Register. Habitat values are shown as minimum, average and maximum pricing scenarios because the public register does not provide enough information to apportion mixed allocation unit values between individual habitat types.
+  These estimates apply indicative biodiversity unit pricing to allocated biodiversity units reported in the Biodiversity Gain Site Register. Values are shown as indicative ranges, with average scenarios included for habitat and total allocated value. Remaining unit availability and remaining market value are not calculated.
 </p>
 
     <table>
@@ -348,17 +377,8 @@ Search a location or click anywhere on the map to find the nearest available gai
 </p>
   </div>
 
-  <div class="section">
-    <h3>Market Intelligence</h3>
-    <div class="methodology">
-      <ul id="market-intelligence">
-        <li>Loading...</li>
-      </ul>
-    </div>
-  </div>
-
-  <div class="section">
-    <h3>Habitat Market Utilisation</h3>
+<div class="section" id="habitat-utilisation">
+  <h3>Habitat Market Utilisation</h3>
 
     <p>
       Registered and allocated extent by broad market group. This shows which parts of the BNG market are being consumed fastest by area or length, not by remaining biodiversity units.
@@ -394,7 +414,7 @@ Search a location or click anywhere on the map to find the nearest available gai
   <p class="note" id="tracking-note"></p>
 </div>
 
-<div class="section">
+<div class="section" id="habitat-opportunity">
   <h3>National Habitat Opportunity</h3>
 
   <p>
@@ -423,7 +443,7 @@ Search a location or click anywhere on the map to find the nearest available gai
     Demand reflects allocation count and allocated extent. Pressure reflects utilisation of registered supply. Opportunity combines both signals.
   </p>
 </div>  
-  <div class="section">
+<div class="section" id="lnrs-opportunity">
   <h3>Highest Opportunity LNRS Areas</h3>
 
   <p>
@@ -453,8 +473,8 @@ Search a location or click anywhere on the map to find the nearest available gai
   </p>
 </div>
 
-  <div class="section">
-    <h3>South West Market Snapshot</h3>
+<div class="section" id="southwest">
+  <h3>South West Market Snapshot</h3>
 
     <p>
       Regional view of registered habitat supply and allocation activity across Devon, Somerset, Dorset and Cornwall.
@@ -505,8 +525,8 @@ Search a location or click anywhere on the map to find the nearest available gai
     </table>
   </div>
 
-  <div class="section">
-    <h3>Methodology and limitations</h3>
+<div class="section" id="methodology">
+  <h3>Methodology and limitations</h3>
 
     <div class="methodology">
       <p>
@@ -626,16 +646,12 @@ const [
 
 document.getElementById("market-value-table").innerHTML = `
   <tr>
-    <td>Minimum Indicative Habitat Value</td>
-    <td class="right">${fmtMoney(value.allocated_habitat_min_value)}</td>
-  </tr>
-  <tr>
-    <td>Average Indicative Habitat Value</td>
-    <td class="right">${fmtMoney(value.allocated_habitat_avg_value)}</td>
-  </tr>
-  <tr>
-    <td>Maximum Indicative Habitat Value</td>
-    <td class="right">${fmtMoney(value.allocated_habitat_max_value)}</td>
+    <td>Indicative Habitat Value</td>
+    <td class="right">
+      ${moneyRange(value.allocated_habitat_min_value, value.allocated_habitat_max_value)}
+      <br>
+      <span class="note">Average scenario: ${fmtMoney(value.allocated_habitat_avg_value)}</span>
+    </td>
   </tr>
   <tr>
     <td>Indicative Hedgerow Value</td>
@@ -646,26 +662,15 @@ document.getElementById("market-value-table").innerHTML = `
     <td class="right">${moneyRange(value.allocated_watercourse_north_value, value.allocated_watercourse_south_value)}</td>
   </tr>
   <tr>
-    <td><strong>Total Minimum Indicative Value</strong></td>
-    <td class="right">${fmtMoney(value.allocated_min_value)}</td>
-  </tr>
-  <tr>
-    <td><strong>Total Average Indicative Value</strong></td>
-    <td class="right">${fmtMoney(value.allocated_avg_value)}</td>
-  </tr>
-  <tr>
-    <td><strong>Total Maximum Indicative Value</strong></td>
-    <td class="right">${fmtMoney(value.allocated_max_value)}</td>
+    <td><strong>Total Indicative Allocated Value</strong></td>
+    <td class="right">
+      ${moneyRange(value.allocated_min_value, value.allocated_max_value)}
+      <br>
+      <span class="note">Average scenario: ${fmtMoney(value.allocated_avg_value)}</span>
+    </td>
   </tr>
 `;
 
-
-document.getElementById("market-intelligence").innerHTML = `
-  <li>The average indicative allocated BNG value is approximately <strong>${fmtMoney(value.allocated_avg_value)}</strong>.</li>
-  <li>The indicative valuation range is approximately <strong>${fmtMoney(value.allocated_min_value)}</strong> to <strong>${fmtMoney(value.allocated_max_value)}</strong>, reflecting uncertainty in habitat unit pricing where allocations contain multiple habitat components.</li>
-  <li>Allocated unit totals are based on reported biodiversity units, deduplicated at allocation level.</li>
-  <li>Remaining habitat capacity is reported as area or length only; remaining biodiversity units and remaining market values are not calculated.</li>
-`;
 
       document.getElementById("utilisation-table").innerHTML = utilisation.map(row => {
         const unit = unitForGroup(row.group);
