@@ -372,8 +372,8 @@ Search a location or click anywhere on the map to find the nearest available gai
       </tbody>
     </table>
 
-    <p class="note">
- Source: Biodiversity Units UK, February 2026. Values are indicative only and are calculated from allocated biodiversity units reported on the Biodiversity Gain Site register using average indicative unit pricing by broad unit category. Where an allocation contains multiple habitat components, units are not apportioned between habitat types because the register does not provide sufficient information. Remaining unit availability is not calculated.
+<p class="note">
+  Source: Biodiversity Units UK, February 2026. Values are indicative only and are calculated from allocated biodiversity units reported on the Biodiversity Gain Site Register using indicative unit pricing scenarios by broad unit category. Where an allocation contains multiple habitat components, units are not apportioned between habitat types because the register does not provide sufficient information. Remaining unit availability and remaining market value are not calculated.
 </p>
   </div>
 
@@ -439,9 +439,9 @@ Search a location or click anywhere on the map to find the nearest available gai
     </tbody>
   </table>
 
-  <p class="note">
-    Demand reflects allocation count and allocated extent. Pressure reflects utilisation of registered supply. Opportunity combines both signals.
-  </p>
+<p class="note">
+  Demand reflects allocation count and allocated extent. Pressure reflects utilisation of registered supply. Opportunity combines both signals. Very small one-off habitat records are excluded from this ranking to avoid overstating limited sample signals.
+</p>
 </div>  
 <div class="section" id="lnrs-opportunity">
   <h3>Highest Opportunity LNRS Areas</h3>
@@ -707,9 +707,15 @@ const totalAreaLast30 = opportunityAreas.reduce(
   0
 );
 
-   document.getElementById("habitat-demand-table").innerHTML =
+document.getElementById("habitat-demand-table").innerHTML =
   habitatDemand
-    .filter(row => Number(row.allocation_count || 0) > 0)
+    .filter(row =>
+      Number(row.allocation_count || 0) > 0 &&
+      (
+        Number(row.registered_extent || 0) >= 5 ||
+        Number(row.allocation_count || 0) >= 5
+      )
+    )
     .slice(0, 15)
     .map(row => {
       const unit = row.habitat_type === "hedgerow" || row.habitat_type === "watercourse"
