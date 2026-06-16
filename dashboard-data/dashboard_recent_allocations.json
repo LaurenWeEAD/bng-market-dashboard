@@ -11,7 +11,10 @@
     "allocated_habitat_ha": 0,
     "allocated_hedgerow_km": 0,
     "allocated_watercourse_km": 0.0039,
-    "biodiversity_value": 0.01
+    "habitat_units": 0,
+    "hedgerow_units": 0,
+    "watercourse_units": 0.01,
+    "total_units": 0.01
   },
   {
     "code": "BGS-230125001",
@@ -25,7 +28,10 @@
     "allocated_habitat_ha": 2.2383,
     "allocated_hedgerow_km": 0,
     "allocated_watercourse_km": 0,
-    "biodiversity_value": 5.9
+    "habitat_units": 5.9,
+    "hedgerow_units": 0,
+    "watercourse_units": 0,
+    "total_units": 5.9
   },
   {
     "code": "BGS-230125001",
@@ -39,7 +45,10 @@
     "allocated_habitat_ha": 0.0149,
     "allocated_hedgerow_km": 0.01,
     "allocated_watercourse_km": 0,
-    "biodiversity_value": 0.22
+    "habitat_units": 0.11,
+    "hedgerow_units": 0.11,
+    "watercourse_units": 0,
+    "total_units": 0.22
   },
   {
     "code": "BGS-230125001",
@@ -53,7 +62,10 @@
     "allocated_habitat_ha": 0.0025,
     "allocated_hedgerow_km": 0.0022,
     "allocated_watercourse_km": 0,
-    "biodiversity_value": 0.03
+    "habitat_units": 0.01,
+    "hedgerow_units": 0.02,
+    "watercourse_units": 0,
+    "total_units": 0.03
   },
   {
     "code": "BGS-230125001",
@@ -67,7 +79,10 @@
     "allocated_habitat_ha": 0,
     "allocated_hedgerow_km": 0,
     "allocated_watercourse_km": 0.0406,
-    "biodiversity_value": 0.08
+    "habitat_units": 0,
+    "hedgerow_units": 0,
+    "watercourse_units": 0.08,
+    "total_units": 0.08
   },
   {
     "code": "BGS-230125001",
@@ -81,7 +96,10 @@
     "allocated_habitat_ha": 0,
     "allocated_hedgerow_km": 0.0362,
     "allocated_watercourse_km": 0,
-    "biodiversity_value": 0.41
+    "habitat_units": 0,
+    "hedgerow_units": 0.41,
+    "watercourse_units": 0,
+    "total_units": 0.41
   },
   {
     "code": "BGS-230125001",
@@ -95,7 +113,10 @@
     "allocated_habitat_ha": 0.0046,
     "allocated_hedgerow_km": 0,
     "allocated_watercourse_km": 0,
-    "biodiversity_value": 0.03
+    "habitat_units": 0.03,
+    "hedgerow_units": 0,
+    "watercourse_units": 0,
+    "total_units": 0.03
   },
   {
     "code": "BGS-230125001",
@@ -109,7 +130,10 @@
     "allocated_habitat_ha": 0.0241,
     "allocated_hedgerow_km": 0,
     "allocated_watercourse_km": 0,
-    "biodiversity_value": 0.18
+    "habitat_units": 0.18,
+    "hedgerow_units": 0,
+    "watercourse_units": 0,
+    "total_units": 0.18
   },
   {
     "code": "BGS-230125001",
@@ -123,7 +147,10 @@
     "allocated_habitat_ha": 0,
     "allocated_hedgerow_km": 0,
     "allocated_watercourse_km": 0.0175,
-    "biodiversity_value": 0.04
+    "habitat_units": 0,
+    "hedgerow_units": 0,
+    "watercourse_units": 0.04,
+    "total_units": 0.04
   },
   {
     "code": "BGS-230125001",
@@ -137,7 +164,10 @@
     "allocated_habitat_ha": 0,
     "allocated_hedgerow_km": 0,
     "allocated_watercourse_km": 0.1087,
-    "biodiversity_value": 0.22
+    "habitat_units": 0,
+    "hedgerow_units": 0,
+    "watercourse_units": 0.22,
+    "total_units": 0.22
   },
   {
     "code": "BGS-101024001",
@@ -151,7 +181,10 @@
     "allocated_habitat_ha": 0.0413,
     "allocated_hedgerow_km": 0,
     "allocated_watercourse_km": 0,
-    "biodiversity_value": 0.38
+    "habitat_units": 0.38,
+    "hedgerow_units": 0,
+    "watercourse_units": 0,
+    "total_units": 0.38
   },
   {
     "code": "BGS-101024001",
@@ -165,7 +198,10 @@
     "allocated_habitat_ha": 0.1554,
     "allocated_hedgerow_km": 0,
     "allocated_watercourse_km": 0,
-    "biodiversity_value": 1.42
+    "habitat_units": 1.42,
+    "hedgerow_units": 0,
+    "watercourse_units": 0,
+    "total_units": 1.42
   },
   {
     "code": "BGS-101024001",
@@ -179,7 +215,10 @@
     "allocated_habitat_ha": 0.0218,
     "allocated_hedgerow_km": 0,
     "allocated_watercourse_km": 0,
-    "biodiversity_value": 0.15
+    "habitat_units": 0.15,
+    "hedgerow_units": 0,
+    "watercourse_units": 0,
+    "total_units": 0.15
   },
   {
     "code": "BGS-101024001",
@@ -193,7 +232,10 @@
     "allocated_habitat_ha": 0.0701,
     "allocated_hedgerow_km": 0,
     "allocated_watercourse_km": 0,
-    "biodiversity_value": 0.46
+    "habitat_units": 0.46,
+    "hedgerow_units": 0,
+    "watercourse_units": 0,
+    "total_units": 0.46
   },
   {
     "code": "BGS-101024001",
@@ -207,7 +249,10 @@
     "allocated_habitat_ha": 0.1008,
     "allocated_hedgerow_km": 0,
     "allocated_watercourse_km": 0,
-    "biodiversity_value": 0.94
+    "habitat_units": 0.94,
+    "hedgerow_units": 0,
+    "watercourse_units": 0,
+    "total_units": 0.94
   },
   {
     "code": "BGS-101024001",
@@ -221,7 +266,10 @@
     "allocated_habitat_ha": 0.0501,
     "allocated_hedgerow_km": 0,
     "allocated_watercourse_km": 0,
-    "biodiversity_value": 0.47
+    "habitat_units": 0.47,
+    "hedgerow_units": 0,
+    "watercourse_units": 0,
+    "total_units": 0.47
   },
   {
     "code": "BGS-040924003",
@@ -235,7 +283,10 @@
     "allocated_habitat_ha": 0.0462,
     "allocated_hedgerow_km": 0,
     "allocated_watercourse_km": 0,
-    "biodiversity_value": 0.32
+    "habitat_units": 0.32,
+    "hedgerow_units": 0,
+    "watercourse_units": 0,
+    "total_units": 0.32
   },
   {
     "code": "BGS-040924003",
@@ -249,7 +300,10 @@
     "allocated_habitat_ha": 0.0715,
     "allocated_hedgerow_km": 0,
     "allocated_watercourse_km": 0,
-    "biodiversity_value": 0.48
+    "habitat_units": 0.48,
+    "hedgerow_units": 0,
+    "watercourse_units": 0,
+    "total_units": 0.48
   },
   {
     "code": "BGS-040924003",
@@ -263,7 +317,10 @@
     "allocated_habitat_ha": 0.014,
     "allocated_hedgerow_km": 0,
     "allocated_watercourse_km": 0,
-    "biodiversity_value": 0.07
+    "habitat_units": 0.07,
+    "hedgerow_units": 0,
+    "watercourse_units": 0,
+    "total_units": 0.07
   },
   {
     "code": "BGS-050924002",
@@ -277,7 +334,10 @@
     "allocated_habitat_ha": 0.1696,
     "allocated_hedgerow_km": 0,
     "allocated_watercourse_km": 0,
-    "biodiversity_value": 2.51
+    "habitat_units": 2.51,
+    "hedgerow_units": 0,
+    "watercourse_units": 0,
+    "total_units": 2.51
   },
   {
     "code": "BGS-100624001",
@@ -291,7 +351,10 @@
     "allocated_habitat_ha": 2.3379,
     "allocated_hedgerow_km": 0,
     "allocated_watercourse_km": 0,
-    "biodiversity_value": 7.49
+    "habitat_units": 7.49,
+    "hedgerow_units": 0,
+    "watercourse_units": 0,
+    "total_units": 7.49
   },
   {
     "code": "BGS-101024004",
@@ -305,7 +368,10 @@
     "allocated_habitat_ha": 0.098,
     "allocated_hedgerow_km": 0,
     "allocated_watercourse_km": 0,
-    "biodiversity_value": 0.6
+    "habitat_units": 0.6,
+    "hedgerow_units": 0,
+    "watercourse_units": 0,
+    "total_units": 0.6
   },
   {
     "code": "BGS-101024004",
@@ -319,7 +385,10 @@
     "allocated_habitat_ha": 0.26,
     "allocated_hedgerow_km": 0,
     "allocated_watercourse_km": 0,
-    "biodiversity_value": 1.37
+    "habitat_units": 1.37,
+    "hedgerow_units": 0,
+    "watercourse_units": 0,
+    "total_units": 1.37
   },
   {
     "code": "BGS-101024004",
@@ -333,7 +402,10 @@
     "allocated_habitat_ha": 0.007,
     "allocated_hedgerow_km": 0,
     "allocated_watercourse_km": 0,
-    "biodiversity_value": 0.03
+    "habitat_units": 0.03,
+    "hedgerow_units": 0,
+    "watercourse_units": 0,
+    "total_units": 0.03
   },
   {
     "code": "BGS-101024004",
@@ -347,6 +419,9 @@
     "allocated_habitat_ha": 0.1452,
     "allocated_hedgerow_km": 0,
     "allocated_watercourse_km": 0,
-    "biodiversity_value": 1.08
+    "habitat_units": 1.08,
+    "hedgerow_units": 0,
+    "watercourse_units": 0,
+    "total_units": 1.08
   }
 ]
