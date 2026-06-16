@@ -512,18 +512,24 @@ table {
         <th>First Seen</th>
         <th>Site</th>
         <th>LPA</th>
-        <th>LNRS</th>
-        <th>Habitat</th>
-        <th class="right">Allocated</th>
+        <th>Planning Ref</th>
+        <th>Habitats</th>
+        <th class="right">Habitat ha</th>
+        <th class="right">Hedgerow km</th>
+        <th class="right">Watercourse km</th>
+        <th class="right">Habitat units</th>
+        <th class="right">Hedgerow units</th>
+        <th class="right">Watercourse units</th>
+        <th class="right">Total units</th>
       </tr>
     </thead>
     <tbody id="recent-allocations-table">
-      <tr><td colspan="6">Loading...</td></tr>
+      <tr><td colspan="12">Loading...</td></tr>
     </tbody>
   </table>
 
   <p class="note">
-    Recent allocations are based on allocation records first seen by the scraper and may reflect register publication timing rather than the legal allocation date.
+    Recent allocations are grouped by site, planning reference, project and first-seen date. Habitat, hedgerow and watercourse extents and units are shown separately because they use different measurement bases.
   </p>
 </div>
 
@@ -906,23 +912,23 @@ if (strongestSW && mostActiveSW && mostRecentSW) {
           </tr>
         `).join("");
 
-      document.getElementById("recent-allocations-table").innerHTML =
-  recentAllocations.slice(0, 10).map(row => {
-    const unit = row.habitat_type === "hedgerow" || row.habitat_type === "watercourse"
-      ? " km"
-      : " ha";
-
-    return `
-      <tr>
-        <td>${datePretty(row.first_seen_date)}</td>
-        <td>${row.code || ""}</td>
-        <td>${row.lpa || ""}</td>
-        <td>${row.lnrs || ""}</td>
-        <td>${row.habitat || row.habitat_group || ""}</td>
-        <td class="right">${fmtNum(row.allocated_extent, 2)}${unit}</td>
-      </tr>
-    `;
-  }).join("");
+document.getElementById("recent-allocations-table").innerHTML =
+  recentAllocations.slice(0, 10).map(row => `
+    <tr>
+      <td>${datePretty(row.first_seen_date)}</td>
+      <td>${row.code || ""}</td>
+      <td>${row.lpa || ""}</td>
+      <td>${row.planningRef || ""}</td>
+      <td>${row.habitats || row.habitat_groups || ""}</td>
+      <td class="right">${fmtNum(row.allocated_habitat_ha, 2)}</td>
+      <td class="right">${fmtNum(row.allocated_hedgerow_km, 2)}</td>
+      <td class="right">${fmtNum(row.allocated_watercourse_km, 2)}</td>
+      <td class="right">${fmtNum(row.habitat_units, 2)}</td>
+      <td class="right">${fmtNum(row.hedgerow_units, 2)}</td>
+      <td class="right">${fmtNum(row.watercourse_units, 2)}</td>
+      <td class="right"><strong>${fmtNum(row.total_units, 2)}</strong></td>
+    </tr>
+  `).join("");
       
 document.getElementById("key-takeaway").innerHTML = `
   <strong>Key takeaway:</strong>
