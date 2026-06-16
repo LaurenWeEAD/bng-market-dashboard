@@ -911,10 +911,38 @@
     "lpa": "Somerset West and Taunton LPA",
     "lnrs": "Somerset",
     "authority": "Somerset LPA",
-    "sizeHa": 0,
+    "sizeHa": 17,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 16.802,
+        "allocated_extent": 0,
+        "remaining_extent": 16.802
+      },
+      {
+        "habitat": "Native hedgerow with trees",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 1.032,
+        "allocated_extent": 0,
+        "remaining_extent": 1.032
+      },
+      {
+        "habitat": "Native Hedgerow",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.412,
+        "allocated_extent": 0,
+        "remaining_extent": 0.412
+      }
+    ]
   },
   {
     "code": "BGS-290725004",
@@ -1728,10 +1756,29 @@
     "lpa": "Broadland LPA",
     "lnrs": "Norfolk",
     "authority": "Broadland LPA",
-    "sizeHa": 0,
+    "sizeHa": 4.38,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 4.38,
+        "allocated_extent": 0,
+        "remaining_extent": 4.38
+      },
+      {
+        "habitat": "Species-rich native hedgerow with trees",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.125,
+        "allocated_extent": 0,
+        "remaining_extent": 0.125
+      }
+    ]
   },
   {
     "code": "BGS-100624001",
@@ -9205,7 +9252,7 @@
     "authority": "Cotswold LPA",
     "sizeHa": 43.7,
     "first_seen_date": "2026-06-16",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Heathland and shrub - Mixed scrub",
@@ -9376,7 +9423,7 @@
     "authority": "South Cambridgeshire LPA",
     "sizeHa": 6.35,
     "first_seen_date": "2026-06-16",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Woodland and forest - Other woodland; broadleaved",
@@ -16883,29 +16930,10 @@
     "lpa": "Wycombe LPA",
     "lnrs": "Buckinghamshire and Milton Keynes",
     "authority": "The Lifescape Project",
-    "sizeHa": 17.83,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 13.32,
-        "allocated_extent": 0,
-        "remaining_extent": 13.32
-      },
-      {
-        "habitat": "Grassland - Lowland calcareous grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 4.5,
-        "allocated_extent": 0,
-        "remaining_extent": 4.5
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-060226001",

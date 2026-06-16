@@ -22,9 +22,9 @@
   },
   {
     "group": "Grassland",
-    "registered_extent": 5334.24,
+    "registered_extent": 5337.6,
     "allocated_extent": 407.07,
-    "available_extent": 4927.17,
+    "available_extent": 4930.53,
     "utilisation_percent": 7.6
   },
   {
@@ -50,9 +50,9 @@
   },
   {
     "group": "Hedgerow",
-    "registered_extent": 302.52,
+    "registered_extent": 304.09,
     "allocated_extent": 6.03,
-    "available_extent": 296.49,
+    "available_extent": 298.06,
     "utilisation_percent": 2
   },
   {
