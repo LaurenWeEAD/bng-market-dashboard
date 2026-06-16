@@ -11292,110 +11292,10 @@
     "lpa": "Redcar and Cleveland LPA",
     "lnrs": "Tees Valley",
     "authority": "Harry Ferguson Holdings",
-    "sizeHa": 48.43,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Grassland - Traditional orchards",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 19.8782,
-        "allocated_extent": 13.1429,
-        "remaining_extent": 6.7353
-      },
-      {
-        "habitat": "Woodland and forest - Lowland mixed deciduous woodland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.9848,
-        "allocated_extent": 0.9775,
-        "remaining_extent": 0.0073
-      },
-      {
-        "habitat": "Woodland and forest - Other woodland; broadleaved",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.1056,
-        "allocated_extent": 0.0917,
-        "remaining_extent": 0.0139
-      },
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 2.994,
-        "allocated_extent": 1.9629,
-        "remaining_extent": 1.0311
-      },
-      {
-        "habitat": "Heathland and shrub - Mixed scrub",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 23.9318,
-        "allocated_extent": 17.434,
-        "remaining_extent": 6.4978
-      },
-      {
-        "habitat": "Species-rich native hedgerow with trees",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 2.001,
-        "allocated_extent": 0.3468,
-        "remaining_extent": 1.6542
-      },
-      {
-        "habitat": "Species-rich native hedgerow with trees - associated with bank or ditch",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.511,
-        "allocated_extent": 0.0027,
-        "remaining_extent": 0.5083
-      },
-      {
-        "habitat": "Species-rich native hedgerow with trees",
-        "condition": "Moderate",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.35,
-        "allocated_extent": 0,
-        "remaining_extent": 0.35
-      },
-      {
-        "habitat": "Other rivers and streams",
-        "condition": "Moderate",
-        "habitat_type": "watercourse",
-        "unit": "km",
-        "proposed_extent": 0.805,
-        "allocated_extent": 0.6202,
-        "remaining_extent": 0.1848
-      },
-      {
-        "habitat": "Ditches",
-        "condition": "Moderate",
-        "habitat_type": "watercourse",
-        "unit": "km",
-        "proposed_extent": 0.194,
-        "allocated_extent": 0.1935,
-        "remaining_extent": 0.0005
-      },
-      {
-        "habitat": "Other rivers and streams",
-        "condition": "Fairly Good",
-        "habitat_type": "watercourse",
-        "unit": "km",
-        "proposed_extent": 0.279,
-        "allocated_extent": 0,
-        "remaining_extent": 0.279
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-040825002",
@@ -17316,10 +17216,56 @@
     "lpa": "Cotswold LPA",
     "lnrs": "Gloucestershire",
     "authority": "Cotswold LPA",
-    "sizeHa": 0,
+    "sizeHa": 14.34,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Woodland and forest - Other woodland; broadleaved",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 1,
+        "allocated_extent": 0,
+        "remaining_extent": 1
+      },
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 11.44,
+        "allocated_extent": 0,
+        "remaining_extent": 11.44
+      },
+      {
+        "habitat": "Grassland - Lowland meadows",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 1.9,
+        "allocated_extent": 0,
+        "remaining_extent": 1.9
+      },
+      {
+        "habitat": "Species-rich native hedgerow with trees",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.93,
+        "allocated_extent": 0,
+        "remaining_extent": 0.93
+      },
+      {
+        "habitat": "Species-rich native hedgerow with trees - associated with bank or ditch",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.633,
+        "allocated_extent": 0,
+        "remaining_extent": 0.633
+      }
+    ]
   },
   {
     "code": "BGS-111124001",

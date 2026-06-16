@@ -64,14 +64,6 @@
     "utilisation_percent": 75.1
   },
   {
-    "lpa": "Redcar and Cleveland LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 47.89,
-    "allocated_habitat_area": 33.61,
-    "remaining_habitat_area": 14.29,
-    "utilisation_percent": 70.2
-  },
-  {
     "lpa": "Elmbridge LPA",
     "site_count": 1,
     "registered_habitat_hectares": 14.83,
@@ -866,9 +858,9 @@
   {
     "lpa": "Cotswold LPA",
     "site_count": 4,
-    "registered_habitat_hectares": 76.58,
+    "registered_habitat_hectares": 90.92,
     "allocated_habitat_area": 0,
-    "remaining_habitat_area": 76.58,
+    "remaining_habitat_area": 90.92,
     "utilisation_percent": 0
   },
   {
@@ -997,6 +989,14 @@
     "registered_habitat_hectares": 23.52,
     "allocated_habitat_area": 0,
     "remaining_habitat_area": 23.52,
+    "utilisation_percent": 0
+  },
+  {
+    "lpa": "Redcar and Cleveland LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 0,
+    "allocated_habitat_area": 0,
+    "remaining_habitat_area": 0,
     "utilisation_percent": 0
   },
   {
