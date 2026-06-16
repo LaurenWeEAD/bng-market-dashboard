@@ -16930,10 +16930,29 @@
     "lpa": "Wycombe LPA",
     "lnrs": "Buckinghamshire and Milton Keynes",
     "authority": "The Lifescape Project",
-    "sizeHa": 0,
+    "sizeHa": 17.83,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 13.32,
+        "allocated_extent": 0,
+        "remaining_extent": 13.32
+      },
+      {
+        "habitat": "Grassland - Lowland calcareous grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 4.5,
+        "allocated_extent": 0,
+        "remaining_extent": 4.5
+      }
+    ]
   },
   {
     "code": "BGS-060226001",
