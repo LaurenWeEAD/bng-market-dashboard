@@ -480,28 +480,52 @@ table {
 </p>
 </div>  
   
-  <div class="section">
-    <h3>Recent Market Activity</h3>
+<div class="section">
+  <h3>Recent Market Activity</h3>
 
-    <p>
-      Recently identified registered biodiversity gain sites.
-    </p>
+  <p>
+    Recently identified registered biodiversity gain sites and allocation records first seen in the public register data.
+  </p>
 
-    <table>
-      <thead>
-        <tr>
-          <th>First Seen</th>
-          <th>Site</th>
-          <th>LPA</th>
-          <th>LNRS</th>
-          <th class="right">Size</th>
-        </tr>
-      </thead>
-      <tbody id="recent-table">
-        <tr><td colspan="5">Loading...</td></tr>
-      </tbody>
-    </table>
-  </div>
+  <h4>Recently Identified Gain Sites</h4>
+
+  <table>
+    <thead>
+      <tr>
+        <th>First Seen</th>
+        <th>Site</th>
+        <th>LPA</th>
+        <th>LNRS</th>
+        <th class="right">Size</th>
+      </tr>
+    </thead>
+    <tbody id="recent-table">
+      <tr><td colspan="5">Loading...</td></tr>
+    </tbody>
+  </table>
+
+  <h4 style="margin-top:26px;">Recent Allocations First Seen</h4>
+
+  <table>
+    <thead>
+      <tr>
+        <th>First Seen</th>
+        <th>Site</th>
+        <th>LPA</th>
+        <th>LNRS</th>
+        <th>Habitat</th>
+        <th class="right">Allocated</th>
+      </tr>
+    </thead>
+    <tbody id="recent-allocations-table">
+      <tr><td colspan="6">Loading...</td></tr>
+    </tbody>
+  </table>
+
+  <p class="note">
+    Recent allocations are based on allocation records first seen by the scraper and may reflect register publication timing rather than the legal allocation date.
+  </p>
+</div>
 
 <div class="section" id="methodology">
   <h3>Methodology and limitations</h3>
@@ -629,14 +653,16 @@ const [
   utilisation,
   recent,
   opportunityAreas,
-  habitatDemand
+  habitatDemand,
+  recentAllocations
 ] = await Promise.all([
   loadJson("dashboard_summary.json"),
   loadJson("dashboard_market_value.json"),
   loadJson("dashboard_habitat_utilisation.json"),
   loadJson("dashboard_recent.json"),
   loadJson("dashboard_opportunity_areas.json"),
-  loadJson("dashboard_habitat_demand.json")
+  loadJson("dashboard_habitat_demand.json"),
+  loadJson("dashboard_recent_allocations.json")
 ]);
 
       document.getElementById("last-updated").innerHTML =
@@ -880,6 +906,24 @@ if (strongestSW && mostActiveSW && mostRecentSW) {
           </tr>
         `).join("");
 
+      document.getElementById("recent-allocations-table").innerHTML =
+  recentAllocations.slice(0, 10).map(row => {
+    const unit = row.habitat_type === "hedgerow" || row.habitat_type === "watercourse"
+      ? " km"
+      : " ha";
+
+    return `
+      <tr>
+        <td>${datePretty(row.first_seen_date)}</td>
+        <td>${row.code || ""}</td>
+        <td>${row.lpa || ""}</td>
+        <td>${row.lnrs || ""}</td>
+        <td>${row.habitat || row.habitat_group || ""}</td>
+        <td class="right">${fmtNum(row.allocated_extent, 2)}${unit}</td>
+      </tr>
+    `;
+  }).join("");
+      
 document.getElementById("key-takeaway").innerHTML = `
   <strong>Key takeaway:</strong>
   The dashboard reports remaining habitat availability as area or length. Indicative allocated value is estimated from allocated biodiversity units only; remaining biodiversity units are not calculated from the public register.
