@@ -17316,56 +17316,10 @@
     "lpa": "Cotswold LPA",
     "lnrs": "Gloucestershire",
     "authority": "Cotswold LPA",
-    "sizeHa": 14.34,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Woodland and forest - Other woodland; broadleaved",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 1,
-        "allocated_extent": 0,
-        "remaining_extent": 1
-      },
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 11.44,
-        "allocated_extent": 0,
-        "remaining_extent": 11.44
-      },
-      {
-        "habitat": "Grassland - Lowland meadows",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 1.9,
-        "allocated_extent": 0,
-        "remaining_extent": 1.9
-      },
-      {
-        "habitat": "Species-rich native hedgerow with trees",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.93,
-        "allocated_extent": 0,
-        "remaining_extent": 0.93
-      },
-      {
-        "habitat": "Species-rich native hedgerow with trees - associated with bank or ditch",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.633,
-        "allocated_extent": 0,
-        "remaining_extent": 0.633
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-111124001",
