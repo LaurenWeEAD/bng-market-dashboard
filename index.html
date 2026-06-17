@@ -579,7 +579,7 @@ table {
     </tbody>
   </table>
 
-  <h4 style="margin-top:26px;">Recent Allocations First Seen</h4>
+<h4 style="margin-top:26px;">Top 10 Allocations Over Last 30 Days</h4>
 
 <table>
   <thead>
@@ -601,7 +601,7 @@ table {
 </table>
 
 <p class="note">
-  Recent allocations show the top 10 allocation records within the last 7 days, ranked by total allocated biodiversity units. 
+  Recent allocations show the top 10 allocation events with at least one row first seen in the last 30 days, ranked by total allocated biodiversity units. Habitat, hedgerow and watercourse values include all active rows within each allocation event.
 </p>
 </div>
 
@@ -697,12 +697,20 @@ const BASE = "https://elliottead.github.io/bng-market-dashboard/dashboard-data/"
     : fmtNum(row.opportunity_score, 1);
 }
 
-    function allocationTypeSummary(units, extent, unitLabel) {
+function allocationTypeSummary(units, extent, unitLabel) {
   const unitValue = Number(units || 0);
   const extentValue = Number(extent || 0);
 
   if (unitValue <= 0 && extentValue <= 0) {
     return "-";
+  }
+
+  if (unitValue > 0 && extentValue <= 0) {
+    return `${fmtNum(unitValue, 2)} units`;
+  }
+
+  if (unitValue <= 0 && extentValue > 0) {
+    return `${fmtNum(extentValue, 2)} ${unitLabel}`;
   }
 
   return `${fmtNum(unitValue, 2)} units (${fmtNum(extentValue, 2)} ${unitLabel})`;
