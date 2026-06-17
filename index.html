@@ -506,31 +506,28 @@ table {
 
   <h4 style="margin-top:26px;">Recent Allocations First Seen</h4>
 
-  <table>
-    <thead>
-      <tr>
-        <th>First Seen</th>
-        <th>Site</th>
-        <th>LPA</th>
-        <th>Planning Ref</th>
-        <th>Habitats</th>
-        <th class="right">Habitat ha</th>
-        <th class="right">Hedgerow km</th>
-        <th class="right">Watercourse km</th>
-        <th class="right">Habitat units</th>
-        <th class="right">Hedgerow units</th>
-        <th class="right">Watercourse units</th>
-        <th class="right">Total units</th>
-      </tr>
-    </thead>
-    <tbody id="recent-allocations-table">
-      <tr><td colspan="12">Loading...</td></tr>
-    </tbody>
-  </table>
+<table>
+  <thead>
+    <tr>
+      <th>First Seen</th>
+      <th>Site</th>
+      <th>LPA</th>
+      <th>Planning Ref</th>
+      <th>Habitats</th>
+      <th class="right">Habitat</th>
+      <th class="right">Hedgerow</th>
+      <th class="right">Watercourse</th>
+      <th class="right">Total units</th>
+    </tr>
+  </thead>
+  <tbody id="recent-allocations-table">
+    <tr><td colspan="9">Loading...</td></tr>
+  </tbody>
+</table>
 
-  <p class="note">
-    Recent allocations are grouped by site, planning reference, project and first-seen date. Habitat, hedgerow and watercourse extents and units are shown separately because they use different measurement bases.
-  </p>
+<p class="note">
+  Recent allocations show the top 10 allocation records within the last 7 days, ranked by total allocated biodiversity units. 
+</p>
 </div>
 
 <div class="section" id="methodology">
@@ -625,6 +622,16 @@ const BASE = "https://elliottead.github.io/bng-market-dashboard/dashboard-data/"
     : fmtNum(row.opportunity_score, 1);
 }
 
+    function allocationTypeSummary(units, extent, unitLabel) {
+  const unitValue = Number(units || 0);
+  const extentValue = Number(extent || 0);
+
+  if (unitValue <= 0 && extentValue <= 0) {
+    return "-";
+  }
+
+  return `${fmtNum(unitValue, 2)} units (${fmtNum(extentValue, 2)} ${unitLabel})`;
+}
     function trendText(current, previous, label) {
   const currentValue = Number(current || 0);
   const previousValue = Number(previous || 0);
@@ -920,12 +927,9 @@ document.getElementById("recent-allocations-table").innerHTML =
       <td>${row.lpa || ""}</td>
       <td>${row.planningRef || ""}</td>
       <td>${row.habitats || row.habitat_groups || ""}</td>
-      <td class="right">${fmtNum(row.allocated_habitat_ha, 2)}</td>
-      <td class="right">${fmtNum(row.allocated_hedgerow_km, 2)}</td>
-      <td class="right">${fmtNum(row.allocated_watercourse_km, 2)}</td>
-      <td class="right">${fmtNum(row.habitat_units, 2)}</td>
-      <td class="right">${fmtNum(row.hedgerow_units, 2)}</td>
-      <td class="right">${fmtNum(row.watercourse_units, 2)}</td>
+      <td class="right">${allocationTypeSummary(row.habitat_units, row.allocated_habitat_ha, "ha")}</td>
+      <td class="right">${allocationTypeSummary(row.hedgerow_units, row.allocated_hedgerow_km, "km")}</td>
+      <td class="right">${allocationTypeSummary(row.watercourse_units, row.allocated_watercourse_km, "km")}</td>
       <td class="right"><strong>${fmtNum(row.total_units, 2)}</strong></td>
     </tr>
   `).join("");
