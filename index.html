@@ -38,7 +38,93 @@ h3 {
   border-bottom: 3px solid #bfd730;
   box-sizing: border-box;
 }
+.utilisation-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 16px;
+  margin-top: 18px;
+}
 
+.utilisation-card {
+  background: #ffffff;
+  border: 1px solid #dfe6e9;
+  border-radius: 16px;
+  padding: 18px;
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.05);
+}
+
+.utilisation-card-header {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  align-items: flex-start;
+  margin-bottom: 12px;
+}
+
+.utilisation-card h4 {
+  margin: 0;
+  font-size: 17px;
+  color: #12323a;
+}
+
+.utilisation-percent {
+  font-size: 22px;
+  font-weight: 700;
+  color: #12323a;
+  white-space: nowrap;
+}
+
+.utilisation-label {
+  font-size: 12px;
+  color: #667;
+  text-align: right;
+  margin-top: 2px;
+}
+
+.utilisation-bar {
+  width: 100%;
+  height: 10px;
+  background: #edf0f2;
+  border-radius: 999px;
+  overflow: hidden;
+  margin: 12px 0 14px;
+}
+
+.utilisation-bar-fill {
+  height: 100%;
+  background: #bfd730;
+  border-radius: 999px;
+}
+
+.utilisation-metrics {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
+
+.utilisation-metric {
+  background: #f7f9f9;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.utilisation-metric span {
+  display: block;
+  font-size: 11px;
+  color: #667;
+  margin-bottom: 4px;
+}
+
+.utilisation-metric strong {
+  display: block;
+  font-size: 14px;
+  color: #12323a;
+}
+
+.loading {
+  color: #667;
+  font-size: 14px;
+}
     #key-takeaway {
   width: 100%;
   max-width: 1080px;
@@ -143,25 +229,6 @@ table {
 
 .right {
   text-align: right;
-}
-
-.utilisation-cell {
-  min-width: 150px;
-}
-
-.utilisation-bar {
-  width: 100%;
-  height: 8px;
-  background: #edf0f2;
-  border-radius: 999px;
-  overflow: hidden;
-  margin-top: 6px;
-}
-
-.utilisation-bar-fill {
-  height: 100%;
-  background: #bfd730;
-  border-radius: 999px;
 }
 
 .note {
@@ -371,101 +438,17 @@ table {
 <div class="section" id="habitat-utilisation">
   <h3>Habitat Market Utilisation</h3>
 
-    <p>
-      Registered and allocated extent by broad market group. This shows which parts of the BNG market are being consumed fastest by area or length, not by remaining biodiversity units.
-    </p>
+  <p>
+    Registered and allocated extent by broad market group. This shows which parts of the BNG market are being consumed fastest by area or length, not by remaining biodiversity units.
+  </p>
 
-.utilisation-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  gap: 16px;
-  margin-top: 18px;
-}
+  <div id="utilisation-cards" class="utilisation-grid">
+    <div class="loading">Loading...</div>
+  </div>
 
-.utilisation-card {
-  background: #ffffff;
-  border: 1px solid #dfe6e9;
-  border-radius: 16px;
-  padding: 18px;
-  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.05);
-}
-
-.utilisation-card-header {
-  display: flex;
-  justify-content: space-between;
-  gap: 12px;
-  align-items: flex-start;
-  margin-bottom: 12px;
-}
-
-.utilisation-card h4 {
-  margin: 0;
-  font-size: 17px;
-  color: #12323a;
-}
-
-.utilisation-percent {
-  font-size: 22px;
-  font-weight: 700;
-  color: #12323a;
-  white-space: nowrap;
-}
-
-.utilisation-label {
-  font-size: 12px;
-  color: #667;
-  text-align: right;
-  margin-top: 2px;
-}
-
-.utilisation-bar {
-  width: 100%;
-  height: 10px;
-  background: #edf0f2;
-  border-radius: 999px;
-  overflow: hidden;
-  margin: 12px 0 14px;
-}
-
-.utilisation-bar-fill {
-  height: 100%;
-  background: #bfd730;
-  border-radius: 999px;
-}
-
-.utilisation-metrics {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 10px;
-}
-
-.utilisation-metric {
-  background: #f7f9f9;
-  border-radius: 10px;
-  padding: 10px;
-}
-
-.utilisation-metric span {
-  display: block;
-  font-size: 11px;
-  color: #667;
-  margin-bottom: 4px;
-}
-
-.utilisation-metric strong {
-  display: block;
-  font-size: 14px;
-  color: #12323a;
-}
-
-.loading {
-  color: #667;
-  font-size: 14px;
-}
-
-<p class="note">
-  Market groups are derived from broad habitat descriptions in the register data. Other Habitat includes records that could not be confidently assigned to the main broad market groups from the available habitat description.
-</p>
+  <p class="note">
+    Market groups are derived from broad habitat descriptions in the register data. Other Habitat includes records that could not be confidently assigned to the main broad market groups from the available habitat description.
+  </p>
 </div>
 
 <div class="section">
@@ -877,13 +860,13 @@ const totalAllocationsLast30 = opportunityAreas.reduce(
   0
 );
 
-const totalAreaLast7 = opportunityAreas.reduce(
-  (sum, row) => sum + Number(row.allocated_area_last_7_days || 0),
+const totalUnitsLast7 = opportunityAreas.reduce(
+  (sum, row) => sum + Number(row.allocated_units_last_7_days || 0),
   0
 );
 
-const totalAreaLast30 = opportunityAreas.reduce(
-  (sum, row) => sum + Number(row.allocated_area_last_30_days || 0),
+const totalUnitsLast30 = opportunityAreas.reduce(
+  (sum, row) => sum + Number(row.allocated_units_last_30_days || 0),
   0
 );
 
@@ -897,13 +880,13 @@ const totalAllocationsPrevious30 = opportunityAreas.reduce(
   0
 );
 
-const totalAreaPrevious7 = opportunityAreas.reduce(
-  (sum, row) => sum + Number(row.allocated_area_previous_7_days || 0),
+const totalUnitsPrevious7 = opportunityAreas.reduce(
+  (sum, row) => sum + Number(row.allocated_units_previous_7_days || 0),
   0
 );
 
-const totalAreaPrevious30 = opportunityAreas.reduce(
-  (sum, row) => sum + Number(row.allocated_area_previous_30_days || 0),
+const totalUnitsPrevious30 = opportunityAreas.reduce(
+  (sum, row) => sum + Number(row.allocated_units_previous_30_days || 0),
   0
 );
       
@@ -948,21 +931,22 @@ document.getElementById("activity-kpis").innerHTML = `
     ${trendText(totalAllocationsLast30, totalAllocationsPrevious30, "30 days")}
   </div>
   <div class="card">
-    <div class="card-label">Allocated Area Last 7 Days</div>
-    <div class="card-value">${fmtNum(totalAreaLast7, 1)}</div>
-    <div class="card-unit">ha</div>
-    ${trendText(totalAreaLast7, totalAreaPrevious7, "7 days")}
+    <div class="card-label">Allocated Units Last 7 Days</div>
+    <div class="card-value">${fmtNum(totalUnitsLast7, 1)}</div>
+    <div class="card-unit">biodiversity units</div>
+    ${trendText(totalUnitsLast7, totalUnitsPrevious7, "7 days")}
   </div>
   <div class="card">
-    <div class="card-label">Allocated Area Last 30 Days</div>
-    <div class="card-value">${fmtNum(totalAreaLast30, 1)}</div>
-    <div class="card-unit">ha</div>
-    ${trendText(totalAreaLast30, totalAreaPrevious30, "30 days")}
+    <div class="card-label">Allocated Units Last 30 Days</div>
+    <div class="card-value">${fmtNum(totalUnitsLast30, 1)}</div>
+    <div class="card-unit">biodiversity units</div>
+    ${trendText(totalUnitsLast30, totalUnitsPrevious30, "30 days")}
   </div>
 `;
 
 document.getElementById("tracking-note").innerHTML =
-  summary.temporal_analysis_note || "";
+  (summary.temporal_analysis_note || "") +
+  " Allocated Units are deduplicated biodiversity unit values from allocation records and include habitat, hedgerow and watercourse allocations.";
 
 document.getElementById("opportunity-table").innerHTML =
   opportunityAreas.slice(0, 15).map(row => `
