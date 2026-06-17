@@ -2,7 +2,7 @@
   {
     "code": "BGS-210325001",
     "lpa": "Northumberland LPA",
-    "lnrs": "",
+    "lnrs": "North of Tyne",
     "planningRef": "25/01725/REM",
     "projectName": "Data Centre Campus - Cambois Phase A",
     "first_seen_date": "2026-06-17",
@@ -19,7 +19,7 @@
   {
     "code": "BGS-090525002",
     "lpa": "South Cambridgeshire LPA",
-    "lnrs": "",
+    "lnrs": "Cambridgeshire and Peterborough",
     "planningRef": "23/00123/FUL",
     "projectName": "Land south of pond, Cambourne Business Park",
     "first_seen_date": "2026-06-17",
@@ -36,7 +36,7 @@
   {
     "code": "BGS-260225002",
     "lpa": "Sheffield LPA",
-    "lnrs": "",
+    "lnrs": "South Yorkshire",
     "planningRef": "24/02184/FUL",
     "projectName": "Sheffield Forgemasters Engineering Ltd",
     "first_seen_date": "2026-06-17",
@@ -53,7 +53,7 @@
   {
     "code": "BGS-091024001",
     "lpa": "Westmorland and Furness LPA",
-    "lnrs": "",
+    "lnrs": "Tees Valley",
     "planningRef": "B06/2024/0477",
     "projectName": "BNG00517 -Wild Various - Gas Condensate Tank Farm, Barrow-in-Furness",
     "first_seen_date": "2026-06-17",
@@ -70,7 +70,7 @@
   {
     "code": "BGS-051124001",
     "lpa": "North Norfolk LPA",
-    "lnrs": "",
+    "lnrs": "Norfolk",
     "planningRef": "PO/23/0596",
     "projectName": "Land Off Overstrand Road, Cromer",
     "first_seen_date": "2026-06-17",
@@ -87,7 +87,7 @@
   {
     "code": "BGS-221025001",
     "lpa": "Cornwall LPA",
-    "lnrs": "",
+    "lnrs": "Cornwall and the Isles of Scilly",
     "planningRef": "PA25/03830",
     "projectName": "Tolvaddon Business Park",
     "first_seen_date": "2026-06-10",
@@ -104,7 +104,7 @@
   {
     "code": "BGS-110226003",
     "lpa": "West Northamptonshire LPA",
-    "lnrs": "",
+    "lnrs": "West Northamptonshire",
     "planningRef": "2024/3696/MAF",
     "projectName": "BNG00056 - Wild Steane - Crow Lane, Northampton",
     "first_seen_date": "2026-06-17",
@@ -121,7 +121,7 @@
   {
     "code": "BGS-110226003",
     "lpa": "West Northamptonshire LPA",
-    "lnrs": "",
+    "lnrs": "West Northamptonshire",
     "planningRef": "2024/3696/MAF",
     "projectName": "BNG00056 - Wild Steane - Crow Lane, Northampton",
     "first_seen_date": "2026-06-16",
@@ -138,7 +138,7 @@
   {
     "code": "BGS-101024002",
     "lpa": "Sunderland LPA",
-    "lnrs": "",
+    "lnrs": "Tees Valley",
     "planningRef": "25/00057/FUL",
     "projectName": "Land Between Chester Road And Presthope Road Pennywell Sunderland",
     "first_seen_date": "2026-06-17",
@@ -155,7 +155,7 @@
   {
     "code": "BGS-040725001",
     "lpa": "West Berkshire LPA",
-    "lnrs": "",
+    "lnrs": "Berkshire",
     "planningRef": "24/00145/FULMAJ",
     "projectName": "Land bounded by Hoad Way and M4 and High Street, Theale Reading",
     "first_seen_date": "2026-06-10",

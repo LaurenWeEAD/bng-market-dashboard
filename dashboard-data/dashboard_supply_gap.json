@@ -1018,9 +1018,9 @@
   {
     "lpa": "Stafford LPA",
     "site_count": 1,
-    "registered_habitat_hectares": 7.79,
+    "registered_habitat_hectares": 0,
     "allocated_habitat_area": 0,
-    "remaining_habitat_area": 7.79,
+    "remaining_habitat_area": 0,
     "utilisation_percent": 0
   },
   {

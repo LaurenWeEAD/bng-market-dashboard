@@ -15472,92 +15472,10 @@
     "lpa": "Stafford LPA",
     "lnrs": "Staffordshire and Stoke-on-Trent",
     "authority": "ProHort Ecoshield",
-    "sizeHa": 8.9,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Heathland and shrub - Mixed scrub",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 2.87,
-        "allocated_extent": 0,
-        "remaining_extent": 2.87
-      },
-      {
-        "habitat": "Woodland and forest - Other woodland; mixed",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.15,
-        "allocated_extent": 0,
-        "remaining_extent": 0.15
-      },
-      {
-        "habitat": "Individual trees - Rural tree",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.0651,
-        "allocated_extent": 0,
-        "remaining_extent": 0.0651
-      },
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 4.7,
-        "allocated_extent": 0,
-        "remaining_extent": 4.7
-      },
-      {
-        "habitat": "Native hedgerow with trees",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.83,
-        "allocated_extent": 0,
-        "remaining_extent": 0.83
-      },
-      {
-        "habitat": "Native Hedgerow",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.08,
-        "allocated_extent": 0,
-        "remaining_extent": 0.08
-      },
-      {
-        "habitat": "Native hedgerow - associated with bank or ditch",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.167,
-        "allocated_extent": 0,
-        "remaining_extent": 0.167
-      },
-      {
-        "habitat": "Native hedgerow with trees - associated with bank or ditch",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.263,
-        "allocated_extent": 0,
-        "remaining_extent": 0.263
-      },
-      {
-        "habitat": "Other rivers and streams",
-        "condition": "Good",
-        "habitat_type": "watercourse",
-        "unit": "km",
-        "proposed_extent": 0.208,
-        "allocated_extent": 0,
-        "remaining_extent": 0.208
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-240126001",
