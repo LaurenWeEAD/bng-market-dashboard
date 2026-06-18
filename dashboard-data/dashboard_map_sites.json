@@ -8089,10 +8089,110 @@
     "lpa": "County Durham LPA",
     "lnrs": "County Durham",
     "authority": "County Durham LPA",
-    "sizeHa": 0,
+    "sizeHa": 193.85,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Woodland and forest - Wet woodland",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 1.2,
+        "allocated_extent": 0,
+        "remaining_extent": 1.2
+      },
+      {
+        "habitat": "Grassland - Upland acid grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 13.26,
+        "allocated_extent": 2.543,
+        "remaining_extent": 10.717
+      },
+      {
+        "habitat": "Woodland and forest - Wet woodland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 16.8,
+        "allocated_extent": 0,
+        "remaining_extent": 16.8
+      },
+      {
+        "habitat": "Wetland - Blanket bog",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 111.5,
+        "allocated_extent": 0,
+        "remaining_extent": 111.5
+      },
+      {
+        "habitat": "Heathland and shrub - Upland Heathland",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 13.7,
+        "allocated_extent": 0,
+        "remaining_extent": 13.7
+      },
+      {
+        "habitat": "Grassland - Upland hay meadows",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 4.99,
+        "allocated_extent": 0,
+        "remaining_extent": 4.99
+      },
+      {
+        "habitat": "Wetland - Fens (upland and lowland)",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 7.31,
+        "allocated_extent": 0,
+        "remaining_extent": 7.31
+      },
+      {
+        "habitat": "Wetland - Purple moor grass and rush pastures",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 8.96,
+        "allocated_extent": 0,
+        "remaining_extent": 8.96
+      },
+      {
+        "habitat": "Ecologically valuable line of trees - associated with bank or ditch",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 2.428,
+        "allocated_extent": 0,
+        "remaining_extent": 2.428
+      },
+      {
+        "habitat": "Other rivers and streams",
+        "condition": "Fairly Good",
+        "habitat_type": "watercourse",
+        "unit": "km",
+        "proposed_extent": 0.816,
+        "allocated_extent": 0,
+        "remaining_extent": 0.816
+      },
+      {
+        "habitat": "Other rivers and streams",
+        "condition": "Good",
+        "habitat_type": "watercourse",
+        "unit": "km",
+        "proposed_extent": 0.398,
+        "allocated_extent": 0,
+        "remaining_extent": 0.398
+      }
+    ]
   },
   {
     "code": "BGS-250925001",
@@ -16091,10 +16191,56 @@
     "lpa": "Bolton LPA",
     "lnrs": "Greater Manchester",
     "authority": "RSK Biocensus Limited",
-    "sizeHa": 0,
+    "sizeHa": 33.23,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 31.7498,
+        "allocated_extent": 4.6132,
+        "remaining_extent": 27.1366
+      },
+      {
+        "habitat": "Lakes - Ponds (Priority Habitat)",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.1246,
+        "allocated_extent": 0,
+        "remaining_extent": 0.1246
+      },
+      {
+        "habitat": "Lakes - Ponds (Priority Habitat)",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.0481,
+        "allocated_extent": 0,
+        "remaining_extent": 0.0481
+      },
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 1.3049,
+        "allocated_extent": 0.5519,
+        "remaining_extent": 0.753
+      },
+      {
+        "habitat": "Ditches",
+        "condition": "Moderate",
+        "habitat_type": "watercourse",
+        "unit": "km",
+        "proposed_extent": 0.1573,
+        "allocated_extent": 0.141,
+        "remaining_extent": 0.0163
+      }
+    ]
   },
   {
     "code": "BGS-040924001",
