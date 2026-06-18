@@ -38,87 +38,65 @@ h3 {
   border-bottom: 3px solid #bfd730;
   box-sizing: border-box;
 }
-.utilisation-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  gap: 16px;
+.utilisation-table-wrap {
   margin-top: 18px;
+  overflow-x: auto;
 }
 
-.utilisation-card {
-  background: #ffffff;
-  border: 1px solid #dfe6e9;
-  border-radius: 16px;
-  padding: 18px;
-  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.05);
+.utilisation-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 15px;
 }
 
-.utilisation-card-header {
-  display: flex;
-  justify-content: space-between;
-  gap: 12px;
-  align-items: flex-start;
-  margin-bottom: 12px;
-}
-
-.utilisation-card h4 {
-  margin: 0;
-  font-size: 17px;
+.utilisation-table th {
+  background: #f5f7f7;
   color: #12323a;
+  font-weight: 700;
+  padding: 12px 10px;
+  border-bottom: 1px solid #dfe6e9;
 }
 
-.utilisation-percent {
-  font-size: 22px;
+.utilisation-table td {
+  padding: 12px 10px;
+  border-bottom: 1px solid #edf0f2;
+  vertical-align: middle;
+}
+
+.utilisation-group {
   font-weight: 700;
   color: #12323a;
-  white-space: nowrap;
 }
 
-.utilisation-label {
-  font-size: 12px;
-  color: #667;
+.utilisation-percent-cell {
+  min-width: 160px;
+}
+
+.utilisation-percent-line {
+  display: grid;
+  grid-template-columns: 54px 1fr;
+  gap: 10px;
+  align-items: center;
+}
+
+.utilisation-percent-value {
+  font-weight: 700;
+  color: #12323a;
   text-align: right;
-  margin-top: 2px;
 }
 
 .utilisation-bar {
   width: 100%;
-  height: 10px;
+  height: 8px;
   background: #edf0f2;
   border-radius: 999px;
   overflow: hidden;
-  margin: 12px 0 14px;
 }
 
 .utilisation-bar-fill {
   height: 100%;
   background: #bfd730;
   border-radius: 999px;
-}
-
-.utilisation-metrics {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 10px;
-}
-
-.utilisation-metric {
-  background: #f7f9f9;
-  border-radius: 10px;
-  padding: 10px;
-}
-
-.utilisation-metric span {
-  display: block;
-  font-size: 11px;
-  color: #667;
-  margin-bottom: 4px;
-}
-
-.utilisation-metric strong {
-  display: block;
-  font-size: 14px;
-  color: #12323a;
 }
 
 .loading {
@@ -442,13 +420,26 @@ table {
     Registered and allocated extent by broad market group. This shows which parts of the BNG market are being consumed fastest by area or length, not by remaining biodiversity units.
   </p>
 
-  <div id="utilisation-cards" class="utilisation-grid">
-    <div class="loading">Loading...</div>
-  </div>
+<div class="utilisation-table-wrap">
+  <table class="utilisation-table">
+    <thead>
+      <tr>
+        <th>Habitat group</th>
+        <th class="right">Registered</th>
+        <th class="right">Allocated</th>
+        <th class="right">Remaining</th>
+        <th class="right">Utilised</th>
+      </tr>
+    </thead>
+    <tbody id="utilisation-table">
+      <tr><td colspan="5">Loading...</td></tr>
+    </tbody>
+  </table>
+</div>
 
-  <p class="note">
-    Market groups are derived from broad habitat descriptions in the register data. Other Habitat includes records that could not be confidently assigned to the main broad market groups from the available habitat description.
-  </p>
+<p class="note">
+  Habitat groups are broad habitat categories derived from habitat descriptions and habitat type fields in the public register data. Other Habitat includes records that could not be confidently assigned to a main broad habitat category from the available description.
+</p>
 </div>
 
 <div class="section">
@@ -635,9 +626,20 @@ const BASE = "https://elliottead.github.io/bng-market-dashboard/dashboard-data/"
       });
     }
 
-    function unitForGroup(group) {
-      return group === "Hedgerow" || group === "Watercourse" ? " km" : " ha";
-    }
+function unitForGroup(group) {
+  const value = String(group || "").toLowerCase();
+
+  if (
+    value === "hedgerow" ||
+    value === "hedgerows" ||
+    value === "watercourse" ||
+    value === "watercourses"
+  ) {
+    return "km";
+  }
+
+  return "ha";
+}
 
 function displayMarketGroup(group) {
   const value = String(group || "").trim();
@@ -646,6 +648,8 @@ function displayMarketGroup(group) {
   if (normalised === "watercourse") return "Watercourses";
   if (normalised === "hedgerow") return "Hedgerows";
   if (normalised === "wetland") return "Wetland";
+  if (normalised === "urban / open mosaic") return "Urban";
+  if (normalised === "woodland and trees") return "Woodland and Forest";
   if (normalised === "other habitat") return "Other Habitat";
 
   return value;
@@ -777,42 +781,26 @@ document.getElementById("market-value-table").innerHTML = `
 `;
 
 
-document.getElementById("utilisation-cards").innerHTML = utilisation.map(row => {
+document.getElementById("utilisation-table").innerHTML = utilisation.map(row => {
   const unit = unitForGroup(row.group);
   const remaining = row.available_extent !== undefined ? row.available_extent : row.remaining_extent;
   const utilisationPercent = Math.max(0, Math.min(Number(row.utilisation_percent || 0), 100));
 
   return `
-    <div class="utilisation-card">
-      <div class="utilisation-card-header">
-        <div>
-          <h4>${displayMarketGroup(row.group)}</h4>
+    <tr>
+      <td class="utilisation-group">${displayMarketGroup(row.group)}</td>
+      <td class="right">${fmtNum(row.registered_extent, 2)} ${unit}</td>
+      <td class="right">${fmtNum(row.allocated_extent, 2)} ${unit}</td>
+      <td class="right">${fmtNum(remaining, 2)} ${unit}</td>
+      <td class="utilisation-percent-cell">
+        <div class="utilisation-percent-line">
+          <span class="utilisation-percent-value">${fmtNum(row.utilisation_percent, 1)}%</span>
+          <span class="utilisation-bar" aria-label="Utilisation ${fmtNum(row.utilisation_percent, 1)}%">
+            <span class="utilisation-bar-fill" style="width:${utilisationPercent}%;"></span>
+          </span>
         </div>
-        <div>
-          <div class="utilisation-percent">${fmtNum(row.utilisation_percent, 1)}%</div>
-          <div class="utilisation-label">utilised</div>
-        </div>
-      </div>
-
-      <div class="utilisation-bar" aria-label="Utilisation ${fmtNum(row.utilisation_percent, 1)}%">
-        <div class="utilisation-bar-fill" style="width:${utilisationPercent}%;"></div>
-      </div>
-
-      <div class="utilisation-metrics">
-        <div class="utilisation-metric">
-          <span>Registered</span>
-          <strong>${fmtNum(row.registered_extent, 2)}${unit}</strong>
-        </div>
-        <div class="utilisation-metric">
-          <span>Allocated</span>
-          <strong>${fmtNum(row.allocated_extent, 2)}${unit}</strong>
-        </div>
-        <div class="utilisation-metric">
-          <span>Remaining</span>
-          <strong>${fmtNum(remaining, 2)}${unit}</strong>
-        </div>
-      </div>
-    </div>
+      </td>
+    </tr>
   `;
 }).join("");
 
@@ -1092,34 +1080,104 @@ function highlightNearestMarkers(candidates) {
   });
 }
   
-  function broadHabitatGroup(habitat, habitatType) {
-    const h = String(habitat || "").toLowerCase();
+function broadHabitatGroup(habitat, habitatType) {
+  const h = String(habitat || "").toLowerCase();
 
-    if (habitatType === "hedgerow") return "Hedgerow";
-    if (habitatType === "watercourse") return "Watercourse";
+  if (habitatType === "hedgerow") return "Hedgerow";
+  if (habitatType === "watercourse") return "Watercourse";
 
-    if (h.includes("grassland")) return "Grassland";
-if (
-  h.includes("individual tree") ||
-  h.includes("individual trees") ||
-  h.includes("street tree")
-) {
-  return "Individual Trees";
-}
-
-if (
-  h.includes("woodland") ||
-  h.includes("forest")
-) {
-  return "Woodland and Forest";
-}
-    if (h.includes("heath") || h.includes("scrub") || h.includes("shrub")) return "Heathland and Scrub";
-    if (h.includes("fen") || h.includes("bog") || h.includes("wetland") || h.includes("reed")) return "Wetland";
-    if (h.includes("pond") || h.includes("lake")) return "Open Water";
-    if (h.includes("urban") || h.includes("open mosaic") || h.includes("developed land")) return "Urban / Open Mosaic";
-
-    return "Other";
+  if (
+    h.includes("other rivers and streams") ||
+    h.includes("watercourse footprint")
+  ) {
+    return "Watercourse";
   }
+
+  if (
+    h.includes("urban tree") ||
+    h.includes("rural tree") ||
+    h.includes("individual tree") ||
+    h.includes("individual trees") ||
+    h.includes("street tree")
+  ) {
+    return "Individual Trees";
+  }
+
+  if (
+    h.includes("arable field margins") ||
+    h.includes("cultivated annually") ||
+    h.includes("game bird mix") ||
+    h.includes("tussocky")
+  ) {
+    return "Cropland";
+  }
+
+  if (
+    h.includes("coastal sand dunes") ||
+    h.includes("tall forbs") ||
+    h.includes("ruderal") ||
+    h.includes("ephemeral")
+  ) {
+    return "Sparsely Vegetated Land";
+  }
+
+  if (
+    h.includes("urban") ||
+    h.includes("open mosaic") ||
+    h.includes("developed land") ||
+    h.includes("sealed surface") ||
+    h.includes("unsealed surface") ||
+    h.includes("bare ground")
+  ) {
+    return "Urban";
+  }
+
+  if (
+    h.includes("grassland") ||
+    h.includes("traditional orchard") ||
+    h.includes("floodplain wetland mosaic") ||
+    h.includes("cfgm")
+  ) {
+    return "Grassland";
+  }
+
+  if (
+    h.includes("woodland") ||
+    h.includes("forest") ||
+    h.includes("wood-pasture") ||
+    h.includes("parkland")
+  ) {
+    return "Woodland and Forest";
+  }
+
+  if (
+    h.includes("heath") ||
+    h.includes("scrub") ||
+    h.includes("shrub")
+  ) {
+    return "Heathland and Shrub";
+  }
+
+  if (
+    h.includes("wetland") ||
+    h.includes("fen") ||
+    h.includes("reedbed") ||
+    h.includes("reed") ||
+    h.includes("bog")
+  ) {
+    return "Wetland";
+  }
+
+  if (
+    h.includes("pond") ||
+    h.includes("lake") ||
+    h.includes("pool")
+  ) {
+    return "Lakes and Ponds";
+  }
+
+  return "Other Habitat";
+}
 
   function rowBroadGroup(row) {
     return broadHabitatGroup(row.habitat, row.habitat_type);
