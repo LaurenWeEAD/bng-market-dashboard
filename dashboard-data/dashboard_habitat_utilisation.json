@@ -9,9 +9,9 @@
   },
   {
     "group": "Individual Trees",
-    "registered_extent": 46.73,
+    "registered_extent": 46.94,
     "allocated_extent": 6.55,
-    "available_extent": 40.18,
+    "available_extent": 40.39,
     "allocated_units": 103.05,
     "utilisation_percent": 14
   },
@@ -26,25 +26,25 @@
   {
     "group": "Watercourse",
     "registered_extent": 58.08,
-    "allocated_extent": 4.95,
-    "available_extent": 53.13,
-    "allocated_units": 11.36,
-    "utilisation_percent": 8.5
+    "allocated_extent": 4.97,
+    "available_extent": 53.11,
+    "allocated_units": 11.47,
+    "utilisation_percent": 8.6
   },
   {
     "group": "Grassland",
-    "registered_extent": 5356.38,
-    "allocated_extent": 408.91,
-    "available_extent": 4947.47,
-    "allocated_units": 2112.58,
-    "utilisation_percent": 7.6
+    "registered_extent": 5368.6,
+    "allocated_extent": 414.25,
+    "available_extent": 4954.35,
+    "allocated_units": 2136.19,
+    "utilisation_percent": 7.7
   },
   {
     "group": "Heathland and Shrub",
-    "registered_extent": 1031.57,
-    "allocated_extent": 61.84,
-    "available_extent": 969.73,
-    "allocated_units": 884.93,
+    "registered_extent": 1033.11,
+    "allocated_extent": 62.11,
+    "available_extent": 971,
+    "allocated_units": 896.44,
     "utilisation_percent": 6
   },
   {
@@ -57,19 +57,19 @@
   },
   {
     "group": "Woodland and Forest",
-    "registered_extent": 997.73,
-    "allocated_extent": 50.63,
-    "available_extent": 947.1,
-    "allocated_units": 344.47,
-    "utilisation_percent": 5.1
+    "registered_extent": 1004.11,
+    "allocated_extent": 50.64,
+    "available_extent": 953.47,
+    "allocated_units": 345.43,
+    "utilisation_percent": 5
   },
   {
     "group": "Hedgerow",
-    "registered_extent": 304.09,
-    "allocated_extent": 6.5,
-    "available_extent": 297.59,
-    "allocated_units": 33.53,
-    "utilisation_percent": 2.1
+    "registered_extent": 304.17,
+    "allocated_extent": 6.69,
+    "available_extent": 297.48,
+    "allocated_units": 34.33,
+    "utilisation_percent": 2.2
   },
   {
     "group": "Wetland",
@@ -80,18 +80,18 @@
     "utilisation_percent": 1.3
   },
   {
-    "group": "Other Habitat",
-    "registered_extent": 1.83,
-    "allocated_extent": 0,
-    "available_extent": 1.83,
-    "allocated_units": 0,
-    "utilisation_percent": 0
-  },
-  {
     "group": "Cropland",
     "registered_extent": 2.58,
     "allocated_extent": 0,
     "available_extent": 2.58,
+    "allocated_units": 0,
+    "utilisation_percent": 0
+  },
+  {
+    "group": "Other Habitat",
+    "registered_extent": 1.83,
+    "allocated_extent": 0,
+    "available_extent": 1.83,
     "allocated_units": 0,
     "utilisation_percent": 0
   }
