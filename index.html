@@ -69,13 +69,13 @@ h3 {
 }
 
 .utilisation-percent-cell {
-  min-width: 160px;
+  min-width: 280px;
 }
 
 .utilisation-percent-line {
   display: grid;
-  grid-template-columns: 54px 1fr;
-  gap: 10px;
+  grid-template-columns: 64px 1fr;
+  gap: 12px;
   align-items: center;
 }
 
@@ -83,6 +83,12 @@ h3 {
   font-weight: 700;
   color: #12323a;
   text-align: right;
+}
+
+.utilisation-percent-label {
+  font-size: 13px;
+  color: #667;
+  margin-top: 4px;
 }
 
 .utilisation-bar {
@@ -416,29 +422,27 @@ table {
 <div class="section" id="habitat-utilisation">
   <h3>Habitat Market Utilisation</h3>
 
-  <p>
-    Registered and allocated extent by broad market group. This shows which parts of the BNG market are being consumed fastest by area or length, not by remaining biodiversity units.
-  </p>
+<p>
+  Allocated biodiversity units and area/length utilisation by broad habitat group. This shows where observed BNG allocation activity is highest, alongside the proportion of registered area or length already allocated.
+</p>
 
 <div class="utilisation-table-wrap">
   <table class="utilisation-table">
     <thead>
       <tr>
         <th>Habitat group</th>
-        <th class="right">Registered</th>
-        <th class="right">Allocated</th>
-        <th class="right">Remaining</th>
-        <th class="right">Utilised</th>
+        <th class="right">Allocated units</th>
+        <th>Area/length utilisation</th>
       </tr>
     </thead>
     <tbody id="utilisation-table">
-      <tr><td colspan="5">Loading...</td></tr>
+      <tr><td colspan="3">Loading...</td></tr>
     </tbody>
   </table>
 </div>
 
 <p class="note">
-  Habitat groups are broad habitat categories derived from habitat descriptions and habitat type fields in the public register data. Other Habitat includes records that could not be confidently assigned to a main broad habitat category from the available description.
+  Habitat groups are broad habitat categories derived from habitat descriptions and habitat type fields in the public register data. Allocated units reflect observed BNG allocation activity, while the utilisation bar shows the proportion of registered area or length already allocated. Other Habitat includes records that could not be confidently assigned to a main broad habitat category from the available description.
 </p>
 </div>
 
@@ -783,21 +787,22 @@ document.getElementById("market-value-table").innerHTML = `
 
 document.getElementById("utilisation-table").innerHTML = utilisation.map(row => {
   const unit = unitForGroup(row.group);
-  const remaining = row.available_extent !== undefined ? row.available_extent : row.remaining_extent;
   const utilisationPercent = Math.max(0, Math.min(Number(row.utilisation_percent || 0), 100));
+  const allocatedUnits = Number(row.allocated_units || 0);
 
   return `
     <tr>
       <td class="utilisation-group">${displayMarketGroup(row.group)}</td>
-      <td class="right">${fmtNum(row.registered_extent, 2)} ${unit}</td>
-      <td class="right">${fmtNum(row.allocated_extent, 2)} ${unit}</td>
-      <td class="right">${fmtNum(remaining, 2)} ${unit}</td>
+      <td class="right"><strong>${fmtNum(allocatedUnits, 2)}</strong></td>
       <td class="utilisation-percent-cell">
         <div class="utilisation-percent-line">
           <span class="utilisation-percent-value">${fmtNum(row.utilisation_percent, 1)}%</span>
           <span class="utilisation-bar" aria-label="Utilisation ${fmtNum(row.utilisation_percent, 1)}%">
             <span class="utilisation-bar-fill" style="width:${utilisationPercent}%;"></span>
           </span>
+        </div>
+        <div class="utilisation-percent-label">
+          % of registered ${unit} allocated
         </div>
       </td>
     </tr>
