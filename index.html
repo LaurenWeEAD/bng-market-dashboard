@@ -470,8 +470,8 @@ table {
   <h3>LNRS Gain Site Market Activity</h3>
 
   <p>
-    LNRS areas ranked by allocation activity from registered gain sites located within each LNRS area and by utilisation of registered habitat supply. This reflects where registered BNG supply is being allocated from, not necessarily where the associated development projects are located.
-  </p>
+  LNRS areas ranked by observed allocation activity from registered gain sites located within each LNRS area, alongside registered habitat supply utilisation. This reflects where registered BNG supply is being allocated from, not necessarily where the associated development projects are located.
+</p>
 
   <table>
     <thead>
@@ -483,7 +483,7 @@ table {
         <th class="right">Allocated ha</th>
         <th class="right">Remaining ha</th>
         <th class="right">Utilisation</th>
-        <th class="right">Opportunity</th>
+        <th class="right">Supply activity score</th>
       </tr>
     </thead>
     <tbody id="opportunity-table">
@@ -512,7 +512,7 @@ table {
   <th class="right">Last 7d</th>
   <th class="right">Remaining ha</th>
   <th class="right">Utilisation</th>
-  <th class="right">Opportunity</th>
+  <th class="right">Supply activity score</th>
 </tr>
       </thead>
       <tbody id="southwest-table">
@@ -525,35 +525,6 @@ table {
     </div>
   </div>
 
-  <div class="section" id="habitat-opportunity">
-  <h3>National Habitat Opportunity</h3>
-
-  <p>
-    Habitat market signals based on recorded allocation activity, allocated extent and registered remaining supply. These are area or length based indicators, not remaining biodiversity unit estimates.
-  </p>
-
-  <table>
-    <thead>
-      <tr>
-        <th>Habitat</th>
-        <th>Group</th>
-        <th class="right">Allocations</th>
-        <th class="right">Allocated</th>
-        <th class="right">Remaining</th>
-        <th class="right">Demand</th>
-        <th class="right">Pressure</th>
-        <th class="right">Opportunity</th>
-      </tr>
-    </thead>
-    <tbody id="habitat-demand-table">
-      <tr><td colspan="8">Loading...</td></tr>
-    </tbody>
-  </table>
-
-<p class="note">
-  Demand reflects allocation count and allocated extent. Pressure reflects utilisation of registered supply. Opportunity combines both signals. Very small one-off habitat records are excluded from this ranking to avoid overstating limited sample signals.
-</p>
-</div>  
   
 <div class="section">
   <h3>Recent Market Activity</h3>
@@ -595,7 +566,7 @@ table {
   </tr>
 </thead>
   <tbody id="recent-allocations-table">
-    <tr><td colspan="9">Loading...</td></tr>
+    <tr><td colspan="8">Loading...</td></tr>
   </tbody>
 </table>
 
@@ -621,14 +592,11 @@ table {
         The public register does not provide sufficient metric data to calculate remaining biodiversity units with confidence. Indicative allocated values are estimated from allocated biodiversity units using Biodiversity Units UK indicative unit pricing scenarios by broad unit category. Values are for market intelligence purposes only and are not confirmed transaction values.
       </p>
 <p>
-  Opportunity scores combine two indicators: market activity and supply pressure. Market activity reflects observed allocation frequency and allocated extent, with allocation count weighted at 55% and allocated extent weighted at 45%. These values are normalised nationally to create a 0–100 demand or activity score. Supply pressure reflects the proportion of registered supply that has already been allocated, calculated as allocated extent divided by registered extent. The final opportunity score combines activity and pressure, with activity weighted at 60% and pressure weighted at 40%.
+  LNRS market activity scores combine observed allocation frequency and allocated habitat area from registered gain sites located within each LNRS area. These scores are intended to compare observed gain-site supply activity between LNRS areas and should not be interpreted as confirmed development demand or future biodiversity unit shortages.
 </p>
 <p>
-  Scores are grouped into opportunity ratings: Very High, High, Moderate, Emerging and Low. Very small one-off habitat records are excluded from the National Habitat Opportunity ranking where they could overstate market signals due to limited sample size.
+  Supply activity scores are market intelligence indicators derived from observed allocation frequency, allocated habitat area and registered habitat supply utilisation. They are intended to highlight areas with relatively higher observed gain-site allocation activity, but do not represent confirmed future demand, biodiversity unit shortages, habitat suitability, land availability or commercial pricing.
 </p>
-            <p>
-        Opportunity scores are market intelligence indicators derived from observed allocation activity, allocation frequency and registered habitat supply utilisation. They are intended to highlight potentially active BNG markets and habitat types, but do not represent confirmed future demand, biodiversity unit shortages, habitat suitability, land availability or commercial pricing.
-      </p>
     </div>
   </div>
 
@@ -748,7 +716,6 @@ const [
   utilisation,
   recent,
   opportunityAreas,
-  habitatDemand,
   recentAllocations
 ] = await Promise.all([
   loadJson("dashboard_summary.json"),
@@ -756,7 +723,6 @@ const [
   loadJson("dashboard_habitat_utilisation.json"),
   loadJson("dashboard_recent.json"),
   loadJson("dashboard_opportunity_areas.json"),
-  loadJson("dashboard_habitat_demand.json"),
   loadJson("dashboard_recent_allocations.json")
 ]);
 
@@ -897,35 +863,7 @@ const totalUnitsPrevious30 = opportunityAreas.reduce(
   0
 );
       
-document.getElementById("habitat-demand-table").innerHTML =
-  habitatDemand
-    .filter(row =>
-      Number(row.allocation_count || 0) > 0 &&
-      (
-        Number(row.registered_extent || 0) >= 5 ||
-        Number(row.allocation_count || 0) >= 5
-      )
-    )
-    .slice(0, 15)
-    .map(row => {
-      const unit = row.habitat_type === "hedgerow" || row.habitat_type === "watercourse"
-        ? " km"
-        : " ha";
-
-      return `
-        <tr>
-          <td>${row.habitat}</td>
-          <td>${row.habitat_group || ""}</td>
-          <td class="right">${fmtNum(row.allocation_count)}</td>
-          <td class="right">${fmtNum(row.allocated_extent, 2)}${unit}</td>
-          <td class="right">${fmtNum(row.remaining_extent, 2)}${unit}</td>
-          <td class="right">${fmtNum(row.demand_score, 1)}</td>
-          <td class="right">${fmtNum(row.pressure_score, 1)}</td>
-          <td class="right"><strong>${ratingLabel(row)}</strong></td>
-        </tr>
-      `;
-    }).join("");   
-      
+     
 document.getElementById("activity-kpis").innerHTML = `
   <div class="card">
     <div class="card-label">Allocations Last 7 Days</div>
@@ -1010,7 +948,7 @@ const mostRecentSW = [...southWestOpportunity].sort(
 if (strongestSW && mostActiveSW && mostRecentSW) {
   document.getElementById("southwest-insight").innerHTML = `
     <strong>South West Insight:</strong>
-    ${strongestSW.lnrs} currently has the highest opportunity score in the South West dataset.
+${strongestSW.lnrs} currently has the highest supply activity score in the South West dataset.
     ${mostActiveSW.lnrs} has the highest recorded allocation count, while ${mostRecentSW.lnrs} has the highest number of allocations first seen in the last 7 days.
   `;
 }
