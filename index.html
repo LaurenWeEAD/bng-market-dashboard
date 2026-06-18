@@ -582,19 +582,18 @@ table {
 <h4 style="margin-top:26px;">Top 10 Allocations Over Last 30 Days</h4>
 
 <table>
-  <thead>
-    <tr>
-      <th>First Seen</th>
-      <th>Site</th>
-      <th>LPA</th>
-      <th>Planning Ref</th>
-      <th>Habitats</th>
-      <th class="right">Habitat</th>
-      <th class="right">Hedgerow</th>
-      <th class="right">Watercourse</th>
-      <th class="right">Total units</th>
-    </tr>
-  </thead>
+<thead>
+  <tr>
+    <th>First Seen</th>
+    <th>Site</th>
+    <th>LPA / Planning Ref</th>
+    <th>Habitats</th>
+    <th class="right">Habitat</th>
+    <th class="right">Hedgerow</th>
+    <th class="right">Watercourse</th>
+    <th class="right">Total units</th>
+  </tr>
+</thead>
   <tbody id="recent-allocations-table">
     <tr><td colspan="9">Loading...</td></tr>
   </tbody>
@@ -1028,19 +1027,25 @@ if (strongestSW && mostActiveSW && mostRecentSW) {
         `).join("");
 
 document.getElementById("recent-allocations-table").innerHTML =
-  recentAllocations.slice(0, 10).map(row => `
-    <tr>
-      <td>${datePretty(row.first_seen_date)}</td>
-      <td>${row.code || ""}</td>
-      <td>${row.lpa || ""}</td>
-      <td>${row.planningRef || ""}</td>
-      <td>${row.habitats || row.habitat_groups || ""}</td>
-      <td class="right">${allocationTypeSummary(row.habitat_units, row.allocated_habitat_ha, "ha")}</td>
-      <td class="right">${allocationTypeSummary(row.hedgerow_units, row.allocated_hedgerow_km, "km")}</td>
-      <td class="right">${allocationTypeSummary(row.watercourse_units, row.allocated_watercourse_km, "km")}</td>
-      <td class="right"><strong>${fmtNum(row.total_units, 2)}</strong></td>
-    </tr>
-  `).join("");
+  recentAllocations.slice(0, 10).map(row => {
+    const lpaPlanning = [
+      row.lpa || "",
+      row.planningRef ? `(${row.planningRef})` : ""
+    ].filter(Boolean).join(" ");
+
+    return `
+      <tr>
+        <td>${datePretty(row.first_seen_date)}</td>
+        <td>${row.code || ""}</td>
+        <td>${lpaPlanning}</td>
+        <td>${row.habitats || row.habitat_groups || ""}</td>
+        <td class="right">${allocationTypeSummary(row.habitat_units, row.allocated_habitat_ha, "ha")}</td>
+        <td class="right">${allocationTypeSummary(row.hedgerow_units, row.allocated_hedgerow_km, "km")}</td>
+        <td class="right">${allocationTypeSummary(row.watercourse_units, row.allocated_watercourse_km, "km")}</td>
+        <td class="right"><strong>${fmtNum(row.total_units, 2)}</strong></td>
+      </tr>
+    `;
+  }).join("");
       
 document.getElementById("key-takeaway").innerHTML = `
   <strong>Key takeaway:</strong>
