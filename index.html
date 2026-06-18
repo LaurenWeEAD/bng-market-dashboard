@@ -639,21 +639,14 @@ const BASE = "https://elliottead.github.io/bng-market-dashboard/dashboard-data/"
       return group === "Hedgerow" || group === "Watercourse" ? " km" : " ha";
     }
 
-    function displayMarketGroup(group) {
+function displayMarketGroup(group) {
   const value = String(group || "").trim();
   const normalised = value.toLowerCase();
 
-  if (normalised === "woodland and trees") {
-    return "Woodland and Forest";
-  }
-
-  if (normalised === "urban / open mosaic" || normalised === "urban/open mosaic") {
-    return "Urban and Open Mosaic Habitats";
-  }
-
-  if (normalised === "other habitat") {
-    return "Other Habitat";
-  }
+  if (normalised === "watercourse") return "Watercourses";
+  if (normalised === "hedgerow") return "Hedgerows";
+  if (normalised === "wetland") return "Wetland";
+  if (normalised === "other habitat") return "Other Habitat";
 
   return value;
 }
