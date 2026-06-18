@@ -4,6 +4,7 @@
     "registered_extent": 46.15,
     "allocated_extent": 9.23,
     "available_extent": 36.92,
+    "allocated_units": 101.64,
     "utilisation_percent": 20
   },
   {
@@ -11,6 +12,7 @@
     "registered_extent": 46.73,
     "allocated_extent": 6.55,
     "available_extent": 40.18,
+    "allocated_units": 103.05,
     "utilisation_percent": 14
   },
   {
@@ -18,6 +20,7 @@
     "registered_extent": 57.01,
     "allocated_extent": 5.7,
     "available_extent": 51.31,
+    "allocated_units": 207.07,
     "utilisation_percent": 10
   },
   {
@@ -25,6 +28,7 @@
     "registered_extent": 58.08,
     "allocated_extent": 4.95,
     "available_extent": 53.13,
+    "allocated_units": 11.36,
     "utilisation_percent": 8.5
   },
   {
@@ -32,6 +36,7 @@
     "registered_extent": 5356.38,
     "allocated_extent": 408.91,
     "available_extent": 4947.47,
+    "allocated_units": 2112.58,
     "utilisation_percent": 7.6
   },
   {
@@ -39,6 +44,7 @@
     "registered_extent": 1031.57,
     "allocated_extent": 61.84,
     "available_extent": 969.73,
+    "allocated_units": 884.93,
     "utilisation_percent": 6
   },
   {
@@ -46,6 +52,7 @@
     "registered_extent": 3.73,
     "allocated_extent": 0.21,
     "available_extent": 3.52,
+    "allocated_units": 4.11,
     "utilisation_percent": 5.6
   },
   {
@@ -53,6 +60,7 @@
     "registered_extent": 997.73,
     "allocated_extent": 50.63,
     "available_extent": 947.1,
+    "allocated_units": 344.47,
     "utilisation_percent": 5.1
   },
   {
@@ -60,6 +68,7 @@
     "registered_extent": 304.09,
     "allocated_extent": 6.5,
     "available_extent": 297.59,
+    "allocated_units": 33.53,
     "utilisation_percent": 2.1
   },
   {
@@ -67,6 +76,7 @@
     "registered_extent": 167.19,
     "allocated_extent": 2.21,
     "available_extent": 164.98,
+    "allocated_units": 20.89,
     "utilisation_percent": 1.3
   },
   {
@@ -74,6 +84,7 @@
     "registered_extent": 1.83,
     "allocated_extent": 0,
     "available_extent": 1.83,
+    "allocated_units": 0,
     "utilisation_percent": 0
   },
   {
@@ -81,6 +92,7 @@
     "registered_extent": 2.58,
     "allocated_extent": 0,
     "available_extent": 2.58,
+    "allocated_units": 0,
     "utilisation_percent": 0
   }
 ]
