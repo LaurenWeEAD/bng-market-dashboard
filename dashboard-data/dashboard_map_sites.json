@@ -9182,7 +9182,7 @@
     "authority": "Maldon LPA",
     "sizeHa": 6.4,
     "first_seen_date": "2026-06-18",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Grassland - Other neutral grassland",
@@ -12993,7 +12993,7 @@
     "authority": "North Hertfordshire LPA",
     "sizeHa": 38.46,
     "first_seen_date": "2026-06-18",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Individual trees - Rural tree",
