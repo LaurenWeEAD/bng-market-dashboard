@@ -7990,7 +7990,7 @@
     "authority": "RSK Biocensus Limited",
     "sizeHa": 13.12,
     "first_seen_date": "2026-06-19",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Grassland - Other neutral grassland",
@@ -12973,74 +12973,10 @@
     "lpa": "South Downs National Park LPA",
     "lnrs": "West Sussex",
     "authority": "South Downs National Park LPA",
-    "sizeHa": 130.35,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 83.4301,
-        "allocated_extent": 1.4485,
-        "remaining_extent": 81.9816
-      },
-      {
-        "habitat": "Heathland and shrub - Mixed scrub",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 8.568,
-        "allocated_extent": 0,
-        "remaining_extent": 8.568
-      },
-      {
-        "habitat": "Individual trees - Rural tree",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 1.75,
-        "allocated_extent": 0,
-        "remaining_extent": 1.75
-      },
-      {
-        "habitat": "Grassland - Lowland calcareous grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 15.411,
-        "allocated_extent": 0.43,
-        "remaining_extent": 14.981
-      },
-      {
-        "habitat": "Lakes - Ponds (Priority Habitat)",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.142,
-        "allocated_extent": 0,
-        "remaining_extent": 0.142
-      },
-      {
-        "habitat": "Woodland and forest - Other woodland; broadleaved",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 7.344,
-        "allocated_extent": 0,
-        "remaining_extent": 7.344
-      },
-      {
-        "habitat": "Species-rich native hedgerow with trees",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 14.686,
-        "allocated_extent": 0.0019,
-        "remaining_extent": 14.6841
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-221024001",
@@ -13119,7 +13055,7 @@
     "authority": "RSK Biocensus Limited",
     "sizeHa": 8.27,
     "first_seen_date": "2026-06-19",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Grassland - Other neutral grassland",
