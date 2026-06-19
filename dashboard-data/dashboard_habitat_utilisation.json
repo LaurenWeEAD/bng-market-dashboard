@@ -28,23 +28,23 @@
     "registered_extent": 58.08,
     "allocated_extent": 4.97,
     "available_extent": 53.11,
-    "allocated_units": 11.47,
+    "allocated_units": 11.48,
     "utilisation_percent": 8.6
   },
   {
     "group": "Grassland",
-    "registered_extent": 5368.6,
-    "allocated_extent": 414.25,
-    "available_extent": 4954.35,
-    "allocated_units": 2136.19,
+    "registered_extent": 5386,
+    "allocated_extent": 416.55,
+    "available_extent": 4969.45,
+    "allocated_units": 2145.91,
     "utilisation_percent": 7.7
   },
   {
     "group": "Heathland and Shrub",
-    "registered_extent": 1033.11,
-    "allocated_extent": 62.11,
-    "available_extent": 971,
-    "allocated_units": 896.44,
+    "registered_extent": 1037.1,
+    "allocated_extent": 62.21,
+    "available_extent": 974.89,
+    "allocated_units": 897.09,
     "utilisation_percent": 6
   },
   {
@@ -58,17 +58,17 @@
   {
     "group": "Woodland and Forest",
     "registered_extent": 1004.11,
-    "allocated_extent": 50.64,
-    "available_extent": 953.47,
-    "allocated_units": 345.43,
+    "allocated_extent": 50.66,
+    "available_extent": 953.45,
+    "allocated_units": 347.09,
     "utilisation_percent": 5
   },
   {
     "group": "Hedgerow",
-    "registered_extent": 304.17,
+    "registered_extent": 304.51,
     "allocated_extent": 6.69,
-    "available_extent": 297.48,
-    "allocated_units": 34.33,
+    "available_extent": 297.82,
+    "allocated_units": 34.36,
     "utilisation_percent": 2.2
   },
   {
@@ -80,18 +80,18 @@
     "utilisation_percent": 1.3
   },
   {
-    "group": "Cropland",
-    "registered_extent": 2.58,
-    "allocated_extent": 0,
-    "available_extent": 2.58,
-    "allocated_units": 0,
-    "utilisation_percent": 0
-  },
-  {
     "group": "Other Habitat",
     "registered_extent": 1.83,
     "allocated_extent": 0,
     "available_extent": 1.83,
+    "allocated_units": 0,
+    "utilisation_percent": 0
+  },
+  {
+    "group": "Cropland",
+    "registered_extent": 2.58,
+    "allocated_extent": 0,
+    "available_extent": 2.58,
     "allocated_units": 0,
     "utilisation_percent": 0
   }
