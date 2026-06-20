@@ -7729,10 +7729,110 @@
     "lpa": "Cheshire West and Chester LPA",
     "lnrs": "Cheshire",
     "authority": "RSK Biocensus Limited",
-    "sizeHa": 0,
+    "sizeHa": 38.69,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 12.7537,
+        "allocated_extent": 0.967,
+        "remaining_extent": 11.7867
+      },
+      {
+        "habitat": "Wetland - Reedbeds",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 2.3954,
+        "allocated_extent": 0.826,
+        "remaining_extent": 1.5694
+      },
+      {
+        "habitat": "Wetland - Fens (upland and lowland)",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 1.7046,
+        "allocated_extent": 0,
+        "remaining_extent": 1.7046
+      },
+      {
+        "habitat": "Grassland - Modified grassland",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 5.3115,
+        "allocated_extent": 0,
+        "remaining_extent": 5.3115
+      },
+      {
+        "habitat": "Woodland and forest - Other woodland; broadleaved",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.491,
+        "allocated_extent": 0.228,
+        "remaining_extent": 0.263
+      },
+      {
+        "habitat": "Sparsely vegetated land - Tall forbs",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.3741,
+        "allocated_extent": 0,
+        "remaining_extent": 0.3741
+      },
+      {
+        "habitat": "Urban - Open Mosaic Habitats on Previously Developed Land",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 6.4049,
+        "allocated_extent": 0,
+        "remaining_extent": 6.4049
+      },
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 2.3591,
+        "allocated_extent": 0.487,
+        "remaining_extent": 1.8721
+      },
+      {
+        "habitat": "Lakes - Ponds (Priority Habitat)",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 5.1125,
+        "allocated_extent": 0,
+        "remaining_extent": 5.1125
+      },
+      {
+        "habitat": "Species-rich native hedgerow",
+        "condition": "Moderate",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.64,
+        "allocated_extent": 0.013,
+        "remaining_extent": 0.627
+      },
+      {
+        "habitat": "Species-rich native hedgerow with trees",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.73,
+        "allocated_extent": 0,
+        "remaining_extent": 0.73
+      }
+    ]
   },
   {
     "code": "BGS-221024001",

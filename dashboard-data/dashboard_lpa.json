@@ -512,6 +512,14 @@
     "utilisation_percent": 4.4
   },
   {
+    "lpa": "Cheshire West and Chester LPA",
+    "site_count": 4,
+    "registered_habitat_hectares": 131.93,
+    "allocated_habitat_area": 5.15,
+    "remaining_habitat_area": 126.77,
+    "utilisation_percent": 3.9
+  },
+  {
     "lpa": "Wiltshire LPA",
     "site_count": 2,
     "registered_habitat_hectares": 86.7,
@@ -574,14 +582,6 @@
     "allocated_habitat_area": 1.36,
     "remaining_habitat_area": 43.48,
     "utilisation_percent": 3
-  },
-  {
-    "lpa": "Cheshire West and Chester LPA",
-    "site_count": 4,
-    "registered_habitat_hectares": 95.02,
-    "allocated_habitat_area": 2.64,
-    "remaining_habitat_area": 92.38,
-    "utilisation_percent": 2.8
   },
   {
     "lpa": "South Somerset LPA",
