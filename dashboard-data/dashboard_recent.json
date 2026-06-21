@@ -1,14 +1,5 @@
 [
   {
-    "code": "BGS-010426003",
-    "title": "Biodiversity gain site",
-    "lpa": "North Warwickshire LPA",
-    "nca": "",
-    "lnrs": "Warwickshire",
-    "gainSiteSizeHa": 8.27,
-    "first_seen_date": "2026-06-19"
-  },
-  {
     "code": "BGS-090326001",
     "title": "Biodiversity gain site",
     "lpa": "Cornwall LPA",
@@ -18,13 +9,13 @@
     "first_seen_date": "2026-06-19"
   },
   {
-    "code": "BGS-110326004",
+    "code": "BGS-010426003",
     "title": "Biodiversity gain site",
-    "lpa": "Maldon LPA",
+    "lpa": "North Warwickshire LPA",
     "nca": "",
-    "lnrs": "Greater Essex",
-    "gainSiteSizeHa": 6.4,
-    "first_seen_date": "2026-06-18"
+    "lnrs": "Warwickshire",
+    "gainSiteSizeHa": 8.27,
+    "first_seen_date": "2026-06-19"
   },
   {
     "code": "BGS-230326001",
@@ -36,13 +27,13 @@
     "first_seen_date": "2026-06-18"
   },
   {
-    "code": "BGS-260126002",
+    "code": "BGS-110326004",
     "title": "Biodiversity gain site",
-    "lpa": "Cotswold LPA",
+    "lpa": "Maldon LPA",
     "nca": "",
-    "lnrs": "Gloucestershire",
-    "gainSiteSizeHa": 43.7,
-    "first_seen_date": "2026-06-16"
+    "lnrs": "Greater Essex",
+    "gainSiteSizeHa": 6.4,
+    "first_seen_date": "2026-06-18"
   },
   {
     "code": "BGS-060525001",
@@ -51,6 +42,15 @@
     "nca": "",
     "lnrs": "Cambridgeshire and Peterborough",
     "gainSiteSizeHa": 6.35,
+    "first_seen_date": "2026-06-16"
+  },
+  {
+    "code": "BGS-260126002",
+    "title": "Biodiversity gain site",
+    "lpa": "Cotswold LPA",
+    "nca": "",
+    "lnrs": "Gloucestershire",
+    "gainSiteSizeHa": 43.7,
     "first_seen_date": "2026-06-16"
   },
   {
@@ -70,6 +70,15 @@
     "lnrs": "Buckinghamshire and Milton Keynes",
     "gainSiteSizeHa": 2.3,
     "first_seen_date": "2026-06-12"
+  },
+  {
+    "code": "BGS-150526002",
+    "title": "Biodiversity gain site",
+    "lpa": "Cheshire East LPA",
+    "nca": "",
+    "lnrs": "Cheshire",
+    "gainSiteSizeHa": 23.22,
+    "first_seen_date": "2026-06-10"
   },
   {
     "code": "BGS-150526003",
@@ -99,13 +108,13 @@
     "first_seen_date": "2026-06-10"
   },
   {
-    "code": "BGS-150526002",
+    "code": "BGS-130326002",
     "title": "Biodiversity gain site",
-    "lpa": "Cheshire East LPA",
+    "lpa": "King’s Lynn and West Norfolk LPA",
     "nca": "",
-    "lnrs": "Cheshire",
-    "gainSiteSizeHa": 23.22,
-    "first_seen_date": "2026-06-10"
+    "lnrs": "Norfolk",
+    "gainSiteSizeHa": 34.8,
+    "first_seen_date": "2026-06-09"
   },
   {
     "code": "BGS-120226002",
@@ -114,15 +123,6 @@
     "nca": "",
     "lnrs": "Hampshire",
     "gainSiteSizeHa": 20.24,
-    "first_seen_date": "2026-06-09"
-  },
-  {
-    "code": "BGS-130326002",
-    "title": "Biodiversity gain site",
-    "lpa": "King’s Lynn and West Norfolk LPA",
-    "nca": "",
-    "lnrs": "Norfolk",
-    "gainSiteSizeHa": 34.8,
     "first_seen_date": "2026-06-09"
   },
   {
@@ -198,30 +198,30 @@
     "first_seen_date": "2026-05-28"
   },
   {
-    "code": "BGS-121224001",
+    "code": "BGS-020625001",
     "title": "Biodiversity gain site",
-    "lpa": "Breckland LPA",
+    "lpa": "Dorset LPA",
     "nca": "",
-    "lnrs": "Norfolk",
-    "gainSiteSizeHa": 537.4,
+    "lnrs": "Dorset",
+    "gainSiteSizeHa": 16.28,
     "first_seen_date": "2026-05-26"
   },
   {
-    "code": "BGS-280725001",
+    "code": "BGS-220825001",
     "title": "Biodiversity gain site",
-    "lpa": "Broadland LPA",
+    "lpa": "Bracknell Forest LPA",
     "nca": "",
-    "lnrs": "Norfolk",
-    "gainSiteSizeHa": 4.38,
+    "lnrs": "Berkshire",
+    "gainSiteSizeHa": 0.47,
     "first_seen_date": "2026-05-26"
   },
   {
-    "code": "BGS-011025001",
+    "code": "BGS-021024004",
     "title": "Biodiversity gain site",
-    "lpa": "Leeds LPA",
+    "lpa": "Bolton LPA",
     "nca": "",
-    "lnrs": "West Yorkshire",
-    "gainSiteSizeHa": 45.61,
+    "lnrs": "Greater Manchester",
+    "gainSiteSizeHa": 33.23,
     "first_seen_date": "2026-05-26"
   }
 ]
