@@ -81,12 +81,12 @@
     "first_seen_date": "2026-06-10"
   },
   {
-    "code": "BGS-150526003",
+    "code": "BGS-060326001",
     "title": "Biodiversity gain site",
-    "lpa": "Cheshire East LPA",
+    "lpa": "Bradford LPA",
     "nca": "",
-    "lnrs": "Cheshire",
-    "gainSiteSizeHa": 4.3,
+    "lnrs": "West Yorkshire",
+    "gainSiteSizeHa": 44.9,
     "first_seen_date": "2026-06-10"
   },
   {
@@ -99,22 +99,13 @@
     "first_seen_date": "2026-06-10"
   },
   {
-    "code": "BGS-060326001",
+    "code": "BGS-150526003",
     "title": "Biodiversity gain site",
-    "lpa": "Bradford LPA",
+    "lpa": "Cheshire East LPA",
     "nca": "",
-    "lnrs": "West Yorkshire",
-    "gainSiteSizeHa": 44.9,
+    "lnrs": "Cheshire",
+    "gainSiteSizeHa": 4.3,
     "first_seen_date": "2026-06-10"
-  },
-  {
-    "code": "BGS-130326002",
-    "title": "Biodiversity gain site",
-    "lpa": "King’s Lynn and West Norfolk LPA",
-    "nca": "",
-    "lnrs": "Norfolk",
-    "gainSiteSizeHa": 34.8,
-    "first_seen_date": "2026-06-09"
   },
   {
     "code": "BGS-120226002",
@@ -123,6 +114,15 @@
     "nca": "",
     "lnrs": "Hampshire",
     "gainSiteSizeHa": 20.24,
+    "first_seen_date": "2026-06-09"
+  },
+  {
+    "code": "BGS-130326002",
+    "title": "Biodiversity gain site",
+    "lpa": "King’s Lynn and West Norfolk LPA",
+    "nca": "",
+    "lnrs": "Norfolk",
+    "gainSiteSizeHa": 34.8,
     "first_seen_date": "2026-06-09"
   },
   {
@@ -171,15 +171,6 @@
     "first_seen_date": "2026-05-29"
   },
   {
-    "code": "BGS-260226001",
-    "title": "Biodiversity gain site",
-    "lpa": "Cheshire West and Chester LPA",
-    "nca": "",
-    "lnrs": "Cheshire",
-    "gainSiteSizeHa": 74.73,
-    "first_seen_date": "2026-05-28"
-  },
-  {
     "code": "BGS-130226002",
     "title": "Biodiversity gain site",
     "lpa": "St Albans LPA",
@@ -198,30 +189,39 @@
     "first_seen_date": "2026-05-28"
   },
   {
-    "code": "BGS-020625001",
+    "code": "BGS-260226001",
     "title": "Biodiversity gain site",
-    "lpa": "Dorset LPA",
+    "lpa": "Cheshire West and Chester LPA",
     "nca": "",
-    "lnrs": "Dorset",
-    "gainSiteSizeHa": 16.28,
+    "lnrs": "Cheshire",
+    "gainSiteSizeHa": 74.73,
+    "first_seen_date": "2026-05-28"
+  },
+  {
+    "code": "BGS-080925001",
+    "title": "Biodiversity gain site",
+    "lpa": "Braintree LPA",
+    "nca": "",
+    "lnrs": "Greater Essex",
+    "gainSiteSizeHa": 1.3,
     "first_seen_date": "2026-05-26"
   },
   {
-    "code": "BGS-220825001",
+    "code": "BGS-051124001",
     "title": "Biodiversity gain site",
-    "lpa": "Bracknell Forest LPA",
+    "lpa": "South Norfolk LPA",
     "nca": "",
-    "lnrs": "Berkshire",
-    "gainSiteSizeHa": 0.47,
+    "lnrs": "Norfolk",
+    "gainSiteSizeHa": 25.15,
     "first_seen_date": "2026-05-26"
   },
   {
-    "code": "BGS-021024004",
+    "code": "BGS-190126001",
     "title": "Biodiversity gain site",
-    "lpa": "Bolton LPA",
+    "lpa": "Wealden LPA",
     "nca": "",
-    "lnrs": "Greater Manchester",
-    "gainSiteSizeHa": 33.23,
+    "lnrs": "East Sussex and Brighton & Hove",
+    "gainSiteSizeHa": 0.13,
     "first_seen_date": "2026-05-26"
   }
 ]
