@@ -826,9 +826,9 @@
   {
     "lpa": "Cotswold LPA",
     "site_count": 4,
-    "registered_habitat_hectares": 90.92,
+    "registered_habitat_hectares": 74.85,
     "allocated_habitat_area": 0,
-    "remaining_habitat_area": 90.92,
+    "remaining_habitat_area": 74.85,
     "utilisation_percent": 0
   },
   {
@@ -962,9 +962,9 @@
   {
     "lpa": "Lake District National Park LPA",
     "site_count": 1,
-    "registered_habitat_hectares": 12.98,
+    "registered_habitat_hectares": 0,
     "allocated_habitat_area": 0,
-    "remaining_habitat_area": 12.98,
+    "remaining_habitat_area": 0,
     "utilisation_percent": 0
   },
   {
