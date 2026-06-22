@@ -879,7 +879,7 @@ document.getElementById("activity-kpis").innerHTML = `
 
 document.getElementById("tracking-note").innerHTML =
   (summary.temporal_analysis_note || "") +
-  " Allocated Units are deduplicated biodiversity unit values from allocation records and include habitat, hedgerow and watercourse allocations.";
+  " Recent allocation metrics are based on allocation events first seen in the tracked data, using the earliest first-seen date across rows in each allocation event. Allocated Units are deduplicated biodiversity unit values from allocation records and include habitat, hedgerow and watercourse allocations.";
 
 document.getElementById("opportunity-table").innerHTML =
   opportunityAreas.slice(0, 15).map(row => `
