@@ -452,12 +452,16 @@ table {
   <h3>Market Activity Trends</h3>
 
   <p>
-    Allocation activity based on the records first seen date. Tracking began on 26 May 2026, so longer periods currently represent the full tracked history.
+    Allocation activity based on allocation events first seen in EAD Ecology's tracked register data. Last 30 days metrics are only shown once a full 30-day tracking period is available.
   </p>
 
   <div class="kpi-grid" id="activity-kpis">
     <div class="card">Loading...</div>
   </div>
+
+  <p class="note" id="tracking-note"></p>
+</div>
+
 
   <p class="note" id="tracking-note"></p>
 </div>
@@ -787,75 +791,86 @@ document.getElementById("utilisation-table").innerHTML = utilisation.map(row => 
   `;
 }).join("");
 
-const totalAllocationsLast7 = opportunityAreas.reduce(
-  (sum, row) => sum + Number(row.allocations_last_7_days || 0),
-  0
-);
-
 const totalAllocationsLast30 = opportunityAreas.reduce(
-  (sum, row) => sum + Number(row.allocations_last_30_days || 0),
-  0
-);
-
-const totalUnitsLast7 = opportunityAreas.reduce(
-  (sum, row) => sum + Number(row.allocated_units_last_7_days || 0),
-  0
+(sum, row) => sum + Number(row.allocations_last_30_days || 0),
+0
 );
 
 const totalUnitsLast30 = opportunityAreas.reduce(
-  (sum, row) => sum + Number(row.allocated_units_last_30_days || 0),
-  0
+(sum, row) => sum + Number(row.allocated_units_last_30_days || 0),
+0
 );
 
-const totalAllocationsPrevious7 = opportunityAreas.reduce(
-  (sum, row) => sum + Number(row.allocations_previous_7_days || 0),
-  0
+const totalAllocationEventsAllTime = opportunityAreas.reduce(
+(sum, row) => sum + Number(row.allocation_count || 0),
+0
 );
 
-const totalAllocationsPrevious30 = opportunityAreas.reduce(
-  (sum, row) => sum + Number(row.allocations_previous_30_days || 0),
-  0
+const totalUnitsAllTime =
+Number(summary.allocated_habitat_units || 0) +
+Number(summary.allocated_hedgerow_units || 0) +
+Number(summary.allocated_watercourse_units || 0);
+
+function daysBetweenDates(startDate, endDate) {
+if (!startDate || !endDate) return 0;
+
+const start = new Date(startDate + "T00:00:00");
+const end = new Date(endDate + "T00:00:00");
+
+if (isNaN(start) || isNaN(end)) return 0;
+
+return Math.floor((end - start) / (1000 * 60 * 60 * 24)) + 1;
+}
+
+const trackingDaysAvailable = daysBetweenDates(
+summary.allocation_tracking_start_date,
+summary.last_scrape_date
 );
 
-const totalUnitsPrevious7 = opportunityAreas.reduce(
-  (sum, row) => sum + Number(row.allocated_units_previous_7_days || 0),
-  0
-);
+const hasFullThirtyDayPeriod = trackingDaysAvailable >= 30;
 
-const totalUnitsPrevious30 = opportunityAreas.reduce(
-  (sum, row) => sum + Number(row.allocated_units_previous_30_days || 0),
-  0
-);
-      
-     
 document.getElementById("activity-kpis").innerHTML = `
-  <div class="card">
-    <div class="card-label">Allocations Last 7 Days</div>
-    <div class="card-value">${fmtNum(totalAllocationsLast7)}</div>
-    ${trendText(totalAllocationsLast7, totalAllocationsPrevious7, "7 days")}
-  </div>
+
   <div class="card">
     <div class="card-label">Allocations Last 30 Days</div>
-    <div class="card-value">${fmtNum(totalAllocationsLast30)}</div>
-    ${trendText(totalAllocationsLast30, totalAllocationsPrevious30, "30 days")}
+    <div class="card-value">${
+      hasFullThirtyDayPeriod ? fmtNum(totalAllocationsLast30) : "Not yet available"
+    }</div>
+    <div class="card-unit">${
+      hasFullThirtyDayPeriod
+        ? "allocation events first seen in tracked data"
+        : "Full 30-day tracking period not yet available"
+    }</div>
   </div>
-  <div class="card">
-    <div class="card-label">Allocated Units Last 7 Days</div>
-    <div class="card-value">${fmtNum(totalUnitsLast7, 1)}</div>
-    <div class="card-unit">biodiversity units</div>
-    ${trendText(totalUnitsLast7, totalUnitsPrevious7, "7 days")}
-  </div>
+
   <div class="card">
     <div class="card-label">Allocated Units Last 30 Days</div>
-    <div class="card-value">${fmtNum(totalUnitsLast30, 1)}</div>
+    <div class="card-value">${
+      hasFullThirtyDayPeriod ? fmtNum(totalUnitsLast30, 1) : "Not yet available"
+    }</div>
+    <div class="card-unit">${
+      hasFullThirtyDayPeriod
+        ? "biodiversity units"
+        : "Full 30-day tracking period not yet available"
+    }</div>
+  </div>
+
+  <div class="card">
+    <div class="card-label">All-Time Allocation Events</div>
+    <div class="card-value">${fmtNum(totalAllocationEventsAllTime)}</div>
+    <div class="card-unit">events first seen since tracking began</div>
+  </div>
+
+  <div class="card">
+    <div class="card-label">All-Time Allocated Units</div>
+    <div class="card-value">${fmtNum(totalUnitsAllTime, 1)}</div>
     <div class="card-unit">biodiversity units</div>
-    ${trendText(totalUnitsLast30, totalUnitsPrevious30, "30 days")}
   </div>
 `;
 
 document.getElementById("tracking-note").innerHTML =
-  (summary.temporal_analysis_note || "") +
-  " Recent allocation metrics are based on allocation events first seen in the tracked data, using the earliest first-seen date across rows in each allocation event. Allocated Units are deduplicated biodiversity unit values from allocation records and include habitat, hedgerow and watercourse allocations.";
+(summary.temporal_analysis_note || "") +
+" Last 30 days metrics are only shown once at least 30 days of tracked allocation data are available. Allocation metrics are based on allocation events first seen in the tracked data, using the earliest first-seen date across rows in each allocation event. Allocated Units are deduplicated biodiversity unit values from allocation records and include habitat, hedgerow and watercourse allocations.";
 
 document.getElementById("opportunity-table").innerHTML =
   opportunityAreas.slice(0, 15).map(row => `
