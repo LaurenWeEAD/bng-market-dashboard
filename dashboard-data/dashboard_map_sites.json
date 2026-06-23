@@ -7817,10 +7817,20 @@
     "lpa": "Lake District National Park LPA",
     "lnrs": "Cumbria",
     "authority": "Lake District National Park LPA",
-    "sizeHa": 0,
+    "sizeHa": 13.39,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Grassland - Upland hay meadows",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 12.9801,
+        "allocated_extent": 0,
+        "remaining_extent": 12.9801
+      }
+    ]
   },
   {
     "code": "BGS-260225002",
@@ -13833,101 +13843,10 @@
     "lpa": "Cheshire East LPA",
     "lnrs": "Cheshire",
     "authority": "The Land Restoration Trust",
-    "sizeHa": 35.91,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 12.538,
-        "allocated_extent": 0,
-        "remaining_extent": 12.538
-      },
-      {
-        "habitat": "Heathland and shrub - Mixed scrub",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 1.2,
-        "allocated_extent": 0.0183,
-        "remaining_extent": 1.1817
-      },
-      {
-        "habitat": "Woodland and forest - Other woodland; broadleaved",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.5,
-        "allocated_extent": 0.1515,
-        "remaining_extent": 0.3485
-      },
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 15.9141,
-        "allocated_extent": 0.1776,
-        "remaining_extent": 15.7365
-      },
-      {
-        "habitat": "Grassland - Traditional orchards",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 1.2581,
-        "allocated_extent": 0.1015,
-        "remaining_extent": 1.1566
-      },
-      {
-        "habitat": "Species-rich native hedgerow",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.533,
-        "allocated_extent": 0,
-        "remaining_extent": 0.533
-      },
-      {
-        "habitat": "Native hedgerow with trees",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.435,
-        "allocated_extent": 0,
-        "remaining_extent": 0.435
-      },
-      {
-        "habitat": "Native Hedgerow",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.313,
-        "allocated_extent": 0,
-        "remaining_extent": 0.313
-      },
-      {
-        "habitat": "Species-rich native hedgerow with trees",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.909,
-        "allocated_extent": 0,
-        "remaining_extent": 0.909
-      },
-      {
-        "habitat": "Ditches",
-        "condition": "Moderate",
-        "habitat_type": "watercourse",
-        "unit": "km",
-        "proposed_extent": 0.364,
-        "allocated_extent": 0,
-        "remaining_extent": 0.364
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-080324001",
@@ -18880,10 +18799,83 @@
     "lpa": "Cotswold LPA",
     "lnrs": "Gloucestershire",
     "authority": "Harry Ferguson Holdings Limited",
-    "sizeHa": 0,
+    "sizeHa": 15.85,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 9.93,
+        "allocated_extent": 0,
+        "remaining_extent": 9.93
+      },
+      {
+        "habitat": "Individual trees - Rural tree",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.4235,
+        "allocated_extent": 0,
+        "remaining_extent": 0.4235
+      },
+      {
+        "habitat": "Woodland and forest - Other woodland; broadleaved",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.94,
+        "allocated_extent": 0,
+        "remaining_extent": 0.94
+      },
+      {
+        "habitat": "Woodland and forest - Wet woodland",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.49,
+        "allocated_extent": 0,
+        "remaining_extent": 0.49
+      },
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.72,
+        "allocated_extent": 0,
+        "remaining_extent": 0.72
+      },
+      {
+        "habitat": "Woodland and forest - Other woodland; broadleaved",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 1.63,
+        "allocated_extent": 0,
+        "remaining_extent": 1.63
+      },
+      {
+        "habitat": "Grassland - Traditional orchards",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 1.94,
+        "allocated_extent": 0,
+        "remaining_extent": 1.94
+      },
+      {
+        "habitat": "Species-rich native hedgerow with trees",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.331,
+        "allocated_extent": 0,
+        "remaining_extent": 0.331
+      }
+    ]
   },
   {
     "code": "BGS-150526003",

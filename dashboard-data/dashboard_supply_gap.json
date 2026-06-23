@@ -240,6 +240,14 @@
     "utilisation_percent": 15.3
   },
   {
+    "lpa": "Cheshire East LPA",
+    "site_count": 9,
+    "registered_habitat_hectares": 93.52,
+    "allocated_habitat_area": 13.04,
+    "remaining_habitat_area": 80.47,
+    "utilisation_percent": 13.9
+  },
+  {
     "lpa": "Hertsmere LPA",
     "site_count": 1,
     "registered_habitat_hectares": 44.62,
@@ -302,14 +310,6 @@
     "allocated_habitat_area": 0.45,
     "remaining_habitat_area": 3.4,
     "utilisation_percent": 11.8
-  },
-  {
-    "lpa": "Cheshire East LPA",
-    "site_count": 9,
-    "registered_habitat_hectares": 124.93,
-    "allocated_habitat_area": 13.49,
-    "remaining_habitat_area": 111.43,
-    "utilisation_percent": 10.8
   },
   {
     "lpa": "East Lindsey LPA",
@@ -826,9 +826,9 @@
   {
     "lpa": "Cotswold LPA",
     "site_count": 4,
-    "registered_habitat_hectares": 74.85,
+    "registered_habitat_hectares": 90.92,
     "allocated_habitat_area": 0,
-    "remaining_habitat_area": 74.85,
+    "remaining_habitat_area": 90.92,
     "utilisation_percent": 0
   },
   {
@@ -962,9 +962,9 @@
   {
     "lpa": "Lake District National Park LPA",
     "site_count": 1,
-    "registered_habitat_hectares": 0,
+    "registered_habitat_hectares": 12.98,
     "allocated_habitat_area": 0,
-    "remaining_habitat_area": 0,
+    "remaining_habitat_area": 12.98,
     "utilisation_percent": 0
   },
   {
