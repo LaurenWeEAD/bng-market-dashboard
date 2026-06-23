@@ -25,26 +25,26 @@
   },
   {
     "group": "Watercourse",
-    "registered_extent": 57.72,
+    "registered_extent": 58.08,
     "allocated_extent": 5.02,
-    "available_extent": 52.7,
+    "available_extent": 53.06,
     "allocated_units": 11.62,
-    "utilisation_percent": 8.7
+    "utilisation_percent": 8.6
   },
   {
     "group": "Grassland",
-    "registered_extent": 5357.02,
-    "allocated_extent": 417.05,
-    "available_extent": 4939.97,
-    "allocated_units": 2149.3,
+    "registered_extent": 5386.73,
+    "allocated_extent": 419.11,
+    "available_extent": 4967.62,
+    "allocated_units": 2161.53,
     "utilisation_percent": 7.8
   },
   {
     "group": "Heathland and Shrub",
-    "registered_extent": 1035.17,
-    "allocated_extent": 62.21,
-    "available_extent": 972.96,
-    "allocated_units": 896.84,
+    "registered_extent": 1036.37,
+    "allocated_extent": 62.27,
+    "available_extent": 974.1,
+    "allocated_units": 897.51,
     "utilisation_percent": 6
   },
   {
@@ -57,18 +57,18 @@
   },
   {
     "group": "Woodland and Forest",
-    "registered_extent": 1003.61,
-    "allocated_extent": 50.88,
-    "available_extent": 952.73,
-    "allocated_units": 346.67,
+    "registered_extent": 1004.11,
+    "allocated_extent": 51.07,
+    "available_extent": 953.04,
+    "allocated_units": 349.57,
     "utilisation_percent": 5.1
   },
   {
     "group": "Hedgerow",
-    "registered_extent": 302.32,
-    "allocated_extent": 6.7,
-    "available_extent": 295.62,
-    "allocated_units": 34.41,
+    "registered_extent": 304.51,
+    "allocated_extent": 6.71,
+    "available_extent": 297.8,
+    "allocated_units": 34.48,
     "utilisation_percent": 2.2
   },
   {
@@ -80,18 +80,18 @@
     "utilisation_percent": 1.3
   },
   {
-    "group": "Cropland",
-    "registered_extent": 2.58,
-    "allocated_extent": 0,
-    "available_extent": 2.58,
-    "allocated_units": 0,
-    "utilisation_percent": 0
-  },
-  {
     "group": "Other Habitat",
     "registered_extent": 1.83,
     "allocated_extent": 0,
     "available_extent": 1.83,
+    "allocated_units": 0,
+    "utilisation_percent": 0
+  },
+  {
+    "group": "Cropland",
+    "registered_extent": 2.58,
+    "allocated_extent": 0,
+    "available_extent": 2.58,
     "allocated_units": 0,
     "utilisation_percent": 0
   }
