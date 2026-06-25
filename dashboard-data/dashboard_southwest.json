@@ -1,13 +1,13 @@
 [
   {
     "area": "Devon",
-    "site_count": 11,
-    "registered_habitat_hectares": 422.33,
+    "site_count": 12,
+    "registered_habitat_hectares": 431.37,
     "allocated_habitat_area": 16.81,
-    "remaining_habitat_area": 405.52,
-    "utilisation_percent": 4,
-    "registered_hedgerow_km": 14.07,
-    "registered_watercourse_km": 5.2
+    "remaining_habitat_area": 414.56,
+    "utilisation_percent": 3.9,
+    "registered_hedgerow_km": 14.34,
+    "registered_watercourse_km": 6.96
   },
   {
     "area": "Somerset",
@@ -22,7 +22,7 @@
   {
     "area": "Dorset",
     "site_count": 3,
-    "registered_habitat_hectares": 116.8,
+    "registered_habitat_hectares": 116.81,
     "allocated_habitat_area": 8.81,
     "remaining_habitat_area": 108,
     "utilisation_percent": 7.5,
