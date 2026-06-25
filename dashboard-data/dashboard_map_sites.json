@@ -7071,7 +7071,7 @@
     "authority": "North Norfolk LPA",
     "sizeHa": 12.66,
     "first_seen_date": "2026-06-24",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Heathland and shrub - Mixed scrub",
@@ -15402,7 +15402,7 @@
     "authority": "HARRY FERGUSON HOLDINGS LTD",
     "sizeHa": 53.64,
     "first_seen_date": "2026-06-24",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Heathland and shrub - Mixed scrub",
