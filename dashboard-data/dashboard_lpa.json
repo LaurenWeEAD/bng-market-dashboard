@@ -240,14 +240,6 @@
     "utilisation_percent": 14.3
   },
   {
-    "lpa": "Hambleton LPA",
-    "site_count": 3,
-    "registered_habitat_hectares": 45.44,
-    "allocated_habitat_area": 6.03,
-    "remaining_habitat_area": 39.4,
-    "utilisation_percent": 13.3
-  },
-  {
     "lpa": "Darlington LPA",
     "site_count": 2,
     "registered_habitat_hectares": 38.31,
@@ -774,6 +766,14 @@
     "allocated_habitat_area": 0,
     "remaining_habitat_area": 2.64,
     "utilisation_percent": 0.2
+  },
+  {
+    "lpa": "Hambleton LPA",
+    "site_count": 3,
+    "registered_habitat_hectares": 18.25,
+    "allocated_habitat_area": 0.03,
+    "remaining_habitat_area": 18.23,
+    "utilisation_percent": 0.1
   },
   {
     "lpa": "South Gloucestershire LPA",

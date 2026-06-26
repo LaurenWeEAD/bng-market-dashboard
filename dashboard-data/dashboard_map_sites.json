@@ -2299,7 +2299,7 @@
     "authority": "North Lincolnshire LPA",
     "sizeHa": 0.18,
     "first_seen_date": "2026-06-25",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Woodland and forest - Other woodland; broadleaved",
@@ -3118,7 +3118,7 @@
     "authority": "RSK Biocensus Limited",
     "sizeHa": 28.63,
     "first_seen_date": "2026-06-25",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Grassland - Lowland meadows",
@@ -10050,65 +10050,10 @@
     "lpa": "Hambleton LPA",
     "lnrs": "North Yorkshire and York",
     "authority": "North Yorkshire LPA",
-    "sizeHa": 26.7,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 3.95,
-        "allocated_extent": 0,
-        "remaining_extent": 3.95
-      },
-      {
-        "habitat": "Individual trees - Rural tree",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.696,
-        "allocated_extent": 0.6144,
-        "remaining_extent": 0.0816
-      },
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 17.55,
-        "allocated_extent": 4.2606,
-        "remaining_extent": 13.2894
-      },
-      {
-        "habitat": "Heathland and shrub - Mixed scrub",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 2.66,
-        "allocated_extent": 0.593,
-        "remaining_extent": 2.067
-      },
-      {
-        "habitat": "Woodland and forest - Other woodland; broadleaved",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 2.33,
-        "allocated_extent": 0.5395,
-        "remaining_extent": 1.7905
-      },
-      {
-        "habitat": "Species-rich native hedgerow",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.87,
-        "allocated_extent": 0.0051,
-        "remaining_extent": 0.8649
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-230326001",
@@ -15736,7 +15681,7 @@
     "authority": "RSK Biocensus Limited",
     "sizeHa": 9.04,
     "first_seen_date": "2026-06-25",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Grassland - Other neutral grassland",
