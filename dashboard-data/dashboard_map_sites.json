@@ -13733,7 +13733,7 @@
     "authority": "Harry Ferguson Holdings",
     "sizeHa": 21.7,
     "first_seen_date": "2026-06-26",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Heathland and shrub - Mixed scrub",
@@ -18614,7 +18614,7 @@
     "authority": "North Yorkshire LPA",
     "sizeHa": 1,
     "first_seen_date": "2026-06-26",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": []
   },
   {
