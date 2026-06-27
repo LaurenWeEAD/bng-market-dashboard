@@ -36,6 +36,24 @@
     "total_units": 26.83
   },
   {
+    "code": "BGS-091024001",
+    "lpa": "Stockton-on-Tees LPA",
+    "lnrs": "Tees Valley",
+    "planningRef": "23/2292/FUL",
+    "projectName": "BNG00147 - Wild Tees - Welwyn Way, Ingleby Barwick",
+    "first_seen_date": "2026-06-27",
+    "latest_seen_date": "2026-06-27",
+    "habitats": "Mixed scrub",
+    "habitat_groups": "Heathland and Shrub",
+    "allocated_habitat_ha": 3.3374,
+    "allocated_hedgerow_km": 0,
+    "allocated_watercourse_km": 0,
+    "habitat_units": 24.18,
+    "hedgerow_units": 0,
+    "watercourse_units": 0,
+    "total_units": 24.18
+  },
+  {
     "code": "BGS-051124001",
     "lpa": "North Norfolk LPA",
     "lnrs": "Norfolk",
@@ -95,7 +113,7 @@
     "lnrs": "Tees Valley",
     "planningRef": "25/00057/FUL",
     "projectName": "Land Between Chester Road And Presthope Road Pennywell Sunderland",
-    "first_seen_date": "2026-06-26",
+    "first_seen_date": "2026-06-27",
     "latest_seen_date": "2026-06-27",
     "habitats": "Other neutral grassland",
     "habitat_groups": "Grassland",
@@ -160,23 +178,5 @@
     "hedgerow_units": 0,
     "watercourse_units": 0,
     "total_units": 17.21
-  },
-  {
-    "code": "BGS-260225002",
-    "lpa": "Chesterfield LPA",
-    "lnrs": "South Yorkshire",
-    "planningRef": "CHE/24/00725/FUL",
-    "projectName": "Chesterfield Police Station",
-    "first_seen_date": "2026-06-26",
-    "latest_seen_date": "2026-06-27",
-    "habitats": "Open mosaic habitats on previously developed land; Other woodland; broadleaved",
-    "habitat_groups": "Urban; Woodland and Forest",
-    "allocated_habitat_ha": 2.6256,
-    "allocated_hedgerow_km": 0,
-    "allocated_watercourse_km": 0,
-    "habitat_units": 16.64,
-    "hedgerow_units": 0,
-    "watercourse_units": 0,
-    "total_units": 16.64
   }
 ]

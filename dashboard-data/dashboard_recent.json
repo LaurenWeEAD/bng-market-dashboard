@@ -1,14 +1,5 @@
 [
   {
-    "code": "BGS-240426003",
-    "title": "Biodiversity gain site",
-    "lpa": "North East Derbyshire LPA",
-    "nca": "",
-    "lnrs": "Derbyshire",
-    "gainSiteSizeHa": 21.7,
-    "first_seen_date": "2026-06-26"
-  },
-  {
     "code": "BGS-240326001",
     "title": "Biodiversity gain site",
     "lpa": "Hambleton LPA",
@@ -18,12 +9,21 @@
     "first_seen_date": "2026-06-26"
   },
   {
-    "code": "BGS-270326001",
+    "code": "BGS-240426003",
     "title": "Biodiversity gain site",
-    "lpa": "East Devon LPA",
+    "lpa": "North East Derbyshire LPA",
     "nca": "",
-    "lnrs": "Devon",
-    "gainSiteSizeHa": 9.04,
+    "lnrs": "Derbyshire",
+    "gainSiteSizeHa": 21.7,
+    "first_seen_date": "2026-06-26"
+  },
+  {
+    "code": "BGS-260326001",
+    "title": "Biodiversity gain site",
+    "lpa": "Ashford LPA",
+    "nca": "",
+    "lnrs": "Kent and Medway",
+    "gainSiteSizeHa": 28.63,
     "first_seen_date": "2026-06-25"
   },
   {
@@ -36,12 +36,12 @@
     "first_seen_date": "2026-06-25"
   },
   {
-    "code": "BGS-260326001",
+    "code": "BGS-270326001",
     "title": "Biodiversity gain site",
-    "lpa": "Ashford LPA",
+    "lpa": "East Devon LPA",
     "nca": "",
-    "lnrs": "Kent and Medway",
-    "gainSiteSizeHa": 28.63,
+    "lnrs": "Devon",
+    "gainSiteSizeHa": 9.04,
     "first_seen_date": "2026-06-25"
   },
   {
@@ -81,15 +81,6 @@
     "first_seen_date": "2026-06-19"
   },
   {
-    "code": "BGS-110326004",
-    "title": "Biodiversity gain site",
-    "lpa": "Maldon LPA",
-    "nca": "",
-    "lnrs": "Greater Essex",
-    "gainSiteSizeHa": 6.4,
-    "first_seen_date": "2026-06-18"
-  },
-  {
     "code": "BGS-230326001",
     "title": "Biodiversity gain site",
     "lpa": "North Hertfordshire LPA",
@@ -99,13 +90,13 @@
     "first_seen_date": "2026-06-18"
   },
   {
-    "code": "BGS-260126002",
+    "code": "BGS-110326004",
     "title": "Biodiversity gain site",
-    "lpa": "Cotswold LPA",
+    "lpa": "Maldon LPA",
     "nca": "",
-    "lnrs": "Gloucestershire",
-    "gainSiteSizeHa": 43.7,
-    "first_seen_date": "2026-06-16"
+    "lnrs": "Greater Essex",
+    "gainSiteSizeHa": 6.4,
+    "first_seen_date": "2026-06-18"
   },
   {
     "code": "BGS-060525001",
@@ -114,6 +105,15 @@
     "nca": "",
     "lnrs": "Cambridgeshire and Peterborough",
     "gainSiteSizeHa": 6.35,
+    "first_seen_date": "2026-06-16"
+  },
+  {
+    "code": "BGS-260126002",
+    "title": "Biodiversity gain site",
+    "lpa": "Cotswold LPA",
+    "nca": "",
+    "lnrs": "Gloucestershire",
+    "gainSiteSizeHa": 43.7,
     "first_seen_date": "2026-06-16"
   },
   {
@@ -171,15 +171,6 @@
     "first_seen_date": "2026-06-10"
   },
   {
-    "code": "BGS-130326002",
-    "title": "Biodiversity gain site",
-    "lpa": "King’s Lynn and West Norfolk LPA",
-    "nca": "",
-    "lnrs": "Norfolk",
-    "gainSiteSizeHa": 34.8,
-    "first_seen_date": "2026-06-09"
-  },
-  {
     "code": "BGS-120226002",
     "title": "Biodiversity gain site",
     "lpa": "Test Valley LPA",
@@ -189,21 +180,21 @@
     "first_seen_date": "2026-06-09"
   },
   {
+    "code": "BGS-130326002",
+    "title": "Biodiversity gain site",
+    "lpa": "King’s Lynn and West Norfolk LPA",
+    "nca": "",
+    "lnrs": "Norfolk",
+    "gainSiteSizeHa": 34.8,
+    "first_seen_date": "2026-06-09"
+  },
+  {
     "code": "BGS-060226001",
     "title": "Biodiversity gain site",
     "lpa": "North Norfolk LPA",
     "nca": "",
     "lnrs": "Norfolk",
     "gainSiteSizeHa": 0.55,
-    "first_seen_date": "2026-06-06"
-  },
-  {
-    "code": "BGS-281124001 - 05/06/2026 08:16",
-    "title": "Biodiversity gain site",
-    "lpa": "Bath and North East Somerset LPA",
-    "nca": "",
-    "lnrs": "West of England",
-    "gainSiteSizeHa": 0,
     "first_seen_date": "2026-06-06"
   },
   {
@@ -223,5 +214,14 @@
     "lnrs": "Kent and Medway",
     "gainSiteSizeHa": 40.44,
     "first_seen_date": "2026-06-03"
+  },
+  {
+    "code": "BGS-130226001",
+    "title": "Biodiversity gain site",
+    "lpa": "Test Valley LPA",
+    "nca": "",
+    "lnrs": "Hampshire",
+    "gainSiteSizeHa": 41.32,
+    "first_seen_date": "2026-05-29"
   }
 ]
