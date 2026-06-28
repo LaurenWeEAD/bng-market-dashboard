@@ -1,20 +1,20 @@
 [
   {
-    "code": "BGS-240326001",
-    "title": "Biodiversity gain site",
-    "lpa": "Hambleton LPA",
-    "nca": "",
-    "lnrs": "North Yorkshire and York",
-    "gainSiteSizeHa": 1,
-    "first_seen_date": "2026-06-26"
-  },
-  {
     "code": "BGS-240426003",
     "title": "Biodiversity gain site",
     "lpa": "North East Derbyshire LPA",
     "nca": "",
     "lnrs": "Derbyshire",
     "gainSiteSizeHa": 21.7,
+    "first_seen_date": "2026-06-26"
+  },
+  {
+    "code": "BGS-240326001",
+    "title": "Biodiversity gain site",
+    "lpa": "Hambleton LPA",
+    "nca": "",
+    "lnrs": "North Yorkshire and York",
+    "gainSiteSizeHa": 1,
     "first_seen_date": "2026-06-26"
   },
   {
@@ -99,21 +99,21 @@
     "first_seen_date": "2026-06-18"
   },
   {
-    "code": "BGS-060525001",
-    "title": "Biodiversity gain site",
-    "lpa": "South Cambridgeshire LPA",
-    "nca": "",
-    "lnrs": "Cambridgeshire and Peterborough",
-    "gainSiteSizeHa": 6.35,
-    "first_seen_date": "2026-06-16"
-  },
-  {
     "code": "BGS-260126002",
     "title": "Biodiversity gain site",
     "lpa": "Cotswold LPA",
     "nca": "",
     "lnrs": "Gloucestershire",
     "gainSiteSizeHa": 43.7,
+    "first_seen_date": "2026-06-16"
+  },
+  {
+    "code": "BGS-060525001",
+    "title": "Biodiversity gain site",
+    "lpa": "South Cambridgeshire LPA",
+    "nca": "",
+    "lnrs": "Cambridgeshire and Peterborough",
+    "gainSiteSizeHa": 6.35,
     "first_seen_date": "2026-06-16"
   },
   {
@@ -135,24 +135,6 @@
     "first_seen_date": "2026-06-12"
   },
   {
-    "code": "BGS-060326001",
-    "title": "Biodiversity gain site",
-    "lpa": "Bradford LPA",
-    "nca": "",
-    "lnrs": "West Yorkshire",
-    "gainSiteSizeHa": 44.9,
-    "first_seen_date": "2026-06-10"
-  },
-  {
-    "code": "BGS-150526003",
-    "title": "Biodiversity gain site",
-    "lpa": "Cheshire East LPA",
-    "nca": "",
-    "lnrs": "Cheshire",
-    "gainSiteSizeHa": 4.3,
-    "first_seen_date": "2026-06-10"
-  },
-  {
     "code": "BGS-150526002",
     "title": "Biodiversity gain site",
     "lpa": "Cheshire East LPA",
@@ -168,6 +150,24 @@
     "nca": "",
     "lnrs": "Cheshire",
     "gainSiteSizeHa": 13.74,
+    "first_seen_date": "2026-06-10"
+  },
+  {
+    "code": "BGS-150526003",
+    "title": "Biodiversity gain site",
+    "lpa": "Cheshire East LPA",
+    "nca": "",
+    "lnrs": "Cheshire",
+    "gainSiteSizeHa": 4.3,
+    "first_seen_date": "2026-06-10"
+  },
+  {
+    "code": "BGS-060326001",
+    "title": "Biodiversity gain site",
+    "lpa": "Bradford LPA",
+    "nca": "",
+    "lnrs": "West Yorkshire",
+    "gainSiteSizeHa": 44.9,
     "first_seen_date": "2026-06-10"
   },
   {
