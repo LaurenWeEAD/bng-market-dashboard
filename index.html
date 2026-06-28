@@ -425,26 +425,39 @@ table {
   <h3>Habitat Market Utilisation</h3>
 
 <p>
-  Allocated biodiversity units and area/length utilisation by broad habitat group. This shows where observed BNG allocation activity is highest, alongside the proportion of registered area or length already allocated.
+  Area/length utilisation by broad habitat group. This shows which broad habitat groups have the highest proportion of registered area or length already allocated.
 </p>
 
 <div class="utilisation-table-wrap">
   <table class="utilisation-table">
-    <thead>
-      <tr>
-        <th>Habitat group</th>
-        <th class="right">Allocated units</th>
-        <th>Area/length utilisation</th>
-      </tr>
-    </thead>
-    <tbody id="utilisation-table">
-      <tr><td colspan="3">Loading...</td></tr>
-    </tbody>
+<thead>
+  <tr>
+    <th>Habitat group</th>
+    <th>Area/length utilisation</th>
+  </tr>
+</thead>
+<tbody id="utilisation-table">
+  <tr><td colspan="2">Loading...</td></tr>
+</tbody>
   </table>
 </div>
 
+  <h4 style="margin-top:24px;">Allocated biodiversity units by category</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th>Unit category</th>
+      <th class="right">Allocated units</th>
+    </tr>
+  </thead>
+  <tbody id="allocated-units-category-table">
+    <tr><td colspan="2">Loading...</td></tr>
+  </tbody>
+</table>
+  
 <p class="note">
-  Habitat groups are broad habitat categories derived from habitat descriptions and habitat type fields in the public register data. Allocated units are associated with habitat groups from allocation component rows and are deduplicated within each group; where a single allocation unit value relates to multiple habitat components, group-level unit figures are indicative and should not be summed across groups. The utilisation bar shows the proportion of registered area or length already allocated. Other Habitat includes records that could not be confidently assigned to a main broad habitat category from the available description.
+  Habitat groups are broad habitat categories derived from habitat descriptions and habitat type fields in the public register data. The utilisation bar shows the proportion of registered area or length already allocated. Allocated biodiversity units are reported separately by unit category because allocation unit values can relate to multiple habitat components and cannot be reliably apportioned to individual habitat groups. Other Habitat includes records that could not be confidently assigned to a main broad habitat category from the available description.
 </p>
 </div>
 
@@ -765,12 +778,10 @@ document.getElementById("market-value-table").innerHTML = `
 document.getElementById("utilisation-table").innerHTML = utilisation.map(row => {
   const unit = unitForGroup(row.group);
   const utilisationPercent = Math.max(0, Math.min(Number(row.utilisation_percent || 0), 100));
-  const allocatedUnits = Number(row.allocated_units || 0);
 
   return `
     <tr>
       <td class="utilisation-group">${displayMarketGroup(row.group)}</td>
-      <td class="right"><strong>${fmtNum(allocatedUnits, 2)}</strong></td>
       <td class="utilisation-percent-cell">
         <div class="utilisation-percent-line">
           <span class="utilisation-percent-value">${fmtNum(row.utilisation_percent, 1)}%</span>
@@ -785,6 +796,21 @@ document.getElementById("utilisation-table").innerHTML = utilisation.map(row => 
     </tr>
   `;
 }).join("");
+
+document.getElementById("allocated-units-category-table").innerHTML = `
+  <tr>
+    <td>Habitat units</td>
+    <td class="right"><strong>${fmtNum(summary.allocated_habitat_units, 2)}</strong></td>
+  </tr>
+  <tr>
+    <td>Hedgerow units</td>
+    <td class="right"><strong>${fmtNum(summary.allocated_hedgerow_units, 2)}</strong></td>
+  </tr>
+  <tr>
+    <td>Watercourse units</td>
+    <td class="right"><strong>${fmtNum(summary.allocated_watercourse_units, 2)}</strong></td>
+  </tr>
+`;
 
 const totalAllocationsLast30 = opportunityAreas.reduce(
 (sum, row) => sum + Number(row.allocations_last_30_days || 0),
