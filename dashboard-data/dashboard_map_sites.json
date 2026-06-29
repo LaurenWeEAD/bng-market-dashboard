@@ -7934,10 +7934,56 @@
     "lpa": "Central Bedfordshire LPA",
     "lnrs": "Bedfordshire",
     "authority": "Harry Ferguson Holdings",
-    "sizeHa": 0,
+    "sizeHa": 7.06,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Individual trees - Rural tree",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.0611,
+        "allocated_extent": 0.0391,
+        "remaining_extent": 0.022
+      },
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 1.0154,
+        "allocated_extent": 0.6216,
+        "remaining_extent": 0.3938
+      },
+      {
+        "habitat": "Grassland - Traditional orchards",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.3211,
+        "allocated_extent": 0.0883,
+        "remaining_extent": 0.2328
+      },
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 1.6408,
+        "allocated_extent": 1.6364,
+        "remaining_extent": 0.0044
+      },
+      {
+        "habitat": "Species-rich native hedgerow with trees - associated with bank or ditch",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.517,
+        "allocated_extent": 0.0416,
+        "remaining_extent": 0.4754
+      }
+    ]
   },
   {
     "code": "BGS-260225002",

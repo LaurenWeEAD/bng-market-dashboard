@@ -312,6 +312,14 @@
     "utilisation_percent": 10.8
   },
   {
+    "lpa": "Central Bedfordshire LPA",
+    "site_count": 3,
+    "registered_habitat_hectares": 31.13,
+    "allocated_habitat_area": 3.28,
+    "remaining_habitat_area": 27.85,
+    "utilisation_percent": 10.5
+  },
+  {
     "lpa": "South Cambridgeshire LPA",
     "site_count": 6,
     "registered_habitat_hectares": 144.2,
@@ -590,14 +598,6 @@
     "allocated_habitat_area": 0.72,
     "remaining_habitat_area": 21.17,
     "utilisation_percent": 3.3
-  },
-  {
-    "lpa": "Central Bedfordshire LPA",
-    "site_count": 3,
-    "registered_habitat_hectares": 28.1,
-    "allocated_habitat_area": 0.9,
-    "remaining_habitat_area": 27.2,
-    "utilisation_percent": 3.2
   },
   {
     "lpa": "Amber Valley LPA",
