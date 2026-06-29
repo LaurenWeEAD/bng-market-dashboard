@@ -27,21 +27,21 @@
     "first_seen_date": "2026-06-25"
   },
   {
-    "code": "BGS-160226001",
-    "title": "Biodiversity gain site",
-    "lpa": "North Lincolnshire LPA",
-    "nca": "",
-    "lnrs": "Greater Lincolnshire",
-    "gainSiteSizeHa": 0.18,
-    "first_seen_date": "2026-06-25"
-  },
-  {
     "code": "BGS-270326001",
     "title": "Biodiversity gain site",
     "lpa": "East Devon LPA",
     "nca": "",
     "lnrs": "Devon",
     "gainSiteSizeHa": 9.04,
+    "first_seen_date": "2026-06-25"
+  },
+  {
+    "code": "BGS-160226001",
+    "title": "Biodiversity gain site",
+    "lpa": "North Lincolnshire LPA",
+    "nca": "",
+    "lnrs": "Greater Lincolnshire",
+    "gainSiteSizeHa": 0.18,
     "first_seen_date": "2026-06-25"
   },
   {
@@ -144,15 +144,6 @@
     "first_seen_date": "2026-06-10"
   },
   {
-    "code": "BGS-150526001",
-    "title": "Biodiversity gain site",
-    "lpa": "Cheshire East LPA",
-    "nca": "",
-    "lnrs": "Cheshire",
-    "gainSiteSizeHa": 13.74,
-    "first_seen_date": "2026-06-10"
-  },
-  {
     "code": "BGS-150526003",
     "title": "Biodiversity gain site",
     "lpa": "Cheshire East LPA",
@@ -168,6 +159,15 @@
     "nca": "",
     "lnrs": "West Yorkshire",
     "gainSiteSizeHa": 44.9,
+    "first_seen_date": "2026-06-10"
+  },
+  {
+    "code": "BGS-150526001",
+    "title": "Biodiversity gain site",
+    "lpa": "Cheshire East LPA",
+    "nca": "",
+    "lnrs": "Cheshire",
+    "gainSiteSizeHa": 13.74,
     "first_seen_date": "2026-06-10"
   },
   {
