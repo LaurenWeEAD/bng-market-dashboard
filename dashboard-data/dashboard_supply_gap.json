@@ -224,14 +224,6 @@
     "utilisation_percent": 17.6
   },
   {
-    "lpa": "Milton Keynes LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 37.91,
-    "allocated_habitat_area": 6.68,
-    "remaining_habitat_area": 31.24,
-    "utilisation_percent": 17.6
-  },
-  {
     "lpa": "North Norfolk LPA",
     "site_count": 3,
     "registered_habitat_hectares": 15.34,
@@ -1085,6 +1077,14 @@
     "registered_habitat_hectares": 0.2,
     "allocated_habitat_area": 0,
     "remaining_habitat_area": 0.2,
+    "utilisation_percent": 0
+  },
+  {
+    "lpa": "Milton Keynes LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 0,
+    "allocated_habitat_area": 0,
+    "remaining_habitat_area": 0,
     "utilisation_percent": 0
   },
   {

@@ -17166,47 +17166,10 @@
     "lpa": "Milton Keynes LPA",
     "lnrs": "Buckinghamshire and Milton Keynes",
     "authority": "RSK Biocensus Limited",
-    "sizeHa": 38,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 34.5866,
-        "allocated_extent": 5.5478,
-        "remaining_extent": 29.0388
-      },
-      {
-        "habitat": "Grassland - Lowland meadows",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 1.002,
-        "allocated_extent": 0.7531,
-        "remaining_extent": 0.2489
-      },
-      {
-        "habitat": "Heathland and shrub - Mixed scrub",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 2.3254,
-        "allocated_extent": 0.375,
-        "remaining_extent": 1.9504
-      },
-      {
-        "habitat": "Species-rich native hedgerow",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 1.3565,
-        "allocated_extent": 0.2019,
-        "remaining_extent": 1.1546
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-191125001",

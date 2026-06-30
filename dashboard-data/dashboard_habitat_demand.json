@@ -3,11 +3,11 @@
     "habitat": "Other neutral grassland",
     "habitat_group": "Grassland",
     "habitat_type": "habitat",
-    "registered_extent": 3994.14,
-    "allocated_extent": 328.54,
-    "remaining_extent": 3665.6,
-    "allocation_count": 1304,
-    "allocation_row_count": 1385,
+    "registered_extent": 3959.55,
+    "allocated_extent": 322.99,
+    "remaining_extent": 3636.57,
+    "allocation_count": 1270,
+    "allocation_row_count": 1349,
     "utilisation_percent": 8.2,
     "demand_score": 100,
     "pressure_score": 8.2,
@@ -33,30 +33,30 @@
     "habitat": "Mixed scrub",
     "habitat_group": "Heathland and Shrub",
     "habitat_type": "habitat",
-    "registered_extent": 996.11,
-    "allocated_extent": 66.43,
-    "remaining_extent": 929.68,
-    "allocation_count": 441,
-    "allocation_row_count": 453,
-    "utilisation_percent": 6.7,
-    "demand_score": 27.7,
-    "pressure_score": 6.7,
-    "opportunity_score": 19.3,
+    "registered_extent": 993.79,
+    "allocated_extent": 66.06,
+    "remaining_extent": 927.73,
+    "allocation_count": 435,
+    "allocation_row_count": 447,
+    "utilisation_percent": 6.6,
+    "demand_score": 28,
+    "pressure_score": 6.6,
+    "opportunity_score": 19.5,
     "opportunity_rating": "Emerging"
   },
   {
     "habitat": "Lowland meadows",
     "habitat_group": "Grassland",
     "habitat_type": "habitat",
-    "registered_extent": 717.43,
-    "allocated_extent": 48.05,
-    "remaining_extent": 669.38,
-    "allocation_count": 462,
-    "allocation_row_count": 482,
-    "utilisation_percent": 6.7,
-    "demand_score": 26.1,
-    "pressure_score": 6.7,
-    "opportunity_score": 18.3,
+    "registered_extent": 716.43,
+    "allocated_extent": 47.3,
+    "remaining_extent": 669.13,
+    "allocation_count": 457,
+    "allocation_row_count": 477,
+    "utilisation_percent": 6.6,
+    "demand_score": 26.4,
+    "pressure_score": 6.6,
+    "opportunity_score": 18.5,
     "opportunity_rating": "Emerging"
   },
   {
@@ -69,9 +69,9 @@
     "allocation_count": 203,
     "allocation_row_count": 205,
     "utilisation_percent": 14.3,
-    "demand_score": 13,
+    "demand_score": 13.3,
     "pressure_score": 14.3,
-    "opportunity_score": 13.5,
+    "opportunity_score": 13.7,
     "opportunity_rating": "Low"
   },
   {
@@ -116,7 +116,7 @@
     "utilisation_percent": 14,
     "demand_score": 3.6,
     "pressure_score": 14,
-    "opportunity_score": 7.7,
+    "opportunity_score": 7.8,
     "opportunity_rating": "Low"
   },
   {
@@ -129,9 +129,9 @@
     "allocation_count": 78,
     "allocation_row_count": 87,
     "utilisation_percent": 11.5,
-    "demand_score": 3.8,
+    "demand_score": 3.9,
     "pressure_score": 11.5,
-    "opportunity_score": 6.9,
+    "opportunity_score": 7,
     "opportunity_rating": "Low"
   },
   {
@@ -144,7 +144,7 @@
     "allocation_count": 5,
     "allocation_row_count": 6,
     "utilisation_percent": 13.2,
-    "demand_score": 0.9,
+    "demand_score": 1,
     "pressure_score": 13.2,
     "opportunity_score": 5.9,
     "opportunity_rating": "Low"
@@ -174,9 +174,9 @@
     "allocation_count": 46,
     "allocation_row_count": 52,
     "utilisation_percent": 5.7,
-    "demand_score": 5.2,
+    "demand_score": 5.3,
     "pressure_score": 5.7,
-    "opportunity_score": 5.4,
+    "opportunity_score": 5.5,
     "opportunity_rating": "Low"
   },
   {
@@ -189,9 +189,9 @@
     "allocation_count": 69,
     "allocation_row_count": 72,
     "utilisation_percent": 4.9,
-    "demand_score": 5.3,
+    "demand_score": 5.4,
     "pressure_score": 4.9,
-    "opportunity_score": 5.1,
+    "opportunity_score": 5.2,
     "opportunity_rating": "Low"
   },
   {
@@ -204,24 +204,9 @@
     "allocation_count": 41,
     "allocation_row_count": 41,
     "utilisation_percent": 9,
-    "demand_score": 1.9,
+    "demand_score": 2,
     "pressure_score": 9,
     "opportunity_score": 4.8,
-    "opportunity_rating": "Low"
-  },
-  {
-    "habitat": "Species-rich native hedgerow",
-    "habitat_group": "Hedgerow",
-    "habitat_type": "hedgerow",
-    "registered_extent": 97.8,
-    "allocated_extent": 2.39,
-    "remaining_extent": 95.41,
-    "allocation_count": 132,
-    "allocation_row_count": 133,
-    "utilisation_percent": 2.4,
-    "demand_score": 5.9,
-    "pressure_score": 2.4,
-    "opportunity_score": 4.5,
     "opportunity_rating": "Low"
   },
   {
@@ -240,6 +225,36 @@
     "opportunity_rating": "Low"
   },
   {
+    "habitat": "Species-rich native hedgerow",
+    "habitat_group": "Hedgerow",
+    "habitat_type": "hedgerow",
+    "registered_extent": 96.44,
+    "allocated_extent": 2.19,
+    "remaining_extent": 94.25,
+    "allocation_count": 117,
+    "allocation_row_count": 118,
+    "utilisation_percent": 2.3,
+    "demand_score": 5.4,
+    "pressure_score": 2.3,
+    "opportunity_score": 4.1,
+    "opportunity_rating": "Low"
+  },
+  {
+    "habitat": "Floodplain wetland mosaic and CFGM",
+    "habitat_group": "Grassland",
+    "habitat_type": "habitat",
+    "registered_extent": 263.4,
+    "allocated_extent": 11.7,
+    "remaining_extent": 251.7,
+    "allocation_count": 43,
+    "allocation_row_count": 45,
+    "utilisation_percent": 4.4,
+    "demand_score": 3.5,
+    "pressure_score": 4.4,
+    "opportunity_score": 3.9,
+    "opportunity_rating": "Low"
+  },
+  {
     "habitat": "Modified grassland",
     "habitat_group": "Grassland",
     "habitat_type": "habitat",
@@ -255,21 +270,6 @@
     "opportunity_rating": "Low"
   },
   {
-    "habitat": "Floodplain wetland mosaic and CFGM",
-    "habitat_group": "Grassland",
-    "habitat_type": "habitat",
-    "registered_extent": 263.4,
-    "allocated_extent": 11.7,
-    "remaining_extent": 251.7,
-    "allocation_count": 43,
-    "allocation_row_count": 45,
-    "utilisation_percent": 4.4,
-    "demand_score": 3.4,
-    "pressure_score": 4.4,
-    "opportunity_score": 3.8,
-    "opportunity_rating": "Low"
-  },
-  {
     "habitat": "Species-rich native hedgerow with trees",
     "habitat_group": "Hedgerow",
     "habitat_type": "hedgerow",
@@ -279,9 +279,9 @@
     "allocation_count": 117,
     "allocation_row_count": 117,
     "utilisation_percent": 1.4,
-    "demand_score": 5.2,
+    "demand_score": 5.4,
     "pressure_score": 1.4,
-    "opportunity_score": 3.7,
+    "opportunity_score": 3.8,
     "opportunity_rating": "Low"
   },
   {
@@ -311,7 +311,7 @@
     "utilisation_percent": 4.9,
     "demand_score": 1,
     "pressure_score": 4.9,
-    "opportunity_score": 2.5,
+    "opportunity_score": 2.6,
     "opportunity_rating": "Low"
   },
   {
@@ -339,7 +339,7 @@
     "allocation_count": 4,
     "allocation_row_count": 4,
     "utilisation_percent": 4.7,
-    "demand_score": 0.5,
+    "demand_score": 0.6,
     "pressure_score": 4.7,
     "opportunity_score": 2.2,
     "opportunity_rating": "Low"
@@ -401,7 +401,7 @@
     "utilisation_percent": 1.7,
     "demand_score": 1.6,
     "pressure_score": 1.7,
-    "opportunity_score": 1.6,
+    "opportunity_score": 1.7,
     "opportunity_rating": "Low"
   },
   {
@@ -416,7 +416,7 @@
     "utilisation_percent": 3,
     "demand_score": 0.7,
     "pressure_score": 3,
-    "opportunity_score": 1.6,
+    "opportunity_score": 1.7,
     "opportunity_rating": "Low"
   },
   {
