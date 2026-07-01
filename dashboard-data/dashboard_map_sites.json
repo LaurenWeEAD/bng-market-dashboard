@@ -7638,10 +7638,29 @@
     "lpa": "North Lincolnshire LPA",
     "lnrs": "Greater Lincolnshire",
     "authority": "North Lincolnshire LPA",
-    "sizeHa": 0,
+    "sizeHa": 0.18,
     "first_seen_date": "2026-06-25",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Woodland and forest - Other woodland; broadleaved",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.18,
+        "allocated_extent": 0,
+        "remaining_extent": 0.18
+      },
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.02,
+        "allocated_extent": 0,
+        "remaining_extent": 0.02
+      }
+    ]
   },
   {
     "code": "BGS-170725003",
@@ -19645,9 +19664,154 @@
     "lpa": "South Kesteven LPA",
     "lnrs": "Greater Lincolnshire",
     "authority": "RSK Biocensus Limited",
-    "sizeHa": 0,
+    "sizeHa": 492.89,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 45.0277,
+        "allocated_extent": 0,
+        "remaining_extent": 45.0277
+      },
+      {
+        "habitat": "Woodland and forest - Other woodland; broadleaved",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 4.962,
+        "allocated_extent": 0,
+        "remaining_extent": 4.962
+      },
+      {
+        "habitat": "Individual trees - Rural tree",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.163,
+        "allocated_extent": 0,
+        "remaining_extent": 0.163
+      },
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Poor",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 45.0277,
+        "allocated_extent": 0,
+        "remaining_extent": 45.0277
+      },
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 90.0605,
+        "allocated_extent": 0.0332,
+        "remaining_extent": 90.0273
+      },
+      {
+        "habitat": "Grassland - Traditional orchards",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 8.091,
+        "allocated_extent": 0,
+        "remaining_extent": 8.091
+      },
+      {
+        "habitat": "Woodland and forest - Wet woodland",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 1.885,
+        "allocated_extent": 0,
+        "remaining_extent": 1.885
+      },
+      {
+        "habitat": "Grassland - Floodplain wetland mosaic and CFGM",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 7.901,
+        "allocated_extent": 0,
+        "remaining_extent": 7.901
+      },
+      {
+        "habitat": "Species-rich native hedgerow",
+        "condition": "Moderate",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.83,
+        "allocated_extent": 0.0239,
+        "remaining_extent": 0.8061
+      },
+      {
+        "habitat": "Species-rich native hedgerow with trees",
+        "condition": "Moderate",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.62,
+        "allocated_extent": 0,
+        "remaining_extent": 0.62
+      },
+      {
+        "habitat": "Other rivers and streams",
+        "condition": "Fairly Good",
+        "habitat_type": "watercourse",
+        "unit": "km",
+        "proposed_extent": 0.474,
+        "allocated_extent": 0,
+        "remaining_extent": 0.474
+      },
+      {
+        "habitat": "Other Rivers and Steams",
+        "condition": "Fairly Poor",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.501,
+        "allocated_extent": 0,
+        "remaining_extent": 0.501
+      },
+      {
+        "habitat": "Other rivers and streams",
+        "condition": "Fairly Poor",
+        "habitat_type": "watercourse",
+        "unit": "km",
+        "proposed_extent": 0.556,
+        "allocated_extent": 0,
+        "remaining_extent": 0.556
+      },
+      {
+        "habitat": "Other Rivers and Steams",
+        "condition": "Fairly Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.344,
+        "allocated_extent": 0,
+        "remaining_extent": 0.344
+      },
+      {
+        "habitat": "Other Rivers and Steams",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.984,
+        "allocated_extent": 0,
+        "remaining_extent": 0.984
+      },
+      {
+        "habitat": "Other rivers and streams",
+        "condition": "Moderate",
+        "habitat_type": "watercourse",
+        "unit": "km",
+        "proposed_extent": 0.451,
+        "allocated_extent": 0.0678,
+        "remaining_extent": 0.3832
+      }
+    ]
   }
 ]
