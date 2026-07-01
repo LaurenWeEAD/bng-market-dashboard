@@ -10138,10 +10138,29 @@
     "lpa": "Cherwell LPA",
     "lnrs": "Oxfordshire",
     "authority": "Cherwell LPA",
-    "sizeHa": 0,
+    "sizeHa": 21.07,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Grassland - Floodplain wetland mosaic and CFGM",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 15.6296,
+        "allocated_extent": 0,
+        "remaining_extent": 15.6296
+      },
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 5.4448,
+        "allocated_extent": 0,
+        "remaining_extent": 5.4448
+      }
+    ]
   },
   {
     "code": "BGS-101024004",
@@ -13872,7 +13891,7 @@
     "authority": "North Yorkshire LPA",
     "sizeHa": 30.77,
     "first_seen_date": "2026-06-30",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Grassland - Lowland meadows",
