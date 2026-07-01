@@ -26,25 +26,25 @@
   {
     "group": "Watercourse",
     "registered_extent": 61.23,
-    "allocated_extent": 5.2,
-    "available_extent": 56.03,
-    "allocated_units": 12.14,
+    "allocated_extent": 5.21,
+    "available_extent": 56.02,
+    "allocated_units": 12.15,
     "utilisation_percent": 8.5
   },
   {
     "group": "Grassland",
     "registered_extent": 5546.81,
-    "allocated_extent": 441.38,
-    "available_extent": 5105.43,
-    "allocated_units": 2285.11,
+    "allocated_extent": 443.54,
+    "available_extent": 5103.27,
+    "allocated_units": 2297.58,
     "utilisation_percent": 8
   },
   {
     "group": "Heathland and Shrub",
     "registered_extent": 1059.71,
-    "allocated_extent": 66.98,
-    "available_extent": 992.73,
-    "allocated_units": 955.86,
+    "allocated_extent": 66.99,
+    "available_extent": 992.72,
+    "allocated_units": 956.33,
     "utilisation_percent": 6.3
   },
   {
@@ -74,9 +74,9 @@
   {
     "group": "Hedgerow",
     "registered_extent": 320.35,
-    "allocated_extent": 6.95,
-    "available_extent": 313.4,
-    "allocated_units": 36,
+    "allocated_extent": 7.04,
+    "available_extent": 313.31,
+    "allocated_units": 36.29,
     "utilisation_percent": 2.2
   },
   {
