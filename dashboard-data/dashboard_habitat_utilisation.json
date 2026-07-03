@@ -9,9 +9,9 @@
   },
   {
     "group": "Individual Trees",
-    "registered_extent": 48.17,
+    "registered_extent": 48.11,
     "allocated_extent": 6.97,
-    "available_extent": 41.2,
+    "available_extent": 41.14,
     "allocated_units": 110.23,
     "utilisation_percent": 14.5
   },
@@ -33,18 +33,18 @@
   },
   {
     "group": "Grassland",
-    "registered_extent": 5590.8,
-    "allocated_extent": 445.42,
-    "available_extent": 5145.38,
-    "allocated_units": 2314.32,
+    "registered_extent": 5570.81,
+    "allocated_extent": 444.96,
+    "available_extent": 5125.85,
+    "allocated_units": 2310.84,
     "utilisation_percent": 8
   },
   {
     "group": "Heathland and Shrub",
-    "registered_extent": 1066.09,
-    "allocated_extent": 68.04,
-    "available_extent": 998.05,
-    "allocated_units": 964.08,
+    "registered_extent": 1058.66,
+    "allocated_extent": 67.89,
+    "available_extent": 990.77,
+    "allocated_units": 962.83,
     "utilisation_percent": 6.4
   },
   {
@@ -57,11 +57,11 @@
   },
   {
     "group": "Woodland and Forest",
-    "registered_extent": 1024.99,
+    "registered_extent": 1023.34,
     "allocated_extent": 51.75,
-    "available_extent": 973.24,
+    "available_extent": 971.59,
     "allocated_units": 352.15,
-    "utilisation_percent": 5
+    "utilisation_percent": 5.1
   },
   {
     "group": "Other Habitat",

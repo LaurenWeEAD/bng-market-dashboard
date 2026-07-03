@@ -272,6 +272,14 @@
     "utilisation_percent": 13.3
   },
   {
+    "lpa": "South Oxfordshire LPA",
+    "site_count": 2,
+    "registered_habitat_hectares": 14.21,
+    "allocated_habitat_area": 1.76,
+    "remaining_habitat_area": 12.45,
+    "utilisation_percent": 12.4
+  },
+  {
     "lpa": "Mid Devon LPA",
     "site_count": 2,
     "registered_habitat_hectares": 67.37,
@@ -366,14 +374,6 @@
     "allocated_habitat_area": 5.33,
     "remaining_habitat_area": 50.53,
     "utilisation_percent": 9.5
-  },
-  {
-    "lpa": "South Oxfordshire LPA",
-    "site_count": 2,
-    "registered_habitat_hectares": 25.57,
-    "allocated_habitat_area": 2.34,
-    "remaining_habitat_area": 23.23,
-    "utilisation_percent": 9.2
   },
   {
     "lpa": "Mid Sussex LPA",
@@ -528,6 +528,14 @@
     "utilisation_percent": 4.8
   },
   {
+    "lpa": "Aylesbury Vale LPA",
+    "site_count": 6,
+    "registered_habitat_hectares": 132.06,
+    "allocated_habitat_area": 5.66,
+    "remaining_habitat_area": 126.41,
+    "utilisation_percent": 4.3
+  },
+  {
     "lpa": "Dover LPA",
     "site_count": 1,
     "registered_habitat_hectares": 35.4,
@@ -550,14 +558,6 @@
     "allocated_habitat_area": 0.1,
     "remaining_habitat_area": 2.55,
     "utilisation_percent": 3.9
-  },
-  {
-    "lpa": "Aylesbury Vale LPA",
-    "site_count": 6,
-    "registered_habitat_hectares": 149.83,
-    "allocated_habitat_area": 5.69,
-    "remaining_habitat_area": 144.13,
-    "utilisation_percent": 3.8
   },
   {
     "lpa": "East Suffolk LPA",

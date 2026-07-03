@@ -7071,38 +7071,10 @@
     "lpa": "South Oxfordshire LPA",
     "lnrs": "Oxfordshire",
     "authority": "Harry Ferguson Holdings Limited",
-    "sizeHa": 11.36,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 5.2555,
-        "allocated_extent": 0.427,
-        "remaining_extent": 4.8285
-      },
-      {
-        "habitat": "Heathland and shrub - Mixed scrub",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 5.0847,
-        "allocated_extent": 0.152,
-        "remaining_extent": 4.9327
-      },
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 1.0207,
-        "allocated_extent": 0,
-        "remaining_extent": 1.0207
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-260225002",
@@ -10968,7 +10940,7 @@
     "authority": "THE LIFESCAPE PROJECT LIMITED",
     "sizeHa": 20.06,
     "first_seen_date": "2026-07-02",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Individual trees - Rural tree",
@@ -14008,7 +13980,7 @@
     "authority": "Plantlife International",
     "sizeHa": 29.94,
     "first_seen_date": "2026-07-02",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Woodland and forest - Other woodland; broadleaved",
@@ -16266,7 +16238,7 @@
     "authority": "Somerset LPA",
     "sizeHa": 7.95,
     "first_seen_date": "2026-07-02",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Grassland - Lowland meadows",
@@ -18953,65 +18925,10 @@
     "lpa": "Aylesbury Vale LPA",
     "lnrs": "Buckinghamshire and Milton Keynes",
     "authority": "Buckinghamshire LPA",
-    "sizeHa": 19.08,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Woodland and forest - Other woodland; broadleaved",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 1.649,
-        "allocated_extent": 0,
-        "remaining_extent": 1.649
-      },
-      {
-        "habitat": "Grassland - Floodplain wetland mosaic and CFGM",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 7.216,
-        "allocated_extent": 0.038,
-        "remaining_extent": 7.178
-      },
-      {
-        "habitat": "Individual trees - Rural tree",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.061,
-        "allocated_extent": 0,
-        "remaining_extent": 0.061
-      },
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 2.921,
-        "allocated_extent": 0,
-        "remaining_extent": 2.921
-      },
-      {
-        "habitat": "Heathland and shrub - Mixed scrub",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 2.346,
-        "allocated_extent": 0,
-        "remaining_extent": 2.346
-      },
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 3.57,
-        "allocated_extent": 0,
-        "remaining_extent": 3.57
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-141125001",
