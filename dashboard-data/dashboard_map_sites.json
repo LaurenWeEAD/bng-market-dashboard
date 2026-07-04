@@ -9479,7 +9479,7 @@
     "authority": "RSK Biocensus Limited",
     "sizeHa": 31.52,
     "first_seen_date": "2026-07-03",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Grassland - Other neutral grassland",
