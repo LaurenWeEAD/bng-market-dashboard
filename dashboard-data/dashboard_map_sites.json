@@ -4816,7 +4816,7 @@
     "authority": "HARRY FERGUSON HOLDINGS LTD",
     "sizeHa": 33.9,
     "first_seen_date": "2026-07-04",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Grassland - Lowland meadows",
@@ -8667,7 +8667,7 @@
     "authority": "Harry Ferguson Holdings Limited",
     "sizeHa": 29.96,
     "first_seen_date": "2026-07-04",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Heathland and shrub - Mixed scrub",
@@ -8856,7 +8856,7 @@
     "authority": "Dartford LPA, Kent County Council",
     "sizeHa": 0.84,
     "first_seen_date": "2026-07-04",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": []
   },
   {
@@ -11651,29 +11651,10 @@
     "lpa": "Aylesbury Vale LPA",
     "lnrs": "Buckinghamshire and Milton Keynes",
     "authority": "Buckinghamshire LPA",
-    "sizeHa": 19.74,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 11.9,
-        "allocated_extent": 0.9675,
-        "remaining_extent": 10.9325
-      },
-      {
-        "habitat": "Grassland - Lowland meadows",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 7.84,
-        "allocated_extent": 2.1842,
-        "remaining_extent": 5.6558
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-200825002",
@@ -15016,7 +14997,7 @@
     "authority": "Stroud LPA",
     "sizeHa": 17.23,
     "first_seen_date": "2026-07-04",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Woodland and forest - Other woodland; broadleaved",
@@ -19332,7 +19313,7 @@
     "authority": "Dover LPA",
     "sizeHa": 23.85,
     "first_seen_date": "2026-07-04",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Heathland and shrub - Mixed scrub",
@@ -19654,92 +19635,10 @@
     "lpa": "East Cambridgeshire LPA",
     "lnrs": "Cambridgeshire and Peterborough",
     "authority": "East Cambridgeshire LPA",
-    "sizeHa": 12.63,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 11.045,
-        "allocated_extent": 1.9698,
-        "remaining_extent": 9.0752
-      },
-      {
-        "habitat": "Lakes - Ponds (non-priority habitat)",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.797,
-        "allocated_extent": 0,
-        "remaining_extent": 0.797
-      },
-      {
-        "habitat": "Individual trees - Rural tree",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.228,
-        "allocated_extent": 0.2029,
-        "remaining_extent": 0.0251
-      },
-      {
-        "habitat": "Woodland and forest - Other woodland; mixed",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.426,
-        "allocated_extent": 0.1,
-        "remaining_extent": 0.326
-      },
-      {
-        "habitat": "Woodland and forest - Other coniferous woodland",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.048,
-        "allocated_extent": 0,
-        "remaining_extent": 0.048
-      },
-      {
-        "habitat": "Heathland and shrub - Willow scrub",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.11,
-        "allocated_extent": 0.011,
-        "remaining_extent": 0.099
-      },
-      {
-        "habitat": "Urban - Developed land; sealed surface",
-        "condition": "Unable to Map",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.008,
-        "allocated_extent": 0,
-        "remaining_extent": 0.008
-      },
-      {
-        "habitat": "Species-rich native hedgerow with trees",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.64,
-        "allocated_extent": 0.0035,
-        "remaining_extent": 0.6365
-      },
-      {
-        "habitat": "Native Hedgerow",
-        "condition": "Moderate",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.16,
-        "allocated_extent": 0.0446,
-        "remaining_extent": 0.1154
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-280824001",

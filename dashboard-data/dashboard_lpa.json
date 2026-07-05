@@ -424,14 +424,6 @@
     "utilisation_percent": 8
   },
   {
-    "lpa": "East Cambridgeshire LPA",
-    "site_count": 2,
-    "registered_habitat_hectares": 33.79,
-    "allocated_habitat_area": 2.64,
-    "remaining_habitat_area": 31.16,
-    "utilisation_percent": 7.8
-  },
-  {
     "lpa": "South Downs National Park LPA",
     "site_count": 5,
     "registered_habitat_hectares": 253.02,
@@ -568,14 +560,6 @@
     "utilisation_percent": 3.9
   },
   {
-    "lpa": "Aylesbury Vale LPA",
-    "site_count": 6,
-    "registered_habitat_hectares": 149.83,
-    "allocated_habitat_area": 5.69,
-    "remaining_habitat_area": 144.13,
-    "utilisation_percent": 3.8
-  },
-  {
     "lpa": "Basingstoke and Deane LPA",
     "site_count": 2,
     "registered_habitat_hectares": 103.5,
@@ -670,6 +654,22 @@
     "allocated_habitat_area": 1.71,
     "remaining_habitat_area": 83.47,
     "utilisation_percent": 2
+  },
+  {
+    "lpa": "Aylesbury Vale LPA",
+    "site_count": 6,
+    "registered_habitat_hectares": 130.09,
+    "allocated_habitat_area": 2.54,
+    "remaining_habitat_area": 127.54,
+    "utilisation_percent": 2
+  },
+  {
+    "lpa": "East Cambridgeshire LPA",
+    "site_count": 2,
+    "registered_habitat_hectares": 21.13,
+    "allocated_habitat_area": 0.35,
+    "remaining_habitat_area": 20.78,
+    "utilisation_percent": 1.7
   },
   {
     "lpa": "Lichfield LPA",
