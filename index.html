@@ -465,7 +465,7 @@ table {
   <h3>Market Activity Trends</h3>
 
 <p>
-  Allocation activity based on allocation events first identified in EAD Ecology's tracked register data. Last 7 days metrics should be interpreted as indicative register activity rather than confirmed allocation completion dates.
+  Allocation activity is based on allocation events identified in EAD Ecology's tracked register data. Recent-period figures are treated as indicative register activity rather than confirmed allocation completion dates.
 </p>
 
   <div class="kpi-grid" id="activity-kpis">
@@ -488,7 +488,6 @@ table {
         <th>LNRS</th>
         <th class="right">Sites</th>
         <th class="right">Allocations</th>
-        <th class="right">Last 7 days</th>
         <th class="right">Allocated ha</th>
         <th class="right">Remaining ha</th>
         <th class="right">Utilisation</th>
@@ -496,7 +495,7 @@ table {
       </tr>
     </thead>
     <tbody id="opportunity-table">
-      <tr><td colspan="8">Loading...</td></tr>
+      <tr><td colspan="7">Loading...</td></tr>
     </tbody>
   </table>
 
@@ -518,14 +517,13 @@ table {
   <th>Area</th>
   <th class="right">Sites</th>
   <th class="right">Allocations</th>
-  <th class="right">Last 7 days</th>
   <th class="right">Remaining ha</th>
   <th class="right">Utilisation</th>
   <th class="right">Supply activity score</th>
 </tr>
       </thead>
       <tbody id="southwest-table">
-        <tr><td colspan="7">Loading...</td></tr>
+        <tr><td colspan="6">Loading...</td></tr>
       </tbody>
     </table>
 
@@ -559,7 +557,7 @@ table {
     </tbody>
   </table>
 
-<h4 style="margin-top:26px;">Top 10 Allocations First Seen Over Last the 30 Days</h4>
+<h4 style="margin-top:26px;">Top 10 Allocations First Seen Over the Last 30 Days</h4>
 
 <table>
 <thead>
@@ -836,21 +834,9 @@ Number(summary.allocated_watercourse_units || 0);
 document.getElementById("activity-kpis").innerHTML = `
 
   <div class="card">
-    <div class="card-label">Allocations Last 7 Days</div>
-    <div class="card-value">${fmtNum(totalAllocationsLast7)}</div>
-    <div class="card-unit">allocation events first seen in tracked data</div>
-  </div>
-
-  <div class="card">
-    <div class="card-label">Allocated Units Last 7 Days</div>
-    <div class="card-value">${fmtNum(totalUnitsLast7, 1)}</div>
-    <div class="card-unit">biodiversity units</div>
-  </div>
-
-  <div class="card">
     <div class="card-label">All-Time Allocation Events</div>
     <div class="card-value">${fmtNum(totalAllocationEventsAllTime)}</div>
-    <div class="card-unit">events first seen since tracking began</div>
+    <div class="card-unit">events identified since tracking began</div>
   </div>
 
   <div class="card">
@@ -858,18 +844,29 @@ document.getElementById("activity-kpis").innerHTML = `
     <div class="card-value">${fmtNum(totalUnitsAllTime, 1)}</div>
     <div class="card-unit">biodiversity units</div>
   </div>
+
+  <div class="card">
+    <div class="card-label">Tracking Start Date</div>
+    <div class="card-value">${datePretty(summary.allocation_tracking_start_date)}</div>
+    <div class="card-unit">EAD tracked register data</div>
+  </div>
+
+  <div class="card">
+    <div class="card-label">Recent Allocation Metrics</div>
+    <div class="card-value">Indicative</div>
+    <div class="card-unit">not confirmed completion dates</div>
+  </div>
 `;
 
 document.getElementById("tracking-note").innerHTML =
   (summary.temporal_analysis_note || "") +
-  " Last 7 days metrics are based on allocation events first seen in the tracked data within the previous 7 days, using the earliest first-seen date across rows in each allocation event. Allocated Units are deduplicated biodiversity unit values from allocation records and include habitat, hedgerow and watercourse allocations.";
-document.getElementById("opportunity-table").innerHTML =
-  opportunityAreas.slice(0, 15).map(row => `
+  " Allocation event totals are based on grouped allocation records in the tracked register data. Allocated Units are deduplicated biodiversity unit values from allocation records and include habitat, hedgerow and watercourse allocations.";
+
+document.getElementById("opportunity-table").innerHTML =  opportunityAreas.slice(0, 15).map(row => `
     <tr>
       <td>${row.lnrs}</td>
       <td class="right">${fmtNum(row.site_count)}</td>
       <td class="right">${fmtNum(row.allocation_count)}</td>
-      <td class="right">${fmtNum(row.allocations_last_7_days)}</td>
       <td class="right">${fmtNum(row.allocated_habitat_area, 2)}</td>
       <td class="right">${fmtNum(row.remaining_habitat_area, 2)}</td>
       <td class="right">${fmtNum(row.utilisation_percent, 1)}%</td>
@@ -896,7 +893,6 @@ document.getElementById("southwest-table").innerHTML =
       <td>${row.lnrs}</td>
       <td class="right">${fmtNum(row.site_count)}</td>
       <td class="right">${fmtNum(row.allocation_count)}</td>
-      <td class="right">${fmtNum(row.allocations_last_7_days)}</td>
       <td class="right">${fmtNum(row.remaining_habitat_area, 2)}</td>
       <td class="right">${fmtNum(row.utilisation_percent, 1)}%</td>
       <td class="right"><strong>${ratingLabel(row)}</strong></td>
@@ -911,15 +907,11 @@ const mostActiveSW = [...southWestOpportunity].sort(
   (a, b) => b.allocation_count - a.allocation_count
 )[0];
 
-const mostRecentSW = [...southWestOpportunity].sort(
-  (a, b) => b.allocations_last_7_days - a.allocations_last_7_days
-)[0];
-
-if (strongestSW && mostActiveSW && mostRecentSW) {
+if (strongestSW && mostActiveSW) {
   document.getElementById("southwest-insight").innerHTML = `
     <strong>South West Insight:</strong>
 ${strongestSW.lnrs} currently has the highest supply activity score in the South West dataset.
-    ${mostActiveSW.lnrs} has the highest recorded allocation count, while ${mostRecentSW.lnrs} has the highest number of allocations first seen in the last 7 days.
+    ${mostActiveSW.lnrs} has the highest recorded allocation count in the tracked register data.
   `;
 }
 
