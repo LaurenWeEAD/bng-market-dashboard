@@ -37,6 +37,8 @@ h3 {
   padding: 0 0 28px 0;
   border-bottom: 3px solid #bfd730;
   box-sizing: border-box;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
 }
 .utilisation-table-wrap {
   margin-top: 18px;
@@ -199,6 +201,12 @@ table {
   border-collapse: collapse;
   margin-top: 14px;
   font-size: 15px;
+}
+
+@media (max-width: 760px) {
+  table {
+    min-width: 760px;
+  }
 }
 
     th {
