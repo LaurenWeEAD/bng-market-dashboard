@@ -821,15 +821,23 @@ const totalUnitsLast7 = opportunityAreas.reduce(
 );
 
 const totalAllocationEventsAllTime = opportunityAreas.reduce(
-(sum, row) => sum + Number(row.allocation_count || 0),
-0
+  (sum, row) => sum + Number(row.allocation_count || 0),
+  0
 );
 
 const totalUnitsAllTime =
-Number(summary.allocated_habitat_units || 0) +
-Number(summary.allocated_hedgerow_units || 0) +
-Number(summary.allocated_watercourse_units || 0);
+  Number(summary.allocated_habitat_units || 0) +
+  Number(summary.allocated_hedgerow_units || 0) +
+  Number(summary.allocated_watercourse_units || 0);
 
+const averageAllocationSize =
+  totalAllocationEventsAllTime > 0
+    ? totalUnitsAllTime / totalAllocationEventsAllTime
+    : 0;
+
+const largestRecentAllocation = [...recentAllocations].sort(
+  (a, b) => Number(b.total_units || 0) - Number(a.total_units || 0)
+)[0];
 
 document.getElementById("activity-kpis").innerHTML = `
 
@@ -846,23 +854,22 @@ document.getElementById("activity-kpis").innerHTML = `
   </div>
 
   <div class="card">
-    <div class="card-label">Tracking Start Date</div>
-    <div class="card-value">${datePretty(summary.allocation_tracking_start_date)}</div>
-    <div class="card-unit">EAD tracked register data</div>
+    <div class="card-label">Average Allocation Size</div>
+    <div class="card-value">${fmtNum(averageAllocationSize, 2)}</div>
+    <div class="card-unit">units per allocation event</div>
   </div>
 
   <div class="card">
-    <div class="card-label">Recent Allocation Metrics</div>
-    <div class="card-value">Indicative</div>
-    <div class="card-unit">not confirmed completion dates</div>
+    <div class="card-label">Largest Recent Allocation</div>
+    <div class="card-value">${fmtNum(largestRecentAllocation?.total_units || 0, 1)}</div>
+    <div class="card-unit">units first seen in last 30 days</div>
   </div>
 `;
-
 document.getElementById("tracking-note").innerHTML =
   (summary.temporal_analysis_note || "") +
-  " Allocation event totals are based on grouped allocation records in the tracked register data. Allocated Units are deduplicated biodiversity unit values from allocation records and include habitat, hedgerow and watercourse allocations.";
-
-document.getElementById("opportunity-table").innerHTML =  opportunityAreas.slice(0, 15).map(row => `
+  " Allocation event totals are based on grouped allocation records in the tracked register data. Average allocation size is calculated from all-time allocated biodiversity units divided by all-time allocation events. Largest recent allocation is based on allocation events first seen in the tracked data within the last 30 days.";
+document.getElementById("opportunity-table").innerHTML =  
+  opportunityAreas.slice(0, 15).map(row => `
     <tr>
       <td>${row.lnrs}</td>
       <td class="right">${fmtNum(row.site_count)}</td>
