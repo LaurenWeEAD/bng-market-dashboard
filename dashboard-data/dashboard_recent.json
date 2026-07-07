@@ -1,12 +1,30 @@
 [
   {
-    "code": "BGS-100326001",
+    "code": "BGS-020626001",
     "title": "Biodiversity gain site",
-    "lpa": "Dover LPA",
+    "lpa": "South Downs National Park LPA",
     "nca": "",
-    "lnrs": "Kent and Medway",
-    "gainSiteSizeHa": 23.85,
-    "first_seen_date": "2026-07-04"
+    "lnrs": "West Sussex",
+    "gainSiteSizeHa": 8.6,
+    "first_seen_date": "2026-07-07"
+  },
+  {
+    "code": "BGS-060426001",
+    "title": "Biodiversity gain site",
+    "lpa": "Basingstoke and Deane LPA",
+    "nca": "",
+    "lnrs": "Hampshire",
+    "gainSiteSizeHa": 11.5,
+    "first_seen_date": "2026-07-07"
+  },
+  {
+    "code": "BGS-240426005",
+    "title": "Biodiversity gain site",
+    "lpa": "Darlington LPA",
+    "nca": "",
+    "lnrs": "Tees Valley",
+    "gainSiteSizeHa": 18.69,
+    "first_seen_date": "2026-07-07"
   },
   {
     "code": "BGS-200426002",
@@ -18,21 +36,30 @@
     "first_seen_date": "2026-07-04"
   },
   {
-    "code": "BGS-240426001",
-    "title": "Biodiversity gain site",
-    "lpa": "Stroud LPA",
-    "nca": "",
-    "lnrs": "Gloucestershire",
-    "gainSiteSizeHa": 17.23,
-    "first_seen_date": "2026-07-04"
-  },
-  {
     "code": "BGS-170326002",
     "title": "Biodiversity gain site",
     "lpa": "Dartford LPA",
     "nca": "",
     "lnrs": "Kent and Medway",
     "gainSiteSizeHa": 0.84,
+    "first_seen_date": "2026-07-04"
+  },
+  {
+    "code": "BGS-100326001",
+    "title": "Biodiversity gain site",
+    "lpa": "Dover LPA",
+    "nca": "",
+    "lnrs": "Kent and Medway",
+    "gainSiteSizeHa": 23.85,
+    "first_seen_date": "2026-07-04"
+  },
+  {
+    "code": "BGS-240426001",
+    "title": "Biodiversity gain site",
+    "lpa": "Stroud LPA",
+    "nca": "",
+    "lnrs": "Gloucestershire",
+    "gainSiteSizeHa": 17.23,
     "first_seen_date": "2026-07-04"
   },
   {
@@ -63,21 +90,21 @@
     "first_seen_date": "2026-07-02"
   },
   {
-    "code": "BGS-020426001",
-    "title": "Biodiversity gain site",
-    "lpa": "East Northamptonshire LPA",
-    "nca": "",
-    "lnrs": "North Northamptonshire",
-    "gainSiteSizeHa": 20.06,
-    "first_seen_date": "2026-07-02"
-  },
-  {
     "code": "BGS-110326001",
     "title": "Biodiversity gain site",
     "lpa": "Allerdale LPA",
     "nca": "",
     "lnrs": "Cumbria",
     "gainSiteSizeHa": 29.94,
+    "first_seen_date": "2026-07-02"
+  },
+  {
+    "code": "BGS-020426001",
+    "title": "Biodiversity gain site",
+    "lpa": "East Northamptonshire LPA",
+    "nca": "",
+    "lnrs": "North Northamptonshire",
+    "gainSiteSizeHa": 20.06,
     "first_seen_date": "2026-07-02"
   },
   {
@@ -171,15 +198,6 @@
     "first_seen_date": "2026-06-19"
   },
   {
-    "code": "BGS-230326001",
-    "title": "Biodiversity gain site",
-    "lpa": "North Hertfordshire LPA",
-    "nca": "",
-    "lnrs": "Hertfordshire",
-    "gainSiteSizeHa": 38.46,
-    "first_seen_date": "2026-06-18"
-  },
-  {
     "code": "BGS-110326004",
     "title": "Biodiversity gain site",
     "lpa": "Maldon LPA",
@@ -189,13 +207,13 @@
     "first_seen_date": "2026-06-18"
   },
   {
-    "code": "BGS-260126002",
+    "code": "BGS-230326001",
     "title": "Biodiversity gain site",
-    "lpa": "Cotswold LPA",
+    "lpa": "North Hertfordshire LPA",
     "nca": "",
-    "lnrs": "Gloucestershire",
-    "gainSiteSizeHa": 43.7,
-    "first_seen_date": "2026-06-16"
+    "lnrs": "Hertfordshire",
+    "gainSiteSizeHa": 38.46,
+    "first_seen_date": "2026-06-18"
   },
   {
     "code": "BGS-060525001",
@@ -205,23 +223,5 @@
     "lnrs": "Cambridgeshire and Peterborough",
     "gainSiteSizeHa": 6.35,
     "first_seen_date": "2026-06-16"
-  },
-  {
-    "code": "BGS-170326001",
-    "title": "Biodiversity gain site",
-    "lpa": "Northumberland LPA",
-    "nca": "",
-    "lnrs": "North of Tyne",
-    "gainSiteSizeHa": 74.51,
-    "first_seen_date": "2026-06-13"
-  },
-  {
-    "code": "BGS-190226001",
-    "title": "Biodiversity gain site",
-    "lpa": "South Bucks LPA",
-    "nca": "",
-    "lnrs": "Buckinghamshire and Milton Keynes",
-    "gainSiteSizeHa": 2.3,
-    "first_seen_date": "2026-06-12"
   }
 ]
