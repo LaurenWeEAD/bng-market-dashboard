@@ -544,6 +544,14 @@
     "utilisation_percent": 4.4
   },
   {
+    "lpa": "Aylesbury Vale LPA",
+    "site_count": 6,
+    "registered_habitat_hectares": 128.66,
+    "allocated_habitat_area": 5.69,
+    "remaining_habitat_area": 122.97,
+    "utilisation_percent": 4.4
+  },
+  {
     "lpa": "East Suffolk LPA",
     "site_count": 2,
     "registered_habitat_hectares": 25.45,
@@ -566,14 +574,6 @@
     "allocated_habitat_area": 0.1,
     "remaining_habitat_area": 2.55,
     "utilisation_percent": 3.9
-  },
-  {
-    "lpa": "Aylesbury Vale LPA",
-    "site_count": 6,
-    "registered_habitat_hectares": 149.83,
-    "allocated_habitat_area": 5.69,
-    "remaining_habitat_area": 144.13,
-    "utilisation_percent": 3.8
   },
   {
     "lpa": "Epping Forest LPA",

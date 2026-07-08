@@ -8298,7 +8298,7 @@
     "authority": "South Downs National Park LPA",
     "sizeHa": 8.6,
     "first_seen_date": "2026-07-07",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": []
   },
   {
@@ -9780,7 +9780,7 @@
     "authority": "Basingstoke and Deane LPA",
     "sizeHa": 11.5,
     "first_seen_date": "2026-07-07",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Heathland and shrub - Mixed scrub",
@@ -11109,47 +11109,10 @@
     "lpa": "Aylesbury Vale LPA",
     "lnrs": "Buckinghamshire and Milton Keynes",
     "authority": "RSK Biocensus Limited",
-    "sizeHa": 21.16,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Heathland and shrub - Mixed scrub",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.564,
-        "allocated_extent": 0,
-        "remaining_extent": 0.564
-      },
-      {
-        "habitat": "Grassland - Lowland meadows",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 20.598,
-        "allocated_extent": 0,
-        "remaining_extent": 20.598
-      },
-      {
-        "habitat": "Species-rich native hedgerow with trees",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.808,
-        "allocated_extent": 0,
-        "remaining_extent": 0.808
-      },
-      {
-        "habitat": "Species-rich native hedgerow with trees - associated with bank or ditch",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.305,
-        "allocated_extent": 0,
-        "remaining_extent": 0.305
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-170624001",
@@ -19722,7 +19685,7 @@
     "authority": "Darlington LPA",
     "sizeHa": 18.69,
     "first_seen_date": "2026-07-07",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Grassland - Other neutral grassland",
