@@ -17,34 +17,34 @@
   },
   {
     "group": "Lakes and Ponds",
-    "registered_extent": 58.12,
+    "registered_extent": 58.4,
     "allocated_extent": 5.7,
-    "available_extent": 52.42,
+    "available_extent": 52.7,
     "allocated_units": 207.35,
     "utilisation_percent": 9.8
   },
   {
     "group": "Watercourse",
-    "registered_extent": 66.48,
-    "allocated_extent": 5.29,
-    "available_extent": 61.19,
-    "allocated_units": 12.49,
+    "registered_extent": 66.69,
+    "allocated_extent": 5.34,
+    "available_extent": 61.35,
+    "allocated_units": 12.6,
     "utilisation_percent": 8
   },
   {
     "group": "Grassland",
-    "registered_extent": 5836.66,
-    "allocated_extent": 457.11,
-    "available_extent": 5379.55,
-    "allocated_units": 2390.03,
+    "registered_extent": 5877.88,
+    "allocated_extent": 458.41,
+    "available_extent": 5419.47,
+    "allocated_units": 2394.87,
     "utilisation_percent": 7.8
   },
   {
     "group": "Heathland and Shrub",
-    "registered_extent": 1097.84,
-    "allocated_extent": 75.77,
-    "available_extent": 1022.07,
-    "allocated_units": 1011.63,
+    "registered_extent": 1101.12,
+    "allocated_extent": 75.78,
+    "available_extent": 1025.34,
+    "allocated_units": 1011.73,
     "utilisation_percent": 6.9
   },
   {
@@ -57,10 +57,10 @@
   },
   {
     "group": "Woodland and Forest",
-    "registered_extent": 1034.54,
-    "allocated_extent": 56.42,
-    "available_extent": 978.12,
-    "allocated_units": 379.37,
+    "registered_extent": 1034.92,
+    "allocated_extent": 56.61,
+    "available_extent": 978.31,
+    "allocated_units": 379.79,
     "utilisation_percent": 5.5
   },
   {
@@ -73,17 +73,17 @@
   },
   {
     "group": "Hedgerow",
-    "registered_extent": 329.54,
-    "allocated_extent": 7.23,
-    "available_extent": 322.31,
-    "allocated_units": 37.43,
+    "registered_extent": 332.39,
+    "allocated_extent": 7.24,
+    "available_extent": 325.15,
+    "allocated_units": 37.48,
     "utilisation_percent": 2.2
   },
   {
     "group": "Wetland",
-    "registered_extent": 185.7,
+    "registered_extent": 185.87,
     "allocated_extent": 2.3,
-    "available_extent": 183.4,
+    "available_extent": 183.57,
     "allocated_units": 22.58,
     "utilisation_percent": 1.2
   },
