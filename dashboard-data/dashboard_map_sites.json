@@ -3117,7 +3117,7 @@
     "authority": "Stroud LPA",
     "sizeHa": 56.74,
     "first_seen_date": "2026-07-08",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Grassland - Lowland meadows",
@@ -4476,7 +4476,7 @@
     "authority": "The Land Restoration Trust",
     "sizeHa": 2.48,
     "first_seen_date": "2026-07-08",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Grassland - Other neutral grassland",
@@ -5213,7 +5213,7 @@
     "authority": "Yorkshire Dales National Park LPA",
     "sizeHa": 28.25,
     "first_seen_date": "2026-07-08",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Grassland - Other neutral grassland",
@@ -7480,7 +7480,7 @@
     "authority": "Northumberland LPA",
     "sizeHa": 4.31,
     "first_seen_date": "2026-07-08",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": []
   },
   {
@@ -8098,20 +8098,10 @@
     "lpa": "Mendip LPA",
     "lnrs": "Somerset",
     "authority": "Somerset LPA",
-    "sizeHa": 3.86,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Grassland - Traditional orchards",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 3.8559,
-        "allocated_extent": 0.4546,
-        "remaining_extent": 3.4013
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-050825002",
@@ -12517,7 +12507,7 @@
     "authority": "Harry Ferguson Holdings Limited",
     "sizeHa": 25.69,
     "first_seen_date": "2026-07-08",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Grassland - Other neutral grassland",
@@ -14929,7 +14919,7 @@
     "authority": "Isle of Wight LPA",
     "sizeHa": 10.63,
     "first_seen_date": "2026-07-08",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Heathland and shrub - Mixed scrub",
@@ -15576,7 +15566,7 @@
     "authority": "The Land Restoration Trust",
     "sizeHa": 10.09,
     "first_seen_date": "2026-07-08",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Grassland - Other neutral grassland",

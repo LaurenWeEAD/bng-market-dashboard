@@ -304,14 +304,6 @@
     "utilisation_percent": 12.3
   },
   {
-    "lpa": "Mendip LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 3.86,
-    "allocated_habitat_area": 0.45,
-    "remaining_habitat_area": 3.4,
-    "utilisation_percent": 11.8
-  },
-  {
     "lpa": "South Downs National Park LPA",
     "site_count": 6,
     "registered_habitat_hectares": 261.62,
@@ -989,6 +981,14 @@
     "registered_habitat_hectares": 39.51,
     "allocated_habitat_area": 0,
     "remaining_habitat_area": 39.51,
+    "utilisation_percent": 0
+  },
+  {
+    "lpa": "Mendip LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 0,
+    "allocated_habitat_area": 0,
+    "remaining_habitat_area": 0,
     "utilisation_percent": 0
   },
   {
