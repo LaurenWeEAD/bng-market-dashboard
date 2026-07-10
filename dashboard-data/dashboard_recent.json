@@ -1,5 +1,14 @@
 [
   {
+    "code": "BGS-010426001",
+    "title": "Biodiversity gain site",
+    "lpa": "Somerset West and Taunton LPA",
+    "nca": "",
+    "lnrs": "Somerset",
+    "gainSiteSizeHa": 0.75,
+    "first_seen_date": "2026-07-10"
+  },
+  {
     "code": "BGS-100426002",
     "title": "Biodiversity gain site",
     "lpa": "Darlington LPA",
@@ -27,12 +36,12 @@
     "first_seen_date": "2026-07-08"
   },
   {
-    "code": "BGS-240426004",
+    "code": "BGS-020426002",
     "title": "Biodiversity gain site",
-    "lpa": "Stroud LPA",
+    "lpa": "Northumberland LPA",
     "nca": "",
-    "lnrs": "Gloucestershire",
-    "gainSiteSizeHa": 56.74,
+    "lnrs": "North of Tyne",
+    "gainSiteSizeHa": 4.31,
     "first_seen_date": "2026-07-08"
   },
   {
@@ -54,21 +63,12 @@
     "first_seen_date": "2026-07-08"
   },
   {
-    "code": "BGS-290126002",
+    "code": "BGS-240426004",
     "title": "Biodiversity gain site",
-    "lpa": "Warrington LPA",
+    "lpa": "Stroud LPA",
     "nca": "",
-    "lnrs": "Cheshire",
-    "gainSiteSizeHa": 2.48,
-    "first_seen_date": "2026-07-08"
-  },
-  {
-    "code": "BGS-020426002",
-    "title": "Biodiversity gain site",
-    "lpa": "Northumberland LPA",
-    "nca": "",
-    "lnrs": "North of Tyne",
-    "gainSiteSizeHa": 4.31,
+    "lnrs": "Gloucestershire",
+    "gainSiteSizeHa": 56.74,
     "first_seen_date": "2026-07-08"
   },
   {
@@ -81,13 +81,13 @@
     "first_seen_date": "2026-07-08"
   },
   {
-    "code": "BGS-240426005",
+    "code": "BGS-290126002",
     "title": "Biodiversity gain site",
-    "lpa": "Darlington LPA",
+    "lpa": "Warrington LPA",
     "nca": "",
-    "lnrs": "Tees Valley",
-    "gainSiteSizeHa": 18.69,
-    "first_seen_date": "2026-07-07"
+    "lnrs": "Cheshire",
+    "gainSiteSizeHa": 2.48,
+    "first_seen_date": "2026-07-08"
   },
   {
     "code": "BGS-020626001",
@@ -108,12 +108,39 @@
     "first_seen_date": "2026-07-07"
   },
   {
+    "code": "BGS-240426005",
+    "title": "Biodiversity gain site",
+    "lpa": "Darlington LPA",
+    "nca": "",
+    "lnrs": "Tees Valley",
+    "gainSiteSizeHa": 18.69,
+    "first_seen_date": "2026-07-07"
+  },
+  {
+    "code": "BGS-060526001",
+    "title": "Biodiversity gain site",
+    "lpa": "Harrogate LPA",
+    "nca": "",
+    "lnrs": "North Yorkshire and York",
+    "gainSiteSizeHa": 29.96,
+    "first_seen_date": "2026-07-04"
+  },
+  {
     "code": "BGS-100326001",
     "title": "Biodiversity gain site",
     "lpa": "Dover LPA",
     "nca": "",
     "lnrs": "Kent and Medway",
     "gainSiteSizeHa": 23.85,
+    "first_seen_date": "2026-07-04"
+  },
+  {
+    "code": "BGS-170326002",
+    "title": "Biodiversity gain site",
+    "lpa": "Dartford LPA",
+    "nca": "",
+    "lnrs": "Kent and Medway",
+    "gainSiteSizeHa": 0.84,
     "first_seen_date": "2026-07-04"
   },
   {
@@ -135,24 +162,6 @@
     "first_seen_date": "2026-07-04"
   },
   {
-    "code": "BGS-060526001",
-    "title": "Biodiversity gain site",
-    "lpa": "Harrogate LPA",
-    "nca": "",
-    "lnrs": "North Yorkshire and York",
-    "gainSiteSizeHa": 29.96,
-    "first_seen_date": "2026-07-04"
-  },
-  {
-    "code": "BGS-170326002",
-    "title": "Biodiversity gain site",
-    "lpa": "Dartford LPA",
-    "nca": "",
-    "lnrs": "Kent and Medway",
-    "gainSiteSizeHa": 0.84,
-    "first_seen_date": "2026-07-04"
-  },
-  {
     "code": "BGS-090426001",
     "title": "Biodiversity gain site",
     "lpa": "Stratford-on-Avon LPA",
@@ -171,21 +180,21 @@
     "first_seen_date": "2026-07-02"
   },
   {
-    "code": "BGS-160326001",
-    "title": "Biodiversity gain site",
-    "lpa": "Somerset West and Taunton LPA",
-    "nca": "",
-    "lnrs": "Somerset",
-    "gainSiteSizeHa": 7.95,
-    "first_seen_date": "2026-07-02"
-  },
-  {
     "code": "BGS-020426001",
     "title": "Biodiversity gain site",
     "lpa": "East Northamptonshire LPA",
     "nca": "",
     "lnrs": "North Northamptonshire",
     "gainSiteSizeHa": 20.06,
+    "first_seen_date": "2026-07-02"
+  },
+  {
+    "code": "BGS-160326001",
+    "title": "Biodiversity gain site",
+    "lpa": "Somerset West and Taunton LPA",
+    "nca": "",
+    "lnrs": "Somerset",
+    "gainSiteSizeHa": 7.95,
     "first_seen_date": "2026-07-02"
   },
   {
@@ -198,15 +207,6 @@
     "first_seen_date": "2026-06-30"
   },
   {
-    "code": "BGS-240326001",
-    "title": "Biodiversity gain site",
-    "lpa": "Hambleton LPA",
-    "nca": "",
-    "lnrs": "North Yorkshire and York",
-    "gainSiteSizeHa": 1,
-    "first_seen_date": "2026-06-26"
-  },
-  {
     "code": "BGS-240426003",
     "title": "Biodiversity gain site",
     "lpa": "North East Derbyshire LPA",
@@ -216,12 +216,12 @@
     "first_seen_date": "2026-06-26"
   },
   {
-    "code": "BGS-270326001",
+    "code": "BGS-240326001",
     "title": "Biodiversity gain site",
-    "lpa": "East Devon LPA",
+    "lpa": "Hambleton LPA",
     "nca": "",
-    "lnrs": "Devon",
-    "gainSiteSizeHa": 9.04,
-    "first_seen_date": "2026-06-25"
+    "lnrs": "North Yorkshire and York",
+    "gainSiteSizeHa": 1,
+    "first_seen_date": "2026-06-26"
   }
 ]
