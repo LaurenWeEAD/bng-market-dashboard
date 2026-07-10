@@ -5444,7 +5444,7 @@
     "authority": "Darlington LPA",
     "sizeHa": 22.57,
     "first_seen_date": "2026-07-09",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Grassland - Other neutral grassland",
@@ -17056,7 +17056,7 @@
     "authority": "Chichester LPA",
     "sizeHa": 18.91,
     "first_seen_date": "2026-07-09",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Wetland - Reedbeds",
