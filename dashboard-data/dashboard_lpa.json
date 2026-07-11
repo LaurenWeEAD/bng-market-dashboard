@@ -144,6 +144,14 @@
     "utilisation_percent": 32.5
   },
   {
+    "lpa": "North Devon LPA",
+    "site_count": 3,
+    "registered_habitat_hectares": 14.01,
+    "allocated_habitat_area": 4.18,
+    "remaining_habitat_area": 9.83,
+    "utilisation_percent": 29.8
+  },
+  {
     "lpa": "Newcastle-under-Lyme LPA",
     "site_count": 1,
     "registered_habitat_hectares": 8.76,
@@ -286,14 +294,6 @@
     "allocated_habitat_area": 3.43,
     "remaining_habitat_area": 22.72,
     "utilisation_percent": 13.1
-  },
-  {
-    "lpa": "Cheshire East LPA",
-    "site_count": 9,
-    "registered_habitat_hectares": 124.93,
-    "allocated_habitat_area": 15.78,
-    "remaining_habitat_area": 109.15,
-    "utilisation_percent": 12.6
   },
   {
     "lpa": "Mid Devon LPA",
@@ -478,6 +478,14 @@
     "allocated_habitat_area": 5.11,
     "remaining_habitat_area": 74.47,
     "utilisation_percent": 6.4
+  },
+  {
+    "lpa": "Cheshire East LPA",
+    "site_count": 9,
+    "registered_habitat_hectares": 97.45,
+    "allocated_habitat_area": 6.11,
+    "remaining_habitat_area": 91.33,
+    "utilisation_percent": 6.3
   },
   {
     "lpa": "Isle of Wight LPA",
@@ -686,14 +694,6 @@
     "allocated_habitat_area": 5.98,
     "remaining_habitat_area": 374.7,
     "utilisation_percent": 1.6
-  },
-  {
-    "lpa": "North Devon LPA",
-    "site_count": 3,
-    "registered_habitat_hectares": 285.92,
-    "allocated_habitat_area": 4.18,
-    "remaining_habitat_area": 281.74,
-    "utilisation_percent": 1.5
   },
   {
     "lpa": "Bassetlaw LPA",
