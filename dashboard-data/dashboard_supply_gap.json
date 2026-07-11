@@ -144,14 +144,6 @@
     "utilisation_percent": 32.5
   },
   {
-    "lpa": "North Devon LPA",
-    "site_count": 3,
-    "registered_habitat_hectares": 14.01,
-    "allocated_habitat_area": 4.18,
-    "remaining_habitat_area": 9.83,
-    "utilisation_percent": 29.8
-  },
-  {
     "lpa": "Newcastle-under-Lyme LPA",
     "site_count": 1,
     "registered_habitat_hectares": 8.76,
@@ -296,6 +288,14 @@
     "utilisation_percent": 13.1
   },
   {
+    "lpa": "Cheshire East LPA",
+    "site_count": 9,
+    "registered_habitat_hectares": 124.93,
+    "allocated_habitat_area": 15.78,
+    "remaining_habitat_area": 109.15,
+    "utilisation_percent": 12.6
+  },
+  {
     "lpa": "Mid Devon LPA",
     "site_count": 2,
     "registered_habitat_hectares": 67.37,
@@ -366,22 +366,6 @@
     "allocated_habitat_area": 2.19,
     "remaining_habitat_area": 20.03,
     "utilisation_percent": 9.8
-  },
-  {
-    "lpa": "North Somerset LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 55.86,
-    "allocated_habitat_area": 5.49,
-    "remaining_habitat_area": 50.37,
-    "utilisation_percent": 9.8
-  },
-  {
-    "lpa": "South Oxfordshire LPA",
-    "site_count": 2,
-    "registered_habitat_hectares": 25.57,
-    "allocated_habitat_area": 2.34,
-    "remaining_habitat_area": 23.23,
-    "utilisation_percent": 9.2
   },
   {
     "lpa": "West Lindsey LPA",
@@ -480,14 +464,6 @@
     "utilisation_percent": 6.4
   },
   {
-    "lpa": "Cheshire East LPA",
-    "site_count": 9,
-    "registered_habitat_hectares": 97.45,
-    "allocated_habitat_area": 6.11,
-    "remaining_habitat_area": 91.33,
-    "utilisation_percent": 6.3
-  },
-  {
     "lpa": "Isle of Wight LPA",
     "site_count": 4,
     "registered_habitat_hectares": 80.27,
@@ -510,6 +486,14 @@
     "allocated_habitat_area": 6.89,
     "remaining_habitat_area": 125.04,
     "utilisation_percent": 5.2
+  },
+  {
+    "lpa": "South Oxfordshire LPA",
+    "site_count": 2,
+    "registered_habitat_hectares": 11.36,
+    "allocated_habitat_area": 0.58,
+    "remaining_habitat_area": 10.78,
+    "utilisation_percent": 5.1
   },
   {
     "lpa": "Wealden LPA",
@@ -694,6 +678,14 @@
     "allocated_habitat_area": 5.98,
     "remaining_habitat_area": 374.7,
     "utilisation_percent": 1.6
+  },
+  {
+    "lpa": "North Devon LPA",
+    "site_count": 3,
+    "registered_habitat_hectares": 285.92,
+    "allocated_habitat_area": 4.18,
+    "remaining_habitat_area": 281.74,
+    "utilisation_percent": 1.5
   },
   {
     "lpa": "Bassetlaw LPA",
@@ -1149,6 +1141,14 @@
     "registered_habitat_hectares": 19.66,
     "allocated_habitat_area": 0,
     "remaining_habitat_area": 19.66,
+    "utilisation_percent": 0
+  },
+  {
+    "lpa": "North Somerset LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 0,
+    "allocated_habitat_area": 0,
+    "remaining_habitat_area": 0,
     "utilisation_percent": 0
   }
 ]
