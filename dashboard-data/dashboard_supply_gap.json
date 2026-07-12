@@ -368,6 +368,22 @@
     "utilisation_percent": 9.8
   },
   {
+    "lpa": "North Somerset LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 55.86,
+    "allocated_habitat_area": 5.49,
+    "remaining_habitat_area": 50.37,
+    "utilisation_percent": 9.8
+  },
+  {
+    "lpa": "South Oxfordshire LPA",
+    "site_count": 2,
+    "registered_habitat_hectares": 25.57,
+    "allocated_habitat_area": 2.34,
+    "remaining_habitat_area": 23.23,
+    "utilisation_percent": 9.2
+  },
+  {
     "lpa": "West Lindsey LPA",
     "site_count": 2,
     "registered_habitat_hectares": 92.18,
@@ -486,14 +502,6 @@
     "allocated_habitat_area": 6.89,
     "remaining_habitat_area": 125.04,
     "utilisation_percent": 5.2
-  },
-  {
-    "lpa": "South Oxfordshire LPA",
-    "site_count": 2,
-    "registered_habitat_hectares": 11.36,
-    "allocated_habitat_area": 0.58,
-    "remaining_habitat_area": 10.78,
-    "utilisation_percent": 5.1
   },
   {
     "lpa": "Wealden LPA",
@@ -1141,14 +1149,6 @@
     "registered_habitat_hectares": 19.66,
     "allocated_habitat_area": 0,
     "remaining_habitat_area": 19.66,
-    "utilisation_percent": 0
-  },
-  {
-    "lpa": "North Somerset LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 0,
-    "allocated_habitat_area": 0,
-    "remaining_habitat_area": 0,
     "utilisation_percent": 0
   }
 ]

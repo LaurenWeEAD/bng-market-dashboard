@@ -7949,10 +7949,56 @@
     "lpa": "South Oxfordshire LPA",
     "lnrs": "Oxfordshire",
     "authority": "South Oxfordshire LPA",
-    "sizeHa": 0,
+    "sizeHa": 16.65,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.5,
+        "allocated_extent": 0.006,
+        "remaining_extent": 0.494
+      },
+      {
+        "habitat": "Individual trees - Rural tree",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.5212,
+        "allocated_extent": 0.443,
+        "remaining_extent": 0.0782
+      },
+      {
+        "habitat": "Woodland and forest - Wet woodland",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.2,
+        "allocated_extent": 0.058,
+        "remaining_extent": 0.142
+      },
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 12.99,
+        "allocated_extent": 1.2565,
+        "remaining_extent": 11.7335
+      },
+      {
+        "habitat": "Species-rich native hedgerow with trees",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.06,
+        "allocated_extent": 0.0031,
+        "remaining_extent": 0.0569
+      }
+    ]
   },
   {
     "code": "BGS-110225001",
@@ -20695,10 +20741,146 @@
     "lpa": "North Somerset LPA",
     "lnrs": "West of England",
     "authority": "RSK Biocensus Limited",
-    "sizeHa": 0,
+    "sizeHa": 59.98,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Grassland - Traditional orchards",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 1.36,
+        "allocated_extent": 0.2974,
+        "remaining_extent": 1.0626
+      },
+      {
+        "habitat": "Urban - Artificial unvegetated, unsealed surface",
+        "condition": "Unable to Map",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.05,
+        "allocated_extent": 0,
+        "remaining_extent": 0.05
+      },
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 12.81,
+        "allocated_extent": 0.7299,
+        "remaining_extent": 12.0801
+      },
+      {
+        "habitat": "Lakes - Ponds (Priority Habitat)",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.77,
+        "allocated_extent": 0.0625,
+        "remaining_extent": 0.7075
+      },
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 14.54,
+        "allocated_extent": 1.0441,
+        "remaining_extent": 13.4959
+      },
+      {
+        "habitat": "Grassland - Lowland meadows",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 6.03,
+        "allocated_extent": 1.445,
+        "remaining_extent": 4.585
+      },
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Fairly Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 14.22,
+        "allocated_extent": 1.3802,
+        "remaining_extent": 12.8398
+      },
+      {
+        "habitat": "Woodland and forest - Wet woodland",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 4.87,
+        "allocated_extent": 0.225,
+        "remaining_extent": 4.645
+      },
+      {
+        "habitat": "Wetland - Reedbeds",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.15,
+        "allocated_extent": 0,
+        "remaining_extent": 0.15
+      },
+      {
+        "habitat": "Woodland and forest - Lowland mixed deciduous woodland",
+        "condition": "Fairly Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 1.06,
+        "allocated_extent": 0.302,
+        "remaining_extent": 0.758
+      },
+      {
+        "habitat": "Species-rich native hedgerow with trees - associated with bank or ditch",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 2.68,
+        "allocated_extent": 0,
+        "remaining_extent": 2.68
+      },
+      {
+        "habitat": "Species-rich native hedgerow with trees",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 2.9,
+        "allocated_extent": 0.019,
+        "remaining_extent": 2.881
+      },
+      {
+        "habitat": "Ditches",
+        "condition": "Good",
+        "habitat_type": "watercourse",
+        "unit": "km",
+        "proposed_extent": 0.16,
+        "allocated_extent": 0.0263,
+        "remaining_extent": 0.1337
+      },
+      {
+        "habitat": "Other rivers and streams",
+        "condition": "Fairly Good",
+        "habitat_type": "watercourse",
+        "unit": "km",
+        "proposed_extent": 0.62,
+        "allocated_extent": 0.0708,
+        "remaining_extent": 0.5492
+      },
+      {
+        "habitat": "Priority habitat",
+        "condition": "Good",
+        "habitat_type": "watercourse",
+        "unit": "km",
+        "proposed_extent": 0.41,
+        "allocated_extent": 0,
+        "remaining_extent": 0.41
+      }
+    ]
   },
   {
     "code": "BGS-090126001",
