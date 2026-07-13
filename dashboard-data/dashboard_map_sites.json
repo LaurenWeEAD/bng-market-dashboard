@@ -10470,65 +10470,10 @@
     "lpa": "Three Rivers LPA",
     "lnrs": "Hertfordshire",
     "authority": "Harry Ferguson Holdings Limited",
-    "sizeHa": 53.53,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Grassland - Lowland meadows",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 12.7082,
-        "allocated_extent": 0.3421,
-        "remaining_extent": 12.3661
-      },
-      {
-        "habitat": "Woodland and forest - Lowland mixed deciduous woodland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 16.4495,
-        "allocated_extent": 0,
-        "remaining_extent": 16.4495
-      },
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 17.6524,
-        "allocated_extent": 0,
-        "remaining_extent": 17.6524
-      },
-      {
-        "habitat": "Woodland and forest - Other woodland; broadleaved",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.1451,
-        "allocated_extent": 0,
-        "remaining_extent": 0.1451
-      },
-      {
-        "habitat": "Heathland and shrub - Mixed scrub",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 1.8611,
-        "allocated_extent": 0,
-        "remaining_extent": 1.8611
-      },
-      {
-        "habitat": "Species-rich native hedgerow with trees",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 2.5249,
-        "allocated_extent": 0.0001,
-        "remaining_extent": 2.5248
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-090525001",

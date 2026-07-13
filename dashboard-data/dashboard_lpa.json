@@ -760,14 +760,6 @@
     "utilisation_percent": 0.8
   },
   {
-    "lpa": "Three Rivers LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 48.82,
-    "allocated_habitat_area": 0.34,
-    "remaining_habitat_area": 48.47,
-    "utilisation_percent": 0.7
-  },
-  {
     "lpa": "Huntingdonshire LPA",
     "site_count": 2,
     "registered_habitat_hectares": 71.37,
@@ -1021,6 +1013,14 @@
     "registered_habitat_hectares": 16.93,
     "allocated_habitat_area": 0,
     "remaining_habitat_area": 16.93,
+    "utilisation_percent": 0
+  },
+  {
+    "lpa": "Three Rivers LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 0,
+    "allocated_habitat_area": 0,
+    "remaining_habitat_area": 0,
     "utilisation_percent": 0
   },
   {
