@@ -1,5 +1,23 @@
 [
   {
+    "code": "BGS-230426001",
+    "title": "Biodiversity gain site",
+    "lpa": "Northumberland LPA",
+    "nca": "",
+    "lnrs": "North of Tyne",
+    "gainSiteSizeHa": 30,
+    "first_seen_date": "2026-07-14"
+  },
+  {
+    "code": "BGS-110526001",
+    "title": "Biodiversity gain site",
+    "lpa": "Dorset LPA",
+    "nca": "",
+    "lnrs": "Dorset",
+    "gainSiteSizeHa": 84,
+    "first_seen_date": "2026-07-14"
+  },
+  {
     "code": "BGS-010426001",
     "title": "Biodiversity gain site",
     "lpa": "Somerset West and Taunton LPA",
@@ -7,15 +25,6 @@
     "lnrs": "Somerset",
     "gainSiteSizeHa": 0.75,
     "first_seen_date": "2026-07-10"
-  },
-  {
-    "code": "BGS-100426002",
-    "title": "Biodiversity gain site",
-    "lpa": "Darlington LPA",
-    "nca": "",
-    "lnrs": "Tees Valley",
-    "gainSiteSizeHa": 22.57,
-    "first_seen_date": "2026-07-09"
   },
   {
     "code": "BGS-100426001",
@@ -27,21 +36,21 @@
     "first_seen_date": "2026-07-09"
   },
   {
-    "code": "BGS-290126002",
+    "code": "BGS-100426002",
     "title": "Biodiversity gain site",
-    "lpa": "Warrington LPA",
+    "lpa": "Darlington LPA",
     "nca": "",
-    "lnrs": "Cheshire",
-    "gainSiteSizeHa": 2.48,
-    "first_seen_date": "2026-07-08"
+    "lnrs": "Tees Valley",
+    "gainSiteSizeHa": 22.57,
+    "first_seen_date": "2026-07-09"
   },
   {
-    "code": "BGS-160426001",
+    "code": "BGS-270426001",
     "title": "Biodiversity gain site",
-    "lpa": "Isle of Wight LPA",
+    "lpa": "South Gloucestershire LPA",
     "nca": "",
-    "lnrs": "Isle of Wight",
-    "gainSiteSizeHa": 10.63,
+    "lnrs": "West of England",
+    "gainSiteSizeHa": 25.69,
     "first_seen_date": "2026-07-08"
   },
   {
@@ -54,12 +63,12 @@
     "first_seen_date": "2026-07-08"
   },
   {
-    "code": "BGS-270426001",
+    "code": "BGS-290126003",
     "title": "Biodiversity gain site",
-    "lpa": "South Gloucestershire LPA",
+    "lpa": "Warrington LPA",
     "nca": "",
-    "lnrs": "West of England",
-    "gainSiteSizeHa": 25.69,
+    "lnrs": "Cheshire",
+    "gainSiteSizeHa": 10.09,
     "first_seen_date": "2026-07-08"
   },
   {
@@ -72,6 +81,24 @@
     "first_seen_date": "2026-07-08"
   },
   {
+    "code": "BGS-160426001",
+    "title": "Biodiversity gain site",
+    "lpa": "Isle of Wight LPA",
+    "nca": "",
+    "lnrs": "Isle of Wight",
+    "gainSiteSizeHa": 10.63,
+    "first_seen_date": "2026-07-08"
+  },
+  {
+    "code": "BGS-290126002",
+    "title": "Biodiversity gain site",
+    "lpa": "Warrington LPA",
+    "nca": "",
+    "lnrs": "Cheshire",
+    "gainSiteSizeHa": 2.48,
+    "first_seen_date": "2026-07-08"
+  },
+  {
     "code": "BGS-020426002",
     "title": "Biodiversity gain site",
     "lpa": "Northumberland LPA",
@@ -79,24 +106,6 @@
     "lnrs": "North of Tyne",
     "gainSiteSizeHa": 4.31,
     "first_seen_date": "2026-07-08"
-  },
-  {
-    "code": "BGS-290126003",
-    "title": "Biodiversity gain site",
-    "lpa": "Warrington LPA",
-    "nca": "",
-    "lnrs": "Cheshire",
-    "gainSiteSizeHa": 10.09,
-    "first_seen_date": "2026-07-08"
-  },
-  {
-    "code": "BGS-020626001",
-    "title": "Biodiversity gain site",
-    "lpa": "South Downs National Park LPA",
-    "nca": "",
-    "lnrs": "West Sussex",
-    "gainSiteSizeHa": 8.6,
-    "first_seen_date": "2026-07-07"
   },
   {
     "code": "BGS-240426005",
@@ -117,13 +126,13 @@
     "first_seen_date": "2026-07-07"
   },
   {
-    "code": "BGS-200426002",
+    "code": "BGS-020626001",
     "title": "Biodiversity gain site",
-    "lpa": "South Gloucestershire LPA",
+    "lpa": "South Downs National Park LPA",
     "nca": "",
-    "lnrs": "West of England",
-    "gainSiteSizeHa": 33.9,
-    "first_seen_date": "2026-07-04"
+    "lnrs": "West Sussex",
+    "gainSiteSizeHa": 8.6,
+    "first_seen_date": "2026-07-07"
   },
   {
     "code": "BGS-170326002",
@@ -132,6 +141,15 @@
     "nca": "",
     "lnrs": "Kent and Medway",
     "gainSiteSizeHa": 0.84,
+    "first_seen_date": "2026-07-04"
+  },
+  {
+    "code": "BGS-060526001",
+    "title": "Biodiversity gain site",
+    "lpa": "Harrogate LPA",
+    "nca": "",
+    "lnrs": "North Yorkshire and York",
+    "gainSiteSizeHa": 29.96,
     "first_seen_date": "2026-07-04"
   },
   {
@@ -144,12 +162,12 @@
     "first_seen_date": "2026-07-04"
   },
   {
-    "code": "BGS-060526001",
+    "code": "BGS-200426002",
     "title": "Biodiversity gain site",
-    "lpa": "Harrogate LPA",
+    "lpa": "South Gloucestershire LPA",
     "nca": "",
-    "lnrs": "North Yorkshire and York",
-    "gainSiteSizeHa": 29.96,
+    "lnrs": "West of England",
+    "gainSiteSizeHa": 33.9,
     "first_seen_date": "2026-07-04"
   },
   {
@@ -180,21 +198,21 @@
     "first_seen_date": "2026-07-02"
   },
   {
-    "code": "BGS-110326001",
-    "title": "Biodiversity gain site",
-    "lpa": "Allerdale LPA",
-    "nca": "",
-    "lnrs": "Cumbria",
-    "gainSiteSizeHa": 29.94,
-    "first_seen_date": "2026-07-02"
-  },
-  {
     "code": "BGS-020426001",
     "title": "Biodiversity gain site",
     "lpa": "East Northamptonshire LPA",
     "nca": "",
     "lnrs": "North Northamptonshire",
     "gainSiteSizeHa": 20.06,
+    "first_seen_date": "2026-07-02"
+  },
+  {
+    "code": "BGS-110326001",
+    "title": "Biodiversity gain site",
+    "lpa": "Allerdale LPA",
+    "nca": "",
+    "lnrs": "Cumbria",
+    "gainSiteSizeHa": 29.94,
     "first_seen_date": "2026-07-02"
   },
   {
@@ -205,23 +223,5 @@
     "lnrs": "North Yorkshire and York",
     "gainSiteSizeHa": 30.77,
     "first_seen_date": "2026-06-30"
-  },
-  {
-    "code": "BGS-240426003",
-    "title": "Biodiversity gain site",
-    "lpa": "North East Derbyshire LPA",
-    "nca": "",
-    "lnrs": "Derbyshire",
-    "gainSiteSizeHa": 21.7,
-    "first_seen_date": "2026-06-26"
-  },
-  {
-    "code": "BGS-240326001",
-    "title": "Biodiversity gain site",
-    "lpa": "Hambleton LPA",
-    "nca": "",
-    "lnrs": "North Yorkshire and York",
-    "gainSiteSizeHa": 1,
-    "first_seen_date": "2026-06-26"
   }
 ]
