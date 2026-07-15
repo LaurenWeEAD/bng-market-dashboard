@@ -8970,65 +8970,10 @@
     "lpa": "Braintree LPA",
     "lnrs": "Greater Essex",
     "authority": "Braintree LPA",
-    "sizeHa": 12.11,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Heathland and shrub - Mixed scrub",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 3.2793,
-        "allocated_extent": 0,
-        "remaining_extent": 3.2793
-      },
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 7.0125,
-        "allocated_extent": 0.0049,
-        "remaining_extent": 7.0076
-      },
-      {
-        "habitat": "Woodland and forest - Other woodland; broadleaved",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 1.3153,
-        "allocated_extent": 0,
-        "remaining_extent": 1.3153
-      },
-      {
-        "habitat": "Individual trees - Rural tree",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.2036,
-        "allocated_extent": 0,
-        "remaining_extent": 0.2036
-      },
-      {
-        "habitat": "Species-rich native hedgerow",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.357,
-        "allocated_extent": 0,
-        "remaining_extent": 0.357
-      },
-      {
-        "habitat": "Species-rich native hedgerow with trees",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.29,
-        "allocated_extent": 0,
-        "remaining_extent": 0.29
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-041125001",
