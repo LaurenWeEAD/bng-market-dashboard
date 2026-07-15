@@ -17030,7 +17030,7 @@
     "authority": "Northumberland LPA",
     "sizeHa": 30,
     "first_seen_date": "2026-07-14",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Grassland - Other neutral grassland",
@@ -18568,7 +18568,7 @@
     "authority": "HF Environmental Ltd",
     "sizeHa": 84,
     "first_seen_date": "2026-07-14",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Heathland and shrub - Mixed scrub",
