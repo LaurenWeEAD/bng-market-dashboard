@@ -778,10 +778,10 @@
   {
     "lpa": "Braintree LPA",
     "site_count": 3,
-    "registered_habitat_hectares": 64.33,
-    "allocated_habitat_area": 0.35,
-    "remaining_habitat_area": 63.97,
-    "utilisation_percent": 0.6
+    "registered_habitat_hectares": 76.14,
+    "allocated_habitat_area": 0.36,
+    "remaining_habitat_area": 75.78,
+    "utilisation_percent": 0.5
   },
   {
     "lpa": "Leeds LPA",
