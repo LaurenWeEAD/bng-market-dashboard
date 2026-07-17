@@ -274,7 +274,7 @@
     "authority": "East Suffolk LPA",
     "sizeHa": 32.98,
     "first_seen_date": "2026-07-16",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Heathland and shrub - Mixed scrub",
@@ -3375,7 +3375,7 @@
     "authority": "North Yorkshire LPA",
     "sizeHa": 34.7,
     "first_seen_date": "2026-07-16",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Grassland - Lowland meadows",
@@ -4859,7 +4859,7 @@
     "authority": "Cheshire West and Chester LPA",
     "sizeHa": 4.43,
     "first_seen_date": "2026-07-16",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Grassland - Other neutral grassland",
@@ -8033,7 +8033,7 @@
     "authority": "RSK Biocensus Limited",
     "sizeHa": 24.87,
     "first_seen_date": "2026-07-16",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Woodland and forest - Other woodland; broadleaved",
@@ -15851,7 +15851,7 @@
     "authority": "RSK Biocensus",
     "sizeHa": 15.12,
     "first_seen_date": "2026-07-16",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Heathland and shrub - Mixed scrub",
