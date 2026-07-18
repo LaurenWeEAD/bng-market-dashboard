@@ -11332,10 +11332,119 @@
     "lpa": "South Northamptonshire LPA",
     "lnrs": "West Northamptonshire",
     "authority": "RSK Biocensus Limited",
-    "sizeHa": 0,
+    "sizeHa": 35.01,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 18.3515,
+        "allocated_extent": 0.1485,
+        "remaining_extent": 18.203
+      },
+      {
+        "habitat": "Lakes - Ponds (Priority Habitat)",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.2241,
+        "allocated_extent": 0,
+        "remaining_extent": 0.2241
+      },
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 6.7947,
+        "allocated_extent": 0,
+        "remaining_extent": 6.7947
+      },
+      {
+        "habitat": "Grassland - Lowland meadows",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 7.9617,
+        "allocated_extent": 0,
+        "remaining_extent": 7.9617
+      },
+      {
+        "habitat": "Grassland - Modified grassland",
+        "condition": "Poor",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.1826,
+        "allocated_extent": 0,
+        "remaining_extent": 0.1826
+      },
+      {
+        "habitat": "Woodland and forest - Other woodland; broadleaved",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.894,
+        "allocated_extent": 0,
+        "remaining_extent": 0.894
+      },
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Poor",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.0656,
+        "allocated_extent": 0,
+        "remaining_extent": 0.0656
+      },
+      {
+        "habitat": "Individual trees - Rural tree",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.1221,
+        "allocated_extent": 0,
+        "remaining_extent": 0.1221
+      },
+      {
+        "habitat": "Woodland and forest - Other woodland; broadleaved",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.4835,
+        "allocated_extent": 0.0643,
+        "remaining_extent": 0.4192
+      },
+      {
+        "habitat": "Species-rich native hedgerow with trees",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 1.3569,
+        "allocated_extent": 0.3758,
+        "remaining_extent": 0.9811
+      },
+      {
+        "habitat": "Species-rich native hedgerow",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.1605,
+        "allocated_extent": 0,
+        "remaining_extent": 0.1605
+      },
+      {
+        "habitat": "Species-rich native hedgerow - associated with bank or ditch",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.3112,
+        "allocated_extent": 0,
+        "remaining_extent": 0.3112
+      }
+    ]
   },
   {
     "code": "BGS-110226003",
