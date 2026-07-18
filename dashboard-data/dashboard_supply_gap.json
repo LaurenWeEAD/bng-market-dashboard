@@ -200,6 +200,14 @@
     "utilisation_percent": 23.9
   },
   {
+    "lpa": "South Northamptonshire LPA",
+    "site_count": 2,
+    "registered_habitat_hectares": 26.71,
+    "allocated_habitat_area": 6.23,
+    "remaining_habitat_area": 20.48,
+    "utilisation_percent": 23.3
+  },
+  {
     "lpa": "The Broads Authority LPA",
     "site_count": 1,
     "registered_habitat_hectares": 3.85,
@@ -342,14 +350,6 @@
     "allocated_habitat_area": 8.84,
     "remaining_habitat_area": 73.41,
     "utilisation_percent": 10.7
-  },
-  {
-    "lpa": "South Northamptonshire LPA",
-    "site_count": 2,
-    "registered_habitat_hectares": 61.79,
-    "allocated_habitat_area": 6.44,
-    "remaining_habitat_area": 55.35,
-    "utilisation_percent": 10.4
   },
   {
     "lpa": "South Cambridgeshire LPA",
