@@ -32,14 +32,6 @@
     "utilisation_percent": 100
   },
   {
-    "lpa": "Wakefield LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 3.97,
-    "allocated_habitat_area": 3.97,
-    "remaining_habitat_area": 0,
-    "utilisation_percent": 100
-  },
-  {
     "lpa": "Blackpool LPA",
     "site_count": 1,
     "registered_habitat_hectares": 1.04,
@@ -989,6 +981,14 @@
     "registered_habitat_hectares": 54.79,
     "allocated_habitat_area": 0,
     "remaining_habitat_area": 54.79,
+    "utilisation_percent": 0
+  },
+  {
+    "lpa": "Wakefield LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 0,
+    "allocated_habitat_area": 0,
+    "remaining_habitat_area": 0,
     "utilisation_percent": 0
   },
   {
