@@ -33,19 +33,19 @@
   },
   {
     "group": "Grassland",
-    "registered_extent": 6106.75,
-    "allocated_extent": 465.26,
+    "registered_extent": 6109.8,
+    "allocated_extent": 468.31,
     "available_extent": 5641.49,
-    "allocated_units": 2443.45,
-    "utilisation_percent": 7.6
+    "allocated_units": 2461.97,
+    "utilisation_percent": 7.7
   },
   {
     "group": "Heathland and Shrub",
-    "registered_extent": 1163.39,
-    "allocated_extent": 77.28,
+    "registered_extent": 1163.83,
+    "allocated_extent": 77.72,
     "available_extent": 1086.11,
-    "allocated_units": 1022.41,
-    "utilisation_percent": 6.6
+    "allocated_units": 1040.93,
+    "utilisation_percent": 6.7
   },
   {
     "group": "Sparsely Vegetated Land",
@@ -57,10 +57,10 @@
   },
   {
     "group": "Woodland and Forest",
-    "registered_extent": 1055.23,
-    "allocated_extent": 57.76,
+    "registered_extent": 1055.71,
+    "allocated_extent": 58.24,
     "available_extent": 997.47,
-    "allocated_units": 374.21,
+    "allocated_units": 392.73,
     "utilisation_percent": 5.5
   },
   {
