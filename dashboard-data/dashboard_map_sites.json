@@ -544,7 +544,7 @@
     "authority": "Barnsley Metropolitan Borough Council",
     "sizeHa": 21.37,
     "first_seen_date": "2026-07-21",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Heathland and shrub - Mixed scrub",
@@ -2019,7 +2019,7 @@
     "authority": "New Forest National Park LPA, New Forest LPA",
     "sizeHa": 10.22,
     "first_seen_date": "2026-07-21",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Grassland - Other neutral grassland",
@@ -7407,7 +7407,7 @@
     "authority": "RSK Biocensus Limited",
     "sizeHa": 20.07,
     "first_seen_date": "2026-07-21",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Lakes - Ponds (non-priority habitat)",
@@ -13426,7 +13426,7 @@
     "authority": "RSK Biocensus Ltd",
     "sizeHa": 12.05,
     "first_seen_date": "2026-07-21",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Woodland and forest - Lowland mixed deciduous woodland",
@@ -18468,7 +18468,7 @@
     "authority": "HARRY FERGUSON HOLDINGS LTD",
     "sizeHa": 23.9,
     "first_seen_date": "2026-07-21",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Grassland - Other neutral grassland",
@@ -20754,7 +20754,7 @@
     "authority": "Plantlife International",
     "sizeHa": 10.21,
     "first_seen_date": "2026-07-21",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Woodland and forest - Other woodland; broadleaved",
@@ -21041,7 +21041,7 @@
     "authority": "HARRY FERGUSON HOLDINGS LTD",
     "sizeHa": 36.7,
     "first_seen_date": "2026-07-21",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Grassland - Other neutral grassland",
