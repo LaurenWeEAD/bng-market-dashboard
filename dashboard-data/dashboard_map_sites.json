@@ -9538,29 +9538,10 @@
     "lpa": "Blaby LPA",
     "lnrs": "Leicestershire, Leicester and Rutland",
     "authority": "RSK Biocensus Limited",
-    "sizeHa": 15.74,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Grassland - Lowland meadows",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 15.6431,
-        "allocated_extent": 2.423,
-        "remaining_extent": 13.2201
-      },
-      {
-        "habitat": "Lakes - Ponds (non-priority habitat)",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.0999,
-        "allocated_extent": 0,
-        "remaining_extent": 0.0999
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-090725001",
