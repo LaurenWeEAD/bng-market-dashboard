@@ -320,6 +320,14 @@
     "utilisation_percent": 10.9
   },
   {
+    "lpa": "Blaby LPA",
+    "site_count": 2,
+    "registered_habitat_hectares": 22.22,
+    "allocated_habitat_area": 2.42,
+    "remaining_habitat_area": 19.79,
+    "utilisation_percent": 10.9
+  },
+  {
     "lpa": "East Lindsey LPA",
     "site_count": 1,
     "registered_habitat_hectares": 18.7,
@@ -1005,14 +1013,6 @@
     "registered_habitat_hectares": 81.54,
     "allocated_habitat_area": 0,
     "remaining_habitat_area": 81.54,
-    "utilisation_percent": 0
-  },
-  {
-    "lpa": "Blaby LPA",
-    "site_count": 2,
-    "registered_habitat_hectares": 6.47,
-    "allocated_habitat_area": 0,
-    "remaining_habitat_area": 6.47,
     "utilisation_percent": 0
   },
   {
