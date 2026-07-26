@@ -728,6 +728,14 @@
     "utilisation_percent": 1.5
   },
   {
+    "lpa": "Bath and North East Somerset LPA",
+    "site_count": 3,
+    "registered_habitat_hectares": 157.68,
+    "allocated_habitat_area": 2.25,
+    "remaining_habitat_area": 155.43,
+    "utilisation_percent": 1.4
+  },
+  {
     "lpa": "Somerset West and Taunton LPA",
     "site_count": 7,
     "registered_habitat_hectares": 135.93,
@@ -829,14 +837,6 @@
     "registered_habitat_hectares": 112.24,
     "allocated_habitat_area": 0.08,
     "remaining_habitat_area": 112.16,
-    "utilisation_percent": 0.1
-  },
-  {
-    "lpa": "Bath and North East Somerset LPA",
-    "site_count": 3,
-    "registered_habitat_hectares": 90.41,
-    "allocated_habitat_area": 0.06,
-    "remaining_habitat_area": 90.36,
     "utilisation_percent": 0.1
   },
   {
