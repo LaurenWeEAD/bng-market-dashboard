@@ -12147,74 +12147,10 @@
     "lpa": "Bath and North East Somerset LPA",
     "lnrs": "West of England",
     "authority": "Bath and North East Somerset LPA",
-    "sizeHa": 70,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 14.393,
-        "allocated_extent": 1.3608,
-        "remaining_extent": 13.0322
-      },
-      {
-        "habitat": "Grassland - Lowland meadows",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 41.554,
-        "allocated_extent": 0.2189,
-        "remaining_extent": 41.3351
-      },
-      {
-        "habitat": "Woodland and forest - Other woodland; broadleaved",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 6.22,
-        "allocated_extent": 0,
-        "remaining_extent": 6.22
-      },
-      {
-        "habitat": "Heathland and shrub - Mixed scrub",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 4.446,
-        "allocated_extent": 0.032,
-        "remaining_extent": 4.414
-      },
-      {
-        "habitat": "Individual trees - Rural tree",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.658,
-        "allocated_extent": 0.5807,
-        "remaining_extent": 0.0773
-      },
-      {
-        "habitat": "Species-rich native hedgerow",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.91,
-        "allocated_extent": 0,
-        "remaining_extent": 0.91
-      },
-      {
-        "habitat": "Ditches",
-        "condition": "Good",
-        "habitat_type": "watercourse",
-        "unit": "km",
-        "proposed_extent": 0.4,
-        "allocated_extent": 0,
-        "remaining_extent": 0.4
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-120925001",
