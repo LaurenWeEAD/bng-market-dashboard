@@ -1066,9 +1066,9 @@
   {
     "lpa": "Charnwood LPA",
     "site_count": 1,
-    "registered_habitat_hectares": 28.77,
+    "registered_habitat_hectares": 0,
     "allocated_habitat_area": 0,
-    "remaining_habitat_area": 28.77,
+    "remaining_habitat_area": 0,
     "utilisation_percent": 0
   },
   {

@@ -14448,65 +14448,10 @@
     "lpa": "Charnwood LPA",
     "lnrs": "Leicestershire, Leicester and Rutland",
     "authority": "Charnwood LPA",
-    "sizeHa": 28.18,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 25.1541,
-        "allocated_extent": 0,
-        "remaining_extent": 25.1541
-      },
-      {
-        "habitat": "Woodland and forest - Other woodland; broadleaved",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.3294,
-        "allocated_extent": 0,
-        "remaining_extent": 0.3294
-      },
-      {
-        "habitat": "Lakes - Ponds (non-priority habitat)",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.1926,
-        "allocated_extent": 0,
-        "remaining_extent": 0.1926
-      },
-      {
-        "habitat": "Grassland - Traditional orchards",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.974,
-        "allocated_extent": 0,
-        "remaining_extent": 0.974
-      },
-      {
-        "habitat": "Heathland and shrub - Willow scrub",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 2.1208,
-        "allocated_extent": 0,
-        "remaining_extent": 2.1208
-      },
-      {
-        "habitat": "Species-rich native hedgerow",
-        "condition": "Moderate",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.599,
-        "allocated_extent": 0,
-        "remaining_extent": 0.599
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-021025001",
