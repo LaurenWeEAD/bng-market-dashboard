@@ -8863,56 +8863,10 @@
     "lpa": "Huntingdonshire LPA",
     "lnrs": "Cambridgeshire and Peterborough",
     "authority": "RSK Biocensus Limited",
-    "sizeHa": 25.46,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 18.3107,
-        "allocated_extent": 0.0231,
-        "remaining_extent": 18.2876
-      },
-      {
-        "habitat": "Heathland and shrub - Mixed scrub",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 2.719,
-        "allocated_extent": 0,
-        "remaining_extent": 2.719
-      },
-      {
-        "habitat": "Grassland - Modified grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.9349,
-        "allocated_extent": 0.063,
-        "remaining_extent": 0.8719
-      },
-      {
-        "habitat": "Lakes - Ponds (non-priority habitat)",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.0185,
-        "allocated_extent": 0,
-        "remaining_extent": 0.0185
-      },
-      {
-        "habitat": "Species-rich native hedgerow",
-        "condition": "Moderate",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.198,
-        "allocated_extent": 0,
-        "remaining_extent": 0.198
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-051225002",

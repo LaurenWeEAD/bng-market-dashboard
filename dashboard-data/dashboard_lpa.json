@@ -800,19 +800,19 @@
     "utilisation_percent": 0.5
   },
   {
+    "lpa": "Huntingdonshire LPA",
+    "site_count": 3,
+    "registered_habitat_hectares": 73.24,
+    "allocated_habitat_area": 0.33,
+    "remaining_habitat_area": 72.91,
+    "utilisation_percent": 0.5
+  },
+  {
     "lpa": "East Northamptonshire LPA",
     "site_count": 3,
     "registered_habitat_hectares": 177.62,
     "allocated_habitat_area": 0.66,
     "remaining_habitat_area": 176.96,
-    "utilisation_percent": 0.4
-  },
-  {
-    "lpa": "Huntingdonshire LPA",
-    "site_count": 3,
-    "registered_habitat_hectares": 95.23,
-    "allocated_habitat_area": 0.42,
-    "remaining_habitat_area": 94.81,
     "utilisation_percent": 0.4
   },
   {
