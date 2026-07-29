@@ -136,6 +136,14 @@
     "utilisation_percent": 33.2
   },
   {
+    "lpa": "North Warwickshire LPA",
+    "site_count": 2,
+    "registered_habitat_hectares": 10.39,
+    "allocated_habitat_area": 3.44,
+    "remaining_habitat_area": 6.95,
+    "utilisation_percent": 33.1
+  },
+  {
     "lpa": "South Norfolk LPA",
     "site_count": 3,
     "registered_habitat_hectares": 47.66,
@@ -222,14 +230,6 @@
     "allocated_habitat_area": 5.38,
     "remaining_habitat_area": 21.69,
     "utilisation_percent": 19.9
-  },
-  {
-    "lpa": "North Warwickshire LPA",
-    "site_count": 2,
-    "registered_habitat_hectares": 18.66,
-    "allocated_habitat_area": 3.44,
-    "remaining_habitat_area": 15.22,
-    "utilisation_percent": 18.4
   },
   {
     "lpa": "Dartmoor National Park LPA",
@@ -800,19 +800,19 @@
     "utilisation_percent": 0.5
   },
   {
-    "lpa": "Huntingdonshire LPA",
-    "site_count": 3,
-    "registered_habitat_hectares": 73.24,
-    "allocated_habitat_area": 0.33,
-    "remaining_habitat_area": 72.91,
-    "utilisation_percent": 0.5
-  },
-  {
     "lpa": "East Northamptonshire LPA",
     "site_count": 3,
     "registered_habitat_hectares": 177.62,
     "allocated_habitat_area": 0.66,
     "remaining_habitat_area": 176.96,
+    "utilisation_percent": 0.4
+  },
+  {
+    "lpa": "Huntingdonshire LPA",
+    "site_count": 3,
+    "registered_habitat_hectares": 95.23,
+    "allocated_habitat_area": 0.42,
+    "remaining_habitat_area": 94.81,
     "utilisation_percent": 0.4
   },
   {
@@ -1146,9 +1146,9 @@
   {
     "lpa": "Newcastle upon Tyne LPA",
     "site_count": 1,
-    "registered_habitat_hectares": 4.06,
+    "registered_habitat_hectares": 0,
     "allocated_habitat_area": 0,
-    "remaining_habitat_area": 4.06,
+    "remaining_habitat_area": 0,
     "utilisation_percent": 0
   },
   {
