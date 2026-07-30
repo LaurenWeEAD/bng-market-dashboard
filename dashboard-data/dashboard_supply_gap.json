@@ -112,14 +112,6 @@
     "utilisation_percent": 38.8
   },
   {
-    "lpa": "Vale of White Horse LPA",
-    "site_count": 3,
-    "registered_habitat_hectares": 32.68,
-    "allocated_habitat_area": 12.46,
-    "remaining_habitat_area": 20.22,
-    "utilisation_percent": 38.1
-  },
-  {
     "lpa": "Fareham LPA",
     "site_count": 1,
     "registered_habitat_hectares": 6.71,
@@ -166,6 +158,14 @@
     "allocated_habitat_area": 5.34,
     "remaining_habitat_area": 13.18,
     "utilisation_percent": 28.8
+  },
+  {
+    "lpa": "Vale of White Horse LPA",
+    "site_count": 3,
+    "registered_habitat_hectares": 64.91,
+    "allocated_habitat_area": 17.76,
+    "remaining_habitat_area": 47.14,
+    "utilisation_percent": 27.4
   },
   {
     "lpa": "Rochdale LPA",
@@ -520,6 +520,14 @@
     "utilisation_percent": 5.2
   },
   {
+    "lpa": "Wealden LPA",
+    "site_count": 5,
+    "registered_habitat_hectares": 92.55,
+    "allocated_habitat_area": 4.77,
+    "remaining_habitat_area": 87.78,
+    "utilisation_percent": 5.2
+  },
+  {
     "lpa": "Cornwall LPA",
     "site_count": 4,
     "registered_habitat_hectares": 65.73,
@@ -621,14 +629,6 @@
     "registered_habitat_hectares": 186.55,
     "allocated_habitat_area": 5.73,
     "remaining_habitat_area": 180.82,
-    "utilisation_percent": 3.1
-  },
-  {
-    "lpa": "Wealden LPA",
-    "site_count": 5,
-    "registered_habitat_hectares": 76.42,
-    "allocated_habitat_area": 2.33,
-    "remaining_habitat_area": 74.09,
     "utilisation_percent": 3.1
   },
   {

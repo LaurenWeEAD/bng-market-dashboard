@@ -10474,10 +10474,56 @@
     "lpa": "Wealden LPA",
     "lnrs": "East Sussex and Brighton & Hove",
     "authority": "RSK Biocensus Limited",
-    "sizeHa": 0,
+    "sizeHa": 16.13,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Grassland - Lowland meadows",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 5.0154,
+        "allocated_extent": 0.8977,
+        "remaining_extent": 4.1177
+      },
+      {
+        "habitat": "Lakes - Ponds (non-priority habitat)",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.0439,
+        "allocated_extent": 0,
+        "remaining_extent": 0.0439
+      },
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 1.4315,
+        "allocated_extent": 0.0788,
+        "remaining_extent": 1.3527
+      },
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 8.5943,
+        "allocated_extent": 1.4375,
+        "remaining_extent": 7.1568
+      },
+      {
+        "habitat": "Woodland and forest - Other woodland; broadleaved",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 1.0438,
+        "allocated_extent": 0.0252,
+        "remaining_extent": 1.0186
+      }
+    ]
   },
   {
     "code": "BGS-150825001",
@@ -21209,10 +21255,56 @@
     "lpa": "Vale of White Horse LPA",
     "lnrs": "Oxfordshire",
     "authority": "Vale of White Horse LPA",
-    "sizeHa": 0,
+    "sizeHa": 32.23,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Grassland - Floodplain wetland mosaic and CFGM",
+        "condition": "Fairly Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 13.02,
+        "allocated_extent": 4.0484,
+        "remaining_extent": 8.9716
+      },
+      {
+        "habitat": "Woodland and forest - Other woodland; broadleaved",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 1.68,
+        "allocated_extent": 0.242,
+        "remaining_extent": 1.438
+      },
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 6.06,
+        "allocated_extent": 0.002,
+        "remaining_extent": 6.058
+      },
+      {
+        "habitat": "Grassland - Modified grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 3.69,
+        "allocated_extent": 0.4313,
+        "remaining_extent": 3.2587
+      },
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 7.78,
+        "allocated_extent": 0.5816,
+        "remaining_extent": 7.1984
+      }
+    ]
   },
   {
     "code": "BGS-110326001",
