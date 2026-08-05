@@ -18070,38 +18070,10 @@
     "lpa": "Wiltshire LPA",
     "lnrs": "Wiltshire and Swindon",
     "authority": "RSK Biocensus",
-    "sizeHa": 15.12,
+    "sizeHa": 0,
     "first_seen_date": "2026-07-16",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Heathland and shrub - Mixed scrub",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.1637,
-        "allocated_extent": 0,
-        "remaining_extent": 0.1637
-      },
-      {
-        "habitat": "Grassland - Lowland meadows",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 14.8265,
-        "allocated_extent": 0,
-        "remaining_extent": 14.8265
-      },
-      {
-        "habitat": "Species-rich native hedgerow with trees",
-        "condition": "Moderate",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.3,
-        "allocated_extent": 0,
-        "remaining_extent": 0.3
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-290224001",
