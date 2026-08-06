@@ -208,6 +208,14 @@
     "utilisation_percent": 21
   },
   {
+    "lpa": "Chesterfield LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 22.95,
+    "allocated_habitat_area": 4.76,
+    "remaining_habitat_area": 18.19,
+    "utilisation_percent": 20.7
+  },
+  {
     "lpa": "Scarborough LPA",
     "site_count": 2,
     "registered_habitat_hectares": 27.07,
@@ -845,14 +853,6 @@
     "registered_habitat_hectares": 20.4,
     "allocated_habitat_area": 0,
     "remaining_habitat_area": 20.4,
-    "utilisation_percent": 0
-  },
-  {
-    "lpa": "Chesterfield LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 0,
-    "allocated_habitat_area": 0,
-    "remaining_habitat_area": 0,
     "utilisation_percent": 0
   },
   {

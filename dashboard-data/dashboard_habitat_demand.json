@@ -3,11 +3,11 @@
     "habitat": "Other neutral grassland",
     "habitat_group": "Grassland",
     "habitat_type": "habitat",
-    "registered_extent": 4404.09,
-    "allocated_extent": 355.22,
-    "remaining_extent": 4048.87,
-    "allocation_count": 1430,
-    "allocation_row_count": 1514,
+    "registered_extent": 4417.33,
+    "allocated_extent": 357.92,
+    "remaining_extent": 4059.4,
+    "allocation_count": 1438,
+    "allocation_row_count": 1522,
     "utilisation_percent": 8.1,
     "demand_score": 100,
     "pressure_score": 8.1,
@@ -33,15 +33,15 @@
     "habitat": "Mixed scrub",
     "habitat_group": "Heathland and Shrub",
     "habitat_type": "habitat",
-    "registered_extent": 1113.25,
-    "allocated_extent": 77.9,
-    "remaining_extent": 1035.34,
-    "allocation_count": 487,
-    "allocation_row_count": 500,
+    "registered_extent": 1119.32,
+    "allocated_extent": 78.04,
+    "remaining_extent": 1041.29,
+    "allocation_count": 490,
+    "allocation_row_count": 503,
     "utilisation_percent": 7,
     "demand_score": 28.6,
     "pressure_score": 7,
-    "opportunity_score": 20,
+    "opportunity_score": 19.9,
     "opportunity_rating": "Emerging"
   },
   {
@@ -54,9 +54,9 @@
     "allocation_count": 515,
     "allocation_row_count": 539,
     "utilisation_percent": 6.4,
-    "demand_score": 27,
+    "demand_score": 26.8,
     "pressure_score": 6.4,
-    "opportunity_score": 18.8,
+    "opportunity_score": 18.7,
     "opportunity_rating": "Emerging"
   },
   {
@@ -69,9 +69,9 @@
     "allocation_count": 225,
     "allocation_row_count": 227,
     "utilisation_percent": 14.3,
-    "demand_score": 13.1,
+    "demand_score": 13,
     "pressure_score": 14.3,
-    "opportunity_score": 13.6,
+    "opportunity_score": 13.5,
     "opportunity_rating": "Low"
   },
   {
@@ -114,7 +114,7 @@
     "allocation_count": 73,
     "allocation_row_count": 121,
     "utilisation_percent": 14.7,
-    "demand_score": 3.8,
+    "demand_score": 3.7,
     "pressure_score": 14.7,
     "opportunity_score": 8.1,
     "opportunity_rating": "Low"
@@ -135,6 +135,21 @@
     "opportunity_rating": "Low"
   },
   {
+    "habitat": "Lowland mixed deciduous woodland",
+    "habitat_group": "Woodland and Forest",
+    "habitat_type": "habitat",
+    "registered_extent": 433.62,
+    "allocated_extent": 30.21,
+    "remaining_extent": 403.41,
+    "allocation_count": 54,
+    "allocation_row_count": 60,
+    "utilisation_percent": 7,
+    "demand_score": 5.9,
+    "pressure_score": 7,
+    "opportunity_score": 6.3,
+    "opportunity_rating": "Low"
+  },
+  {
     "habitat": "Reedbeds",
     "habitat_group": "Wetland",
     "habitat_type": "habitat",
@@ -147,21 +162,6 @@
     "demand_score": 0.4,
     "pressure_score": 14.8,
     "opportunity_score": 6.1,
-    "opportunity_rating": "Low"
-  },
-  {
-    "habitat": "Lowland mixed deciduous woodland",
-    "habitat_group": "Woodland and Forest",
-    "habitat_type": "habitat",
-    "registered_extent": 429.98,
-    "allocated_extent": 28.29,
-    "remaining_extent": 401.7,
-    "allocation_count": 51,
-    "allocation_row_count": 57,
-    "utilisation_percent": 6.6,
-    "demand_score": 5.5,
-    "pressure_score": 6.6,
-    "opportunity_score": 6,
     "opportunity_rating": "Low"
   },
   {
@@ -180,21 +180,6 @@
     "opportunity_rating": "Low"
   },
   {
-    "habitat": "Species-rich native hedgerow",
-    "habitat_group": "Hedgerow",
-    "habitat_type": "hedgerow",
-    "registered_extent": 108.77,
-    "allocated_extent": 2.86,
-    "remaining_extent": 105.91,
-    "allocation_count": 151,
-    "allocation_row_count": 154,
-    "utilisation_percent": 2.6,
-    "demand_score": 6.2,
-    "pressure_score": 2.6,
-    "opportunity_score": 4.8,
-    "opportunity_rating": "Low"
-  },
-  {
     "habitat": "Other woodland; broadleaved",
     "habitat_group": "Woodland and Forest",
     "habitat_type": "habitat",
@@ -204,9 +189,24 @@
     "allocation_count": 70,
     "allocation_row_count": 73,
     "utilisation_percent": 4.6,
-    "demand_score": 4.9,
+    "demand_score": 4.8,
     "pressure_score": 4.6,
     "opportunity_score": 4.8,
+    "opportunity_rating": "Low"
+  },
+  {
+    "habitat": "Species-rich native hedgerow",
+    "habitat_group": "Hedgerow",
+    "habitat_type": "hedgerow",
+    "registered_extent": 108.77,
+    "allocated_extent": 2.86,
+    "remaining_extent": 105.91,
+    "allocation_count": 151,
+    "allocation_row_count": 154,
+    "utilisation_percent": 2.6,
+    "demand_score": 6.1,
+    "pressure_score": 2.6,
+    "opportunity_score": 4.7,
     "opportunity_rating": "Low"
   },
   {
@@ -249,7 +249,7 @@
     "allocation_count": 137,
     "allocation_row_count": 137,
     "utilisation_percent": 1.3,
-    "demand_score": 5.6,
+    "demand_score": 5.5,
     "pressure_score": 1.3,
     "opportunity_score": 3.9,
     "opportunity_rating": "Low"
@@ -266,7 +266,7 @@
     "utilisation_percent": 4.3,
     "demand_score": 3.4,
     "pressure_score": 4.3,
-    "opportunity_score": 3.8,
+    "opportunity_score": 3.7,
     "opportunity_rating": "Low"
   },
   {
@@ -294,7 +294,7 @@
     "allocation_count": 14,
     "allocation_row_count": 14,
     "utilisation_percent": 5.3,
-    "demand_score": 1.4,
+    "demand_score": 1.3,
     "pressure_score": 5.3,
     "opportunity_score": 2.9,
     "opportunity_rating": "Low"
