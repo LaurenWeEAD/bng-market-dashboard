@@ -1333,38 +1333,10 @@
     "lpa": "Chesterfield LPA",
     "lnrs": "Derbyshire",
     "authority": "Chesterfield LPA",
-    "sizeHa": 24.19,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 13.2361,
-        "allocated_extent": 2.7027,
-        "remaining_extent": 10.5334
-      },
-      {
-        "habitat": "Woodland and forest - Lowland mixed deciduous woodland",
-        "condition": "Poor",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 3.6364,
-        "allocated_extent": 1.9256,
-        "remaining_extent": 1.7108
-      },
-      {
-        "habitat": "Heathland and shrub - Mixed scrub",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 6.0784,
-        "allocated_extent": 0.1336,
-        "remaining_extent": 5.9448
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-281125001",
@@ -18070,10 +18042,38 @@
     "lpa": "Wiltshire LPA",
     "lnrs": "Wiltshire and Swindon",
     "authority": "RSK Biocensus",
-    "sizeHa": 0,
+    "sizeHa": 15.12,
     "first_seen_date": "2026-07-16",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.1637,
+        "allocated_extent": 0,
+        "remaining_extent": 0.1637
+      },
+      {
+        "habitat": "Grassland - Lowland meadows",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 14.8265,
+        "allocated_extent": 0,
+        "remaining_extent": 14.8265
+      },
+      {
+        "habitat": "Species-rich native hedgerow with trees",
+        "condition": "Moderate",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.3,
+        "allocated_extent": 0,
+        "remaining_extent": 0.3
+      }
+    ]
   },
   {
     "code": "BGS-290224001",

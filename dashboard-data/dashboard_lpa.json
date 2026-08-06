@@ -208,14 +208,6 @@
     "utilisation_percent": 21
   },
   {
-    "lpa": "Chesterfield LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 22.95,
-    "allocated_habitat_area": 4.76,
-    "remaining_habitat_area": 18.19,
-    "utilisation_percent": 20.7
-  },
-  {
     "lpa": "Scarborough LPA",
     "site_count": 2,
     "registered_habitat_hectares": 27.07,
@@ -632,14 +624,6 @@
     "utilisation_percent": 3.1
   },
   {
-    "lpa": "Wiltshire LPA",
-    "site_count": 5,
-    "registered_habitat_hectares": 153.6,
-    "allocated_habitat_area": 4.45,
-    "remaining_habitat_area": 149.15,
-    "utilisation_percent": 2.9
-  },
-  {
     "lpa": "Dover LPA",
     "site_count": 2,
     "registered_habitat_hectares": 59.26,
@@ -654,6 +638,14 @@
     "allocated_habitat_area": 2.66,
     "remaining_habitat_area": 94.89,
     "utilisation_percent": 2.7
+  },
+  {
+    "lpa": "Wiltshire LPA",
+    "site_count": 5,
+    "registered_habitat_hectares": 168.59,
+    "allocated_habitat_area": 4.45,
+    "remaining_habitat_area": 164.14,
+    "utilisation_percent": 2.6
   },
   {
     "lpa": "Lewes LPA",
@@ -853,6 +845,14 @@
     "registered_habitat_hectares": 20.4,
     "allocated_habitat_area": 0,
     "remaining_habitat_area": 20.4,
+    "utilisation_percent": 0
+  },
+  {
+    "lpa": "Chesterfield LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 0,
+    "allocated_habitat_area": 0,
+    "remaining_habitat_area": 0,
     "utilisation_percent": 0
   },
   {
