@@ -496,14 +496,6 @@
     "utilisation_percent": 7
   },
   {
-    "lpa": "Cherwell LPA",
-    "site_count": 2,
-    "registered_habitat_hectares": 21.07,
-    "allocated_habitat_area": 1.43,
-    "remaining_habitat_area": 19.64,
-    "utilisation_percent": 6.8
-  },
-  {
     "lpa": "Stratford-on-Avon LPA",
     "site_count": 5,
     "registered_habitat_hectares": 118.7,
@@ -590,6 +582,14 @@
     "allocated_habitat_area": 1.4,
     "remaining_habitat_area": 27.38,
     "utilisation_percent": 4.9
+  },
+  {
+    "lpa": "Cherwell LPA",
+    "site_count": 2,
+    "registered_habitat_hectares": 35.74,
+    "allocated_habitat_area": 1.66,
+    "remaining_habitat_area": 34.08,
+    "utilisation_percent": 4.7
   },
   {
     "lpa": "South Somerset LPA",
@@ -768,14 +768,6 @@
     "utilisation_percent": 1.5
   },
   {
-    "lpa": "Bath and North East Somerset LPA",
-    "site_count": 3,
-    "registered_habitat_hectares": 157.68,
-    "allocated_habitat_area": 2.27,
-    "remaining_habitat_area": 155.41,
-    "utilisation_percent": 1.4
-  },
-  {
     "lpa": "Somerset West and Taunton LPA",
     "site_count": 7,
     "registered_habitat_hectares": 135.93,
@@ -909,6 +901,14 @@
     "registered_habitat_hectares": 98.34,
     "allocated_habitat_area": 0.06,
     "remaining_habitat_area": 98.28,
+    "utilisation_percent": 0.1
+  },
+  {
+    "lpa": "Bath and North East Somerset LPA",
+    "site_count": 3,
+    "registered_habitat_hectares": 90.41,
+    "allocated_habitat_area": 0.08,
+    "remaining_habitat_area": 90.33,
     "utilisation_percent": 0.1
   },
   {

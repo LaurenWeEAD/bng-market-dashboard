@@ -9,11 +9,11 @@
   },
   {
     "group": "Individual Trees",
-    "registered_extent": 53.79,
-    "allocated_extent": 8.36,
-    "available_extent": 45.43,
-    "allocated_units": 129.82,
-    "utilisation_percent": 15.5
+    "registered_extent": 53.13,
+    "allocated_extent": 7.78,
+    "available_extent": 45.35,
+    "allocated_units": 127.49,
+    "utilisation_percent": 14.6
   },
   {
     "group": "Sparsely Vegetated Land",
@@ -25,42 +25,42 @@
   },
   {
     "group": "Watercourse",
-    "registered_extent": 70.44,
+    "registered_extent": 70.04,
     "allocated_extent": 6.99,
-    "available_extent": 63.45,
+    "available_extent": 63.05,
     "allocated_units": 15.52,
-    "utilisation_percent": 9.9
+    "utilisation_percent": 10
   },
   {
     "group": "Lakes and Ponds",
-    "registered_extent": 60.62,
+    "registered_extent": 60.92,
     "allocated_extent": 5.72,
-    "available_extent": 54.9,
+    "available_extent": 55.2,
     "allocated_units": 207.81,
     "utilisation_percent": 9.4
   },
   {
     "group": "Grassland",
-    "registered_extent": 6595.52,
-    "allocated_extent": 503.25,
-    "available_extent": 6092.27,
-    "allocated_units": 2655.82,
-    "utilisation_percent": 7.6
+    "registered_extent": 6552.31,
+    "allocated_extent": 501.88,
+    "available_extent": 6050.43,
+    "allocated_units": 2647.65,
+    "utilisation_percent": 7.7
   },
   {
     "group": "Heathland and Shrub",
-    "registered_extent": 1198.96,
-    "allocated_extent": 82.47,
-    "available_extent": 1116.49,
-    "allocated_units": 1099,
+    "registered_extent": 1195.5,
+    "allocated_extent": 82.44,
+    "available_extent": 1113.06,
+    "allocated_units": 1098.85,
     "utilisation_percent": 6.9
   },
   {
     "group": "Woodland and Forest",
-    "registered_extent": 1120.39,
-    "allocated_extent": 62.96,
-    "available_extent": 1057.43,
-    "allocated_units": 406.26,
+    "registered_extent": 1114.81,
+    "allocated_extent": 62.98,
+    "available_extent": 1051.83,
+    "allocated_units": 406.42,
     "utilisation_percent": 5.6
   },
   {
@@ -73,10 +73,10 @@
   },
   {
     "group": "Hedgerow",
-    "registered_extent": 371.47,
-    "allocated_extent": 8.17,
-    "available_extent": 363.3,
-    "allocated_units": 42.59,
+    "registered_extent": 372.42,
+    "allocated_extent": 8.3,
+    "available_extent": 364.12,
+    "allocated_units": 43.22,
     "utilisation_percent": 2.2
   },
   {

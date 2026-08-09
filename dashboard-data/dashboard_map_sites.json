@@ -1174,7 +1174,7 @@
     "authority": "RSK Biocensus Limited",
     "sizeHa": 9.36,
     "first_seen_date": "2026-08-09",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Urban - Open Mosaic Habitats on Previously Developed Land",
@@ -9347,74 +9347,10 @@
     "lpa": "Bath and North East Somerset LPA",
     "lnrs": "West of England",
     "authority": "Bath and North East Somerset LPA",
-    "sizeHa": 70,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 14.393,
-        "allocated_extent": 1.3608,
-        "remaining_extent": 13.0322
-      },
-      {
-        "habitat": "Grassland - Lowland meadows",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 41.554,
-        "allocated_extent": 0.2189,
-        "remaining_extent": 41.3351
-      },
-      {
-        "habitat": "Woodland and forest - Other woodland; broadleaved",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 6.22,
-        "allocated_extent": 0,
-        "remaining_extent": 6.22
-      },
-      {
-        "habitat": "Heathland and shrub - Mixed scrub",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 4.446,
-        "allocated_extent": 0.032,
-        "remaining_extent": 4.414
-      },
-      {
-        "habitat": "Individual trees - Rural tree",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.658,
-        "allocated_extent": 0.5807,
-        "remaining_extent": 0.0773
-      },
-      {
-        "habitat": "Species-rich native hedgerow",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.91,
-        "allocated_extent": 0,
-        "remaining_extent": 0.91
-      },
-      {
-        "habitat": "Ditches",
-        "condition": "Good",
-        "habitat_type": "watercourse",
-        "unit": "km",
-        "proposed_extent": 0.4,
-        "allocated_extent": 0,
-        "remaining_extent": 0.4
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-290126003",
@@ -11812,10 +11748,92 @@
     "lpa": "Cherwell LPA",
     "lnrs": "Oxfordshire",
     "authority": "Cherwell LPA",
-    "sizeHa": 0,
+    "sizeHa": 14.67,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 7.5556,
+        "allocated_extent": 0,
+        "remaining_extent": 7.5556
+      },
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 5.1835,
+        "allocated_extent": 0.2118,
+        "remaining_extent": 4.9717
+      },
+      {
+        "habitat": "Lakes - Ponds (non-priority habitat)",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.3,
+        "allocated_extent": 0,
+        "remaining_extent": 0.3
+      },
+      {
+        "habitat": "Woodland and forest - Lowland mixed deciduous woodland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.1044,
+        "allocated_extent": 0.02,
+        "remaining_extent": 0.0844
+      },
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.9894,
+        "allocated_extent": 0,
+        "remaining_extent": 0.9894
+      },
+      {
+        "habitat": "Woodland and forest - Other woodland; broadleaved",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.5334,
+        "allocated_extent": 0,
+        "remaining_extent": 0.5334
+      },
+      {
+        "habitat": "Species-rich native hedgerow with trees",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.778,
+        "allocated_extent": 0,
+        "remaining_extent": 0.778
+      },
+      {
+        "habitat": "Species-rich native hedgerow",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.899,
+        "allocated_extent": 0.1337,
+        "remaining_extent": 0.7653
+      },
+      {
+        "habitat": "Species-rich native hedgerow with trees - associated with bank or ditch",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.187,
+        "allocated_extent": 0,
+        "remaining_extent": 0.187
+      }
+    ]
   },
   {
     "code": "BGS-290725001",
@@ -20913,7 +20931,7 @@
     "authority": "Chichester LPA, South Downs National Park LPA",
     "sizeHa": 2.21,
     "first_seen_date": "2026-08-09",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Individual trees - Rural tree",
