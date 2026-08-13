@@ -4,7 +4,7 @@
     "site_count": 16,
     "registered_habitat_hectares": 482.38,
     "allocated_habitat_area": 18.85,
-    "remaining_habitat_area": 463.54,
+    "remaining_habitat_area": 463.53,
     "utilisation_percent": 3.9,
     "registered_hedgerow_km": 17.86,
     "registered_watercourse_km": 6.96
@@ -13,9 +13,9 @@
     "area": "Somerset",
     "site_count": 15,
     "registered_habitat_hectares": 416.93,
-    "allocated_habitat_area": 12.41,
-    "remaining_habitat_area": 404.52,
-    "utilisation_percent": 3,
+    "allocated_habitat_area": 12.87,
+    "remaining_habitat_area": 404.06,
+    "utilisation_percent": 3.1,
     "registered_hedgerow_km": 23.6,
     "registered_watercourse_km": 3.62
   },
