@@ -7962,101 +7962,10 @@
     "lpa": "Dartmoor National Park LPA",
     "lnrs": "Devon",
     "authority": "South Hams LPA, Devon County Council",
-    "sizeHa": 11.3,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Woodland and forest - Other woodland; broadleaved",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 1.4343,
-        "allocated_extent": 1.43,
-        "remaining_extent": 0.0043
-      },
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 5.6832,
-        "allocated_extent": 0,
-        "remaining_extent": 5.6832
-      },
-      {
-        "habitat": "Urban - Bare ground",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.338,
-        "allocated_extent": 0,
-        "remaining_extent": 0.338
-      },
-      {
-        "habitat": "Heathland and shrub - Mixed scrub",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 2.1323,
-        "allocated_extent": 0.1793,
-        "remaining_extent": 1.953
-      },
-      {
-        "habitat": "Individual trees - Rural tree",
-        "condition": "Poor",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.3746,
-        "allocated_extent": 0,
-        "remaining_extent": 0.3746
-      },
-      {
-        "habitat": "Woodland and forest - Lowland mixed deciduous woodland",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 1.709,
-        "allocated_extent": 1.2652,
-        "remaining_extent": 0.4438
-      },
-      {
-        "habitat": "Species-rich native hedgerow with trees - associated with bank or ditch",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 1.215,
-        "allocated_extent": 0.01,
-        "remaining_extent": 1.205
-      },
-      {
-        "habitat": "Other rivers and streams",
-        "condition": "Fairly Good",
-        "habitat_type": "watercourse",
-        "unit": "km",
-        "proposed_extent": 0.096,
-        "allocated_extent": 0,
-        "remaining_extent": 0.096
-      },
-      {
-        "habitat": "Other rivers and streams",
-        "condition": "Good",
-        "habitat_type": "watercourse",
-        "unit": "km",
-        "proposed_extent": 0.177,
-        "allocated_extent": 0,
-        "remaining_extent": 0.177
-      },
-      {
-        "habitat": "Other rivers and streams",
-        "condition": "Moderate",
-        "habitat_type": "watercourse",
-        "unit": "km",
-        "proposed_extent": 0.139,
-        "allocated_extent": 0,
-        "remaining_extent": 0.139
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-260724001",
@@ -14486,7 +14395,7 @@
     "authority": "Harry Ferguson Holdings Limited",
     "sizeHa": 26.03,
     "first_seen_date": "2026-08-14",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Grassland - Lowland meadows",

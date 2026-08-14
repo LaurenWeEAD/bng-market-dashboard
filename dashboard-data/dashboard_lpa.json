@@ -440,14 +440,6 @@
     "utilisation_percent": 9.2
   },
   {
-    "lpa": "Dartmoor National Park LPA",
-    "site_count": 4,
-    "registered_habitat_hectares": 49.05,
-    "allocated_habitat_area": 4.39,
-    "remaining_habitat_area": 44.67,
-    "utilisation_percent": 8.9
-  },
-  {
     "lpa": "South Staffordshire LPA",
     "site_count": 1,
     "registered_habitat_hectares": 31.7,
@@ -606,6 +598,14 @@
     "allocated_habitat_area": 1.66,
     "remaining_habitat_area": 34.08,
     "utilisation_percent": 4.7
+  },
+  {
+    "lpa": "Dartmoor National Park LPA",
+    "site_count": 4,
+    "registered_habitat_hectares": 37.38,
+    "allocated_habitat_area": 1.51,
+    "remaining_habitat_area": 35.87,
+    "utilisation_percent": 4
   },
   {
     "lpa": "Amber Valley LPA",
