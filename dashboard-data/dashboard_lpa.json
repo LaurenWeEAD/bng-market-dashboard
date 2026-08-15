@@ -352,14 +352,6 @@
     "utilisation_percent": 11.8
   },
   {
-    "lpa": "Newark and Sherwood LPA",
-    "site_count": 2,
-    "registered_habitat_hectares": 24.3,
-    "allocated_habitat_area": 2.71,
-    "remaining_habitat_area": 21.59,
-    "utilisation_percent": 11.2
-  },
-  {
     "lpa": "West Oxfordshire LPA",
     "site_count": 3,
     "registered_habitat_hectares": 82.25,
@@ -654,6 +646,14 @@
     "allocated_habitat_area": 0.74,
     "remaining_habitat_area": 20.86,
     "utilisation_percent": 3.4
+  },
+  {
+    "lpa": "Newark and Sherwood LPA",
+    "site_count": 2,
+    "registered_habitat_hectares": 85.18,
+    "allocated_habitat_area": 2.71,
+    "remaining_habitat_area": 82.47,
+    "utilisation_percent": 3.2
   },
   {
     "lpa": "Aylesbury Vale LPA",

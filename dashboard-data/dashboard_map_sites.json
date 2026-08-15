@@ -11547,10 +11547,56 @@
     "lpa": "Newark and Sherwood LPA",
     "lnrs": "Nottinghamshire and Nottingham",
     "authority": "Restoration Soil Limited",
-    "sizeHa": 0,
+    "sizeHa": 60.88,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 60.88,
+        "allocated_extent": 0,
+        "remaining_extent": 60.88
+      },
+      {
+        "habitat": "Species-rich native hedgerow with trees - associated with bank or ditch",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.885,
+        "allocated_extent": 0,
+        "remaining_extent": 0.885
+      },
+      {
+        "habitat": "Species-rich native hedgerow - associated with bank or ditch",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.724,
+        "allocated_extent": 0,
+        "remaining_extent": 0.724
+      },
+      {
+        "habitat": "Species-rich native hedgerow with trees",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 14.1,
+        "allocated_extent": 0,
+        "remaining_extent": 14.1
+      },
+      {
+        "habitat": "Ditches",
+        "condition": "Moderate",
+        "habitat_type": "watercourse",
+        "unit": "km",
+        "proposed_extent": 1.897,
+        "allocated_extent": 0,
+        "remaining_extent": 1.897
+      }
+    ]
   },
   {
     "code": "BGS-171025006",
