@@ -2862,56 +2862,10 @@
     "lpa": "South Oxfordshire LPA",
     "lnrs": "Oxfordshire",
     "authority": "South Oxfordshire LPA",
-    "sizeHa": 16.65,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Heathland and shrub - Mixed scrub",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.5,
-        "allocated_extent": 0.006,
-        "remaining_extent": 0.494
-      },
-      {
-        "habitat": "Individual trees - Rural tree",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.5212,
-        "allocated_extent": 0.443,
-        "remaining_extent": 0.0782
-      },
-      {
-        "habitat": "Woodland and forest - Wet woodland",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.2,
-        "allocated_extent": 0.058,
-        "remaining_extent": 0.142
-      },
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 12.99,
-        "allocated_extent": 1.2678,
-        "remaining_extent": 11.7222
-      },
-      {
-        "habitat": "Species-rich native hedgerow with trees",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.06,
-        "allocated_extent": 0.0031,
-        "remaining_extent": 0.0569
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-160825001",
@@ -2925,38 +2879,10 @@
     "lpa": "Cornwall LPA",
     "lnrs": "Cornwall and the Isles of Scilly",
     "authority": "RSK Biocensus Limited",
-    "sizeHa": 16.32,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Individual trees - Rural tree",
-        "condition": "Poor",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 2,
-        "allocated_extent": 0.0423,
-        "remaining_extent": 1.9577
-      },
-      {
-        "habitat": "Heathland and shrub - Mixed scrub",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 5,
-        "allocated_extent": 0,
-        "remaining_extent": 5
-      },
-      {
-        "habitat": "Grassland - Other lowland acid grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 10.92,
-        "allocated_extent": 0.6008,
-        "remaining_extent": 10.3192
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-080425001",
@@ -9600,7 +9526,7 @@
     "authority": "On Nature Ltd, Restoration Soil Limited",
     "sizeHa": 8,
     "first_seen_date": "2026-08-19",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Grassland - Traditional orchards",
@@ -15187,7 +15113,7 @@
     "authority": "On Nature Ltd, Restoration Soil Limited",
     "sizeHa": 25.6,
     "first_seen_date": "2026-08-19",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Woodland and forest - Other woodland; broadleaved",
@@ -21571,7 +21497,7 @@
     "authority": "Harry Ferguson Holdings Limited",
     "sizeHa": 82,
     "first_seen_date": "2026-08-19",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Grassland - Other neutral grassland",

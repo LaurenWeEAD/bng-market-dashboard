@@ -432,14 +432,6 @@
     "utilisation_percent": 9.3
   },
   {
-    "lpa": "South Oxfordshire LPA",
-    "site_count": 2,
-    "registered_habitat_hectares": 25.57,
-    "allocated_habitat_area": 2.35,
-    "remaining_habitat_area": 23.22,
-    "utilisation_percent": 9.2
-  },
-  {
     "lpa": "Dartmoor National Park LPA",
     "site_count": 4,
     "registered_habitat_hectares": 49.05,
@@ -560,6 +552,14 @@
     "utilisation_percent": 5.8
   },
   {
+    "lpa": "Cornwall LPA",
+    "site_count": 4,
+    "registered_habitat_hectares": 47.81,
+    "allocated_habitat_area": 2.63,
+    "remaining_habitat_area": 45.19,
+    "utilisation_percent": 5.5
+  },
+  {
     "lpa": "Dorset LPA",
     "site_count": 4,
     "registered_habitat_hectares": 199.69,
@@ -584,12 +584,12 @@
     "utilisation_percent": 5.1
   },
   {
-    "lpa": "Cornwall LPA",
-    "site_count": 4,
-    "registered_habitat_hectares": 65.73,
-    "allocated_habitat_area": 3.27,
-    "remaining_habitat_area": 62.46,
-    "utilisation_percent": 5
+    "lpa": "South Oxfordshire LPA",
+    "site_count": 2,
+    "registered_habitat_hectares": 11.36,
+    "allocated_habitat_area": 0.58,
+    "remaining_habitat_area": 10.78,
+    "utilisation_percent": 5.1
   },
   {
     "lpa": "Bromley LPA",
