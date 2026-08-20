@@ -13,8 +13,8 @@
     "area": "Somerset",
     "site_count": 15,
     "registered_habitat_hectares": 416.93,
-    "allocated_habitat_area": 12.95,
-    "remaining_habitat_area": 403.98,
+    "allocated_habitat_area": 12.97,
+    "remaining_habitat_area": 403.97,
     "utilisation_percent": 3.1,
     "registered_hedgerow_km": 23.6,
     "registered_watercourse_km": 3.62
@@ -32,10 +32,10 @@
   {
     "area": "Cornwall and the Isles of Scilly",
     "site_count": 5,
-    "registered_habitat_hectares": 49.38,
-    "allocated_habitat_area": 2.63,
-    "remaining_habitat_area": 46.76,
-    "utilisation_percent": 5.3,
+    "registered_habitat_hectares": 67.3,
+    "allocated_habitat_area": 3.27,
+    "remaining_habitat_area": 64.03,
+    "utilisation_percent": 4.9,
     "registered_hedgerow_km": 0.89,
     "registered_watercourse_km": 0
   }
