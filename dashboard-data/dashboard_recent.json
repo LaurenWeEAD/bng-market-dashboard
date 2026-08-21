@@ -54,30 +54,39 @@
     "first_seen_date": "2026-08-09"
   },
   {
-    "code": "BGS-170726002",
+    "code": "BGS-090726002",
     "title": "Biodiversity gain site",
-    "lpa": "East Devon LPA",
+    "lpa": "Tewkesbury LPA",
     "nca": "",
-    "lnrs": "Devon",
-    "gainSiteSizeHa": 2.32,
+    "lnrs": "Gloucestershire",
+    "gainSiteSizeHa": 60.34,
     "first_seen_date": "2026-08-08"
   },
   {
-    "code": "BGS-040726001",
+    "code": "BGS-160726002",
     "title": "Biodiversity gain site",
-    "lpa": "Shropshire LPA",
+    "lpa": "Melton LPA",
     "nca": "",
-    "lnrs": "Shropshire and Telford & Wrekin",
-    "gainSiteSizeHa": 9.2,
+    "lnrs": "Leicestershire, Leicester and Rutland",
+    "gainSiteSizeHa": 19.99,
     "first_seen_date": "2026-08-08"
   },
   {
-    "code": "BGS-150626001",
+    "code": "BGS-190626002",
     "title": "Biodiversity gain site",
-    "lpa": "Dartmoor National Park LPA",
+    "lpa": "Chiltern LPA",
     "nca": "",
-    "lnrs": "Devon",
-    "gainSiteSizeHa": 1.61,
+    "lnrs": "Buckinghamshire and Milton Keynes",
+    "gainSiteSizeHa": 71.82,
+    "first_seen_date": "2026-08-08"
+  },
+  {
+    "code": "BGS-100726004",
+    "title": "Biodiversity gain site",
+    "lpa": "Pendle LPA",
+    "nca": "",
+    "lnrs": "Lancashire",
+    "gainSiteSizeHa": 13.51,
     "first_seen_date": "2026-08-08"
   },
   {
@@ -99,12 +108,66 @@
     "first_seen_date": "2026-08-08"
   },
   {
-    "code": "BGS-270526001",
+    "code": "BGS-040726001",
     "title": "Biodiversity gain site",
-    "lpa": "East Cambridgeshire LPA",
+    "lpa": "Shropshire LPA",
     "nca": "",
-    "lnrs": "Cambridgeshire and Peterborough",
-    "gainSiteSizeHa": 7.63,
+    "lnrs": "Shropshire and Telford & Wrekin",
+    "gainSiteSizeHa": 9.2,
+    "first_seen_date": "2026-08-08"
+  },
+  {
+    "code": "BGS-260626001",
+    "title": "Biodiversity gain site",
+    "lpa": "North Lincolnshire LPA",
+    "nca": "",
+    "lnrs": "Greater Lincolnshire",
+    "gainSiteSizeHa": 69.8,
+    "first_seen_date": "2026-08-08"
+  },
+  {
+    "code": "BGS-120526001",
+    "title": "Biodiversity gain site",
+    "lpa": "Wycombe LPA",
+    "nca": "",
+    "lnrs": "Buckinghamshire and Milton Keynes",
+    "gainSiteSizeHa": 3.95,
+    "first_seen_date": "2026-08-08"
+  },
+  {
+    "code": "BGS-240626002",
+    "title": "Biodiversity gain site",
+    "lpa": "Chorley LPA",
+    "nca": "",
+    "lnrs": "Lancashire",
+    "gainSiteSizeHa": 18.24,
+    "first_seen_date": "2026-08-08"
+  },
+  {
+    "code": "BGS-100726005",
+    "title": "Biodiversity gain site",
+    "lpa": "South Gloucestershire LPA",
+    "nca": "",
+    "lnrs": "West of England",
+    "gainSiteSizeHa": 14.55,
+    "first_seen_date": "2026-08-08"
+  },
+  {
+    "code": "BGS-010426002",
+    "title": "Biodiversity gain site",
+    "lpa": "Dartmoor National Park LPA",
+    "nca": "",
+    "lnrs": "Devon",
+    "gainSiteSizeHa": 30.48,
+    "first_seen_date": "2026-08-08"
+  },
+  {
+    "code": "BGS-060526002",
+    "title": "Biodiversity gain site",
+    "lpa": "Medway LPA",
+    "nca": "",
+    "lnrs": "Kent and Medway",
+    "gainSiteSizeHa": 7.54,
     "first_seen_date": "2026-08-08"
   },
   {
@@ -126,57 +189,12 @@
     "first_seen_date": "2026-08-08"
   },
   {
-    "code": "BGS-060726001",
+    "code": "BGS-270526001",
     "title": "Biodiversity gain site",
-    "lpa": "South Hams LPA",
+    "lpa": "East Cambridgeshire LPA",
     "nca": "",
-    "lnrs": "Devon",
-    "gainSiteSizeHa": 17.69,
-    "first_seen_date": "2026-08-08"
-  },
-  {
-    "code": "BGS-240626002",
-    "title": "Biodiversity gain site",
-    "lpa": "Chorley LPA",
-    "nca": "",
-    "lnrs": "Lancashire",
-    "gainSiteSizeHa": 18.24,
-    "first_seen_date": "2026-08-08"
-  },
-  {
-    "code": "BGS-120526002",
-    "title": "Biodiversity gain site",
-    "lpa": "Rochdale LPA",
-    "nca": "",
-    "lnrs": "Greater Manchester",
-    "gainSiteSizeHa": 17.14,
-    "first_seen_date": "2026-08-08"
-  },
-  {
-    "code": "BGS-190526001",
-    "title": "Biodiversity gain site",
-    "lpa": "South Downs National Park LPA",
-    "nca": "",
-    "lnrs": "Hampshire",
-    "gainSiteSizeHa": 17.49,
-    "first_seen_date": "2026-08-08"
-  },
-  {
-    "code": "BGS-090726002",
-    "title": "Biodiversity gain site",
-    "lpa": "Tewkesbury LPA",
-    "nca": "",
-    "lnrs": "Gloucestershire",
-    "gainSiteSizeHa": 60.34,
-    "first_seen_date": "2026-08-08"
-  },
-  {
-    "code": "BGS-160726002",
-    "title": "Biodiversity gain site",
-    "lpa": "Melton LPA",
-    "nca": "",
-    "lnrs": "Leicestershire, Leicester and Rutland",
-    "gainSiteSizeHa": 19.99,
+    "lnrs": "Cambridgeshire and Peterborough",
+    "gainSiteSizeHa": 7.63,
     "first_seen_date": "2026-08-08"
   },
   {
@@ -189,39 +207,21 @@
     "first_seen_date": "2026-08-08"
   },
   {
+    "code": "BGS-060726001",
+    "title": "Biodiversity gain site",
+    "lpa": "South Hams LPA",
+    "nca": "",
+    "lnrs": "Devon",
+    "gainSiteSizeHa": 17.69,
+    "first_seen_date": "2026-08-08"
+  },
+  {
     "code": "BGS-180526001",
     "title": "Biodiversity gain site",
     "lpa": "Amber Valley LPA",
     "nca": "",
     "lnrs": "Derbyshire",
     "gainSiteSizeHa": 15.9,
-    "first_seen_date": "2026-08-08"
-  },
-  {
-    "code": "BGS-100726005",
-    "title": "Biodiversity gain site",
-    "lpa": "South Gloucestershire LPA",
-    "nca": "",
-    "lnrs": "West of England",
-    "gainSiteSizeHa": 14.55,
-    "first_seen_date": "2026-08-08"
-  },
-  {
-    "code": "BGS-120526001",
-    "title": "Biodiversity gain site",
-    "lpa": "Wycombe LPA",
-    "nca": "",
-    "lnrs": "Buckinghamshire and Milton Keynes",
-    "gainSiteSizeHa": 3.95,
-    "first_seen_date": "2026-08-08"
-  },
-  {
-    "code": "BGS-260526001",
-    "title": "Biodiversity gain site",
-    "lpa": "South Bucks LPA",
-    "nca": "",
-    "lnrs": "Buckinghamshire and Milton Keynes",
-    "gainSiteSizeHa": 4.55,
     "first_seen_date": "2026-08-08"
   }
 ]
