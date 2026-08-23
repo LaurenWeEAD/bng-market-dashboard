@@ -1130,9 +1130,9 @@
   {
     "lpa": "Thanet LPA",
     "site_count": 1,
-    "registered_habitat_hectares": 0,
+    "registered_habitat_hectares": 8.43,
     "allocated_habitat_area": 0,
-    "remaining_habitat_area": 0,
+    "remaining_habitat_area": 8.43,
     "utilisation_percent": 0
   },
   {
@@ -1290,9 +1290,9 @@
   {
     "lpa": "Isles of Scilly LPA",
     "site_count": 1,
-    "registered_habitat_hectares": 0,
+    "registered_habitat_hectares": 1.57,
     "allocated_habitat_area": 0,
-    "remaining_habitat_area": 0,
+    "remaining_habitat_area": 1.57,
     "utilisation_percent": 0
   },
   {

@@ -9277,10 +9277,74 @@
     "lpa": "Thanet LPA",
     "lnrs": "Kent and Medway",
     "authority": "Thanet LPA",
-    "sizeHa": 0,
+    "sizeHa": 8.7,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.364,
+        "allocated_extent": 0,
+        "remaining_extent": 0.364
+      },
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 8.068,
+        "allocated_extent": 0,
+        "remaining_extent": 8.068
+      },
+      {
+        "habitat": "Line of Trees",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.308,
+        "allocated_extent": 0,
+        "remaining_extent": 0.308
+      },
+      {
+        "habitat": "Native hedgerow - associated with bank or ditch",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.119,
+        "allocated_extent": 0,
+        "remaining_extent": 0.119
+      },
+      {
+        "habitat": "Native hedgerow with trees - associated with bank or ditch",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.119,
+        "allocated_extent": 0,
+        "remaining_extent": 0.119
+      },
+      {
+        "habitat": "Species-rich native hedgerow",
+        "condition": "Moderate",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.852,
+        "allocated_extent": 0,
+        "remaining_extent": 0.852
+      },
+      {
+        "habitat": "Ditches",
+        "condition": "Good",
+        "habitat_type": "watercourse",
+        "unit": "km",
+        "proposed_extent": 0.489,
+        "allocated_extent": 0.0643,
+        "remaining_extent": 0.4247
+      }
+    ]
   },
   {
     "code": "BGS-011025001",
@@ -24031,10 +24095,47 @@
     "lpa": "Isles of Scilly LPA",
     "lnrs": "Cornwall and the Isles of Scilly",
     "authority": "Isles of Scilly LPA",
-    "sizeHa": 0,
+    "sizeHa": 2.62,
     "first_seen_date": "2026-06-04",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Woodland and forest - Other woodland; broadleaved",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.3533,
+        "allocated_extent": 0,
+        "remaining_extent": 0.3533
+      },
+      {
+        "habitat": "Grassland - Lowland meadows",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 1.0886,
+        "allocated_extent": 0,
+        "remaining_extent": 1.0886
+      },
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.127,
+        "allocated_extent": 0,
+        "remaining_extent": 0.127
+      },
+      {
+        "habitat": "Native hedgerow with trees",
+        "condition": "Moderate",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.253,
+        "allocated_extent": 0,
+        "remaining_extent": 0.253
+      }
+    ]
   },
   {
     "code": "BGS-271025002",
