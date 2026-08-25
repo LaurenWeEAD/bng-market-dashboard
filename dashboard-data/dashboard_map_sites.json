@@ -7477,10 +7477,110 @@
     "lpa": "Hambleton LPA",
     "lnrs": "North Yorkshire and York",
     "authority": "North Yorkshire LPA",
-    "sizeHa": 0,
+    "sizeHa": 34.7,
     "first_seen_date": "2026-07-16",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Grassland - Lowland meadows",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 28.87,
+        "allocated_extent": 0,
+        "remaining_extent": 28.87
+      },
+      {
+        "habitat": "Wetland - Fens (upland and lowland)",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 1.07,
+        "allocated_extent": 0,
+        "remaining_extent": 1.07
+      },
+      {
+        "habitat": "Lakes - Ponds (non-priority habitat)",
+        "condition": "Poor",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.76,
+        "allocated_extent": 0,
+        "remaining_extent": 0.76
+      },
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 1.68,
+        "allocated_extent": 0,
+        "remaining_extent": 1.68
+      },
+      {
+        "habitat": "Wetland - Fens (upland and lowland)",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.66,
+        "allocated_extent": 0,
+        "remaining_extent": 0.66
+      },
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 1.23,
+        "allocated_extent": 0,
+        "remaining_extent": 1.23
+      },
+      {
+        "habitat": "Urban - Artificial unvegetated, unsealed surface",
+        "condition": "Unable to Map",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.1,
+        "allocated_extent": 0,
+        "remaining_extent": 0.1
+      },
+      {
+        "habitat": "Native hedgerow with trees",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.669,
+        "allocated_extent": 0,
+        "remaining_extent": 0.669
+      },
+      {
+        "habitat": "Native Hedgerow",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.78,
+        "allocated_extent": 0,
+        "remaining_extent": 0.78
+      },
+      {
+        "habitat": "Species-rich native hedgerow",
+        "condition": "Moderate",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 1.01,
+        "allocated_extent": 0,
+        "remaining_extent": 1.01
+      },
+      {
+        "habitat": "Ditches",
+        "condition": "Moderate",
+        "habitat_type": "watercourse",
+        "unit": "km",
+        "proposed_extent": 0.12,
+        "allocated_extent": 0,
+        "remaining_extent": 0.12
+      }
+    ]
   },
   {
     "code": "BGS-020126001",

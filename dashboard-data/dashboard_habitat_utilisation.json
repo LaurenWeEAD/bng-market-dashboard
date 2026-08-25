@@ -9,11 +9,11 @@
   },
   {
     "group": "Urban",
-    "registered_extent": 57.91,
+    "registered_extent": 58.01,
     "allocated_extent": 10.52,
-    "available_extent": 47.39,
+    "available_extent": 47.49,
     "allocated_units": 120.8,
-    "utilisation_percent": 18.2
+    "utilisation_percent": 18.1
   },
   {
     "group": "Individual Trees",
@@ -33,33 +33,33 @@
   },
   {
     "group": "Watercourse",
-    "registered_extent": 72.89,
+    "registered_extent": 73.01,
     "allocated_extent": 7.42,
-    "available_extent": 65.47,
+    "available_extent": 65.59,
     "allocated_units": 16.14,
     "utilisation_percent": 10.2
   },
   {
     "group": "Lakes and Ponds",
-    "registered_extent": 60.32,
+    "registered_extent": 61.08,
     "allocated_extent": 5.96,
-    "available_extent": 54.36,
+    "available_extent": 55.12,
     "allocated_units": 208.99,
-    "utilisation_percent": 9.9
+    "utilisation_percent": 9.8
   },
   {
     "group": "Grassland",
-    "registered_extent": 6804.13,
+    "registered_extent": 6834.68,
     "allocated_extent": 528.44,
-    "available_extent": 6275.69,
+    "available_extent": 6306.24,
     "allocated_units": 2808.94,
-    "utilisation_percent": 7.8
+    "utilisation_percent": 7.7
   },
   {
     "group": "Heathland and Shrub",
-    "registered_extent": 1234.31,
+    "registered_extent": 1235.54,
     "allocated_extent": 85.12,
-    "available_extent": 1149.19,
+    "available_extent": 1150.42,
     "allocated_units": 1143.02,
     "utilisation_percent": 6.9
   },
@@ -73,17 +73,17 @@
   },
   {
     "group": "Hedgerow",
-    "registered_extent": 377.55,
+    "registered_extent": 380.01,
     "allocated_extent": 8.68,
-    "available_extent": 368.87,
+    "available_extent": 371.33,
     "allocated_units": 45.23,
     "utilisation_percent": 2.3
   },
   {
     "group": "Wetland",
-    "registered_extent": 187.26,
+    "registered_extent": 188.99,
     "allocated_extent": 3.56,
-    "available_extent": 183.7,
+    "available_extent": 185.43,
     "allocated_units": 29.77,
     "utilisation_percent": 1.9
   },

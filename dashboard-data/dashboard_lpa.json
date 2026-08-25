@@ -272,14 +272,6 @@
     "utilisation_percent": 17.5
   },
   {
-    "lpa": "Hambleton LPA",
-    "site_count": 5,
-    "registered_habitat_hectares": 46.44,
-    "allocated_habitat_area": 8.02,
-    "remaining_habitat_area": 38.42,
-    "utilisation_percent": 17.3
-  },
-  {
     "lpa": "East Lindsey LPA",
     "site_count": 1,
     "registered_habitat_hectares": 18.7,
@@ -406,6 +398,14 @@
     "allocated_habitat_area": 5.23,
     "remaining_habitat_area": 44.82,
     "utilisation_percent": 10.5
+  },
+  {
+    "lpa": "Hambleton LPA",
+    "site_count": 5,
+    "registered_habitat_hectares": 80.81,
+    "allocated_habitat_area": 8.02,
+    "remaining_habitat_area": 72.79,
+    "utilisation_percent": 9.9
   },
   {
     "lpa": "Hartlepool LPA",
