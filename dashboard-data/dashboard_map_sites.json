@@ -15573,7 +15573,7 @@
     "lpa": "Dartford LPA",
     "lnrs": "Kent and Medway",
     "authority": "Dartford LPA, Kent County Council",
-    "sizeHa": 0,
+    "sizeHa": 0.84,
     "first_seen_date": "2026-07-04",
     "record_status": "existing",
     "remaining": []
@@ -22876,7 +22876,7 @@
     "authority": "Lichfield LPA",
     "sizeHa": 4.68,
     "first_seen_date": "2026-08-26",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Heathland and shrub - Lowland Heathland",

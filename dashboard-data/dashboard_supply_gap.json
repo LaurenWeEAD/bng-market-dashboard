@@ -24,6 +24,14 @@
     "utilisation_percent": 100
   },
   {
+    "lpa": "Dartford LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 0.21,
+    "allocated_habitat_area": 0.21,
+    "remaining_habitat_area": 0,
+    "utilisation_percent": 100
+  },
+  {
     "lpa": "Folkestone and Hythe LPA",
     "site_count": 1,
     "registered_habitat_hectares": 0.19,
@@ -1189,14 +1197,6 @@
     "registered_habitat_hectares": 151.74,
     "allocated_habitat_area": 0,
     "remaining_habitat_area": 151.74,
-    "utilisation_percent": 0
-  },
-  {
-    "lpa": "Dartford LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 0,
-    "allocated_habitat_area": 0,
-    "remaining_habitat_area": 0,
     "utilisation_percent": 0
   },
   {
