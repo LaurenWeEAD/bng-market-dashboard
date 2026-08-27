@@ -17,10 +17,10 @@
   },
   {
     "group": "Individual Trees",
-    "registered_extent": 55.02,
-    "allocated_extent": 8.73,
-    "available_extent": 46.29,
-    "allocated_units": 144.52,
+    "registered_extent": 55.15,
+    "allocated_extent": 8.77,
+    "available_extent": 46.38,
+    "allocated_units": 144.19,
     "utilisation_percent": 15.9
   },
   {
@@ -34,49 +34,49 @@
   {
     "group": "Watercourse",
     "registered_extent": 73.58,
-    "allocated_extent": 7.43,
-    "available_extent": 66.15,
+    "allocated_extent": 7.42,
+    "available_extent": 66.16,
     "allocated_units": 16.14,
     "utilisation_percent": 10.1
   },
   {
     "group": "Lakes and Ponds",
-    "registered_extent": 61.11,
+    "registered_extent": 61.17,
     "allocated_extent": 5.96,
-    "available_extent": 55.15,
+    "available_extent": 55.21,
     "allocated_units": 208.99,
-    "utilisation_percent": 9.8
+    "utilisation_percent": 9.7
   },
   {
     "group": "Grassland",
-    "registered_extent": 6866.46,
-    "allocated_extent": 532.07,
-    "available_extent": 6334.39,
-    "allocated_units": 2828.97,
+    "registered_extent": 6915.87,
+    "allocated_extent": 531.4,
+    "available_extent": 6384.47,
+    "allocated_units": 2821.06,
     "utilisation_percent": 7.7
   },
   {
     "group": "Heathland and Shrub",
-    "registered_extent": 1256.61,
-    "allocated_extent": 85.12,
-    "available_extent": 1171.49,
-    "allocated_units": 1143.02,
+    "registered_extent": 1260.01,
+    "allocated_extent": 85.67,
+    "available_extent": 1174.34,
+    "allocated_units": 1145.61,
     "utilisation_percent": 6.8
   },
   {
     "group": "Woodland and Forest",
     "registered_extent": 1181.59,
-    "allocated_extent": 65.35,
-    "available_extent": 1116.24,
-    "allocated_units": 434.92,
-    "utilisation_percent": 5.5
+    "allocated_extent": 65.61,
+    "available_extent": 1115.98,
+    "allocated_units": 435.29,
+    "utilisation_percent": 5.6
   },
   {
     "group": "Hedgerow",
-    "registered_extent": 382.75,
-    "allocated_extent": 8.68,
-    "available_extent": 374.07,
-    "allocated_units": 45.25,
+    "registered_extent": 384.11,
+    "allocated_extent": 8.69,
+    "available_extent": 375.42,
+    "allocated_units": 45.27,
     "utilisation_percent": 2.3
   },
   {
