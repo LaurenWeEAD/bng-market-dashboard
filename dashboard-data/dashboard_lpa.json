@@ -424,6 +424,14 @@
     "utilisation_percent": 9.7
   },
   {
+    "lpa": "Hartlepool LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 13.78,
+    "allocated_habitat_area": 1.34,
+    "remaining_habitat_area": 12.44,
+    "utilisation_percent": 9.7
+  },
+  {
     "lpa": "Mid Sussex LPA",
     "site_count": 1,
     "registered_habitat_hectares": 36.69,
@@ -496,14 +504,6 @@
     "utilisation_percent": 8.2
   },
   {
-    "lpa": "Wealden LPA",
-    "site_count": 5,
-    "registered_habitat_hectares": 69.04,
-    "allocated_habitat_area": 5.6,
-    "remaining_habitat_area": 63.44,
-    "utilisation_percent": 8.1
-  },
-  {
     "lpa": "Shropshire LPA",
     "site_count": 4,
     "registered_habitat_hectares": 101.05,
@@ -550,6 +550,14 @@
     "allocated_habitat_area": 5.11,
     "remaining_habitat_area": 74.47,
     "utilisation_percent": 6.4
+  },
+  {
+    "lpa": "Wealden LPA",
+    "site_count": 5,
+    "registered_habitat_hectares": 92.55,
+    "allocated_habitat_area": 5.6,
+    "remaining_habitat_area": 86.95,
+    "utilisation_percent": 6.1
   },
   {
     "lpa": "Harrogate LPA",
@@ -1261,14 +1269,6 @@
     "registered_habitat_hectares": 32.78,
     "allocated_habitat_area": 0,
     "remaining_habitat_area": 32.78,
-    "utilisation_percent": 0
-  },
-  {
-    "lpa": "Hartlepool LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 0,
-    "allocated_habitat_area": 0,
-    "remaining_habitat_area": 0,
     "utilisation_percent": 0
   },
   {

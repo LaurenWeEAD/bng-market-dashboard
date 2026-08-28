@@ -11380,10 +11380,38 @@
     "lpa": "Wealden LPA",
     "lnrs": "East Sussex and Brighton & Hove",
     "authority": "Harry Ferguson Holdings Limited",
-    "sizeHa": 0,
+    "sizeHa": 21.05,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 23.31,
+        "allocated_extent": 0,
+        "remaining_extent": 23.31
+      },
+      {
+        "habitat": "Individual trees - Rural tree",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.2036,
+        "allocated_extent": 0,
+        "remaining_extent": 0.2036
+      },
+      {
+        "habitat": "Species-rich native hedgerow with trees",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.894,
+        "allocated_extent": 0,
+        "remaining_extent": 0.894
+      }
+    ]
   },
   {
     "code": "BGS-221025001",
@@ -19483,7 +19511,7 @@
     "authority": "South Downs National Park LPA",
     "sizeHa": 9.03,
     "first_seen_date": "2026-08-28",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Grassland - Lowland meadows",
@@ -21568,10 +21596,65 @@
     "lpa": "Hartlepool LPA",
     "lnrs": "Tees Valley",
     "authority": "RSK Biocensus Limited",
-    "sizeHa": 0,
+    "sizeHa": 13.78,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Grassland - Lowland meadows",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 4.2277,
+        "allocated_extent": 0.4891,
+        "remaining_extent": 3.7386
+      },
+      {
+        "habitat": "Grassland - Traditional orchards",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.2516,
+        "allocated_extent": 0,
+        "remaining_extent": 0.2516
+      },
+      {
+        "habitat": "Lakes - Ponds (Priority Habitat)",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.099,
+        "allocated_extent": 0,
+        "remaining_extent": 0.099
+      },
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 7.7325,
+        "allocated_extent": 0.8453,
+        "remaining_extent": 6.8872
+      },
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 1.4736,
+        "allocated_extent": 0.0069,
+        "remaining_extent": 1.4667
+      },
+      {
+        "habitat": "Species-rich native hedgerow",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.2583,
+        "allocated_extent": 0.2164,
+        "remaining_extent": 0.0419
+      }
+    ]
   },
   {
     "code": "BGS-020126001",
