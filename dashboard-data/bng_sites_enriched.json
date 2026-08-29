@@ -7805,7 +7805,7 @@
     "link": "https://environment.data.gov.uk/biodiversity-net-gain/search/BGS-080925002",
     "gridRef": "TG018111",
     "authority": "Breckland LPA",
-    "gainSiteSizeHa": "0.01",
+    "gainSiteSizeHa": "",
     "startDate": "",
     "landBoundaryLink": "",
     "first_seen_date": "2026-05-26",

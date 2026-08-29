@@ -22496,7 +22496,7 @@
     "lpa": "Breckland LPA",
     "lnrs": "Norfolk",
     "authority": "Breckland LPA",
-    "sizeHa": 0.01,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
     "remaining": []
