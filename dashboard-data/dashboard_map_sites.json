@@ -8942,10 +8942,74 @@
     "lpa": "Bath and North East Somerset LPA",
     "lnrs": "West of England",
     "authority": "Bath and North East Somerset LPA",
-    "sizeHa": 0,
+    "sizeHa": 78.91,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Individual trees - Rural tree",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 1.2078,
+        "allocated_extent": 0.024,
+        "remaining_extent": 1.1838
+      },
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 59.75,
+        "allocated_extent": 0.0196,
+        "remaining_extent": 59.7304
+      },
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 12.88,
+        "allocated_extent": 0,
+        "remaining_extent": 12.88
+      },
+      {
+        "habitat": "Grassland - Traditional orchards",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 6.28,
+        "allocated_extent": 0,
+        "remaining_extent": 6.28
+      },
+      {
+        "habitat": "Species-rich native hedgerow",
+        "condition": "Moderate",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 2.336,
+        "allocated_extent": 0,
+        "remaining_extent": 2.336
+      },
+      {
+        "habitat": "Species-rich native hedgerow - associated with bank or ditch",
+        "condition": "Moderate",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.276,
+        "allocated_extent": 0,
+        "remaining_extent": 0.276
+      },
+      {
+        "habitat": "Ecologically valuable line of trees",
+        "condition": "Poor",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.335,
+        "allocated_extent": 0,
+        "remaining_extent": 0.335
+      }
+    ]
   },
   {
     "code": "BGS-090725001",
@@ -10085,7 +10149,7 @@
     "authority": "RSK Biocensus Limited",
     "sizeHa": 24.35,
     "first_seen_date": "2026-08-30",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Heathland and shrub - Mixed scrub",
@@ -11767,7 +11831,7 @@
     "authority": "Leicester LPA, North West Leicestershire LPA",
     "sizeHa": 11.85,
     "first_seen_date": "2026-08-30",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Woodland and forest - Lowland mixed deciduous woodland",
@@ -20327,7 +20391,7 @@
     "authority": "Isle of Wight LPA",
     "sizeHa": 11.77,
     "first_seen_date": "2026-08-30",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Woodland and forest - Other woodland; broadleaved",
