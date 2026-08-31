@@ -9,21 +9,21 @@
     "first_seen_date": "2026-08-30"
   },
   {
-    "code": "BGS-171025005",
-    "title": "Biodiversity gain site",
-    "lpa": "North West Leicestershire LPA",
-    "nca": "",
-    "lnrs": "Leicestershire, Leicester and Rutland",
-    "gainSiteSizeHa": 11.85,
-    "first_seen_date": "2026-08-30"
-  },
-  {
     "code": "BGS-100626002",
     "title": "Biodiversity gain site",
     "lpa": "Isle of Wight LPA",
     "nca": "",
     "lnrs": "Isle of Wight",
     "gainSiteSizeHa": 11.77,
+    "first_seen_date": "2026-08-30"
+  },
+  {
+    "code": "BGS-171025005",
+    "title": "Biodiversity gain site",
+    "lpa": "North West Leicestershire LPA",
+    "nca": "",
+    "lnrs": "Leicestershire, Leicester and Rutland",
+    "gainSiteSizeHa": 11.85,
     "first_seen_date": "2026-08-30"
   },
   {
@@ -34,6 +34,15 @@
     "lnrs": "West Sussex",
     "gainSiteSizeHa": 9.03,
     "first_seen_date": "2026-08-28"
+  },
+  {
+    "code": "BGS-180626002",
+    "title": "Biodiversity gain site",
+    "lpa": "Peak District National Park LPA",
+    "nca": "",
+    "lnrs": "Cheshire",
+    "gainSiteSizeHa": 22.7,
+    "first_seen_date": "2026-08-27"
   },
   {
     "code": "BGS-210726002",
@@ -54,15 +63,6 @@
     "first_seen_date": "2026-08-27"
   },
   {
-    "code": "BGS-180626002",
-    "title": "Biodiversity gain site",
-    "lpa": "Peak District National Park LPA",
-    "nca": "",
-    "lnrs": "Cheshire",
-    "gainSiteSizeHa": 22.7,
-    "first_seen_date": "2026-08-27"
-  },
-  {
     "code": "BGS-200526002",
     "title": "Biodiversity gain site",
     "lpa": "Lichfield LPA",
@@ -72,12 +72,12 @@
     "first_seen_date": "2026-08-26"
   },
   {
-    "code": "BGS-080726001",
+    "code": "BGS-190526003",
     "title": "Biodiversity gain site",
-    "lpa": "South Lakeland LPA",
+    "lpa": "Arun LPA",
     "nca": "",
-    "lnrs": "Cumbria",
-    "gainSiteSizeHa": 2.27,
+    "lnrs": "West Sussex",
+    "gainSiteSizeHa": 148.6,
     "first_seen_date": "2026-08-22"
   },
   {
@@ -90,21 +90,21 @@
     "first_seen_date": "2026-08-22"
   },
   {
-    "code": "BGS-190526003",
+    "code": "BGS-080726001",
     "title": "Biodiversity gain site",
-    "lpa": "Arun LPA",
+    "lpa": "South Lakeland LPA",
     "nca": "",
-    "lnrs": "West Sussex",
-    "gainSiteSizeHa": 148.6,
+    "lnrs": "Cumbria",
+    "gainSiteSizeHa": 2.27,
     "first_seen_date": "2026-08-22"
   },
   {
-    "code": "BGS-100426003",
+    "code": "BGS-170726003",
     "title": "Biodiversity gain site",
-    "lpa": "Richmondshire LPA",
+    "lpa": "Wiltshire LPA",
     "nca": "",
-    "lnrs": "North Yorkshire and York",
-    "gainSiteSizeHa": 8,
+    "lnrs": "Wiltshire and Swindon",
+    "gainSiteSizeHa": 82,
     "first_seen_date": "2026-08-19"
   },
   {
@@ -117,12 +117,12 @@
     "first_seen_date": "2026-08-19"
   },
   {
-    "code": "BGS-170726003",
+    "code": "BGS-100426003",
     "title": "Biodiversity gain site",
-    "lpa": "Wiltshire LPA",
+    "lpa": "Richmondshire LPA",
     "nca": "",
-    "lnrs": "Wiltshire and Swindon",
-    "gainSiteSizeHa": 82,
+    "lnrs": "North Yorkshire and York",
+    "gainSiteSizeHa": 8,
     "first_seen_date": "2026-08-19"
   },
   {
@@ -135,6 +135,15 @@
     "first_seen_date": "2026-08-14"
   },
   {
+    "code": "BGS-160426002",
+    "title": "Biodiversity gain site",
+    "lpa": "Barrow-in-Furness LPA",
+    "nca": "",
+    "lnrs": "Cumbria",
+    "gainSiteSizeHa": 9.36,
+    "first_seen_date": "2026-08-09"
+  },
+  {
     "code": "BGS-150726001",
     "title": "Biodiversity gain site",
     "lpa": "South Downs National Park LPA",
@@ -144,13 +153,40 @@
     "first_seen_date": "2026-08-09"
   },
   {
-    "code": "BGS-160426002",
+    "code": "BGS-250626002",
     "title": "Biodiversity gain site",
-    "lpa": "Barrow-in-Furness LPA",
+    "lpa": "Harrogate LPA",
     "nca": "",
-    "lnrs": "Cumbria",
-    "gainSiteSizeHa": 9.36,
-    "first_seen_date": "2026-08-09"
+    "lnrs": "North Yorkshire and York",
+    "gainSiteSizeHa": 22.06,
+    "first_seen_date": "2026-08-08"
+  },
+  {
+    "code": "BGS-180626001",
+    "title": "Biodiversity gain site",
+    "lpa": "East Northamptonshire LPA",
+    "nca": "",
+    "lnrs": "North Northamptonshire",
+    "gainSiteSizeHa": 19.07,
+    "first_seen_date": "2026-08-08"
+  },
+  {
+    "code": "BGS-040626001",
+    "title": "Biodiversity gain site",
+    "lpa": "Test Valley LPA",
+    "nca": "",
+    "lnrs": "Hampshire",
+    "gainSiteSizeHa": 25.46,
+    "first_seen_date": "2026-08-08"
+  },
+  {
+    "code": "BGS-100726005",
+    "title": "Biodiversity gain site",
+    "lpa": "South Gloucestershire LPA",
+    "nca": "",
+    "lnrs": "West of England",
+    "gainSiteSizeHa": 14.55,
+    "first_seen_date": "2026-08-08"
   },
   {
     "code": "BGS-010426002",
@@ -162,66 +198,30 @@
     "first_seen_date": "2026-08-08"
   },
   {
-    "code": "BGS-260526001",
+    "code": "BGS-240626002",
     "title": "Biodiversity gain site",
-    "lpa": "South Bucks LPA",
-    "nca": "",
-    "lnrs": "Buckinghamshire and Milton Keynes",
-    "gainSiteSizeHa": 4.55,
-    "first_seen_date": "2026-08-08"
-  },
-  {
-    "code": "BGS-180526001",
-    "title": "Biodiversity gain site",
-    "lpa": "Amber Valley LPA",
-    "nca": "",
-    "lnrs": "Derbyshire",
-    "gainSiteSizeHa": 15.9,
-    "first_seen_date": "2026-08-08"
-  },
-  {
-    "code": "BGS-120526001",
-    "title": "Biodiversity gain site",
-    "lpa": "Wycombe LPA",
-    "nca": "",
-    "lnrs": "Buckinghamshire and Milton Keynes",
-    "gainSiteSizeHa": 3.95,
-    "first_seen_date": "2026-08-08"
-  },
-  {
-    "code": "BGS-100726004",
-    "title": "Biodiversity gain site",
-    "lpa": "Pendle LPA",
+    "lpa": "Chorley LPA",
     "nca": "",
     "lnrs": "Lancashire",
-    "gainSiteSizeHa": 13.51,
+    "gainSiteSizeHa": 18.24,
     "first_seen_date": "2026-08-08"
   },
   {
-    "code": "BGS-250226001",
+    "code": "BGS-040726001",
     "title": "Biodiversity gain site",
-    "lpa": "Oldham LPA",
+    "lpa": "Shropshire LPA",
     "nca": "",
-    "lnrs": "Greater Manchester",
-    "gainSiteSizeHa": 2,
+    "lnrs": "Shropshire and Telford & Wrekin",
+    "gainSiteSizeHa": 9.2,
     "first_seen_date": "2026-08-08"
   },
   {
-    "code": "BGS-150626001",
+    "code": "BGS-190626002",
     "title": "Biodiversity gain site",
-    "lpa": "Dartmoor National Park LPA",
+    "lpa": "Chiltern LPA",
     "nca": "",
-    "lnrs": "Devon",
-    "gainSiteSizeHa": 1.61,
-    "first_seen_date": "2026-08-08"
-  },
-  {
-    "code": "BGS-060726001",
-    "title": "Biodiversity gain site",
-    "lpa": "South Hams LPA",
-    "nca": "",
-    "lnrs": "Devon",
-    "gainSiteSizeHa": 17.69,
+    "lnrs": "Buckinghamshire and Milton Keynes",
+    "gainSiteSizeHa": 71.82,
     "first_seen_date": "2026-08-08"
   }
 ]
