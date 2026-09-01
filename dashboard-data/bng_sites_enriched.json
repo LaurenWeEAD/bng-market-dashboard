@@ -3749,7 +3749,7 @@
     "link": "https://environment.data.gov.uk/biodiversity-net-gain/search/BGS-150725002",
     "gridRef": "TG1488608672",
     "authority": "South Norfolk LPA",
-    "gainSiteSizeHa": "",
+    "gainSiteSizeHa": "110",
     "startDate": "",
     "landBoundaryLink": "",
     "first_seen_date": "2026-05-26",

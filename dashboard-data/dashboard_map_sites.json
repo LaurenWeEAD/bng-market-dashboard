@@ -11540,10 +11540,20 @@
     "lpa": "South Norfolk LPA",
     "lnrs": "Norfolk",
     "authority": "South Norfolk LPA",
-    "sizeHa": 0,
+    "sizeHa": 110,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Individual trees - Rural tree",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.1221,
+        "allocated_extent": 0,
+        "remaining_extent": 0.1221
+      }
+    ]
   },
   {
     "code": "BGS-250626002",
