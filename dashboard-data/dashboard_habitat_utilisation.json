@@ -17,11 +17,11 @@
   },
   {
     "group": "Individual Trees",
-    "registered_extent": 55.29,
+    "registered_extent": 55.17,
     "allocated_extent": 8.8,
-    "available_extent": 46.49,
+    "available_extent": 46.37,
     "allocated_units": 144.8,
-    "utilisation_percent": 15.9
+    "utilisation_percent": 16
   },
   {
     "group": "Sparsely Vegetated Land",
