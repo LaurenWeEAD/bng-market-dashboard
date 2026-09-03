@@ -32,11 +32,11 @@
   {
     "area": "Cornwall and the Isles of Scilly",
     "site_count": 5,
-    "registered_habitat_hectares": 67.3,
+    "registered_habitat_hectares": 58.95,
     "allocated_habitat_area": 3.27,
-    "remaining_habitat_area": 64.03,
-    "utilisation_percent": 4.9,
-    "registered_hedgerow_km": 0.89,
+    "remaining_habitat_area": 55.68,
+    "utilisation_percent": 5.5,
+    "registered_hedgerow_km": 0.45,
     "registered_watercourse_km": 0
   }
 ]
