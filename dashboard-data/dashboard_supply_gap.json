@@ -696,6 +696,14 @@
     "utilisation_percent": 3.1
   },
   {
+    "lpa": "Bath and North East Somerset LPA",
+    "site_count": 3,
+    "registered_habitat_hectares": 77.56,
+    "allocated_habitat_area": 2.25,
+    "remaining_habitat_area": 75.32,
+    "utilisation_percent": 2.9
+  },
+  {
     "lpa": "Dover LPA",
     "site_count": 2,
     "registered_habitat_hectares": 59.26,
@@ -782,14 +790,6 @@
     "allocated_habitat_area": 0.07,
     "remaining_habitat_area": 4.31,
     "utilisation_percent": 1.6
-  },
-  {
-    "lpa": "Bath and North East Somerset LPA",
-    "site_count": 3,
-    "registered_habitat_hectares": 157.68,
-    "allocated_habitat_area": 2.29,
-    "remaining_habitat_area": 155.39,
-    "utilisation_percent": 1.5
   },
   {
     "lpa": "North Devon LPA",
