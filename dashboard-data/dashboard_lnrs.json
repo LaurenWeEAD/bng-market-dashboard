@@ -270,13 +270,13 @@
     "allocated_area_previous_7_days": 1.29,
     "allocated_area_last_30_days": 6.81,
     "allocated_area_previous_30_days": 1.15,
-    "registered_habitat_hectares": 296.77,
+    "registered_habitat_hectares": 303.98,
     "allocated_habitat_area": 30.63,
-    "remaining_habitat_area": 266.15,
-    "utilisation_percent": 10.3,
+    "remaining_habitat_area": 273.36,
+    "utilisation_percent": 10.1,
     "activity_score": 34.6,
-    "pressure_score": 10.3,
-    "opportunity_score": 24.9,
+    "pressure_score": 10.1,
+    "opportunity_score": 24.8,
     "opportunity_rating": "Emerging"
   },
   {

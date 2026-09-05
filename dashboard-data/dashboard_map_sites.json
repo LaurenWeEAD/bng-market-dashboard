@@ -14036,7 +14036,7 @@
     "authority": "Basingstoke and Deane LPA",
     "sizeHa": 0.44,
     "first_seen_date": "2026-09-05",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Individual trees - Urban tree",
@@ -17670,10 +17670,38 @@
     "lpa": "Cheshire East LPA",
     "lnrs": "Cheshire",
     "authority": "Cheshire East LPA",
-    "sizeHa": 0,
+    "sizeHa": 7.21,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 4.7,
+        "allocated_extent": 0,
+        "remaining_extent": 4.7
+      },
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 2.51,
+        "allocated_extent": 0,
+        "remaining_extent": 2.51
+      },
+      {
+        "habitat": "Species-rich native hedgerow with trees",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.745,
+        "allocated_extent": 0,
+        "remaining_extent": 0.745
+      }
+    ]
   },
   {
     "code": "BGS-301025001",
