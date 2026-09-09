@@ -272,6 +272,14 @@
     "utilisation_percent": 17.5
   },
   {
+    "lpa": "East Lindsey LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 18.7,
+    "allocated_habitat_area": 3.02,
+    "remaining_habitat_area": 15.69,
+    "utilisation_percent": 16.1
+  },
+  {
     "lpa": "South Northamptonshire LPA",
     "site_count": 2,
     "registered_habitat_hectares": 61.79,
@@ -461,6 +469,14 @@
     "registered_habitat_hectares": 31.7,
     "allocated_habitat_area": 2.73,
     "remaining_habitat_area": 28.97,
+    "utilisation_percent": 8.6
+  },
+  {
+    "lpa": "Allerdale LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 30.05,
+    "allocated_habitat_area": 2.57,
+    "remaining_habitat_area": 27.48,
     "utilisation_percent": 8.6
   },
   {
@@ -1104,14 +1120,6 @@
     "utilisation_percent": 0
   },
   {
-    "lpa": "East Lindsey LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 0,
-    "allocated_habitat_area": 0,
-    "remaining_habitat_area": 0,
-    "utilisation_percent": 0
-  },
-  {
     "lpa": "Herefordshire, County of LPA",
     "site_count": 1,
     "registered_habitat_hectares": 13.1,
@@ -1261,14 +1269,6 @@
     "registered_habitat_hectares": 28.77,
     "allocated_habitat_area": 0,
     "remaining_habitat_area": 28.77,
-    "utilisation_percent": 0
-  },
-  {
-    "lpa": "Allerdale LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 0,
-    "allocated_habitat_area": 0,
-    "remaining_habitat_area": 0,
     "utilisation_percent": 0
   },
   {

@@ -7341,10 +7341,47 @@
     "lpa": "East Lindsey LPA",
     "lnrs": "Greater Lincolnshire",
     "authority": "RSK Biocensus Limited",
-    "sizeHa": 0,
+    "sizeHa": 18.75,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Woodland and forest - Other woodland; broadleaved",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.6793,
+        "allocated_extent": 0.1297,
+        "remaining_extent": 0.5496
+      },
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 7.283,
+        "allocated_extent": 0.0609,
+        "remaining_extent": 7.2221
+      },
+      {
+        "habitat": "Lakes - Ponds (Priority Habitat)",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.3152,
+        "allocated_extent": 0,
+        "remaining_extent": 0.3152
+      },
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 10.4257,
+        "allocated_extent": 2.8254,
+        "remaining_extent": 7.6003
+      }
+    ]
   },
   {
     "code": "BGS-280725001",
@@ -17264,10 +17301,110 @@
     "lpa": "Allerdale LPA",
     "lnrs": "Cumbria",
     "authority": "Plantlife International",
-    "sizeHa": 0,
+    "sizeHa": 29.94,
     "first_seen_date": "2026-07-02",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Woodland and forest - Other woodland; broadleaved",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.1988,
+        "allocated_extent": 0.0985,
+        "remaining_extent": 0.1003
+      },
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 9.4127,
+        "allocated_extent": 1.6857,
+        "remaining_extent": 7.727
+      },
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 5.6311,
+        "allocated_extent": 0.4928,
+        "remaining_extent": 5.1383
+      },
+      {
+        "habitat": "Grassland - Lowland meadows",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 13.3754,
+        "allocated_extent": 0.0322,
+        "remaining_extent": 13.3432
+      },
+      {
+        "habitat": "Woodland and forest - Other woodland; mixed",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.3446,
+        "allocated_extent": 0.1714,
+        "remaining_extent": 0.1732
+      },
+      {
+        "habitat": "Lakes - Ponds (Priority Habitat)",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.1347,
+        "allocated_extent": 0,
+        "remaining_extent": 0.1347
+      },
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.4329,
+        "allocated_extent": 0,
+        "remaining_extent": 0.4329
+      },
+      {
+        "habitat": "Woodland and forest - Other woodland; broadleaved",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.1805,
+        "allocated_extent": 0.0892,
+        "remaining_extent": 0.0913
+      },
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.2307,
+        "allocated_extent": 0,
+        "remaining_extent": 0.2307
+      },
+      {
+        "habitat": "Individual trees - Rural tree",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.1099,
+        "allocated_extent": 0,
+        "remaining_extent": 0.1099
+      },
+      {
+        "habitat": "Priority habitat",
+        "condition": "Moderate",
+        "habitat_type": "watercourse",
+        "unit": "km",
+        "proposed_extent": 0.7773,
+        "allocated_extent": 0.2323,
+        "remaining_extent": 0.545
+      }
+    ]
   },
   {
     "code": "BGS-301025002",
