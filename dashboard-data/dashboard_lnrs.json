@@ -22,7 +22,7 @@
     "allocated_habitat_area": 110.89,
     "remaining_habitat_area": 342.39,
     "utilisation_percent": 24.5,
-    "activity_score": 58.8,
+    "activity_score": 58.9,
     "pressure_score": 24.5,
     "opportunity_score": 45.1,
     "opportunity_rating": "Moderate"
@@ -50,7 +50,7 @@
     "allocated_habitat_area": 46.42,
     "remaining_habitat_area": 96.12,
     "utilisation_percent": 32.6,
-    "activity_score": 50.9,
+    "activity_score": 51,
     "pressure_score": 32.6,
     "opportunity_score": 43.6,
     "opportunity_rating": "Moderate"
@@ -58,7 +58,7 @@
   {
     "lnrs": "Norfolk",
     "site_count": 15,
-    "allocation_count": 290,
+    "allocation_count": 289,
     "allocations_last_7_days": 2,
     "allocations_previous_7_days": 2,
     "allocations_last_30_days": 12,
@@ -68,19 +68,19 @@
     "allocated_units_last_30_days": 7.88,
     "allocated_units_previous_30_days": 9.48,
     "allocated_units_last_90_days": 45.86,
-    "allocated_units_last_180_days": 163.92,
-    "allocated_units_last_365_days": 163.92,
+    "allocated_units_last_180_days": 160.97,
+    "allocated_units_last_365_days": 160.97,
     "allocated_area_last_7_days": 2.13,
     "allocated_area_previous_7_days": 0.01,
     "allocated_area_last_30_days": 2.38,
     "allocated_area_previous_30_days": 1.86,
-    "registered_habitat_hectares": 638.03,
-    "allocated_habitat_area": 31.19,
+    "registered_habitat_hectares": 637.48,
+    "allocated_habitat_area": 30.64,
     "remaining_habitat_area": 606.84,
-    "utilisation_percent": 4.9,
-    "activity_score": 67.7,
-    "pressure_score": 4.9,
-    "opportunity_score": 42.5,
+    "utilisation_percent": 4.8,
+    "activity_score": 67.4,
+    "pressure_score": 4.8,
+    "opportunity_score": 42.4,
     "opportunity_rating": "Moderate"
   },
   {
@@ -106,7 +106,7 @@
     "allocated_habitat_area": 10.2,
     "remaining_habitat_area": 2.21,
     "utilisation_percent": 82.2,
-    "activity_score": 7.7,
+    "activity_score": 7.8,
     "pressure_score": 82.2,
     "opportunity_score": 37.5,
     "opportunity_rating": "Moderate"
@@ -136,7 +136,7 @@
     "utilisation_percent": 20.8,
     "activity_score": 43.6,
     "pressure_score": 20.8,
-    "opportunity_score": 34.4,
+    "opportunity_score": 34.5,
     "opportunity_rating": "Emerging"
   },
   {
@@ -162,9 +162,9 @@
     "allocated_habitat_area": 31.65,
     "remaining_habitat_area": 176.82,
     "utilisation_percent": 15.2,
-    "activity_score": 40.5,
+    "activity_score": 40.6,
     "pressure_score": 15.2,
-    "opportunity_score": 30.4,
+    "opportunity_score": 30.5,
     "opportunity_rating": "Emerging"
   },
   {
@@ -190,9 +190,9 @@
     "allocated_habitat_area": 29.36,
     "remaining_habitat_area": 326.88,
     "utilisation_percent": 8.2,
-    "activity_score": 43.4,
+    "activity_score": 43.5,
     "pressure_score": 8.2,
-    "opportunity_score": 29.3,
+    "opportunity_score": 29.4,
     "opportunity_rating": "Emerging"
   },
   {
@@ -218,7 +218,7 @@
     "allocated_habitat_area": 26.09,
     "remaining_habitat_area": 64.28,
     "utilisation_percent": 28.9,
-    "activity_score": 24.6,
+    "activity_score": 24.7,
     "pressure_score": 28.9,
     "opportunity_score": 26.3,
     "opportunity_rating": "Emerging"
@@ -246,7 +246,7 @@
     "allocated_habitat_area": 26.66,
     "remaining_habitat_area": 428.26,
     "utilisation_percent": 5.9,
-    "activity_score": 37.7,
+    "activity_score": 37.8,
     "pressure_score": 5.9,
     "opportunity_score": 25,
     "opportunity_rating": "Emerging"
@@ -274,7 +274,7 @@
     "allocated_habitat_area": 30.63,
     "remaining_habitat_area": 273.36,
     "utilisation_percent": 10.1,
-    "activity_score": 34.6,
+    "activity_score": 34.7,
     "pressure_score": 10.1,
     "opportunity_score": 24.8,
     "opportunity_rating": "Emerging"
@@ -302,7 +302,7 @@
     "allocated_habitat_area": 12.56,
     "remaining_habitat_area": 25.86,
     "utilisation_percent": 32.7,
-    "activity_score": 19.3,
+    "activity_score": 19.4,
     "pressure_score": 32.7,
     "opportunity_score": 24.7,
     "opportunity_rating": "Emerging"
@@ -360,7 +360,7 @@
     "utilisation_percent": 5.8,
     "activity_score": 30.7,
     "pressure_score": 5.8,
-    "opportunity_score": 20.7,
+    "opportunity_score": 20.8,
     "opportunity_rating": "Emerging"
   },
   {
@@ -386,7 +386,7 @@
     "allocated_habitat_area": 19.7,
     "remaining_habitat_area": 462.69,
     "utilisation_percent": 4.1,
-    "activity_score": 26.2,
+    "activity_score": 26.3,
     "pressure_score": 4.1,
     "opportunity_score": 17.4,
     "opportunity_rating": "Emerging"
@@ -414,9 +414,9 @@
     "allocated_habitat_area": 14.65,
     "remaining_habitat_area": 181.23,
     "utilisation_percent": 7.5,
-    "activity_score": 20.9,
+    "activity_score": 21,
     "pressure_score": 7.5,
-    "opportunity_score": 15.5,
+    "opportunity_score": 15.6,
     "opportunity_rating": "Emerging"
   },
   {
@@ -442,7 +442,7 @@
     "allocated_habitat_area": 13.41,
     "remaining_habitat_area": 296.26,
     "utilisation_percent": 4.3,
-    "activity_score": 22.9,
+    "activity_score": 23,
     "pressure_score": 4.3,
     "opportunity_score": 15.5,
     "opportunity_rating": "Emerging"
@@ -470,7 +470,7 @@
     "allocated_habitat_area": 9.85,
     "remaining_habitat_area": 51.94,
     "utilisation_percent": 15.9,
-    "activity_score": 14.2,
+    "activity_score": 14.3,
     "pressure_score": 15.9,
     "opportunity_score": 14.9,
     "opportunity_rating": "Low"
@@ -528,7 +528,7 @@
     "utilisation_percent": 5.4,
     "activity_score": 20.5,
     "pressure_score": 5.4,
-    "opportunity_score": 14.4,
+    "opportunity_score": 14.5,
     "opportunity_rating": "Low"
   },
   {
@@ -640,7 +640,7 @@
     "utilisation_percent": 8.1,
     "activity_score": 12.8,
     "pressure_score": 8.1,
-    "opportunity_score": 10.9,
+    "opportunity_score": 11,
     "opportunity_rating": "Low"
   },
   {
@@ -694,7 +694,7 @@
     "allocated_habitat_area": 8.59,
     "remaining_habitat_area": 322.74,
     "utilisation_percent": 2.6,
-    "activity_score": 15.6,
+    "activity_score": 15.7,
     "pressure_score": 2.6,
     "opportunity_score": 10.4,
     "opportunity_rating": "Low"
@@ -778,7 +778,7 @@
     "allocated_habitat_area": 11.34,
     "remaining_habitat_area": 130.9,
     "utilisation_percent": 8,
-    "activity_score": 11,
+    "activity_score": 11.1,
     "pressure_score": 8,
     "opportunity_score": 9.8,
     "opportunity_rating": "Low"
@@ -806,7 +806,7 @@
     "allocated_habitat_area": 9.26,
     "remaining_habitat_area": 131.85,
     "utilisation_percent": 6.6,
-    "activity_score": 9.6,
+    "activity_score": 9.7,
     "pressure_score": 6.6,
     "opportunity_score": 8.4,
     "opportunity_rating": "Low"
@@ -890,7 +890,7 @@
     "allocated_habitat_area": 10.53,
     "remaining_habitat_area": 291.72,
     "utilisation_percent": 3.5,
-    "activity_score": 10.5,
+    "activity_score": 10.6,
     "pressure_score": 3.5,
     "opportunity_score": 7.7,
     "opportunity_rating": "Low"
@@ -1058,7 +1058,7 @@
     "allocated_habitat_area": 2.57,
     "remaining_habitat_area": 51.16,
     "utilisation_percent": 4.8,
-    "activity_score": 2.7,
+    "activity_score": 2.8,
     "pressure_score": 4.8,
     "opportunity_score": 3.6,
     "opportunity_rating": "Low"
@@ -1204,6 +1204,34 @@
     "opportunity_rating": "Low"
   },
   {
+    "lnrs": "Hull and East Yorkshire",
+    "site_count": 2,
+    "allocation_count": 7,
+    "allocations_last_7_days": 1,
+    "allocations_previous_7_days": 0,
+    "allocations_last_30_days": 1,
+    "allocations_previous_30_days": 1,
+    "allocated_units_last_7_days": 0.46,
+    "allocated_units_previous_7_days": 0,
+    "allocated_units_last_30_days": 0.46,
+    "allocated_units_previous_30_days": 0.44,
+    "allocated_units_last_90_days": 1.35,
+    "allocated_units_last_180_days": 3.04,
+    "allocated_units_last_365_days": 3.04,
+    "allocated_area_last_7_days": 0.09,
+    "allocated_area_previous_7_days": 0,
+    "allocated_area_last_30_days": 0.09,
+    "allocated_area_previous_30_days": 0.13,
+    "registered_habitat_hectares": 53.89,
+    "allocated_habitat_area": 0.76,
+    "remaining_habitat_area": 53.12,
+    "utilisation_percent": 1.4,
+    "activity_score": 1.6,
+    "pressure_score": 1.4,
+    "opportunity_score": 1.6,
+    "opportunity_rating": "Low"
+  },
+  {
     "lnrs": "South of Tyne and Wear",
     "site_count": 3,
     "allocation_count": 1,
@@ -1229,34 +1257,6 @@
     "activity_score": 0.4,
     "pressure_score": 3.4,
     "opportunity_score": 1.6,
-    "opportunity_rating": "Low"
-  },
-  {
-    "lnrs": "Hull and East Yorkshire",
-    "site_count": 2,
-    "allocation_count": 7,
-    "allocations_last_7_days": 1,
-    "allocations_previous_7_days": 0,
-    "allocations_last_30_days": 1,
-    "allocations_previous_30_days": 1,
-    "allocated_units_last_7_days": 0.46,
-    "allocated_units_previous_7_days": 0,
-    "allocated_units_last_30_days": 0.46,
-    "allocated_units_previous_30_days": 0.44,
-    "allocated_units_last_90_days": 1.35,
-    "allocated_units_last_180_days": 3.04,
-    "allocated_units_last_365_days": 3.04,
-    "allocated_area_last_7_days": 0.09,
-    "allocated_area_previous_7_days": 0,
-    "allocated_area_last_30_days": 0.09,
-    "allocated_area_previous_30_days": 0.13,
-    "registered_habitat_hectares": 53.89,
-    "allocated_habitat_area": 0.76,
-    "remaining_habitat_area": 53.12,
-    "utilisation_percent": 1.4,
-    "activity_score": 1.6,
-    "pressure_score": 1.4,
-    "opportunity_score": 1.5,
     "opportunity_rating": "Low"
   },
   {

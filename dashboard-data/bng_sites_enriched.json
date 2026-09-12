@@ -3605,7 +3605,7 @@
     "link": "https://environment.data.gov.uk/biodiversity-net-gain/search/BGS-060226001",
     "gridRef": "TF9226943255",
     "authority": "North Norfolk LPA",
-    "gainSiteSizeHa": "0.55",
+    "gainSiteSizeHa": "",
     "startDate": "",
     "landBoundaryLink": "",
     "first_seen_date": "2026-06-06",

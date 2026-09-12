@@ -49,10 +49,10 @@
   },
   {
     "group": "Grassland",
-    "registered_extent": 7098.87,
-    "allocated_extent": 542.17,
+    "registered_extent": 7098.32,
+    "allocated_extent": 541.62,
     "available_extent": 6556.7,
-    "allocated_units": 2882.37,
+    "allocated_units": 2879.42,
     "utilisation_percent": 7.6
   },
   {
