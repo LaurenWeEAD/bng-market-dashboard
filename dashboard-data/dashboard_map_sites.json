@@ -8420,10 +8420,29 @@
     "lpa": "Northumberland LPA",
     "lnrs": "North of Tyne",
     "authority": "Northumberland LPA",
-    "sizeHa": 0,
+    "sizeHa": 5.25,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Grassland - Lowland meadows",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 5.25,
+        "allocated_extent": 0.8579,
+        "remaining_extent": 4.3921
+      },
+      {
+        "habitat": "Species-rich native hedgerow",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.289,
+        "allocated_extent": 0.026,
+        "remaining_extent": 0.263
+      }
+    ]
   },
   {
     "code": "BGS-010725001",
