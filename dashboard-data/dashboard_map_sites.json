@@ -8214,7 +8214,7 @@
     "lpa": "North Norfolk LPA",
     "lnrs": "Norfolk",
     "authority": "North Norfolk LPA",
-    "sizeHa": 2.13,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
     "remaining": []
@@ -19952,38 +19952,10 @@
     "lpa": "Dover LPA",
     "lnrs": "Kent and Medway",
     "authority": "Dover LPA",
-    "sizeHa": 23.85,
+    "sizeHa": 0,
     "first_seen_date": "2026-07-04",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Heathland and shrub - Mixed scrub",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 4.743,
-        "allocated_extent": 0,
-        "remaining_extent": 4.743
-      },
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 14.143,
-        "allocated_extent": 0,
-        "remaining_extent": 14.143
-      },
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 4.9672,
-        "allocated_extent": 0,
-        "remaining_extent": 4.9672
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-141125002",

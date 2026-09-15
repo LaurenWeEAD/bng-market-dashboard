@@ -264,14 +264,6 @@
     "utilisation_percent": 17.9
   },
   {
-    "lpa": "North Norfolk LPA",
-    "site_count": 3,
-    "registered_habitat_hectares": 15.34,
-    "allocated_habitat_area": 2.68,
-    "remaining_habitat_area": 12.66,
-    "utilisation_percent": 17.5
-  },
-  {
     "lpa": "East Lindsey LPA",
     "site_count": 1,
     "registered_habitat_hectares": 18.7,
@@ -624,12 +616,28 @@
     "utilisation_percent": 4.9
   },
   {
+    "lpa": "Dover LPA",
+    "site_count": 2,
+    "registered_habitat_hectares": 35.4,
+    "allocated_habitat_area": 1.69,
+    "remaining_habitat_area": 33.71,
+    "utilisation_percent": 4.8
+  },
+  {
     "lpa": "Cherwell LPA",
     "site_count": 2,
     "registered_habitat_hectares": 35.74,
     "allocated_habitat_area": 1.66,
     "remaining_habitat_area": 34.08,
     "utilisation_percent": 4.7
+  },
+  {
+    "lpa": "North Norfolk LPA",
+    "site_count": 3,
+    "registered_habitat_hectares": 13.21,
+    "allocated_habitat_area": 0.55,
+    "remaining_habitat_area": 12.66,
+    "utilisation_percent": 4.2
   },
   {
     "lpa": "Newark and Sherwood LPA",
@@ -694,14 +702,6 @@
     "allocated_habitat_area": 5.74,
     "remaining_habitat_area": 180.81,
     "utilisation_percent": 3.1
-  },
-  {
-    "lpa": "Dover LPA",
-    "site_count": 2,
-    "registered_habitat_hectares": 59.26,
-    "allocated_habitat_area": 1.69,
-    "remaining_habitat_area": 57.56,
-    "utilisation_percent": 2.9
   },
   {
     "lpa": "Waverley LPA",
