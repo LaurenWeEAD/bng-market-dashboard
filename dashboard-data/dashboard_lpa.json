@@ -824,14 +824,6 @@
     "utilisation_percent": 1.4
   },
   {
-    "lpa": "East Riding of Yorkshire LPA",
-    "site_count": 2,
-    "registered_habitat_hectares": 53.89,
-    "allocated_habitat_area": 0.76,
-    "remaining_habitat_area": 53.12,
-    "utilisation_percent": 1.4
-  },
-  {
     "lpa": "Dacorum LPA",
     "site_count": 2,
     "registered_habitat_hectares": 49.17,
@@ -869,6 +861,14 @@
     "registered_habitat_hectares": 48.82,
     "allocated_habitat_area": 0.43,
     "remaining_habitat_area": 48.39,
+    "utilisation_percent": 0.9
+  },
+  {
+    "lpa": "East Riding of Yorkshire LPA",
+    "site_count": 2,
+    "registered_habitat_hectares": 35.57,
+    "allocated_habitat_area": 0.32,
+    "remaining_habitat_area": 35.26,
     "utilisation_percent": 0.9
   },
   {
