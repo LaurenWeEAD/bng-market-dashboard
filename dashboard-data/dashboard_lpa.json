@@ -520,19 +520,19 @@
     "utilisation_percent": 7.6
   },
   {
-    "lpa": "Stratford-on-Avon LPA",
-    "site_count": 6,
-    "registered_habitat_hectares": 123.58,
-    "allocated_habitat_area": 8.93,
-    "remaining_habitat_area": 114.66,
-    "utilisation_percent": 7.2
-  },
-  {
     "lpa": "North East Derbyshire LPA",
     "site_count": 1,
     "registered_habitat_hectares": 21.88,
     "allocated_habitat_area": 1.53,
     "remaining_habitat_area": 20.35,
+    "utilisation_percent": 7
+  },
+  {
+    "lpa": "Stratford-on-Avon LPA",
+    "site_count": 6,
+    "registered_habitat_hectares": 118.7,
+    "allocated_habitat_area": 8.26,
+    "remaining_habitat_area": 110.44,
     "utilisation_percent": 7
   },
   {
@@ -824,6 +824,14 @@
     "utilisation_percent": 1.4
   },
   {
+    "lpa": "East Riding of Yorkshire LPA",
+    "site_count": 2,
+    "registered_habitat_hectares": 53.89,
+    "allocated_habitat_area": 0.76,
+    "remaining_habitat_area": 53.12,
+    "utilisation_percent": 1.4
+  },
+  {
     "lpa": "Dacorum LPA",
     "site_count": 2,
     "registered_habitat_hectares": 49.17,
@@ -861,14 +869,6 @@
     "registered_habitat_hectares": 48.82,
     "allocated_habitat_area": 0.43,
     "remaining_habitat_area": 48.39,
-    "utilisation_percent": 0.9
-  },
-  {
-    "lpa": "East Riding of Yorkshire LPA",
-    "site_count": 2,
-    "registered_habitat_hectares": 35.57,
-    "allocated_habitat_area": 0.32,
-    "remaining_habitat_area": 35.26,
     "utilisation_percent": 0.9
   },
   {
