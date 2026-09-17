@@ -184,14 +184,6 @@
     "utilisation_percent": 30.3
   },
   {
-    "lpa": "Bedford LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 18.42,
-    "allocated_habitat_area": 5.5,
-    "remaining_habitat_area": 12.92,
-    "utilisation_percent": 29.8
-  },
-  {
     "lpa": "Vale of White Horse LPA",
     "site_count": 3,
     "registered_habitat_hectares": 64.91,
@@ -520,19 +512,19 @@
     "utilisation_percent": 7.6
   },
   {
+    "lpa": "Stratford-on-Avon LPA",
+    "site_count": 6,
+    "registered_habitat_hectares": 123.58,
+    "allocated_habitat_area": 8.93,
+    "remaining_habitat_area": 114.66,
+    "utilisation_percent": 7.2
+  },
+  {
     "lpa": "North East Derbyshire LPA",
     "site_count": 1,
     "registered_habitat_hectares": 21.88,
     "allocated_habitat_area": 1.53,
     "remaining_habitat_area": 20.35,
-    "utilisation_percent": 7
-  },
-  {
-    "lpa": "Stratford-on-Avon LPA",
-    "site_count": 6,
-    "registered_habitat_hectares": 118.7,
-    "allocated_habitat_area": 8.26,
-    "remaining_habitat_area": 110.44,
     "utilisation_percent": 7
   },
   {
@@ -584,14 +576,6 @@
     "utilisation_percent": 5.4
   },
   {
-    "lpa": "County Durham LPA",
-    "site_count": 8,
-    "registered_habitat_hectares": 332.52,
-    "allocated_habitat_area": 16.99,
-    "remaining_habitat_area": 315.53,
-    "utilisation_percent": 5.1
-  },
-  {
     "lpa": "Basingstoke and Deane LPA",
     "site_count": 4,
     "registered_habitat_hectares": 115.16,
@@ -630,6 +614,14 @@
     "allocated_habitat_area": 1.66,
     "remaining_habitat_area": 34.08,
     "utilisation_percent": 4.7
+  },
+  {
+    "lpa": "County Durham LPA",
+    "site_count": 8,
+    "registered_habitat_hectares": 310.62,
+    "allocated_habitat_area": 13.16,
+    "remaining_habitat_area": 297.46,
+    "utilisation_percent": 4.2
   },
   {
     "lpa": "Newark and Sherwood LPA",
@@ -1117,6 +1109,14 @@
     "registered_habitat_hectares": 32.62,
     "allocated_habitat_area": 0,
     "remaining_habitat_area": 32.62,
+    "utilisation_percent": 0
+  },
+  {
+    "lpa": "Bedford LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 0,
+    "allocated_habitat_area": 0,
+    "remaining_habitat_area": 0,
     "utilisation_percent": 0
   },
   {
