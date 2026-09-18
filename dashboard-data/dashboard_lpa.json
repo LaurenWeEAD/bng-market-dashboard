@@ -16,14 +16,6 @@
     "utilisation_percent": 100
   },
   {
-    "lpa": "North Norfolk LPA",
-    "site_count": 3,
-    "registered_habitat_hectares": 2.68,
-    "allocated_habitat_area": 2.68,
-    "remaining_habitat_area": 0,
-    "utilisation_percent": 100
-  },
-  {
     "lpa": "Middlesbrough LPA",
     "site_count": 1,
     "registered_habitat_hectares": 1.29,
@@ -272,6 +264,14 @@
     "utilisation_percent": 17.9
   },
   {
+    "lpa": "North Norfolk LPA",
+    "site_count": 3,
+    "registered_habitat_hectares": 15.34,
+    "allocated_habitat_area": 2.68,
+    "remaining_habitat_area": 12.66,
+    "utilisation_percent": 17.5
+  },
+  {
     "lpa": "East Lindsey LPA",
     "site_count": 1,
     "registered_habitat_hectares": 18.7,
@@ -294,6 +294,14 @@
     "allocated_habitat_area": 18,
     "remaining_habitat_area": 108.74,
     "utilisation_percent": 14.2
+  },
+  {
+    "lpa": "Harborough LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 26.15,
+    "allocated_habitat_area": 3.63,
+    "remaining_habitat_area": 22.52,
+    "utilisation_percent": 13.9
   },
   {
     "lpa": "Hertsmere LPA",
@@ -1085,14 +1093,6 @@
     "registered_habitat_hectares": 6.89,
     "allocated_habitat_area": 0,
     "remaining_habitat_area": 6.89,
-    "utilisation_percent": 0
-  },
-  {
-    "lpa": "Harborough LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 0,
-    "allocated_habitat_area": 0,
-    "remaining_habitat_area": 0,
     "utilisation_percent": 0
   },
   {
