@@ -16,6 +16,14 @@
     "utilisation_percent": 100
   },
   {
+    "lpa": "North Norfolk LPA",
+    "site_count": 3,
+    "registered_habitat_hectares": 2.68,
+    "allocated_habitat_area": 2.68,
+    "remaining_habitat_area": 0,
+    "utilisation_percent": 100
+  },
+  {
     "lpa": "Middlesbrough LPA",
     "site_count": 1,
     "registered_habitat_hectares": 1.29,
@@ -184,6 +192,14 @@
     "utilisation_percent": 30.3
   },
   {
+    "lpa": "Bedford LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 18.42,
+    "allocated_habitat_area": 5.5,
+    "remaining_habitat_area": 12.92,
+    "utilisation_percent": 29.8
+  },
+  {
     "lpa": "Vale of White Horse LPA",
     "site_count": 3,
     "registered_habitat_hectares": 64.91,
@@ -256,14 +272,6 @@
     "utilisation_percent": 17.9
   },
   {
-    "lpa": "North Norfolk LPA",
-    "site_count": 3,
-    "registered_habitat_hectares": 15.34,
-    "allocated_habitat_area": 2.68,
-    "remaining_habitat_area": 12.66,
-    "utilisation_percent": 17.5
-  },
-  {
     "lpa": "East Lindsey LPA",
     "site_count": 1,
     "registered_habitat_hectares": 18.7,
@@ -286,14 +294,6 @@
     "allocated_habitat_area": 18,
     "remaining_habitat_area": 108.74,
     "utilisation_percent": 14.2
-  },
-  {
-    "lpa": "Harborough LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 26.15,
-    "allocated_habitat_area": 3.63,
-    "remaining_habitat_area": 22.52,
-    "utilisation_percent": 13.9
   },
   {
     "lpa": "Hertsmere LPA",
@@ -576,6 +576,14 @@
     "utilisation_percent": 5.4
   },
   {
+    "lpa": "County Durham LPA",
+    "site_count": 8,
+    "registered_habitat_hectares": 332.52,
+    "allocated_habitat_area": 16.99,
+    "remaining_habitat_area": 315.53,
+    "utilisation_percent": 5.1
+  },
+  {
     "lpa": "Basingstoke and Deane LPA",
     "site_count": 4,
     "registered_habitat_hectares": 115.16,
@@ -614,14 +622,6 @@
     "allocated_habitat_area": 1.66,
     "remaining_habitat_area": 34.08,
     "utilisation_percent": 4.7
-  },
-  {
-    "lpa": "County Durham LPA",
-    "site_count": 8,
-    "registered_habitat_hectares": 310.62,
-    "allocated_habitat_area": 13.16,
-    "remaining_habitat_area": 297.46,
-    "utilisation_percent": 4.2
   },
   {
     "lpa": "Newark and Sherwood LPA",
@@ -1088,6 +1088,14 @@
     "utilisation_percent": 0
   },
   {
+    "lpa": "Harborough LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 0,
+    "allocated_habitat_area": 0,
+    "remaining_habitat_area": 0,
+    "utilisation_percent": 0
+  },
+  {
     "lpa": "Colchester LPA",
     "site_count": 3,
     "registered_habitat_hectares": 113.25,
@@ -1109,14 +1117,6 @@
     "registered_habitat_hectares": 32.62,
     "allocated_habitat_area": 0,
     "remaining_habitat_area": 32.62,
-    "utilisation_percent": 0
-  },
-  {
-    "lpa": "Bedford LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 0,
-    "allocated_habitat_area": 0,
-    "remaining_habitat_area": 0,
     "utilisation_percent": 0
   },
   {
