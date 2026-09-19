@@ -368,6 +368,14 @@
     "utilisation_percent": 11.1
   },
   {
+    "lpa": "West Oxfordshire LPA",
+    "site_count": 3,
+    "registered_habitat_hectares": 82.25,
+    "allocated_habitat_area": 9.04,
+    "remaining_habitat_area": 73.21,
+    "utilisation_percent": 11
+  },
+  {
     "lpa": "Dartmoor National Park LPA",
     "site_count": 4,
     "registered_habitat_hectares": 49.05,
@@ -480,14 +488,6 @@
     "utilisation_percent": 8.5
   },
   {
-    "lpa": "Harrogate LPA",
-    "site_count": 7,
-    "registered_habitat_hectares": 140.59,
-    "allocated_habitat_area": 11.63,
-    "remaining_habitat_area": 128.96,
-    "utilisation_percent": 8.3
-  },
-  {
     "lpa": "East Cambridgeshire LPA",
     "site_count": 3,
     "registered_habitat_hectares": 41.59,
@@ -512,12 +512,12 @@
     "utilisation_percent": 7.7
   },
   {
-    "lpa": "West Oxfordshire LPA",
-    "site_count": 3,
-    "registered_habitat_hectares": 49.03,
-    "allocated_habitat_area": 3.63,
-    "remaining_habitat_area": 45.4,
-    "utilisation_percent": 7.4
+    "lpa": "Harrogate LPA",
+    "site_count": 7,
+    "registered_habitat_hectares": 154,
+    "allocated_habitat_area": 11.63,
+    "remaining_habitat_area": 142.37,
+    "utilisation_percent": 7.6
   },
   {
     "lpa": "Stratford-on-Avon LPA",
