@@ -248,6 +248,14 @@
     "utilisation_percent": 19.9
   },
   {
+    "lpa": "South Cambridgeshire LPA",
+    "site_count": 6,
+    "registered_habitat_hectares": 77.3,
+    "allocated_habitat_area": 14.84,
+    "remaining_habitat_area": 62.46,
+    "utilisation_percent": 19.2
+  },
+  {
     "lpa": "Rochdale LPA",
     "site_count": 2,
     "registered_habitat_hectares": 45.5,
@@ -384,14 +392,6 @@
     "utilisation_percent": 10.7
   },
   {
-    "lpa": "South Cambridgeshire LPA",
-    "site_count": 6,
-    "registered_habitat_hectares": 144.2,
-    "allocated_habitat_area": 15.1,
-    "remaining_habitat_area": 129.09,
-    "utilisation_percent": 10.5
-  },
-  {
     "lpa": "Kettering LPA",
     "site_count": 1,
     "registered_habitat_hectares": 50.05,
@@ -488,6 +488,14 @@
     "utilisation_percent": 8.5
   },
   {
+    "lpa": "Harrogate LPA",
+    "site_count": 7,
+    "registered_habitat_hectares": 140.59,
+    "allocated_habitat_area": 11.63,
+    "remaining_habitat_area": 128.96,
+    "utilisation_percent": 8.3
+  },
+  {
     "lpa": "East Cambridgeshire LPA",
     "site_count": 3,
     "registered_habitat_hectares": 41.59,
@@ -510,14 +518,6 @@
     "allocated_habitat_area": 30.75,
     "remaining_habitat_area": 368.09,
     "utilisation_percent": 7.7
-  },
-  {
-    "lpa": "Harrogate LPA",
-    "site_count": 7,
-    "registered_habitat_hectares": 154,
-    "allocated_habitat_area": 11.63,
-    "remaining_habitat_area": 142.37,
-    "utilisation_percent": 7.6
   },
   {
     "lpa": "Stratford-on-Avon LPA",

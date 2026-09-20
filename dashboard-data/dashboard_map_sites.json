@@ -7431,83 +7431,10 @@
     "lpa": "South Cambridgeshire LPA",
     "lnrs": "Cambridgeshire and Peterborough",
     "authority": "South Cambridgeshire LPA",
-    "sizeHa": 66.89,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Woodland and forest - Other woodland; broadleaved",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 4.952,
-        "allocated_extent": 0,
-        "remaining_extent": 4.952
-      },
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 52.749,
-        "allocated_extent": 0.2395,
-        "remaining_extent": 52.5095
-      },
-      {
-        "habitat": "Woodland and forest - Other woodland; broadleaved",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 5.8479,
-        "allocated_extent": 0,
-        "remaining_extent": 5.8479
-      },
-      {
-        "habitat": "Heathland and shrub - Mixed scrub",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 3.0642,
-        "allocated_extent": 0.0241,
-        "remaining_extent": 3.0401
-      },
-      {
-        "habitat": "Urban - Developed land; sealed surface",
-        "condition": "Unable to Map",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.28,
-        "allocated_extent": 0,
-        "remaining_extent": 0.28
-      },
-      {
-        "habitat": "Native Hedgerow",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.16,
-        "allocated_extent": 0,
-        "remaining_extent": 0.16
-      },
-      {
-        "habitat": "Species-rich native hedgerow",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.46,
-        "allocated_extent": 0,
-        "remaining_extent": 0.46
-      },
-      {
-        "habitat": "Species-rich native hedgerow with trees",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 2.749,
-        "allocated_extent": 0,
-        "remaining_extent": 2.749
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-050126003",
@@ -18298,56 +18225,10 @@
     "lpa": "Harrogate LPA",
     "lnrs": "North Yorkshire and York",
     "authority": "North Yorkshire LPA",
-    "sizeHa": 13.41,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Heathland and shrub - Mixed scrub",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 1.12,
-        "allocated_extent": 0,
-        "remaining_extent": 1.12
-      },
-      {
-        "habitat": "Woodland and forest - Other woodland; mixed",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.77,
-        "allocated_extent": 0,
-        "remaining_extent": 0.77
-      },
-      {
-        "habitat": "Grassland - Lowland meadows",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 11.52,
-        "allocated_extent": 0,
-        "remaining_extent": 11.52
-      },
-      {
-        "habitat": "Native hedgerow with trees",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.456,
-        "allocated_extent": 0,
-        "remaining_extent": 0.456
-      },
-      {
-        "habitat": "Native Hedgerow",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.204,
-        "allocated_extent": 0,
-        "remaining_extent": 0.204
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-191124001",
