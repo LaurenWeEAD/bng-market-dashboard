@@ -648,14 +648,6 @@
     "utilisation_percent": 4
   },
   {
-    "lpa": "South Somerset LPA",
-    "site_count": 2,
-    "registered_habitat_hectares": 62.72,
-    "allocated_habitat_area": 2.44,
-    "remaining_habitat_area": 60.28,
-    "utilisation_percent": 3.9
-  },
-  {
     "lpa": "Ashford LPA",
     "site_count": 3,
     "registered_habitat_hectares": 117.81,
@@ -960,6 +952,14 @@
     "utilisation_percent": 0.1
   },
   {
+    "lpa": "South Somerset LPA",
+    "site_count": 2,
+    "registered_habitat_hectares": 13.6,
+    "allocated_habitat_area": 0,
+    "remaining_habitat_area": 13.6,
+    "utilisation_percent": 0
+  },
+  {
     "lpa": "Lake District National Park LPA",
     "site_count": 1,
     "registered_habitat_hectares": 12.98,
@@ -1098,9 +1098,9 @@
   {
     "lpa": "Colchester LPA",
     "site_count": 3,
-    "registered_habitat_hectares": 113.25,
+    "registered_habitat_hectares": 105.42,
     "allocated_habitat_area": 0.02,
-    "remaining_habitat_area": 113.23,
+    "remaining_habitat_area": 105.4,
     "utilisation_percent": 0
   },
   {

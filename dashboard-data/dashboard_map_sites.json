@@ -6531,56 +6531,10 @@
     "lpa": "Colchester LPA",
     "lnrs": "Greater Essex",
     "authority": "Colchester LPA",
-    "sizeHa": 7,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 6.76,
-        "allocated_extent": 0,
-        "remaining_extent": 6.76
-      },
-      {
-        "habitat": "Lakes - Ponds (non-priority habitat)",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.035,
-        "allocated_extent": 0,
-        "remaining_extent": 0.035
-      },
-      {
-        "habitat": "Heathland and shrub - Mixed scrub",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.83,
-        "allocated_extent": 0,
-        "remaining_extent": 0.83
-      },
-      {
-        "habitat": "Cropland - Arable field margins cultivated annually",
-        "condition": "Condition Assessment N/A",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.21,
-        "allocated_extent": 0,
-        "remaining_extent": 0.21
-      },
-      {
-        "habitat": "Species-rich native hedgerow",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.63,
-        "allocated_extent": 0,
-        "remaining_extent": 0.63
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-200726001",
@@ -17777,20 +17731,10 @@
     "lpa": "South Somerset LPA",
     "lnrs": "Somerset",
     "authority": "South Somerset LPA",
-    "sizeHa": 49.12,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Grassland - Traditional orchards",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 49.12,
-        "allocated_extent": 2.4416,
-        "remaining_extent": 46.6784
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-130825001",
