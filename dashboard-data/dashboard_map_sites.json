@@ -3306,7 +3306,7 @@
     "authority": "Basildon LPA",
     "sizeHa": 21.9,
     "first_seen_date": "2026-09-22",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Grassland - Other neutral grassland",
@@ -10408,47 +10408,10 @@
     "lpa": "Chorley LPA",
     "lnrs": "Lancashire",
     "authority": "Chorley LPA",
-    "sizeHa": 18.24,
+    "sizeHa": 0,
     "first_seen_date": "2026-08-08",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Wetland - Reedbeds",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 1.1,
-        "allocated_extent": 0,
-        "remaining_extent": 1.1
-      },
-      {
-        "habitat": "Individual trees - Rural tree",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.0861,
-        "allocated_extent": 0,
-        "remaining_extent": 0.0861
-      },
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 17.1391,
-        "allocated_extent": 0,
-        "remaining_extent": 17.1391
-      },
-      {
-        "habitat": "Species-rich native hedgerow",
-        "condition": "Moderate",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.276,
-        "allocated_extent": 0,
-        "remaining_extent": 0.276
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-100225001",
@@ -17118,7 +17081,7 @@
     "authority": "Calderdale LPA",
     "sizeHa": 0.44,
     "first_seen_date": "2026-09-22",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Grassland - Other neutral grassland",
@@ -22307,74 +22270,10 @@
     "lpa": "Harrogate LPA",
     "lnrs": "North Yorkshire and York",
     "authority": "RSK Biocensus Limited",
-    "sizeHa": 17.47,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Heathland and shrub - Mixed scrub",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 1.481,
-        "allocated_extent": 0.0759,
-        "remaining_extent": 1.4051
-      },
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 9.0882,
-        "allocated_extent": 1.3389,
-        "remaining_extent": 7.7493
-      },
-      {
-        "habitat": "Lakes - Ponds (Priority Habitat)",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.0472,
-        "allocated_extent": 0,
-        "remaining_extent": 0.0472
-      },
-      {
-        "habitat": "Grassland - Lowland meadows",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 3.3023,
-        "allocated_extent": 0.1237,
-        "remaining_extent": 3.1786
-      },
-      {
-        "habitat": "Lakes - Ponds (Priority Habitat)",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.0189,
-        "allocated_extent": 0,
-        "remaining_extent": 0.0189
-      },
-      {
-        "habitat": "Grassland - Lowland meadows",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 2.751,
-        "allocated_extent": 0,
-        "remaining_extent": 2.751
-      },
-      {
-        "habitat": "Other rivers and streams",
-        "condition": "Poor",
-        "habitat_type": "watercourse",
-        "unit": "km",
-        "proposed_extent": 0.1618,
-        "allocated_extent": 0,
-        "remaining_extent": 0.1618
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-120226001",
@@ -26455,7 +26354,7 @@
     "authority": "Wakefield LPA",
     "sizeHa": 19.86,
     "first_seen_date": "2026-09-22",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Urban - Open Mosaic Habitats on Previously Developed Land",
