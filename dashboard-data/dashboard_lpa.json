@@ -328,14 +328,6 @@
     "utilisation_percent": 12.9
   },
   {
-    "lpa": "Shropshire LPA",
-    "site_count": 4,
-    "registered_habitat_hectares": 67.15,
-    "allocated_habitat_area": 8.34,
-    "remaining_habitat_area": 58.81,
-    "utilisation_percent": 12.4
-  },
-  {
     "lpa": "West Oxfordshire LPA",
     "site_count": 3,
     "registered_habitat_hectares": 82.25,
@@ -502,6 +494,14 @@
     "allocated_habitat_area": 2.57,
     "remaining_habitat_area": 27.48,
     "utilisation_percent": 8.6
+  },
+  {
+    "lpa": "Shropshire LPA",
+    "site_count": 4,
+    "registered_habitat_hectares": 101.05,
+    "allocated_habitat_area": 8.36,
+    "remaining_habitat_area": 92.69,
+    "utilisation_percent": 8.3
   },
   {
     "lpa": "South Downs National Park LPA",
@@ -1242,9 +1242,9 @@
   {
     "lpa": "Isles of Scilly LPA",
     "site_count": 1,
-    "registered_habitat_hectares": 0,
+    "registered_habitat_hectares": 1.57,
     "allocated_habitat_area": 0,
-    "remaining_habitat_area": 0,
+    "remaining_habitat_area": 1.57,
     "utilisation_percent": 0
   },
   {

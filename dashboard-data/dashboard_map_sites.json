@@ -10246,10 +10246,56 @@
     "lpa": "Shropshire LPA",
     "lnrs": "Shropshire and Telford & Wrekin",
     "authority": "RSK Biocensus Limited",
-    "sizeHa": 0,
+    "sizeHa": 33.89,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 21.7416,
+        "allocated_extent": 0.011,
+        "remaining_extent": 21.7306
+      },
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 3.3368,
+        "allocated_extent": 0,
+        "remaining_extent": 3.3368
+      },
+      {
+        "habitat": "Grassland - Lowland meadows",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 5.995,
+        "allocated_extent": 0.0081,
+        "remaining_extent": 5.9869
+      },
+      {
+        "habitat": "Woodland and forest - Other woodland; broadleaved",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 2.2499,
+        "allocated_extent": 0,
+        "remaining_extent": 2.2499
+      },
+      {
+        "habitat": "Woodland and forest - Lowland mixed deciduous woodland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.5678,
+        "allocated_extent": 0,
+        "remaining_extent": 0.5678
+      }
+    ]
   },
   {
     "code": "BGS-230126002",
@@ -17547,7 +17593,7 @@
     "authority": "On Nature Ltd",
     "sizeHa": 10.97,
     "first_seen_date": "2026-09-23",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Individual trees - Rural tree",
@@ -19578,10 +19624,47 @@
     "lpa": "Isles of Scilly LPA",
     "lnrs": "Cornwall and the Isles of Scilly",
     "authority": "Isles of Scilly LPA",
-    "sizeHa": 0,
+    "sizeHa": 2.62,
     "first_seen_date": "2026-06-04",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Woodland and forest - Other woodland; broadleaved",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.3533,
+        "allocated_extent": 0,
+        "remaining_extent": 0.3533
+      },
+      {
+        "habitat": "Grassland - Lowland meadows",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 1.0886,
+        "allocated_extent": 0,
+        "remaining_extent": 1.0886
+      },
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.127,
+        "allocated_extent": 0,
+        "remaining_extent": 0.127
+      },
+      {
+        "habitat": "Native hedgerow with trees",
+        "condition": "Moderate",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.253,
+        "allocated_extent": 0,
+        "remaining_extent": 0.253
+      }
+    ]
   },
   {
     "code": "BGS-101024005",
