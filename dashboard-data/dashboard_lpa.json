@@ -816,14 +816,6 @@
     "utilisation_percent": 1.6
   },
   {
-    "lpa": "Broadland LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 4.38,
-    "allocated_habitat_area": 0.07,
-    "remaining_habitat_area": 4.31,
-    "utilisation_percent": 1.6
-  },
-  {
     "lpa": "North Devon LPA",
     "site_count": 3,
     "registered_habitat_hectares": 285.92,
@@ -837,6 +829,14 @@
     "registered_habitat_hectares": 49.17,
     "allocated_habitat_area": 0.72,
     "remaining_habitat_area": 48.45,
+    "utilisation_percent": 1.5
+  },
+  {
+    "lpa": "Bath and North East Somerset LPA",
+    "site_count": 3,
+    "registered_habitat_hectares": 157.68,
+    "allocated_habitat_area": 2.29,
+    "remaining_habitat_area": 155.39,
     "utilisation_percent": 1.5
   },
   {
@@ -1013,14 +1013,6 @@
     "registered_habitat_hectares": 16.93,
     "allocated_habitat_area": 0.01,
     "remaining_habitat_area": 16.92,
-    "utilisation_percent": 0.1
-  },
-  {
-    "lpa": "Bath and North East Somerset LPA",
-    "site_count": 3,
-    "registered_habitat_hectares": 90.41,
-    "allocated_habitat_area": 0.1,
-    "remaining_habitat_area": 90.31,
     "utilisation_percent": 0.1
   },
   {
@@ -1237,6 +1229,14 @@
     "registered_habitat_hectares": 9.36,
     "allocated_habitat_area": 0,
     "remaining_habitat_area": 9.36,
+    "utilisation_percent": 0
+  },
+  {
+    "lpa": "Broadland LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 0,
+    "allocated_habitat_area": 0,
+    "remaining_habitat_area": 0,
     "utilisation_percent": 0
   },
   {
