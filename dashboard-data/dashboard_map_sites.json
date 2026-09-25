@@ -1820,7 +1820,7 @@
     "authority": "Plantlife International",
     "sizeHa": 27.01,
     "first_seen_date": "2026-09-25",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Grassland - Other neutral grassland",
@@ -5022,7 +5022,7 @@
     "authority": "RSK Biocensus Limited",
     "sizeHa": 59.44,
     "first_seen_date": "2026-09-25",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Lakes - Ponds (non-priority habitat)",
@@ -11255,10 +11255,83 @@
     "lpa": "Horsham LPA",
     "lnrs": "West Sussex",
     "authority": "RSK Biocensus Limited",
-    "sizeHa": 0,
+    "sizeHa": 21,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 4.088,
+        "allocated_extent": 0,
+        "remaining_extent": 4.088
+      },
+      {
+        "habitat": "Woodland and forest - Other woodland; broadleaved",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 2.494,
+        "allocated_extent": 0,
+        "remaining_extent": 2.494
+      },
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 3.686,
+        "allocated_extent": 0.016,
+        "remaining_extent": 3.67
+      },
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 6.706,
+        "allocated_extent": 0,
+        "remaining_extent": 6.706
+      },
+      {
+        "habitat": "Individual trees - Rural tree",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.0611,
+        "allocated_extent": 0,
+        "remaining_extent": 0.0611
+      },
+      {
+        "habitat": "Native hedgerow with trees - associated with bank or ditch",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.163,
+        "allocated_extent": 0,
+        "remaining_extent": 0.163
+      },
+      {
+        "habitat": "Line of Trees - Associated with bank or ditch",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.31,
+        "allocated_extent": 0,
+        "remaining_extent": 0.31
+      },
+      {
+        "habitat": "Native hedgerow with trees",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.135,
+        "allocated_extent": 0,
+        "remaining_extent": 0.135
+      }
+    ]
   },
   {
     "code": "BGS-280426002",
@@ -11353,56 +11426,10 @@
     "lpa": "Basingstoke and Deane LPA",
     "lnrs": "Hampshire",
     "authority": "Basingstoke and Deane LPA",
-    "sizeHa": 4.37,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 3.8679,
-        "allocated_extent": 3.4196,
-        "remaining_extent": 0.4483
-      },
-      {
-        "habitat": "Heathland and shrub - Mixed scrub",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.46,
-        "allocated_extent": 0.304,
-        "remaining_extent": 0.156
-      },
-      {
-        "habitat": "Heathland and shrub - Mixed scrub",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.0207,
-        "allocated_extent": 0,
-        "remaining_extent": 0.0207
-      },
-      {
-        "habitat": "Individual trees - Rural tree",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.0733,
-        "allocated_extent": 0.0665,
-        "remaining_extent": 0.0068
-      },
-      {
-        "habitat": "Species-rich native hedgerow with trees",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.196,
-        "allocated_extent": 0,
-        "remaining_extent": 0.196
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-051225002",
@@ -21670,10 +21697,74 @@
     "lpa": "Dacorum LPA",
     "lnrs": "Hertfordshire",
     "authority": "HARRY FERGUSON HOLDINGS LTD",
-    "sizeHa": 0,
+    "sizeHa": 28.06,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 5.0193,
+        "allocated_extent": 0.123,
+        "remaining_extent": 4.8963
+      },
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 16.7138,
+        "allocated_extent": 0.5157,
+        "remaining_extent": 16.1981
+      },
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 1.2639,
+        "allocated_extent": 0.0845,
+        "remaining_extent": 1.1794
+      },
+      {
+        "habitat": "Woodland and forest - Other woodland; broadleaved",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 2.1608,
+        "allocated_extent": 0,
+        "remaining_extent": 2.1608
+      },
+      {
+        "habitat": "Grassland - Traditional orchards",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 2.5575,
+        "allocated_extent": 0,
+        "remaining_extent": 2.5575
+      },
+      {
+        "habitat": "Individual trees - Rural tree",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.0733,
+        "allocated_extent": 0,
+        "remaining_extent": 0.0733
+      },
+      {
+        "habitat": "Species-rich native hedgerow",
+        "condition": "Moderate",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.1068,
+        "allocated_extent": 0.002,
+        "remaining_extent": 0.1048
+      }
+    ]
   },
   {
     "code": "BGS-051124001",

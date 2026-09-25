@@ -560,14 +560,6 @@
     "utilisation_percent": 6.4
   },
   {
-    "lpa": "Basingstoke and Deane LPA",
-    "site_count": 4,
-    "registered_habitat_hectares": 115.16,
-    "allocated_habitat_area": 7.06,
-    "remaining_habitat_area": 108.1,
-    "utilisation_percent": 6.1
-  },
-  {
     "lpa": "Doncaster LPA",
     "site_count": 1,
     "registered_habitat_hectares": 20.4,
@@ -720,6 +712,14 @@
     "utilisation_percent": 3.1
   },
   {
+    "lpa": "Basingstoke and Deane LPA",
+    "site_count": 4,
+    "registered_habitat_hectares": 110.74,
+    "allocated_habitat_area": 3.27,
+    "remaining_habitat_area": 107.47,
+    "utilisation_percent": 3
+  },
+  {
     "lpa": "Waverley LPA",
     "site_count": 2,
     "registered_habitat_hectares": 97.55,
@@ -829,6 +829,14 @@
     "registered_habitat_hectares": 285.92,
     "allocated_habitat_area": 4.2,
     "remaining_habitat_area": 281.72,
+    "utilisation_percent": 1.5
+  },
+  {
+    "lpa": "Dacorum LPA",
+    "site_count": 2,
+    "registered_habitat_hectares": 49.17,
+    "allocated_habitat_area": 0.72,
+    "remaining_habitat_area": 48.45,
     "utilisation_percent": 1.5
   },
   {
@@ -1098,9 +1106,9 @@
   {
     "lpa": "Horsham LPA",
     "site_count": 3,
-    "registered_habitat_hectares": 39.39,
-    "allocated_habitat_area": 0,
-    "remaining_habitat_area": 39.39,
+    "registered_habitat_hectares": 56.43,
+    "allocated_habitat_area": 0.02,
+    "remaining_habitat_area": 56.41,
     "utilisation_percent": 0
   },
   {
@@ -1173,14 +1181,6 @@
     "registered_habitat_hectares": 4.06,
     "allocated_habitat_area": 0,
     "remaining_habitat_area": 4.06,
-    "utilisation_percent": 0
-  },
-  {
-    "lpa": "Dacorum LPA",
-    "site_count": 2,
-    "registered_habitat_hectares": 21.38,
-    "allocated_habitat_area": 0,
-    "remaining_habitat_area": 21.38,
     "utilisation_percent": 0
   },
   {
