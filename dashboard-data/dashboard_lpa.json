@@ -160,6 +160,14 @@
     "utilisation_percent": 35.7
   },
   {
+    "lpa": "South Norfolk LPA",
+    "site_count": 3,
+    "registered_habitat_hectares": 47.66,
+    "allocated_habitat_area": 16.77,
+    "remaining_habitat_area": 30.89,
+    "utilisation_percent": 35.2
+  },
+  {
     "lpa": "Newcastle-under-Lyme LPA",
     "site_count": 1,
     "registered_habitat_hectares": 8.76,
@@ -536,14 +544,6 @@
     "utilisation_percent": 7
   },
   {
-    "lpa": "South Norfolk LPA",
-    "site_count": 3,
-    "registered_habitat_hectares": 22.51,
-    "allocated_habitat_area": 1.48,
-    "remaining_habitat_area": 21.03,
-    "utilisation_percent": 6.6
-  },
-  {
     "lpa": "Lewes LPA",
     "site_count": 2,
     "registered_habitat_hectares": 88.97,
@@ -576,6 +576,14 @@
     "utilisation_percent": 6
   },
   {
+    "lpa": "County Durham LPA",
+    "site_count": 10,
+    "registered_habitat_hectares": 291.92,
+    "allocated_habitat_area": 16.85,
+    "remaining_habitat_area": 275.08,
+    "utilisation_percent": 5.8
+  },
+  {
     "lpa": "Dorset LPA",
     "site_count": 4,
     "registered_habitat_hectares": 199.69,
@@ -598,14 +606,6 @@
     "allocated_habitat_area": 3.29,
     "remaining_habitat_area": 60.78,
     "utilisation_percent": 5.1
-  },
-  {
-    "lpa": "County Durham LPA",
-    "site_count": 10,
-    "registered_habitat_hectares": 360.05,
-    "allocated_habitat_area": 17.82,
-    "remaining_habitat_area": 342.22,
-    "utilisation_percent": 5
   },
   {
     "lpa": "Bromley LPA",
@@ -1026,9 +1026,9 @@
   {
     "lpa": "Cotswold LPA",
     "site_count": 5,
-    "registered_habitat_hectares": 100.06,
+    "registered_habitat_hectares": 143.8,
     "allocated_habitat_area": 0,
-    "remaining_habitat_area": 100.06,
+    "remaining_habitat_area": 143.8,
     "utilisation_percent": 0
   },
   {

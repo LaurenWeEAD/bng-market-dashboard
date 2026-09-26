@@ -6883,10 +6883,38 @@
     "lpa": "South Norfolk LPA",
     "lnrs": "Norfolk",
     "authority": "South Norfolk LPA",
-    "sizeHa": 0,
+    "sizeHa": 25.15,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 9.4401,
+        "allocated_extent": 4.5818,
+        "remaining_extent": 4.8583
+      },
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 15.7066,
+        "allocated_extent": 10.7051,
+        "remaining_extent": 5.0015
+      },
+      {
+        "habitat": "Species-rich native hedgerow with trees",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.5078,
+        "allocated_extent": 0.2182,
+        "remaining_extent": 0.2896
+      }
+    ]
   },
   {
     "code": "BGS-300626001",
@@ -11127,74 +11155,10 @@
     "lpa": "County Durham LPA",
     "lnrs": "County Durham",
     "authority": "HARRY FERGUSON HOLDINGS LTD",
-    "sizeHa": 68.01,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Woodland and forest - Other woodland; mixed",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.3226,
-        "allocated_extent": 0,
-        "remaining_extent": 0.3226
-      },
-      {
-        "habitat": "Grassland - Upland acid grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 44.6527,
-        "allocated_extent": 0.2719,
-        "remaining_extent": 44.3808
-      },
-      {
-        "habitat": "Individual trees - Rural tree",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.2036,
-        "allocated_extent": 0.0855,
-        "remaining_extent": 0.1181
-      },
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 12.0555,
-        "allocated_extent": 0.0785,
-        "remaining_extent": 11.977
-      },
-      {
-        "habitat": "Woodland and forest - Other Scot's Pine woodland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.8312,
-        "allocated_extent": 0,
-        "remaining_extent": 0.8312
-      },
-      {
-        "habitat": "Grassland - Upland hay meadows",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 10.0572,
-        "allocated_extent": 0.54,
-        "remaining_extent": 9.5172
-      },
-      {
-        "habitat": "Species-rich native hedgerow",
-        "condition": "Moderate",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.44,
-        "allocated_extent": 0.005,
-        "remaining_extent": 0.435
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-080726001",
@@ -11561,7 +11525,7 @@
     "authority": "Harry Ferguson Holdings Limited",
     "sizeHa": 21.13,
     "first_seen_date": "2026-09-26",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Grassland - Traditional orchards",
@@ -22560,10 +22524,74 @@
     "lpa": "Cotswold LPA",
     "lnrs": "Gloucestershire",
     "authority": "Cotswold LPA",
-    "sizeHa": 0,
+    "sizeHa": 43.7,
     "first_seen_date": "2026-06-16",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 3.9484,
+        "allocated_extent": 0,
+        "remaining_extent": 3.9484
+      },
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 24.8131,
+        "allocated_extent": 0,
+        "remaining_extent": 24.8131
+      },
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 3.9761,
+        "allocated_extent": 0,
+        "remaining_extent": 3.9761
+      },
+      {
+        "habitat": "Lakes - Ponds (non-priority habitat)",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.2086,
+        "allocated_extent": 0,
+        "remaining_extent": 0.2086
+      },
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 10.7883,
+        "allocated_extent": 0,
+        "remaining_extent": 10.7883
+      },
+      {
+        "habitat": "Species-rich native hedgerow with trees",
+        "condition": "Moderate",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 2.492,
+        "allocated_extent": 0,
+        "remaining_extent": 2.492
+      },
+      {
+        "habitat": "Species-rich native hedgerow with trees",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 1.474,
+        "allocated_extent": 0,
+        "remaining_extent": 1.474
+      }
+    ]
   },
   {
     "code": "BGS-110626001",
@@ -24755,7 +24783,7 @@
     "authority": "Northumberland LPA",
     "sizeHa": 0.5,
     "first_seen_date": "2026-09-26",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": []
   },
   {
@@ -26238,7 +26266,7 @@
     "authority": "On Nature",
     "sizeHa": 58.18,
     "first_seen_date": "2026-09-26",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Woodland and forest - Other woodland; broadleaved",
