@@ -1,41 +1,17 @@
 [
   {
-    "lpa": "Oldham LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 2.56,
-    "allocated_habitat_area": 2.56,
-    "remaining_habitat_area": 0,
-    "utilisation_percent": 100
-  },
-  {
-    "lpa": "Middlesbrough LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 1.29,
-    "allocated_habitat_area": 1.29,
-    "remaining_habitat_area": 0,
-    "utilisation_percent": 100
-  },
-  {
-    "lpa": "Dartford LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 0.21,
-    "allocated_habitat_area": 0.21,
-    "remaining_habitat_area": 0,
-    "utilisation_percent": 100
-  },
-  {
-    "lpa": "Folkestone and Hythe LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 0.19,
-    "allocated_habitat_area": 0.19,
-    "remaining_habitat_area": 0,
-    "utilisation_percent": 100
-  },
-  {
     "lpa": "Sunderland LPA",
     "site_count": 1,
     "registered_habitat_hectares": 0.6,
     "allocated_habitat_area": 0.6,
+    "remaining_habitat_area": 0,
+    "utilisation_percent": 100
+  },
+  {
+    "lpa": "Blackpool LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 1.04,
+    "allocated_habitat_area": 1.04,
     "remaining_habitat_area": 0,
     "utilisation_percent": 100
   },
@@ -48,10 +24,34 @@
     "utilisation_percent": 100
   },
   {
-    "lpa": "Blackpool LPA",
+    "lpa": "Folkestone and Hythe LPA",
     "site_count": 1,
-    "registered_habitat_hectares": 1.04,
-    "allocated_habitat_area": 1.04,
+    "registered_habitat_hectares": 0.19,
+    "allocated_habitat_area": 0.19,
+    "remaining_habitat_area": 0,
+    "utilisation_percent": 100
+  },
+  {
+    "lpa": "Dartford LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 0.21,
+    "allocated_habitat_area": 0.21,
+    "remaining_habitat_area": 0,
+    "utilisation_percent": 100
+  },
+  {
+    "lpa": "Oldham LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 2.56,
+    "allocated_habitat_area": 2.56,
+    "remaining_habitat_area": 0,
+    "utilisation_percent": 100
+  },
+  {
+    "lpa": "Middlesbrough LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 1.29,
+    "allocated_habitat_area": 1.29,
     "remaining_habitat_area": 0,
     "utilisation_percent": 100
   },
@@ -160,14 +160,6 @@
     "utilisation_percent": 35.7
   },
   {
-    "lpa": "South Norfolk LPA",
-    "site_count": 3,
-    "registered_habitat_hectares": 47.66,
-    "allocated_habitat_area": 16.77,
-    "remaining_habitat_area": 30.89,
-    "utilisation_percent": 35.2
-  },
-  {
     "lpa": "Newcastle-under-Lyme LPA",
     "site_count": 1,
     "registered_habitat_hectares": 8.76,
@@ -209,11 +201,11 @@
   },
   {
     "lpa": "Northumberland LPA",
-    "site_count": 10,
-    "registered_habitat_hectares": 449.21,
-    "allocated_habitat_area": 111.03,
+    "site_count": 11,
+    "registered_habitat_hectares": 449.71,
+    "allocated_habitat_area": 111.53,
     "remaining_habitat_area": 338.18,
-    "utilisation_percent": 24.7
+    "utilisation_percent": 24.8
   },
   {
     "lpa": "Bolton LPA",
@@ -251,8 +243,16 @@
     "lpa": "Rochdale LPA",
     "site_count": 2,
     "registered_habitat_hectares": 45.5,
-    "allocated_habitat_area": 8.26,
+    "allocated_habitat_area": 8.27,
     "remaining_habitat_area": 37.24,
+    "utilisation_percent": 18.2
+  },
+  {
+    "lpa": "South Northamptonshire LPA",
+    "site_count": 2,
+    "registered_habitat_hectares": 61.79,
+    "allocated_habitat_area": 11.22,
+    "remaining_habitat_area": 50.56,
     "utilisation_percent": 18.2
   },
   {
@@ -261,14 +261,6 @@
     "registered_habitat_hectares": 37.91,
     "allocated_habitat_area": 6.79,
     "remaining_habitat_area": 31.13,
-    "utilisation_percent": 17.9
-  },
-  {
-    "lpa": "South Northamptonshire LPA",
-    "site_count": 2,
-    "registered_habitat_hectares": 61.79,
-    "allocated_habitat_area": 11.08,
-    "remaining_habitat_area": 50.71,
     "utilisation_percent": 17.9
   },
   {
@@ -392,19 +384,19 @@
     "utilisation_percent": 10.7
   },
   {
-    "lpa": "Tonbridge and Malling LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 40.44,
-    "allocated_habitat_area": 4.32,
-    "remaining_habitat_area": 36.12,
-    "utilisation_percent": 10.7
-  },
-  {
     "lpa": "Dartmoor National Park LPA",
     "site_count": 4,
     "registered_habitat_hectares": 49.05,
     "allocated_habitat_area": 5.23,
     "remaining_habitat_area": 43.83,
+    "utilisation_percent": 10.7
+  },
+  {
+    "lpa": "Tonbridge and Malling LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 40.44,
+    "allocated_habitat_area": 4.32,
+    "remaining_habitat_area": 36.12,
     "utilisation_percent": 10.7
   },
   {
@@ -480,6 +472,14 @@
     "utilisation_percent": 8.6
   },
   {
+    "lpa": "Allerdale LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 30.05,
+    "allocated_habitat_area": 2.57,
+    "remaining_habitat_area": 27.48,
+    "utilisation_percent": 8.6
+  },
+  {
     "lpa": "South Staffordshire LPA",
     "site_count": 1,
     "registered_habitat_hectares": 31.7,
@@ -488,12 +488,12 @@
     "utilisation_percent": 8.6
   },
   {
-    "lpa": "Allerdale LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 30.05,
-    "allocated_habitat_area": 2.57,
-    "remaining_habitat_area": 27.48,
-    "utilisation_percent": 8.6
+    "lpa": "South Downs National Park LPA",
+    "site_count": 10,
+    "registered_habitat_hectares": 398.84,
+    "allocated_habitat_area": 31.05,
+    "remaining_habitat_area": 367.79,
+    "utilisation_percent": 7.8
   },
   {
     "lpa": "Harrogate LPA",
@@ -504,11 +504,11 @@
     "utilisation_percent": 7.8
   },
   {
-    "lpa": "South Downs National Park LPA",
-    "site_count": 10,
-    "registered_habitat_hectares": 398.84,
-    "allocated_habitat_area": 31.05,
-    "remaining_habitat_area": 367.79,
+    "lpa": "Stratford-on-Avon LPA",
+    "site_count": 6,
+    "registered_habitat_hectares": 123.58,
+    "allocated_habitat_area": 9.58,
+    "remaining_habitat_area": 114,
     "utilisation_percent": 7.8
   },
   {
@@ -520,18 +520,10 @@
     "utilisation_percent": 7.6
   },
   {
-    "lpa": "Stratford-on-Avon LPA",
-    "site_count": 6,
-    "registered_habitat_hectares": 123.58,
-    "allocated_habitat_area": 9.3,
-    "remaining_habitat_area": 114.29,
-    "utilisation_percent": 7.5
-  },
-  {
     "lpa": "Shropshire LPA",
     "site_count": 5,
     "registered_habitat_hectares": 113.14,
-    "allocated_habitat_area": 8.36,
+    "allocated_habitat_area": 8.37,
     "remaining_habitat_area": 104.78,
     "utilisation_percent": 7.4
   },
@@ -542,6 +534,14 @@
     "allocated_habitat_area": 4.31,
     "remaining_habitat_area": 57.24,
     "utilisation_percent": 7
+  },
+  {
+    "lpa": "South Norfolk LPA",
+    "site_count": 3,
+    "registered_habitat_hectares": 22.51,
+    "allocated_habitat_area": 1.48,
+    "remaining_habitat_area": 21.03,
+    "utilisation_percent": 6.6
   },
   {
     "lpa": "Lewes LPA",
@@ -558,6 +558,14 @@
     "allocated_habitat_area": 5.11,
     "remaining_habitat_area": 74.47,
     "utilisation_percent": 6.4
+  },
+  {
+    "lpa": "Basingstoke and Deane LPA",
+    "site_count": 4,
+    "registered_habitat_hectares": 115.16,
+    "allocated_habitat_area": 7.06,
+    "remaining_habitat_area": 108.1,
+    "utilisation_percent": 6.1
   },
   {
     "lpa": "Doncaster LPA",
@@ -579,16 +587,24 @@
     "lpa": "Wealden LPA",
     "site_count": 5,
     "registered_habitat_hectares": 92.55,
-    "allocated_habitat_area": 5.16,
-    "remaining_habitat_area": 87.39,
+    "allocated_habitat_area": 5.17,
+    "remaining_habitat_area": 87.38,
     "utilisation_percent": 5.6
   },
   {
     "lpa": "East Staffordshire LPA",
     "site_count": 2,
     "registered_habitat_hectares": 64.07,
-    "allocated_habitat_area": 3.22,
-    "remaining_habitat_area": 60.84,
+    "allocated_habitat_area": 3.29,
+    "remaining_habitat_area": 60.78,
+    "utilisation_percent": 5.1
+  },
+  {
+    "lpa": "County Durham LPA",
+    "site_count": 10,
+    "registered_habitat_hectares": 360.05,
+    "allocated_habitat_area": 17.82,
+    "remaining_habitat_area": 342.22,
     "utilisation_percent": 5
   },
   {
@@ -608,28 +624,12 @@
     "utilisation_percent": 4.9
   },
   {
-    "lpa": "County Durham LPA",
-    "site_count": 10,
-    "registered_habitat_hectares": 360.05,
-    "allocated_habitat_area": 16.99,
-    "remaining_habitat_area": 343.05,
-    "utilisation_percent": 4.7
-  },
-  {
     "lpa": "Cherwell LPA",
     "site_count": 2,
     "registered_habitat_hectares": 35.74,
     "allocated_habitat_area": 1.66,
     "remaining_habitat_area": 34.08,
     "utilisation_percent": 4.7
-  },
-  {
-    "lpa": "East Lindsey LPA",
-    "site_count": 2,
-    "registered_habitat_hectares": 68.72,
-    "allocated_habitat_area": 3.02,
-    "remaining_habitat_area": 65.7,
-    "utilisation_percent": 4.4
   },
   {
     "lpa": "Blackburn with Darwen LPA",
@@ -640,11 +640,19 @@
     "utilisation_percent": 4.4
   },
   {
+    "lpa": "East Lindsey LPA",
+    "site_count": 2,
+    "registered_habitat_hectares": 68.72,
+    "allocated_habitat_area": 3.02,
+    "remaining_habitat_area": 65.7,
+    "utilisation_percent": 4.4
+  },
+  {
     "lpa": "Ashford LPA",
     "site_count": 3,
     "registered_habitat_hectares": 117.81,
     "allocated_habitat_area": 4.96,
-    "remaining_habitat_area": 112.86,
+    "remaining_habitat_area": 112.85,
     "utilisation_percent": 4.2
   },
   {
@@ -680,19 +688,19 @@
     "utilisation_percent": 3.9
   },
   {
-    "lpa": "Wycombe LPA",
-    "site_count": 2,
-    "registered_habitat_hectares": 21.6,
-    "allocated_habitat_area": 0.74,
-    "remaining_habitat_area": 20.86,
-    "utilisation_percent": 3.4
-  },
-  {
     "lpa": "South Hams LPA",
     "site_count": 2,
     "registered_habitat_hectares": 25.89,
     "allocated_habitat_area": 0.88,
     "remaining_habitat_area": 25.01,
+    "utilisation_percent": 3.4
+  },
+  {
+    "lpa": "Wycombe LPA",
+    "site_count": 2,
+    "registered_habitat_hectares": 21.6,
+    "allocated_habitat_area": 0.74,
+    "remaining_habitat_area": 20.86,
     "utilisation_percent": 3.4
   },
   {
@@ -712,18 +720,10 @@
     "utilisation_percent": 3.1
   },
   {
-    "lpa": "Basingstoke and Deane LPA",
-    "site_count": 4,
-    "registered_habitat_hectares": 110.74,
-    "allocated_habitat_area": 3.27,
-    "remaining_habitat_area": 107.47,
-    "utilisation_percent": 3
-  },
-  {
     "lpa": "Waverley LPA",
     "site_count": 2,
     "registered_habitat_hectares": 97.55,
-    "allocated_habitat_area": 2.73,
+    "allocated_habitat_area": 2.74,
     "remaining_habitat_area": 94.82,
     "utilisation_percent": 2.8
   },
@@ -787,8 +787,8 @@
     "lpa": "Breckland LPA",
     "site_count": 3,
     "registered_habitat_hectares": 380.68,
-    "allocated_habitat_area": 7.55,
-    "remaining_habitat_area": 373.14,
+    "allocated_habitat_area": 7.56,
+    "remaining_habitat_area": 373.12,
     "utilisation_percent": 2
   },
   {
@@ -808,6 +808,14 @@
     "utilisation_percent": 1.8
   },
   {
+    "lpa": "Broadland LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 4.38,
+    "allocated_habitat_area": 0.07,
+    "remaining_habitat_area": 4.31,
+    "utilisation_percent": 1.6
+  },
+  {
     "lpa": "Mendip LPA",
     "site_count": 2,
     "registered_habitat_hectares": 28.93,
@@ -816,12 +824,12 @@
     "utilisation_percent": 1.6
   },
   {
-    "lpa": "Broadland LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 4.38,
-    "allocated_habitat_area": 0.07,
-    "remaining_habitat_area": 4.31,
-    "utilisation_percent": 1.6
+    "lpa": "Bath and North East Somerset LPA",
+    "site_count": 3,
+    "registered_habitat_hectares": 157.68,
+    "allocated_habitat_area": 2.29,
+    "remaining_habitat_area": 155.39,
+    "utilisation_percent": 1.5
   },
   {
     "lpa": "North Devon LPA",
@@ -837,14 +845,6 @@
     "registered_habitat_hectares": 49.17,
     "allocated_habitat_area": 0.72,
     "remaining_habitat_area": 48.45,
-    "utilisation_percent": 1.5
-  },
-  {
-    "lpa": "Bath and North East Somerset LPA",
-    "site_count": 3,
-    "registered_habitat_hectares": 157.68,
-    "allocated_habitat_area": 2.29,
-    "remaining_habitat_area": 155.39,
     "utilisation_percent": 1.5
   },
   {
@@ -864,14 +864,6 @@
     "utilisation_percent": 1.4
   },
   {
-    "lpa": "South Kesteven LPA",
-    "site_count": 3,
-    "registered_habitat_hectares": 286.47,
-    "allocated_habitat_area": 3.71,
-    "remaining_habitat_area": 282.76,
-    "utilisation_percent": 1.3
-  },
-  {
     "lpa": "Bradford LPA",
     "site_count": 2,
     "registered_habitat_hectares": 59.22,
@@ -880,9 +872,17 @@
     "utilisation_percent": 1.3
   },
   {
+    "lpa": "South Kesteven LPA",
+    "site_count": 3,
+    "registered_habitat_hectares": 286.47,
+    "allocated_habitat_area": 3.71,
+    "remaining_habitat_area": 282.76,
+    "utilisation_percent": 1.3
+  },
+  {
     "lpa": "Lichfield LPA",
     "site_count": 5,
-    "registered_habitat_hectares": 29.71,
+    "registered_habitat_hectares": 29.7,
     "allocated_habitat_area": 0.37,
     "remaining_habitat_area": 29.33,
     "utilisation_percent": 1.2
@@ -907,8 +907,8 @@
     "lpa": "Stafford LPA",
     "site_count": 2,
     "registered_habitat_hectares": 29.13,
-    "allocated_habitat_area": 0.28,
-    "remaining_habitat_area": 28.86,
+    "allocated_habitat_area": 0.31,
+    "remaining_habitat_area": 28.83,
     "utilisation_percent": 1
   },
   {
@@ -952,12 +952,20 @@
     "utilisation_percent": 0.6
   },
   {
+    "lpa": "Chiltern LPA",
+    "site_count": 2,
+    "registered_habitat_hectares": 56.71,
+    "allocated_habitat_area": 0.14,
+    "remaining_habitat_area": 56.57,
+    "utilisation_percent": 0.3
+  },
+  {
     "lpa": "Huntingdonshire LPA",
-    "site_count": 3,
-    "registered_habitat_hectares": 95.23,
+    "site_count": 4,
+    "registered_habitat_hectares": 148.39,
     "allocated_habitat_area": 0.51,
-    "remaining_habitat_area": 94.71,
-    "utilisation_percent": 0.5
+    "remaining_habitat_area": 147.88,
+    "utilisation_percent": 0.3
   },
   {
     "lpa": "Sevenoaks LPA",
@@ -968,28 +976,12 @@
     "utilisation_percent": 0.3
   },
   {
-    "lpa": "Chiltern LPA",
-    "site_count": 2,
-    "registered_habitat_hectares": 56.71,
-    "allocated_habitat_area": 0.14,
-    "remaining_habitat_area": 56.57,
-    "utilisation_percent": 0.3
-  },
-  {
     "lpa": "Wyre LPA",
     "site_count": 1,
     "registered_habitat_hectares": 7.67,
     "allocated_habitat_area": 0.03,
     "remaining_habitat_area": 7.64,
     "utilisation_percent": 0.3
-  },
-  {
-    "lpa": "Guildford LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 25.11,
-    "allocated_habitat_area": 0.05,
-    "remaining_habitat_area": 25.07,
-    "utilisation_percent": 0.2
   },
   {
     "lpa": "Stroud LPA",
@@ -1008,12 +1000,12 @@
     "utilisation_percent": 0.2
   },
   {
-    "lpa": "South Gloucestershire LPA",
-    "site_count": 4,
-    "registered_habitat_hectares": 117.79,
-    "allocated_habitat_area": 0.11,
-    "remaining_habitat_area": 117.67,
-    "utilisation_percent": 0.1
+    "lpa": "Guildford LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 25.11,
+    "allocated_habitat_area": 0.05,
+    "remaining_habitat_area": 25.07,
+    "utilisation_percent": 0.2
   },
   {
     "lpa": "Gateshead LPA",
@@ -1024,219 +1016,19 @@
     "utilisation_percent": 0.1
   },
   {
-    "lpa": "Chelmsford LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 13.25,
-    "allocated_habitat_area": 0,
-    "remaining_habitat_area": 13.25,
-    "utilisation_percent": 0
-  },
-  {
-    "lpa": "Richmondshire LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 8,
-    "allocated_habitat_area": 0,
-    "remaining_habitat_area": 8,
-    "utilisation_percent": 0
-  },
-  {
-    "lpa": "Bolsover LPA",
-    "site_count": 2,
-    "registered_habitat_hectares": 17.42,
-    "allocated_habitat_area": 0,
-    "remaining_habitat_area": 17.42,
-    "utilisation_percent": 0
-  },
-  {
-    "lpa": "New Forest LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 9.6,
-    "allocated_habitat_area": 0,
-    "remaining_habitat_area": 9.6,
-    "utilisation_percent": 0
-  },
-  {
-    "lpa": "Rushcliffe LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 10.4,
-    "allocated_habitat_area": 0,
-    "remaining_habitat_area": 10.4,
-    "utilisation_percent": 0
-  },
-  {
-    "lpa": "Tandridge LPA",
-    "site_count": 2,
-    "registered_habitat_hectares": 32.62,
-    "allocated_habitat_area": 0,
-    "remaining_habitat_area": 32.62,
-    "utilisation_percent": 0
+    "lpa": "South Gloucestershire LPA",
+    "site_count": 4,
+    "registered_habitat_hectares": 117.79,
+    "allocated_habitat_area": 0.11,
+    "remaining_habitat_area": 117.67,
+    "utilisation_percent": 0.1
   },
   {
     "lpa": "Cotswold LPA",
     "site_count": 5,
-    "registered_habitat_hectares": 143.8,
+    "registered_habitat_hectares": 100.06,
     "allocated_habitat_area": 0,
-    "remaining_habitat_area": 143.8,
-    "utilisation_percent": 0
-  },
-  {
-    "lpa": "Brentwood LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 19.66,
-    "allocated_habitat_area": 0,
-    "remaining_habitat_area": 19.66,
-    "utilisation_percent": 0
-  },
-  {
-    "lpa": "North Lincolnshire LPA",
-    "site_count": 2,
-    "registered_habitat_hectares": 70.21,
-    "allocated_habitat_area": 0,
-    "remaining_habitat_area": 70.21,
-    "utilisation_percent": 0
-  },
-  {
-    "lpa": "Swindon LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 58.84,
-    "allocated_habitat_area": 0,
-    "remaining_habitat_area": 58.84,
-    "utilisation_percent": 0
-  },
-  {
-    "lpa": "Horsham LPA",
-    "site_count": 3,
-    "registered_habitat_hectares": 56.43,
-    "allocated_habitat_area": 0.02,
-    "remaining_habitat_area": 56.41,
-    "utilisation_percent": 0
-  },
-  {
-    "lpa": "Basildon LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 21.9,
-    "allocated_habitat_area": 0,
-    "remaining_habitat_area": 21.9,
-    "utilisation_percent": 0
-  },
-  {
-    "lpa": "Colchester LPA",
-    "site_count": 4,
-    "registered_habitat_hectares": 125.31,
-    "allocated_habitat_area": 0.03,
-    "remaining_habitat_area": 125.28,
-    "utilisation_percent": 0
-  },
-  {
-    "lpa": "Chichester LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 18.91,
-    "allocated_habitat_area": 0,
-    "remaining_habitat_area": 18.91,
-    "utilisation_percent": 0
-  },
-  {
-    "lpa": "Selby LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 155.38,
-    "allocated_habitat_area": 0,
-    "remaining_habitat_area": 155.38,
-    "utilisation_percent": 0
-  },
-  {
-    "lpa": "South Lakeland LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 1.34,
-    "allocated_habitat_area": 0,
-    "remaining_habitat_area": 1.34,
-    "utilisation_percent": 0
-  },
-  {
-    "lpa": "Kingston upon Thames LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 1.05,
-    "allocated_habitat_area": 0,
-    "remaining_habitat_area": 1.05,
-    "utilisation_percent": 0
-  },
-  {
-    "lpa": "South Bucks LPA",
-    "site_count": 2,
-    "registered_habitat_hectares": 6.89,
-    "allocated_habitat_area": 0,
-    "remaining_habitat_area": 6.89,
-    "utilisation_percent": 0
-  },
-  {
-    "lpa": "Lake District National Park LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 12.98,
-    "allocated_habitat_area": 0,
-    "remaining_habitat_area": 12.98,
-    "utilisation_percent": 0
-  },
-  {
-    "lpa": "Newcastle upon Tyne LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 4.06,
-    "allocated_habitat_area": 0,
-    "remaining_habitat_area": 4.06,
-    "utilisation_percent": 0
-  },
-  {
-    "lpa": "Charnwood LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 28.77,
-    "allocated_habitat_area": 0,
-    "remaining_habitat_area": 28.77,
-    "utilisation_percent": 0
-  },
-  {
-    "lpa": "Tunbridge Wells LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 8.08,
-    "allocated_habitat_area": 0,
-    "remaining_habitat_area": 8.08,
-    "utilisation_percent": 0
-  },
-  {
-    "lpa": "Plymouth LPA",
-    "site_count": 2,
-    "registered_habitat_hectares": 39.51,
-    "allocated_habitat_area": 0,
-    "remaining_habitat_area": 39.51,
-    "utilisation_percent": 0
-  },
-  {
-    "lpa": "Bracknell Forest LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 0.47,
-    "allocated_habitat_area": 0,
-    "remaining_habitat_area": 0.47,
-    "utilisation_percent": 0
-  },
-  {
-    "lpa": "Warrington LPA",
-    "site_count": 2,
-    "registered_habitat_hectares": 12.18,
-    "allocated_habitat_area": 0,
-    "remaining_habitat_area": 12.18,
-    "utilisation_percent": 0
-  },
-  {
-    "lpa": "Arun LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 143.8,
-    "allocated_habitat_area": 0,
-    "remaining_habitat_area": 143.8,
-    "utilisation_percent": 0
-  },
-  {
-    "lpa": "Melton LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 15.66,
-    "allocated_habitat_area": 0,
-    "remaining_habitat_area": 15.66,
+    "remaining_habitat_area": 100.06,
     "utilisation_percent": 0
   },
   {
@@ -1248,11 +1040,35 @@
     "utilisation_percent": 0
   },
   {
-    "lpa": "Bury LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 32.78,
+    "lpa": "Peterborough LPA",
+    "site_count": 2,
+    "registered_habitat_hectares": 80.62,
     "allocated_habitat_area": 0,
-    "remaining_habitat_area": 32.78,
+    "remaining_habitat_area": 80.62,
+    "utilisation_percent": 0
+  },
+  {
+    "lpa": "Colchester LPA",
+    "site_count": 4,
+    "registered_habitat_hectares": 125.31,
+    "allocated_habitat_area": 0.03,
+    "remaining_habitat_area": 125.28,
+    "utilisation_percent": 0
+  },
+  {
+    "lpa": "Swindon LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 58.84,
+    "allocated_habitat_area": 0,
+    "remaining_habitat_area": 58.84,
+    "utilisation_percent": 0
+  },
+  {
+    "lpa": "Charnwood LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 28.77,
+    "allocated_habitat_area": 0,
+    "remaining_habitat_area": 28.77,
     "utilisation_percent": 0
   },
   {
@@ -1264,19 +1080,35 @@
     "utilisation_percent": 0
   },
   {
-    "lpa": "West Suffolk LPA",
+    "lpa": "Bury LPA",
     "site_count": 1,
-    "registered_habitat_hectares": 22.32,
-    "allocated_habitat_area": 0.01,
-    "remaining_habitat_area": 22.31,
+    "registered_habitat_hectares": 32.78,
+    "allocated_habitat_area": 0,
+    "remaining_habitat_area": 32.78,
     "utilisation_percent": 0
   },
   {
-    "lpa": "Peterborough LPA",
+    "lpa": "Warrington LPA",
     "site_count": 2,
-    "registered_habitat_hectares": 80.62,
+    "registered_habitat_hectares": 12.18,
     "allocated_habitat_area": 0,
-    "remaining_habitat_area": 80.62,
+    "remaining_habitat_area": 12.18,
+    "utilisation_percent": 0
+  },
+  {
+    "lpa": "Horsham LPA",
+    "site_count": 3,
+    "registered_habitat_hectares": 56.43,
+    "allocated_habitat_area": 0.02,
+    "remaining_habitat_area": 56.41,
+    "utilisation_percent": 0
+  },
+  {
+    "lpa": "North Lincolnshire LPA",
+    "site_count": 2,
+    "registered_habitat_hectares": 70.21,
+    "allocated_habitat_area": 0,
+    "remaining_habitat_area": 70.21,
     "utilisation_percent": 0
   },
   {
@@ -1285,6 +1117,14 @@
     "registered_habitat_hectares": 1.57,
     "allocated_habitat_area": 0,
     "remaining_habitat_area": 1.57,
+    "utilisation_percent": 0
+  },
+  {
+    "lpa": "New Forest LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 9.6,
+    "allocated_habitat_area": 0,
+    "remaining_habitat_area": 9.6,
     "utilisation_percent": 0
   },
   {
@@ -1304,35 +1144,83 @@
     "utilisation_percent": 0
   },
   {
-    "lpa": "Eden LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 29.65,
-    "allocated_habitat_area": 0,
-    "remaining_habitat_area": 29.65,
-    "utilisation_percent": 0
-  },
-  {
-    "lpa": "Medway LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 7.52,
-    "allocated_habitat_area": 0,
-    "remaining_habitat_area": 7.52,
-    "utilisation_percent": 0
-  },
-  {
-    "lpa": "Pendle LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 11.74,
-    "allocated_habitat_area": 0,
-    "remaining_habitat_area": 11.74,
-    "utilisation_percent": 0
-  },
-  {
     "lpa": "Tameside LPA",
     "site_count": 1,
     "registered_habitat_hectares": 11.22,
     "allocated_habitat_area": 0,
     "remaining_habitat_area": 11.22,
+    "utilisation_percent": 0
+  },
+  {
+    "lpa": "Rushcliffe LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 10.4,
+    "allocated_habitat_area": 0,
+    "remaining_habitat_area": 10.4,
+    "utilisation_percent": 0
+  },
+  {
+    "lpa": "Richmondshire LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 8,
+    "allocated_habitat_area": 0,
+    "remaining_habitat_area": 8,
+    "utilisation_percent": 0
+  },
+  {
+    "lpa": "Brentwood LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 19.66,
+    "allocated_habitat_area": 0,
+    "remaining_habitat_area": 19.66,
+    "utilisation_percent": 0
+  },
+  {
+    "lpa": "Newcastle upon Tyne LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 4.06,
+    "allocated_habitat_area": 0,
+    "remaining_habitat_area": 4.06,
+    "utilisation_percent": 0
+  },
+  {
+    "lpa": "Arun LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 143.8,
+    "allocated_habitat_area": 0,
+    "remaining_habitat_area": 143.8,
+    "utilisation_percent": 0
+  },
+  {
+    "lpa": "Bracknell Forest LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 0.47,
+    "allocated_habitat_area": 0,
+    "remaining_habitat_area": 0.47,
+    "utilisation_percent": 0
+  },
+  {
+    "lpa": "Tandridge LPA",
+    "site_count": 2,
+    "registered_habitat_hectares": 32.62,
+    "allocated_habitat_area": 0,
+    "remaining_habitat_area": 32.62,
+    "utilisation_percent": 0
+  },
+  {
+    "lpa": "Kingston upon Thames LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 1.05,
+    "allocated_habitat_area": 0,
+    "remaining_habitat_area": 1.05,
+    "utilisation_percent": 0
+  },
+  {
+    "lpa": "Selby LPA",
+    "site_count": 2,
+    "registered_habitat_hectares": 176.51,
+    "allocated_habitat_area": 0,
+    "remaining_habitat_area": 176.51,
     "utilisation_percent": 0
   },
   {
@@ -1344,11 +1232,123 @@
     "utilisation_percent": 0
   },
   {
+    "lpa": "South Lakeland LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 1.34,
+    "allocated_habitat_area": 0,
+    "remaining_habitat_area": 1.34,
+    "utilisation_percent": 0
+  },
+  {
+    "lpa": "South Bucks LPA",
+    "site_count": 2,
+    "registered_habitat_hectares": 6.89,
+    "allocated_habitat_area": 0,
+    "remaining_habitat_area": 6.89,
+    "utilisation_percent": 0
+  },
+  {
+    "lpa": "Chichester LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 18.91,
+    "allocated_habitat_area": 0,
+    "remaining_habitat_area": 18.91,
+    "utilisation_percent": 0
+  },
+  {
+    "lpa": "Basildon LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 21.9,
+    "allocated_habitat_area": 0,
+    "remaining_habitat_area": 21.9,
+    "utilisation_percent": 0
+  },
+  {
+    "lpa": "West Suffolk LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 22.32,
+    "allocated_habitat_area": 0.01,
+    "remaining_habitat_area": 22.31,
+    "utilisation_percent": 0
+  },
+  {
+    "lpa": "Melton LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 15.66,
+    "allocated_habitat_area": 0,
+    "remaining_habitat_area": 15.66,
+    "utilisation_percent": 0
+  },
+  {
+    "lpa": "Pendle LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 11.74,
+    "allocated_habitat_area": 0,
+    "remaining_habitat_area": 11.74,
+    "utilisation_percent": 0
+  },
+  {
+    "lpa": "Lake District National Park LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 12.98,
+    "allocated_habitat_area": 0,
+    "remaining_habitat_area": 12.98,
+    "utilisation_percent": 0
+  },
+  {
+    "lpa": "Chelmsford LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 13.25,
+    "allocated_habitat_area": 0,
+    "remaining_habitat_area": 13.25,
+    "utilisation_percent": 0
+  },
+  {
+    "lpa": "Plymouth LPA",
+    "site_count": 2,
+    "registered_habitat_hectares": 39.51,
+    "allocated_habitat_area": 0,
+    "remaining_habitat_area": 39.51,
+    "utilisation_percent": 0
+  },
+  {
     "lpa": "Sedgemoor LPA",
     "site_count": 1,
     "registered_habitat_hectares": 0.88,
     "allocated_habitat_area": 0,
     "remaining_habitat_area": 0.88,
+    "utilisation_percent": 0
+  },
+  {
+    "lpa": "Tunbridge Wells LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 8.08,
+    "allocated_habitat_area": 0,
+    "remaining_habitat_area": 8.08,
+    "utilisation_percent": 0
+  },
+  {
+    "lpa": "Bolsover LPA",
+    "site_count": 2,
+    "registered_habitat_hectares": 17.42,
+    "allocated_habitat_area": 0,
+    "remaining_habitat_area": 17.42,
+    "utilisation_percent": 0
+  },
+  {
+    "lpa": "Medway LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 7.52,
+    "allocated_habitat_area": 0,
+    "remaining_habitat_area": 7.52,
+    "utilisation_percent": 0
+  },
+  {
+    "lpa": "Eden LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 29.65,
+    "allocated_habitat_area": 0,
+    "remaining_habitat_area": 29.65,
     "utilisation_percent": 0
   }
 ]
