@@ -496,6 +496,14 @@
     "utilisation_percent": 8.6
   },
   {
+    "lpa": "Harrogate LPA",
+    "site_count": 7,
+    "registered_habitat_hectares": 144.91,
+    "allocated_habitat_area": 11.46,
+    "remaining_habitat_area": 133.45,
+    "utilisation_percent": 7.9
+  },
+  {
     "lpa": "South Downs National Park LPA",
     "site_count": 10,
     "registered_habitat_hectares": 398.84,
@@ -509,14 +517,6 @@
     "registered_habitat_hectares": 123.58,
     "allocated_habitat_area": 9.58,
     "remaining_habitat_area": 114,
-    "utilisation_percent": 7.8
-  },
-  {
-    "lpa": "Harrogate LPA",
-    "site_count": 7,
-    "registered_habitat_hectares": 154,
-    "allocated_habitat_area": 11.94,
-    "remaining_habitat_area": 142.06,
     "utilisation_percent": 7.8
   },
   {

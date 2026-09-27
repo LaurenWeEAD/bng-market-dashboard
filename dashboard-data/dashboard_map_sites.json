@@ -7072,56 +7072,10 @@
     "lpa": "Harrogate LPA",
     "lnrs": "North Yorkshire and York",
     "authority": "North Yorkshire LPA",
-    "sizeHa": 9.09,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Grassland - Lowland meadows",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 6.39,
-        "allocated_extent": 0.1999,
-        "remaining_extent": 6.1901
-      },
-      {
-        "habitat": "Woodland and forest - Other woodland; broadleaved",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 1.95,
-        "allocated_extent": 0.2477,
-        "remaining_extent": 1.7023
-      },
-      {
-        "habitat": "Heathland and shrub - Mixed scrub",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.75,
-        "allocated_extent": 0.027,
-        "remaining_extent": 0.723
-      },
-      {
-        "habitat": "Native Hedgerow",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.44,
-        "allocated_extent": 0.084,
-        "remaining_extent": 0.356
-      },
-      {
-        "habitat": "Native hedgerow with trees",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.22,
-        "allocated_extent": 0.01,
-        "remaining_extent": 0.21
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-240426003",
