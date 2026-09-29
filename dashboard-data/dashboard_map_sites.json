@@ -7314,10 +7314,56 @@
     "lpa": "Newark and Sherwood LPA",
     "lnrs": "Nottinghamshire and Nottingham",
     "authority": "Restoration Soil Limited",
-    "sizeHa": 0,
+    "sizeHa": 60.88,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 60.88,
+        "allocated_extent": 0.2359,
+        "remaining_extent": 60.6441
+      },
+      {
+        "habitat": "Species-rich native hedgerow with trees - associated with bank or ditch",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.885,
+        "allocated_extent": 0,
+        "remaining_extent": 0.885
+      },
+      {
+        "habitat": "Species-rich native hedgerow - associated with bank or ditch",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.724,
+        "allocated_extent": 0,
+        "remaining_extent": 0.724
+      },
+      {
+        "habitat": "Species-rich native hedgerow with trees",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 14.1,
+        "allocated_extent": 0,
+        "remaining_extent": 14.1
+      },
+      {
+        "habitat": "Ditches",
+        "condition": "Moderate",
+        "habitat_type": "watercourse",
+        "unit": "km",
+        "proposed_extent": 1.897,
+        "allocated_extent": 0,
+        "remaining_extent": 1.897
+      }
+    ]
   },
   {
     "code": "BGS-020126002",
@@ -7448,83 +7494,10 @@
     "lpa": "Cheshire West and Chester LPA",
     "lnrs": "Cheshire",
     "authority": "Cheshire West and Chester LPA",
-    "sizeHa": 30.92,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Heathland and shrub - Mixed scrub",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 3.257,
-        "allocated_extent": 0.3313,
-        "remaining_extent": 2.9257
-      },
-      {
-        "habitat": "Woodland and forest - Lowland mixed deciduous woodland",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 1.9378,
-        "allocated_extent": 0,
-        "remaining_extent": 1.9378
-      },
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 19.6213,
-        "allocated_extent": 1.086,
-        "remaining_extent": 18.5353
-      },
-      {
-        "habitat": "Individual trees - Rural tree",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.0489,
-        "allocated_extent": 0.0145,
-        "remaining_extent": 0.0344
-      },
-      {
-        "habitat": "Lakes - Ponds (non-priority habitat)",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.4987,
-        "allocated_extent": 0,
-        "remaining_extent": 0.4987
-      },
-      {
-        "habitat": "Grassland - Traditional orchards",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.705,
-        "allocated_extent": 0.4441,
-        "remaining_extent": 0.2609
-      },
-      {
-        "habitat": "Woodland and forest - Lowland mixed deciduous woodland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 4.8082,
-        "allocated_extent": 1.2547,
-        "remaining_extent": 3.5535
-      },
-      {
-        "habitat": "Species-rich native hedgerow",
-        "condition": "Moderate",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 1.097,
-        "allocated_extent": 0.0524,
-        "remaining_extent": 1.0446
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-131025001",
@@ -23257,10 +23230,47 @@
     "lpa": "Isle of Wight LPA",
     "lnrs": "Isle of Wight",
     "authority": "Isle of Wight LPA",
-    "sizeHa": 0,
+    "sizeHa": 10.63,
     "first_seen_date": "2026-07-08",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 1.22,
+        "allocated_extent": 0,
+        "remaining_extent": 1.22
+      },
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 8.42,
+        "allocated_extent": 0,
+        "remaining_extent": 8.42
+      },
+      {
+        "habitat": "Grassland - Lowland calcareous grassland",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.99,
+        "allocated_extent": 0,
+        "remaining_extent": 0.99
+      },
+      {
+        "habitat": "Species-rich native hedgerow with trees",
+        "condition": "Moderate",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.38,
+        "allocated_extent": 0,
+        "remaining_extent": 0.38
+      }
+    ]
   },
   {
     "code": "BGS-140525001",
@@ -26830,7 +26840,7 @@
     "authority": "Plantife International",
     "sizeHa": 18.15,
     "first_seen_date": "2026-09-29",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Grassland - Floodplain wetland mosaic and CFGM",
