@@ -10986,65 +10986,10 @@
     "lpa": "Huntingdonshire LPA",
     "lnrs": "Cambridgeshire and Peterborough",
     "authority": "HARRY FERGUSON HOLDINGS LTD",
-    "sizeHa": 23.9,
+    "sizeHa": 0,
     "first_seen_date": "2026-07-21",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 18.9162,
-        "allocated_extent": 0,
-        "remaining_extent": 18.9162
-      },
-      {
-        "habitat": "Lakes - Ponds (non-priority habitat)",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.0225,
-        "allocated_extent": 0,
-        "remaining_extent": 0.0225
-      },
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.5365,
-        "allocated_extent": 0,
-        "remaining_extent": 0.5365
-      },
-      {
-        "habitat": "Heathland and shrub - Mixed scrub",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 4.381,
-        "allocated_extent": 0,
-        "remaining_extent": 4.381
-      },
-      {
-        "habitat": "Species-rich native hedgerow",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.29,
-        "allocated_extent": 0,
-        "remaining_extent": 0.29
-      },
-      {
-        "habitat": "Native hedgerow with trees",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.544,
-        "allocated_extent": 0,
-        "remaining_extent": 0.544
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-240326001",
@@ -21500,47 +21445,10 @@
     "lpa": "Rother LPA",
     "lnrs": "East Sussex and Brighton & Hove",
     "authority": "RSK Biocensus",
-    "sizeHa": 12.08,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Grassland - Lowland dry acid grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 2.48,
-        "allocated_extent": 0.0798,
-        "remaining_extent": 2.4002
-      },
-      {
-        "habitat": "Woodland and forest - Lowland mixed deciduous woodland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 7.755,
-        "allocated_extent": 0.5488,
-        "remaining_extent": 7.2062
-      },
-      {
-        "habitat": "Grassland - Other lowland acid grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 1.729,
-        "allocated_extent": 0.4153,
-        "remaining_extent": 1.3137
-      },
-      {
-        "habitat": "Species-rich native hedgerow with trees",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.05,
-        "allocated_extent": 0.0032,
-        "remaining_extent": 0.0468
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-230126003",

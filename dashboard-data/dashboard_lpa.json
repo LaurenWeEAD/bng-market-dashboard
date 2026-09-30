@@ -464,14 +464,6 @@
     "utilisation_percent": 9.4
   },
   {
-    "lpa": "Rother LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 11.96,
-    "allocated_habitat_area": 1.04,
-    "remaining_habitat_area": 10.92,
-    "utilisation_percent": 8.7
-  },
-  {
     "lpa": "Allerdale LPA",
     "site_count": 1,
     "registered_habitat_hectares": 30.05,
@@ -952,19 +944,19 @@
     "utilisation_percent": 0.6
   },
   {
+    "lpa": "Huntingdonshire LPA",
+    "site_count": 4,
+    "registered_habitat_hectares": 124.54,
+    "allocated_habitat_area": 0.51,
+    "remaining_habitat_area": 124.03,
+    "utilisation_percent": 0.4
+  },
+  {
     "lpa": "Sevenoaks LPA",
     "site_count": 3,
     "registered_habitat_hectares": 40.89,
     "allocated_habitat_area": 0.11,
     "remaining_habitat_area": 40.78,
-    "utilisation_percent": 0.3
-  },
-  {
-    "lpa": "Huntingdonshire LPA",
-    "site_count": 4,
-    "registered_habitat_hectares": 148.39,
-    "allocated_habitat_area": 0.51,
-    "remaining_habitat_area": 147.88,
     "utilisation_percent": 0.3
   },
   {
@@ -1317,6 +1309,14 @@
     "registered_habitat_hectares": 13.25,
     "allocated_habitat_area": 0,
     "remaining_habitat_area": 13.25,
+    "utilisation_percent": 0
+  },
+  {
+    "lpa": "Rother LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 0,
+    "allocated_habitat_area": 0,
+    "remaining_habitat_area": 0,
     "utilisation_percent": 0
   },
   {
