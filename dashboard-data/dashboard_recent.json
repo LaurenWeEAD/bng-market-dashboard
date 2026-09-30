@@ -9,12 +9,12 @@
     "first_seen_date": "2026-09-29"
   },
   {
-    "code": "BGS-030726001",
+    "code": "BGS-100726003",
     "title": "Biodiversity gain site",
-    "lpa": "Northumberland LPA",
+    "lpa": "Huntingdonshire LPA",
     "nca": "",
-    "lnrs": "North of Tyne",
-    "gainSiteSizeHa": 0.5,
+    "lnrs": "Cambridgeshire and Peterborough",
+    "gainSiteSizeHa": 58.18,
     "first_seen_date": "2026-09-26"
   },
   {
@@ -27,22 +27,13 @@
     "first_seen_date": "2026-09-26"
   },
   {
-    "code": "BGS-100726003",
+    "code": "BGS-030726001",
     "title": "Biodiversity gain site",
-    "lpa": "Huntingdonshire LPA",
+    "lpa": "Northumberland LPA",
     "nca": "",
-    "lnrs": "Cambridgeshire and Peterborough",
-    "gainSiteSizeHa": 58.18,
+    "lnrs": "North of Tyne",
+    "gainSiteSizeHa": 0.5,
     "first_seen_date": "2026-09-26"
-  },
-  {
-    "code": "BGS-100926001",
-    "title": "Biodiversity gain site",
-    "lpa": "Wiltshire LPA",
-    "nca": "",
-    "lnrs": "Wiltshire and Swindon",
-    "gainSiteSizeHa": 27.01,
-    "first_seen_date": "2026-09-25"
   },
   {
     "code": "BGS-230126001",
@@ -54,13 +45,13 @@
     "first_seen_date": "2026-09-25"
   },
   {
-    "code": "BGS-300426001",
+    "code": "BGS-100926001",
     "title": "Biodiversity gain site",
-    "lpa": "Lichfield LPA",
+    "lpa": "Wiltshire LPA",
     "nca": "",
-    "lnrs": "Staffordshire and Stoke-on-Trent",
-    "gainSiteSizeHa": 3.67,
-    "first_seen_date": "2026-09-24"
+    "lnrs": "Wiltshire and Swindon",
+    "gainSiteSizeHa": 27.01,
+    "first_seen_date": "2026-09-25"
   },
   {
     "code": "BGS-010926001",
@@ -72,6 +63,15 @@
     "first_seen_date": "2026-09-24"
   },
   {
+    "code": "BGS-300426001",
+    "title": "Biodiversity gain site",
+    "lpa": "Lichfield LPA",
+    "nca": "",
+    "lnrs": "Staffordshire and Stoke-on-Trent",
+    "gainSiteSizeHa": 3.67,
+    "first_seen_date": "2026-09-24"
+  },
+  {
     "code": "BGS-280826003",
     "title": "Biodiversity gain site",
     "lpa": "Bolsover LPA",
@@ -79,15 +79,6 @@
     "lnrs": "Derbyshire",
     "gainSiteSizeHa": 10.97,
     "first_seen_date": "2026-09-23"
-  },
-  {
-    "code": "BGS-110326003",
-    "title": "Biodiversity gain site",
-    "lpa": "Basildon LPA",
-    "nca": "",
-    "lnrs": "Greater Essex",
-    "gainSiteSizeHa": 21.9,
-    "first_seen_date": "2026-09-22"
   },
   {
     "code": "BGS-200726002",
@@ -108,30 +99,21 @@
     "first_seen_date": "2026-09-22"
   },
   {
-    "code": "BGS-150626002",
+    "code": "BGS-110326003",
     "title": "Biodiversity gain site",
-    "lpa": "County Durham LPA",
+    "lpa": "Basildon LPA",
     "nca": "",
-    "lnrs": "County Durham",
-    "gainSiteSizeHa": 2.66,
-    "first_seen_date": "2026-09-21"
+    "lnrs": "Greater Essex",
+    "gainSiteSizeHa": 21.9,
+    "first_seen_date": "2026-09-22"
   },
   {
-    "code": "BGS-280826001",
+    "code": "BGS-280426002",
     "title": "Biodiversity gain site",
-    "lpa": "Leeds LPA",
+    "lpa": "Colchester LPA",
     "nca": "",
-    "lnrs": "West Yorkshire",
-    "gainSiteSizeHa": 12.14,
-    "first_seen_date": "2026-09-21"
-  },
-  {
-    "code": "BGS-260326002",
-    "title": "Biodiversity gain site",
-    "lpa": "East Riding of Yorkshire LPA",
-    "nca": "",
-    "lnrs": "Hull and East Yorkshire",
-    "gainSiteSizeHa": 3.42,
+    "lnrs": "Greater Essex",
+    "gainSiteSizeHa": 12.77,
     "first_seen_date": "2026-09-21"
   },
   {
@@ -144,12 +126,12 @@
     "first_seen_date": "2026-09-21"
   },
   {
-    "code": "BGS-290726001",
+    "code": "BGS-280826001",
     "title": "Biodiversity gain site",
-    "lpa": "West Lindsey LPA",
+    "lpa": "Leeds LPA",
     "nca": "",
-    "lnrs": "Greater Lincolnshire",
-    "gainSiteSizeHa": 1.37,
+    "lnrs": "West Yorkshire",
+    "gainSiteSizeHa": 12.14,
     "first_seen_date": "2026-09-21"
   },
   {
@@ -162,12 +144,12 @@
     "first_seen_date": "2026-09-21"
   },
   {
-    "code": "BGS-160726003",
+    "code": "BGS-200826001",
     "title": "Biodiversity gain site",
-    "lpa": "Mendip LPA",
+    "lpa": "East Lindsey LPA",
     "nca": "",
-    "lnrs": "Somerset",
-    "gainSiteSizeHa": 25.99,
+    "lnrs": "Greater Lincolnshire",
+    "gainSiteSizeHa": 50.02,
     "first_seen_date": "2026-09-21"
   },
   {
@@ -180,12 +162,12 @@
     "first_seen_date": "2026-09-21"
   },
   {
-    "code": "BGS-110826001",
+    "code": "BGS-260326002",
     "title": "Biodiversity gain site",
-    "lpa": "Stafford LPA",
+    "lpa": "East Riding of Yorkshire LPA",
     "nca": "",
-    "lnrs": "Staffordshire and Stoke-on-Trent",
-    "gainSiteSizeHa": 21.98,
+    "lnrs": "Hull and East Yorkshire",
+    "gainSiteSizeHa": 3.42,
     "first_seen_date": "2026-09-21"
   },
   {
@@ -198,30 +180,48 @@
     "first_seen_date": "2026-09-21"
   },
   {
-    "code": "BGS-200826001",
+    "code": "BGS-300426002",
     "title": "Biodiversity gain site",
-    "lpa": "East Lindsey LPA",
+    "lpa": "Sheffield LPA",
+    "nca": "",
+    "lnrs": "South Yorkshire",
+    "gainSiteSizeHa": 4.48,
+    "first_seen_date": "2026-09-21"
+  },
+  {
+    "code": "BGS-110826001",
+    "title": "Biodiversity gain site",
+    "lpa": "Stafford LPA",
+    "nca": "",
+    "lnrs": "Staffordshire and Stoke-on-Trent",
+    "gainSiteSizeHa": 21.98,
+    "first_seen_date": "2026-09-21"
+  },
+  {
+    "code": "BGS-290726001",
+    "title": "Biodiversity gain site",
+    "lpa": "West Lindsey LPA",
     "nca": "",
     "lnrs": "Greater Lincolnshire",
-    "gainSiteSizeHa": 50.02,
+    "gainSiteSizeHa": 1.37,
     "first_seen_date": "2026-09-21"
   },
   {
-    "code": "BGS-300626001",
+    "code": "BGS-210426001",
     "title": "Biodiversity gain site",
-    "lpa": "Cornwall LPA",
+    "lpa": "Eden LPA",
     "nca": "",
-    "lnrs": "Cornwall and the Isles of Scilly",
-    "gainSiteSizeHa": 242.8,
+    "lnrs": "Cumbria",
+    "gainSiteSizeHa": 30,
     "first_seen_date": "2026-09-21"
   },
   {
-    "code": "BGS-100726002",
+    "code": "BGS-160726003",
     "title": "Biodiversity gain site",
-    "lpa": "North Hertfordshire LPA",
+    "lpa": "Mendip LPA",
     "nca": "",
-    "lnrs": "Hertfordshire",
-    "gainSiteSizeHa": 23.24,
+    "lnrs": "Somerset",
+    "gainSiteSizeHa": 25.99,
     "first_seen_date": "2026-09-21"
   }
 ]
