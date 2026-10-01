@@ -696,6 +696,14 @@
     "utilisation_percent": 3.4
   },
   {
+    "lpa": "Aylesbury Vale LPA",
+    "site_count": 8,
+    "registered_habitat_hectares": 167.99,
+    "allocated_habitat_area": 5.73,
+    "remaining_habitat_area": 162.25,
+    "utilisation_percent": 3.4
+  },
+  {
     "lpa": "South Hams LPA",
     "site_count": 2,
     "registered_habitat_hectares": 25.89,
@@ -710,14 +718,6 @@
     "allocated_habitat_area": 1.18,
     "remaining_habitat_area": 34.9,
     "utilisation_percent": 3.3
-  },
-  {
-    "lpa": "Aylesbury Vale LPA",
-    "site_count": 8,
-    "registered_habitat_hectares": 206,
-    "allocated_habitat_area": 5.75,
-    "remaining_habitat_area": 200.26,
-    "utilisation_percent": 2.8
   },
   {
     "lpa": "Waverley LPA",

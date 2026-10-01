@@ -10488,65 +10488,10 @@
     "lpa": "Aylesbury Vale LPA",
     "lnrs": "Buckinghamshire and Milton Keynes",
     "authority": "RSK Biocensus Limited",
-    "sizeHa": 37.61,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 36.4319,
-        "allocated_extent": 0.0138,
-        "remaining_extent": 36.4181
-      },
-      {
-        "habitat": "Woodland and forest - Other woodland; broadleaved",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.489,
-        "allocated_extent": 0,
-        "remaining_extent": 0.489
-      },
-      {
-        "habitat": "Individual trees - Rural tree",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.4071,
-        "allocated_extent": 0,
-        "remaining_extent": 0.4071
-      },
-      {
-        "habitat": "Heathland and shrub - Hazel scrub",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.6877,
-        "allocated_extent": 0,
-        "remaining_extent": 0.6877
-      },
-      {
-        "habitat": "Species-rich native hedgerow with trees - associated with bank or ditch",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.1692,
-        "allocated_extent": 0,
-        "remaining_extent": 0.1692
-      },
-      {
-        "habitat": "Species-rich native hedgerow with trees",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.1879,
-        "allocated_extent": 0.0453,
-        "remaining_extent": 0.1426
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-260225002",
