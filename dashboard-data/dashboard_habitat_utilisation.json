@@ -49,34 +49,34 @@
   },
   {
     "group": "Grassland",
-    "registered_extent": 7654.62,
-    "allocated_extent": 574.95,
-    "available_extent": 7079.67,
-    "allocated_units": 3077.58,
+    "registered_extent": 7687.92,
+    "allocated_extent": 574.97,
+    "available_extent": 7112.95,
+    "allocated_units": 3077.62,
     "utilisation_percent": 7.5
   },
   {
     "group": "Heathland and Shrub",
-    "registered_extent": 1403.24,
+    "registered_extent": 1401.93,
     "allocated_extent": 93.85,
-    "available_extent": 1309.39,
+    "available_extent": 1308.08,
     "allocated_units": 1271.12,
     "utilisation_percent": 6.7
   },
   {
     "group": "Woodland and Forest",
-    "registered_extent": 1267.07,
+    "registered_extent": 1267.56,
     "allocated_extent": 67.52,
-    "available_extent": 1199.55,
+    "available_extent": 1200.04,
     "allocated_units": 441.04,
     "utilisation_percent": 5.3
   },
   {
     "group": "Hedgerow",
-    "registered_extent": 395.94,
-    "allocated_extent": 9.96,
-    "available_extent": 385.98,
-    "allocated_units": 52.94,
+    "registered_extent": 395.88,
+    "allocated_extent": 10.01,
+    "available_extent": 385.87,
+    "allocated_units": 53.14,
     "utilisation_percent": 2.5
   },
   {
