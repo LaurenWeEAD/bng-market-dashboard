@@ -168,6 +168,14 @@
     "utilisation_percent": 35.7
   },
   {
+    "lpa": "Vale of White Horse LPA",
+    "site_count": 3,
+    "registered_habitat_hectares": 51.05,
+    "allocated_habitat_area": 17.05,
+    "remaining_habitat_area": 34,
+    "utilisation_percent": 33.4
+  },
+  {
     "lpa": "Newcastle-under-Lyme LPA",
     "site_count": 1,
     "registered_habitat_hectares": 8.76,
@@ -190,14 +198,6 @@
     "allocated_habitat_area": 6.7,
     "remaining_habitat_area": 15.19,
     "utilisation_percent": 30.6
-  },
-  {
-    "lpa": "Vale of White Horse LPA",
-    "site_count": 3,
-    "registered_habitat_hectares": 64.91,
-    "allocated_habitat_area": 19.57,
-    "remaining_habitat_area": 45.34,
-    "utilisation_percent": 30.2
   },
   {
     "lpa": "Sheffield LPA",
@@ -498,10 +498,10 @@
   {
     "lpa": "Harrogate LPA",
     "site_count": 7,
-    "registered_habitat_hectares": 154,
+    "registered_habitat_hectares": 140.59,
     "allocated_habitat_area": 11.94,
-    "remaining_habitat_area": 142.06,
-    "utilisation_percent": 7.8
+    "remaining_habitat_area": 128.65,
+    "utilisation_percent": 8.5
   },
   {
     "lpa": "South Downs National Park LPA",
@@ -1018,9 +1018,9 @@
   {
     "lpa": "South Gloucestershire LPA",
     "site_count": 4,
-    "registered_habitat_hectares": 112.24,
+    "registered_habitat_hectares": 117.79,
     "allocated_habitat_area": 0.11,
-    "remaining_habitat_area": 112.13,
+    "remaining_habitat_area": 117.67,
     "utilisation_percent": 0.1
   },
   {

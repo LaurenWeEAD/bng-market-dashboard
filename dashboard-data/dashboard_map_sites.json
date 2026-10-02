@@ -6278,38 +6278,10 @@
     "lpa": "Vale of White Horse LPA",
     "lnrs": "Oxfordshire",
     "authority": "Vale of White Horse LPA",
-    "sizeHa": 13.86,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Woodland and forest - Other woodland; broadleaved",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.96,
-        "allocated_extent": 0,
-        "remaining_extent": 0.96
-      },
-      {
-        "habitat": "Grassland - Lowland calcareous grassland",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 4.48,
-        "allocated_extent": 2.251,
-        "remaining_extent": 2.229
-      },
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 8.42,
-        "allocated_extent": 0.2691,
-        "remaining_extent": 8.1509
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-071024001",
@@ -16702,56 +16674,10 @@
     "lpa": "Harrogate LPA",
     "lnrs": "North Yorkshire and York",
     "authority": "North Yorkshire LPA",
-    "sizeHa": 13.41,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Heathland and shrub - Mixed scrub",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 1.12,
-        "allocated_extent": 0,
-        "remaining_extent": 1.12
-      },
-      {
-        "habitat": "Woodland and forest - Other woodland; mixed",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.77,
-        "allocated_extent": 0,
-        "remaining_extent": 0.77
-      },
-      {
-        "habitat": "Grassland - Lowland meadows",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 11.52,
-        "allocated_extent": 0,
-        "remaining_extent": 11.52
-      },
-      {
-        "habitat": "Native hedgerow with trees",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.456,
-        "allocated_extent": 0,
-        "remaining_extent": 0.456
-      },
-      {
-        "habitat": "Native Hedgerow",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.204,
-        "allocated_extent": 0,
-        "remaining_extent": 0.204
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-061125001",
@@ -17692,10 +17618,47 @@
     "lpa": "South Gloucestershire LPA",
     "lnrs": "West of England",
     "authority": "The Land Trust",
-    "sizeHa": 0,
+    "sizeHa": 14.55,
     "first_seen_date": "2026-08-08",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 2.0024,
+        "allocated_extent": 0,
+        "remaining_extent": 2.0024
+      },
+      {
+        "habitat": "Grassland - Lowland calcareous grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 3.1325,
+        "allocated_extent": 0,
+        "remaining_extent": 3.1325
+      },
+      {
+        "habitat": "Individual trees - Rural tree",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.4072,
+        "allocated_extent": 0,
+        "remaining_extent": 0.4072
+      },
+      {
+        "habitat": "Species-rich native hedgerow",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.412,
+        "allocated_extent": 0,
+        "remaining_extent": 0.412
+      }
+    ]
   },
   {
     "code": "BGS-280725002",
