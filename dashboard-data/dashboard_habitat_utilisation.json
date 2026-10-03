@@ -34,49 +34,49 @@
   {
     "group": "Watercourse",
     "registered_extent": 83.95,
-    "allocated_extent": 8.24,
-    "available_extent": 75.71,
-    "allocated_units": 17.98,
-    "utilisation_percent": 9.8
+    "allocated_extent": 10.02,
+    "available_extent": 73.93,
+    "allocated_units": 25.97,
+    "utilisation_percent": 11.9
   },
   {
     "group": "Lakes and Ponds",
     "registered_extent": 67.28,
-    "allocated_extent": 5.96,
-    "available_extent": 61.32,
-    "allocated_units": 208.99,
+    "allocated_extent": 6,
+    "available_extent": 61.28,
+    "allocated_units": 260.6,
     "utilisation_percent": 8.9
   },
   {
     "group": "Grassland",
-    "registered_extent": 7666.63,
-    "allocated_extent": 572.45,
-    "available_extent": 7094.18,
-    "allocated_units": 3073.97,
-    "utilisation_percent": 7.5
+    "registered_extent": 7691.05,
+    "allocated_extent": 590.19,
+    "available_extent": 7100.86,
+    "allocated_units": 3151.21,
+    "utilisation_percent": 7.7
   },
   {
     "group": "Heathland and Shrub",
-    "registered_extent": 1402.81,
-    "allocated_extent": 93.85,
-    "available_extent": 1308.96,
-    "allocated_units": 1271.12,
+    "registered_extent": 1403.93,
+    "allocated_extent": 94.72,
+    "available_extent": 1309.21,
+    "allocated_units": 1322.78,
     "utilisation_percent": 6.7
   },
   {
     "group": "Woodland and Forest",
-    "registered_extent": 1265.83,
-    "allocated_extent": 67.52,
-    "available_extent": 1198.31,
-    "allocated_units": 441.04,
-    "utilisation_percent": 5.3
+    "registered_extent": 1267.56,
+    "allocated_extent": 68.98,
+    "available_extent": 1198.58,
+    "allocated_units": 460.59,
+    "utilisation_percent": 5.4
   },
   {
     "group": "Hedgerow",
-    "registered_extent": 395.64,
-    "allocated_extent": 10.01,
-    "available_extent": 385.63,
-    "allocated_units": 53.14,
+    "registered_extent": 396.3,
+    "allocated_extent": 10.06,
+    "available_extent": 386.24,
+    "allocated_units": 53.45,
     "utilisation_percent": 2.5
   },
   {
