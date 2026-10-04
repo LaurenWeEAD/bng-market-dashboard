@@ -15919,65 +15919,10 @@
     "lpa": "Basingstoke and Deane LPA",
     "lnrs": "Hampshire",
     "authority": "Basingstoke and Deane LPA",
-    "sizeHa": 11.5,
+    "sizeHa": 0,
     "first_seen_date": "2026-07-07",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Heathland and shrub - Mixed scrub",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 2.563,
-        "allocated_extent": 0.385,
-        "remaining_extent": 2.178
-      },
-      {
-        "habitat": "Woodland and forest - Other woodland; broadleaved",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.666,
-        "allocated_extent": 0,
-        "remaining_extent": 0.666
-      },
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 8.225,
-        "allocated_extent": 2.266,
-        "remaining_extent": 5.959
-      },
-      {
-        "habitat": "Individual trees - Rural tree",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.1262,
-        "allocated_extent": 0.03,
-        "remaining_extent": 0.0962
-      },
-      {
-        "habitat": "Species-rich native hedgerow with trees",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.446,
-        "allocated_extent": 0,
-        "remaining_extent": 0.446
-      },
-      {
-        "habitat": "Species-rich native hedgerow",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.186,
-        "allocated_extent": 0,
-        "remaining_extent": 0.186
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-060226001",
@@ -26748,38 +26693,10 @@
     "lpa": "Wealden LPA",
     "lnrs": "East Sussex and Brighton & Hove",
     "authority": "RSK Biocensus Limited",
-    "sizeHa": 31.65,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 20.9271,
-        "allocated_extent": 0.3889,
-        "remaining_extent": 20.5382
-      },
-      {
-        "habitat": "Individual trees - Rural tree",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.7288,
-        "allocated_extent": 0.0892,
-        "remaining_extent": 0.6396
-      },
-      {
-        "habitat": "Heathland and shrub - Mixed scrub",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 10.4326,
-        "allocated_extent": 0,
-        "remaining_extent": 10.4326
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-020625002",
