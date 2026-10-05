@@ -9,6 +9,15 @@
     "first_seen_date": "2026-09-29"
   },
   {
+    "code": "BGS-100726003",
+    "title": "Biodiversity gain site",
+    "lpa": "Huntingdonshire LPA",
+    "nca": "",
+    "lnrs": "Cambridgeshire and Peterborough",
+    "gainSiteSizeHa": 58.18,
+    "first_seen_date": "2026-09-26"
+  },
+  {
     "code": "BGS-110826002",
     "title": "Biodiversity gain site",
     "lpa": "Selby LPA",
@@ -24,15 +33,6 @@
     "nca": "",
     "lnrs": "North of Tyne",
     "gainSiteSizeHa": 0.5,
-    "first_seen_date": "2026-09-26"
-  },
-  {
-    "code": "BGS-100726003",
-    "title": "Biodiversity gain site",
-    "lpa": "Huntingdonshire LPA",
-    "nca": "",
-    "lnrs": "Cambridgeshire and Peterborough",
-    "gainSiteSizeHa": 58.18,
     "first_seen_date": "2026-09-26"
   },
   {
@@ -108,48 +108,12 @@
     "first_seen_date": "2026-09-22"
   },
   {
-    "code": "BGS-140826001",
+    "code": "BGS-230626002",
     "title": "Biodiversity gain site",
-    "lpa": "Tendring LPA",
+    "lpa": "Peterborough LPA",
     "nca": "",
-    "lnrs": "Greater Essex",
-    "gainSiteSizeHa": 46.94,
-    "first_seen_date": "2026-09-21"
-  },
-  {
-    "code": "BGS-300426002",
-    "title": "Biodiversity gain site",
-    "lpa": "Sheffield LPA",
-    "nca": "",
-    "lnrs": "South Yorkshire",
-    "gainSiteSizeHa": 4.48,
-    "first_seen_date": "2026-09-21"
-  },
-  {
-    "code": "BGS-210426001",
-    "title": "Biodiversity gain site",
-    "lpa": "Eden LPA",
-    "nca": "",
-    "lnrs": "Cumbria",
-    "gainSiteSizeHa": 30,
-    "first_seen_date": "2026-09-21"
-  },
-  {
-    "code": "BGS-260326002",
-    "title": "Biodiversity gain site",
-    "lpa": "East Riding of Yorkshire LPA",
-    "nca": "",
-    "lnrs": "Hull and East Yorkshire",
-    "gainSiteSizeHa": 3.42,
-    "first_seen_date": "2026-09-21"
-  },
-  {
-    "code": "BGS-280426002",
-    "title": "Biodiversity gain site",
-    "lpa": "Colchester LPA",
-    "nca": "",
-    "lnrs": "Greater Essex",
-    "gainSiteSizeHa": 12.77,
+    "lnrs": "Cambridgeshire and Peterborough",
+    "gainSiteSizeHa": 83.5,
     "first_seen_date": "2026-09-21"
   },
   {
@@ -162,6 +126,24 @@
     "first_seen_date": "2026-09-21"
   },
   {
+    "code": "BGS-210426001",
+    "title": "Biodiversity gain site",
+    "lpa": "Eden LPA",
+    "nca": "",
+    "lnrs": "Cumbria",
+    "gainSiteSizeHa": 30,
+    "first_seen_date": "2026-09-21"
+  },
+  {
+    "code": "BGS-300426002",
+    "title": "Biodiversity gain site",
+    "lpa": "Sheffield LPA",
+    "nca": "",
+    "lnrs": "South Yorkshire",
+    "gainSiteSizeHa": 4.48,
+    "first_seen_date": "2026-09-21"
+  },
+  {
     "code": "BGS-170726001",
     "title": "Biodiversity gain site",
     "lpa": "County Durham LPA",
@@ -171,21 +153,39 @@
     "first_seen_date": "2026-09-21"
   },
   {
-    "code": "BGS-110826001",
+    "code": "BGS-140826001",
     "title": "Biodiversity gain site",
-    "lpa": "Stafford LPA",
+    "lpa": "Tendring LPA",
     "nca": "",
-    "lnrs": "Staffordshire and Stoke-on-Trent",
-    "gainSiteSizeHa": 21.98,
+    "lnrs": "Greater Essex",
+    "gainSiteSizeHa": 46.94,
     "first_seen_date": "2026-09-21"
   },
   {
-    "code": "BGS-150626002",
+    "code": "BGS-160726003",
     "title": "Biodiversity gain site",
-    "lpa": "County Durham LPA",
+    "lpa": "Mendip LPA",
     "nca": "",
-    "lnrs": "County Durham",
-    "gainSiteSizeHa": 2.66,
+    "lnrs": "Somerset",
+    "gainSiteSizeHa": 25.99,
+    "first_seen_date": "2026-09-21"
+  },
+  {
+    "code": "BGS-280426002",
+    "title": "Biodiversity gain site",
+    "lpa": "Colchester LPA",
+    "nca": "",
+    "lnrs": "Greater Essex",
+    "gainSiteSizeHa": 12.77,
+    "first_seen_date": "2026-09-21"
+  },
+  {
+    "code": "BGS-290726001",
+    "title": "Biodiversity gain site",
+    "lpa": "West Lindsey LPA",
+    "nca": "",
+    "lnrs": "Greater Lincolnshire",
+    "gainSiteSizeHa": 1.37,
     "first_seen_date": "2026-09-21"
   },
   {
@@ -207,12 +207,12 @@
     "first_seen_date": "2026-09-21"
   },
   {
-    "code": "BGS-160726003",
+    "code": "BGS-150626002",
     "title": "Biodiversity gain site",
-    "lpa": "Mendip LPA",
+    "lpa": "County Durham LPA",
     "nca": "",
-    "lnrs": "Somerset",
-    "gainSiteSizeHa": 25.99,
+    "lnrs": "County Durham",
+    "gainSiteSizeHa": 2.66,
     "first_seen_date": "2026-09-21"
   },
   {
