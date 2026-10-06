@@ -8,20 +8,20 @@
     "utilisation_percent": 19.2
   },
   {
+    "group": "Individual Trees",
+    "registered_extent": 59.49,
+    "allocated_extent": 10.47,
+    "available_extent": 49.02,
+    "allocated_units": 185.74,
+    "utilisation_percent": 17.6
+  },
+  {
     "group": "Urban",
     "registered_extent": 67.37,
     "allocated_extent": 10.78,
     "available_extent": 56.59,
     "allocated_units": 124.85,
     "utilisation_percent": 16
-  },
-  {
-    "group": "Individual Trees",
-    "registered_extent": 59.74,
-    "allocated_extent": 9.49,
-    "available_extent": 50.25,
-    "allocated_units": 180.32,
-    "utilisation_percent": 15.9
   },
   {
     "group": "Sparsely Vegetated Land",
@@ -33,11 +33,11 @@
   },
   {
     "group": "Watercourse",
-    "registered_extent": 83.95,
+    "registered_extent": 83.8,
     "allocated_extent": 10.02,
-    "available_extent": 73.93,
+    "available_extent": 73.78,
     "allocated_units": 25.97,
-    "utilisation_percent": 11.9
+    "utilisation_percent": 12
   },
   {
     "group": "Lakes and Ponds",
@@ -49,18 +49,18 @@
   },
   {
     "group": "Grassland",
-    "registered_extent": 7691.05,
-    "allocated_extent": 590.19,
-    "available_extent": 7100.86,
-    "allocated_units": 3151.21,
+    "registered_extent": 7686.59,
+    "allocated_extent": 590.58,
+    "available_extent": 7096.01,
+    "allocated_units": 3157.48,
     "utilisation_percent": 7.7
   },
   {
     "group": "Heathland and Shrub",
-    "registered_extent": 1403.93,
-    "allocated_extent": 94.72,
-    "available_extent": 1309.21,
-    "allocated_units": 1322.78,
+    "registered_extent": 1407.35,
+    "allocated_extent": 94.73,
+    "available_extent": 1312.62,
+    "allocated_units": 1323.22,
     "utilisation_percent": 6.7
   },
   {
@@ -73,10 +73,10 @@
   },
   {
     "group": "Hedgerow",
-    "registered_extent": 396.3,
-    "allocated_extent": 10.06,
-    "available_extent": 386.24,
-    "allocated_units": 53.45,
+    "registered_extent": 395.4,
+    "allocated_extent": 10.07,
+    "available_extent": 385.33,
+    "allocated_units": 53.51,
     "utilisation_percent": 2.5
   },
   {
