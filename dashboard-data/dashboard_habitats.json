@@ -225,6 +225,21 @@
     "opportunity_rating": "Low"
   },
   {
+    "habitat": "Modified grassland",
+    "habitat_group": "Grassland",
+    "habitat_type": "habitat",
+    "registered_extent": 18.69,
+    "allocated_extent": 2.08,
+    "remaining_extent": 16.62,
+    "allocation_count": 18,
+    "allocation_row_count": 20,
+    "utilisation_percent": 11.1,
+    "demand_score": 0.8,
+    "pressure_score": 11.1,
+    "opportunity_score": 4.9,
+    "opportunity_rating": "Low"
+  },
+  {
     "habitat": "Species-rich native hedgerow with trees",
     "habitat_group": "Hedgerow",
     "habitat_type": "hedgerow",
@@ -237,21 +252,6 @@
     "demand_score": 6.7,
     "pressure_score": 1.7,
     "opportunity_score": 4.7,
-    "opportunity_rating": "Low"
-  },
-  {
-    "habitat": "Modified grassland",
-    "habitat_group": "Grassland",
-    "habitat_type": "habitat",
-    "registered_extent": 19.89,
-    "allocated_extent": 2.08,
-    "remaining_extent": 17.82,
-    "allocation_count": 18,
-    "allocation_row_count": 20,
-    "utilisation_percent": 10.4,
-    "demand_score": 0.8,
-    "pressure_score": 10.4,
-    "opportunity_score": 4.6,
     "opportunity_rating": "Low"
   },
   {

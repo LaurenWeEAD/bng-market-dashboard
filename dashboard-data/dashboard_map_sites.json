@@ -4941,7 +4941,7 @@
     "authority": "Fera Science Limited",
     "sizeHa": 15,
     "first_seen_date": "2026-10-07",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Heathland and shrub - Mixed scrub",
@@ -8032,7 +8032,7 @@
     "authority": "Northumberland LPA",
     "sizeHa": 134.3,
     "first_seen_date": "2026-10-07",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Woodland and forest - Other Scot's Pine woodland",
@@ -10016,20 +10016,10 @@
     "lpa": "Lichfield LPA",
     "lnrs": "Staffordshire and Stoke-on-Trent",
     "authority": "Lichfield LPA",
-    "sizeHa": 1.2,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Grassland - Modified grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 1.2,
-        "allocated_extent": 0,
-        "remaining_extent": 1.2
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-240526001",
@@ -26283,7 +26273,7 @@
     "authority": "Fera Science Limited",
     "sizeHa": 28.46,
     "first_seen_date": "2026-10-07",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Woodland and forest - Lowland mixed deciduous woodland",
