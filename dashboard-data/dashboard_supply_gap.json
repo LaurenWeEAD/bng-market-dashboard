@@ -688,14 +688,6 @@
     "utilisation_percent": 4
   },
   {
-    "lpa": "East Suffolk LPA",
-    "site_count": 4,
-    "registered_habitat_hectares": 58.43,
-    "allocated_habitat_area": 2.31,
-    "remaining_habitat_area": 56.12,
-    "utilisation_percent": 3.9
-  },
-  {
     "lpa": "Wycombe LPA",
     "site_count": 2,
     "registered_habitat_hectares": 21.6,
@@ -760,12 +752,12 @@
     "utilisation_percent": 2.3
   },
   {
-    "lpa": "West Berkshire LPA",
-    "site_count": 2,
-    "registered_habitat_hectares": 165.75,
-    "allocated_habitat_area": 3.88,
-    "remaining_habitat_area": 161.87,
-    "utilisation_percent": 2.3
+    "lpa": "East Suffolk LPA",
+    "site_count": 4,
+    "registered_habitat_hectares": 104.55,
+    "allocated_habitat_area": 2.31,
+    "remaining_habitat_area": 102.24,
+    "utilisation_percent": 2.2
   },
   {
     "lpa": "St Albans LPA",
@@ -1165,6 +1157,14 @@
     "registered_habitat_hectares": 133.99,
     "allocated_habitat_area": 0,
     "remaining_habitat_area": 133.99,
+    "utilisation_percent": 0
+  },
+  {
+    "lpa": "West Berkshire LPA",
+    "site_count": 2,
+    "registered_habitat_hectares": 46.64,
+    "allocated_habitat_area": 0,
+    "remaining_habitat_area": 46.64,
     "utilisation_percent": 0
   },
   {
