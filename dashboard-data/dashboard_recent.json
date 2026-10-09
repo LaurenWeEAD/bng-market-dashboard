@@ -1,14 +1,5 @@
 [
   {
-    "code": "BGS-130826001",
-    "title": "Biodiversity gain site",
-    "lpa": "Northumberland National Park LPA",
-    "nca": "",
-    "lnrs": "North of Tyne",
-    "gainSiteSizeHa": 134.3,
-    "first_seen_date": "2026-10-07"
-  },
-  {
     "code": "BGS-070826001",
     "title": "Biodiversity gain site",
     "lpa": "Herefordshire, County of LPA",
@@ -23,7 +14,16 @@
     "lpa": "Wiltshire LPA",
     "nca": "",
     "lnrs": "Wiltshire and Swindon",
-    "gainSiteSizeHa": 15,
+    "gainSiteSizeHa": 0,
+    "first_seen_date": "2026-10-07"
+  },
+  {
+    "code": "BGS-130826001",
+    "title": "Biodiversity gain site",
+    "lpa": "Northumberland National Park LPA",
+    "nca": "",
+    "lnrs": "North of Tyne",
+    "gainSiteSizeHa": 134.3,
     "first_seen_date": "2026-10-07"
   },
   {
@@ -45,21 +45,21 @@
     "first_seen_date": "2026-09-29"
   },
   {
-    "code": "BGS-030726001",
-    "title": "Biodiversity gain site",
-    "lpa": "Northumberland LPA",
-    "nca": "",
-    "lnrs": "North of Tyne",
-    "gainSiteSizeHa": 0.5,
-    "first_seen_date": "2026-09-26"
-  },
-  {
     "code": "BGS-110826002",
     "title": "Biodiversity gain site",
     "lpa": "Selby LPA",
     "nca": "",
     "lnrs": "North Yorkshire and York",
     "gainSiteSizeHa": 21.13,
+    "first_seen_date": "2026-09-26"
+  },
+  {
+    "code": "BGS-030726001",
+    "title": "Biodiversity gain site",
+    "lpa": "Northumberland LPA",
+    "nca": "",
+    "lnrs": "North of Tyne",
+    "gainSiteSizeHa": 0.5,
     "first_seen_date": "2026-09-26"
   },
   {
@@ -117,21 +117,21 @@
     "first_seen_date": "2026-09-23"
   },
   {
-    "code": "BGS-130826003",
-    "title": "Biodiversity gain site",
-    "lpa": "Calderdale LPA",
-    "nca": "",
-    "lnrs": "West Yorkshire",
-    "gainSiteSizeHa": 0.44,
-    "first_seen_date": "2026-09-22"
-  },
-  {
     "code": "BGS-200726002",
     "title": "Biodiversity gain site",
     "lpa": "Wakefield LPA",
     "nca": "",
     "lnrs": "West Yorkshire",
     "gainSiteSizeHa": 19.86,
+    "first_seen_date": "2026-09-22"
+  },
+  {
+    "code": "BGS-130826003",
+    "title": "Biodiversity gain site",
+    "lpa": "Calderdale LPA",
+    "nca": "",
+    "lnrs": "West Yorkshire",
+    "gainSiteSizeHa": 0.44,
     "first_seen_date": "2026-09-22"
   },
   {
@@ -144,39 +144,21 @@
     "first_seen_date": "2026-09-22"
   },
   {
-    "code": "BGS-200826001",
+    "code": "BGS-170726001",
     "title": "Biodiversity gain site",
-    "lpa": "East Lindsey LPA",
+    "lpa": "County Durham LPA",
     "nca": "",
-    "lnrs": "Greater Lincolnshire",
-    "gainSiteSizeHa": 50.02,
+    "lnrs": "County Durham",
+    "gainSiteSizeHa": 24.81,
     "first_seen_date": "2026-09-21"
   },
   {
-    "code": "BGS-140826001",
+    "code": "BGS-300426002",
     "title": "Biodiversity gain site",
-    "lpa": "Tendring LPA",
+    "lpa": "Sheffield LPA",
     "nca": "",
-    "lnrs": "Greater Essex",
-    "gainSiteSizeHa": 46.94,
-    "first_seen_date": "2026-09-21"
-  },
-  {
-    "code": "BGS-100726002",
-    "title": "Biodiversity gain site",
-    "lpa": "North Hertfordshire LPA",
-    "nca": "",
-    "lnrs": "Hertfordshire",
-    "gainSiteSizeHa": 23.24,
-    "first_seen_date": "2026-09-21"
-  },
-  {
-    "code": "BGS-020126002",
-    "title": "Biodiversity gain site",
-    "lpa": "Horsham LPA",
-    "nca": "",
-    "lnrs": "West Sussex",
-    "gainSiteSizeHa": 24.44,
+    "lnrs": "South Yorkshire",
+    "gainSiteSizeHa": 4.48,
     "first_seen_date": "2026-09-21"
   },
   {
@@ -189,21 +171,21 @@
     "first_seen_date": "2026-09-21"
   },
   {
-    "code": "BGS-260326002",
+    "code": "BGS-100726002",
     "title": "Biodiversity gain site",
-    "lpa": "East Riding of Yorkshire LPA",
+    "lpa": "North Hertfordshire LPA",
     "nca": "",
-    "lnrs": "Hull and East Yorkshire",
-    "gainSiteSizeHa": 3.42,
+    "lnrs": "Hertfordshire",
+    "gainSiteSizeHa": 23.24,
     "first_seen_date": "2026-09-21"
   },
   {
-    "code": "BGS-280826001",
+    "code": "BGS-300626001",
     "title": "Biodiversity gain site",
-    "lpa": "Leeds LPA",
+    "lpa": "Cornwall LPA",
     "nca": "",
-    "lnrs": "West Yorkshire",
-    "gainSiteSizeHa": 12.14,
+    "lnrs": "Cornwall and the Isles of Scilly",
+    "gainSiteSizeHa": 242.8,
     "first_seen_date": "2026-09-21"
   },
   {
@@ -216,12 +198,30 @@
     "first_seen_date": "2026-09-21"
   },
   {
-    "code": "BGS-300426002",
+    "code": "BGS-280426002",
     "title": "Biodiversity gain site",
-    "lpa": "Sheffield LPA",
+    "lpa": "Colchester LPA",
     "nca": "",
-    "lnrs": "South Yorkshire",
-    "gainSiteSizeHa": 4.48,
+    "lnrs": "Greater Essex",
+    "gainSiteSizeHa": 12.77,
+    "first_seen_date": "2026-09-21"
+  },
+  {
+    "code": "BGS-020126002",
+    "title": "Biodiversity gain site",
+    "lpa": "Horsham LPA",
+    "nca": "",
+    "lnrs": "West Sussex",
+    "gainSiteSizeHa": 24.44,
+    "first_seen_date": "2026-09-21"
+  },
+  {
+    "code": "BGS-140826001",
+    "title": "Biodiversity gain site",
+    "lpa": "Tendring LPA",
+    "nca": "",
+    "lnrs": "Greater Essex",
+    "gainSiteSizeHa": 46.94,
     "first_seen_date": "2026-09-21"
   }
 ]
