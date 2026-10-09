@@ -416,6 +416,14 @@
     "utilisation_percent": 10.2
   },
   {
+    "lpa": "Hartlepool LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 13.78,
+    "allocated_habitat_area": 1.39,
+    "remaining_habitat_area": 12.39,
+    "utilisation_percent": 10.1
+  },
+  {
     "lpa": "Cheshire West and Chester LPA",
     "site_count": 5,
     "registered_habitat_hectares": 136.36,
@@ -768,20 +776,20 @@
     "utilisation_percent": 2.2
   },
   {
-    "lpa": "Wiltshire LPA",
-    "site_count": 9,
-    "registered_habitat_hectares": 266.11,
-    "allocated_habitat_area": 5.5,
-    "remaining_habitat_area": 260.61,
-    "utilisation_percent": 2.1
-  },
-  {
     "lpa": "Mole Valley LPA",
     "site_count": 1,
     "registered_habitat_hectares": 25.76,
     "allocated_habitat_area": 0.53,
     "remaining_habitat_area": 25.23,
     "utilisation_percent": 2.1
+  },
+  {
+    "lpa": "Wiltshire LPA",
+    "site_count": 9,
+    "registered_habitat_hectares": 281.22,
+    "allocated_habitat_area": 5.5,
+    "remaining_habitat_area": 275.72,
+    "utilisation_percent": 2
   },
   {
     "lpa": "Breckland LPA",
@@ -1133,14 +1141,6 @@
     "registered_habitat_hectares": 12.18,
     "allocated_habitat_area": 0,
     "remaining_habitat_area": 12.18,
-    "utilisation_percent": 0
-  },
-  {
-    "lpa": "Hartlepool LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 0,
-    "allocated_habitat_area": 0,
-    "remaining_habitat_area": 0,
     "utilisation_percent": 0
   },
   {

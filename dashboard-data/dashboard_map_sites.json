@@ -7862,10 +7862,65 @@
     "lpa": "Hartlepool LPA",
     "lnrs": "Tees Valley",
     "authority": "RSK Biocensus Limited",
-    "sizeHa": 0,
+    "sizeHa": 13.78,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Grassland - Lowland meadows",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 4.2277,
+        "allocated_extent": 0.4958,
+        "remaining_extent": 3.7319
+      },
+      {
+        "habitat": "Grassland - Traditional orchards",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.2516,
+        "allocated_extent": 0,
+        "remaining_extent": 0.2516
+      },
+      {
+        "habitat": "Lakes - Ponds (Priority Habitat)",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.099,
+        "allocated_extent": 0,
+        "remaining_extent": 0.099
+      },
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 7.7325,
+        "allocated_extent": 0.8888,
+        "remaining_extent": 6.8437
+      },
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 1.4736,
+        "allocated_extent": 0.0069,
+        "remaining_extent": 1.4667
+      },
+      {
+        "habitat": "Species-rich native hedgerow",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.2583,
+        "allocated_extent": 0.2164,
+        "remaining_extent": 0.0419
+      }
+    ]
   },
   {
     "code": "BGS-251125001",
@@ -19497,10 +19552,65 @@
     "lpa": "Wiltshire LPA",
     "lnrs": "Wiltshire and Swindon",
     "authority": "Fera Science Limited",
-    "sizeHa": 0,
+    "sizeHa": 15,
     "first_seen_date": "2026-10-07",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 4.4,
+        "allocated_extent": 0,
+        "remaining_extent": 4.4
+      },
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 10.25,
+        "allocated_extent": 0,
+        "remaining_extent": 10.25
+      },
+      {
+        "habitat": "Lakes - Ponds (non-priority habitat)",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.46,
+        "allocated_extent": 0,
+        "remaining_extent": 0.46
+      },
+      {
+        "habitat": "Species-rich native hedgerow with trees - associated with bank or ditch",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 1.42,
+        "allocated_extent": 0,
+        "remaining_extent": 1.42
+      },
+      {
+        "habitat": "Species-rich native hedgerow with trees",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.608,
+        "allocated_extent": 0,
+        "remaining_extent": 0.608
+      },
+      {
+        "habitat": "Ditches",
+        "condition": "Moderate",
+        "habitat_type": "watercourse",
+        "unit": "km",
+        "proposed_extent": 0.46,
+        "allocated_extent": 0,
+        "remaining_extent": 0.46
+      }
+    ]
   },
   {
     "code": "BGS-210325001",
