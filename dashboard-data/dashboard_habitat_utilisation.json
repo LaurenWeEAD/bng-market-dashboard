@@ -12,7 +12,7 @@
     "registered_extent": 59.86,
     "allocated_extent": 10.57,
     "available_extent": 49.29,
-    "allocated_units": 186.86,
+    "allocated_units": 186.07,
     "utilisation_percent": 17.7
   },
   {
@@ -33,49 +33,49 @@
   },
   {
     "group": "Watercourse",
-    "registered_extent": 91.98,
-    "allocated_extent": 10.03,
-    "available_extent": 81.95,
-    "allocated_units": 26.01,
+    "registered_extent": 92.53,
+    "allocated_extent": 10.13,
+    "available_extent": 82.4,
+    "allocated_units": 26.23,
     "utilisation_percent": 10.9
   },
   {
     "group": "Lakes and Ponds",
-    "registered_extent": 68.03,
+    "registered_extent": 68.44,
     "allocated_extent": 6.15,
-    "available_extent": 61.88,
+    "available_extent": 62.29,
     "allocated_units": 271.82,
     "utilisation_percent": 9
   },
   {
     "group": "Grassland",
-    "registered_extent": 7749.87,
-    "allocated_extent": 604.64,
-    "available_extent": 7145.23,
-    "allocated_units": 3225.72,
-    "utilisation_percent": 7.8
+    "registered_extent": 7845.52,
+    "allocated_extent": 605.17,
+    "available_extent": 7240.35,
+    "allocated_units": 3228,
+    "utilisation_percent": 7.7
   },
   {
     "group": "Heathland and Shrub",
-    "registered_extent": 1415.25,
+    "registered_extent": 1421.97,
     "allocated_extent": 96.1,
-    "available_extent": 1319.15,
+    "available_extent": 1325.87,
     "allocated_units": 1355.43,
     "utilisation_percent": 6.8
   },
   {
     "group": "Woodland and Forest",
-    "registered_extent": 1274.29,
-    "allocated_extent": 69.76,
-    "available_extent": 1204.53,
-    "allocated_units": 463.54,
+    "registered_extent": 1276.32,
+    "allocated_extent": 69.77,
+    "available_extent": 1206.55,
+    "allocated_units": 464.8,
     "utilisation_percent": 5.5
   },
   {
     "group": "Hedgerow",
-    "registered_extent": 398.69,
+    "registered_extent": 400.58,
     "allocated_extent": 10.23,
-    "available_extent": 388.46,
+    "available_extent": 390.35,
     "allocated_units": 54.24,
     "utilisation_percent": 2.6
   },

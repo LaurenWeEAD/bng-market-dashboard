@@ -1,12 +1,39 @@
 [
   {
-    "code": "BGS-070826001",
+    "code": "BGS-100926002",
     "title": "Biodiversity gain site",
-    "lpa": "Herefordshire, County of LPA",
+    "lpa": "Dacorum LPA",
     "nca": "",
-    "lnrs": "Herefordshire",
-    "gainSiteSizeHa": 28.46,
-    "first_seen_date": "2026-10-07"
+    "lnrs": "Hertfordshire",
+    "gainSiteSizeHa": 64.55,
+    "first_seen_date": "2026-10-10"
+  },
+  {
+    "code": "BGS-140926001",
+    "title": "Biodiversity gain site",
+    "lpa": "South Downs National Park LPA",
+    "nca": "",
+    "lnrs": "Hampshire",
+    "gainSiteSizeHa": 30.33,
+    "first_seen_date": "2026-10-10"
+  },
+  {
+    "code": "BGS-260226001 - 09/10/2026 09:38",
+    "title": "Biodiversity gain site",
+    "lpa": "Cheshire West and Chester LPA",
+    "nca": "",
+    "lnrs": "Cheshire",
+    "gainSiteSizeHa": 0,
+    "first_seen_date": "2026-10-10"
+  },
+  {
+    "code": "BGS-050825004 - 09/10/2026 08:46",
+    "title": "Biodiversity gain site",
+    "lpa": "West Lindsey LPA",
+    "nca": "",
+    "lnrs": "Greater Lincolnshire",
+    "gainSiteSizeHa": 0,
+    "first_seen_date": "2026-10-10"
   },
   {
     "code": "BGS-190826003",
@@ -24,6 +51,15 @@
     "nca": "",
     "lnrs": "North of Tyne",
     "gainSiteSizeHa": 134.3,
+    "first_seen_date": "2026-10-07"
+  },
+  {
+    "code": "BGS-070826001",
+    "title": "Biodiversity gain site",
+    "lpa": "Herefordshire, County of LPA",
+    "nca": "",
+    "lnrs": "Herefordshire",
+    "gainSiteSizeHa": 28.46,
     "first_seen_date": "2026-10-07"
   },
   {
@@ -45,15 +81,6 @@
     "first_seen_date": "2026-09-29"
   },
   {
-    "code": "BGS-110826002",
-    "title": "Biodiversity gain site",
-    "lpa": "Selby LPA",
-    "nca": "",
-    "lnrs": "North Yorkshire and York",
-    "gainSiteSizeHa": 21.13,
-    "first_seen_date": "2026-09-26"
-  },
-  {
     "code": "BGS-030726001",
     "title": "Biodiversity gain site",
     "lpa": "Northumberland LPA",
@@ -69,6 +96,15 @@
     "nca": "",
     "lnrs": "Cambridgeshire and Peterborough",
     "gainSiteSizeHa": 58.18,
+    "first_seen_date": "2026-09-26"
+  },
+  {
+    "code": "BGS-110826002",
+    "title": "Biodiversity gain site",
+    "lpa": "Selby LPA",
+    "nca": "",
+    "lnrs": "North Yorkshire and York",
+    "gainSiteSizeHa": 21.13,
     "first_seen_date": "2026-09-26"
   },
   {
@@ -90,21 +126,21 @@
     "first_seen_date": "2026-09-25"
   },
   {
-    "code": "BGS-300426001",
-    "title": "Biodiversity gain site",
-    "lpa": "Lichfield LPA",
-    "nca": "",
-    "lnrs": "Staffordshire and Stoke-on-Trent",
-    "gainSiteSizeHa": 3.67,
-    "first_seen_date": "2026-09-24"
-  },
-  {
     "code": "BGS-010926001",
     "title": "Biodiversity gain site",
     "lpa": "Shropshire LPA",
     "nca": "",
     "lnrs": "Shropshire and Telford & Wrekin",
     "gainSiteSizeHa": 12.08,
+    "first_seen_date": "2026-09-24"
+  },
+  {
+    "code": "BGS-300426001",
+    "title": "Biodiversity gain site",
+    "lpa": "Lichfield LPA",
+    "nca": "",
+    "lnrs": "Staffordshire and Stoke-on-Trent",
+    "gainSiteSizeHa": 3.67,
     "first_seen_date": "2026-09-24"
   },
   {
@@ -117,12 +153,12 @@
     "first_seen_date": "2026-09-23"
   },
   {
-    "code": "BGS-200726002",
+    "code": "BGS-110326003",
     "title": "Biodiversity gain site",
-    "lpa": "Wakefield LPA",
+    "lpa": "Basildon LPA",
     "nca": "",
-    "lnrs": "West Yorkshire",
-    "gainSiteSizeHa": 19.86,
+    "lnrs": "Greater Essex",
+    "gainSiteSizeHa": 21.9,
     "first_seen_date": "2026-09-22"
   },
   {
@@ -135,30 +171,30 @@
     "first_seen_date": "2026-09-22"
   },
   {
-    "code": "BGS-110326003",
+    "code": "BGS-200726002",
     "title": "Biodiversity gain site",
-    "lpa": "Basildon LPA",
+    "lpa": "Wakefield LPA",
     "nca": "",
-    "lnrs": "Greater Essex",
-    "gainSiteSizeHa": 21.9,
+    "lnrs": "West Yorkshire",
+    "gainSiteSizeHa": 19.86,
     "first_seen_date": "2026-09-22"
   },
   {
-    "code": "BGS-170726001",
+    "code": "BGS-120826001",
     "title": "Biodiversity gain site",
-    "lpa": "County Durham LPA",
+    "lpa": "Wiltshire LPA",
     "nca": "",
-    "lnrs": "County Durham",
-    "gainSiteSizeHa": 24.81,
+    "lnrs": "Wiltshire and Swindon",
+    "gainSiteSizeHa": 4.3,
     "first_seen_date": "2026-09-21"
   },
   {
-    "code": "BGS-300426002",
+    "code": "BGS-290726001",
     "title": "Biodiversity gain site",
-    "lpa": "Sheffield LPA",
+    "lpa": "West Lindsey LPA",
     "nca": "",
-    "lnrs": "South Yorkshire",
-    "gainSiteSizeHa": 4.48,
+    "lnrs": "Greater Lincolnshire",
+    "gainSiteSizeHa": 1.37,
     "first_seen_date": "2026-09-21"
   },
   {
@@ -171,21 +207,12 @@
     "first_seen_date": "2026-09-21"
   },
   {
-    "code": "BGS-100726002",
+    "code": "BGS-160726003",
     "title": "Biodiversity gain site",
-    "lpa": "North Hertfordshire LPA",
+    "lpa": "Mendip LPA",
     "nca": "",
-    "lnrs": "Hertfordshire",
-    "gainSiteSizeHa": 23.24,
-    "first_seen_date": "2026-09-21"
-  },
-  {
-    "code": "BGS-300626001",
-    "title": "Biodiversity gain site",
-    "lpa": "Cornwall LPA",
-    "nca": "",
-    "lnrs": "Cornwall and the Isles of Scilly",
-    "gainSiteSizeHa": 242.8,
+    "lnrs": "Somerset",
+    "gainSiteSizeHa": 25.99,
     "first_seen_date": "2026-09-21"
   },
   {
@@ -195,33 +222,6 @@
     "nca": "",
     "lnrs": "Staffordshire and Stoke-on-Trent",
     "gainSiteSizeHa": 21.98,
-    "first_seen_date": "2026-09-21"
-  },
-  {
-    "code": "BGS-280426002",
-    "title": "Biodiversity gain site",
-    "lpa": "Colchester LPA",
-    "nca": "",
-    "lnrs": "Greater Essex",
-    "gainSiteSizeHa": 12.77,
-    "first_seen_date": "2026-09-21"
-  },
-  {
-    "code": "BGS-020126002",
-    "title": "Biodiversity gain site",
-    "lpa": "Horsham LPA",
-    "nca": "",
-    "lnrs": "West Sussex",
-    "gainSiteSizeHa": 24.44,
-    "first_seen_date": "2026-09-21"
-  },
-  {
-    "code": "BGS-140826001",
-    "title": "Biodiversity gain site",
-    "lpa": "Tendring LPA",
-    "nca": "",
-    "lnrs": "Greater Essex",
-    "gainSiteSizeHa": 46.94,
     "first_seen_date": "2026-09-21"
   }
 ]
