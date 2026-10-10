@@ -1111,7 +1111,7 @@
     "authority": "On Nature",
     "sizeHa": 64.55,
     "first_seen_date": "2026-10-10",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Grassland - Other neutral grassland",
@@ -4440,7 +4440,7 @@
     "authority": "HARRY FERGUSON HOLDINGS LTD",
     "sizeHa": 30.33,
     "first_seen_date": "2026-10-10",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Grassland - Traditional orchards",
@@ -11283,7 +11283,7 @@
     "authority": "RSK Biocensus Limited",
     "sizeHa": 0,
     "first_seen_date": "2026-10-10",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": []
   },
   {
@@ -24169,7 +24169,7 @@
     "authority": "Harry Ferguson Holdings Limited",
     "sizeHa": 0,
     "first_seen_date": "2026-10-10",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": []
   },
   {
