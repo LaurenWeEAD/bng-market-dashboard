@@ -776,20 +776,20 @@
     "utilisation_percent": 2.2
   },
   {
+    "lpa": "Wiltshire LPA",
+    "site_count": 9,
+    "registered_habitat_hectares": 261.99,
+    "allocated_habitat_area": 5.5,
+    "remaining_habitat_area": 256.49,
+    "utilisation_percent": 2.1
+  },
+  {
     "lpa": "Mole Valley LPA",
     "site_count": 1,
     "registered_habitat_hectares": 25.76,
     "allocated_habitat_area": 0.53,
     "remaining_habitat_area": 25.23,
     "utilisation_percent": 2.1
-  },
-  {
-    "lpa": "Wiltshire LPA",
-    "site_count": 9,
-    "registered_habitat_hectares": 281.22,
-    "allocated_habitat_area": 5.5,
-    "remaining_habitat_area": 275.72,
-    "utilisation_percent": 2
   },
   {
     "lpa": "Breckland LPA",
@@ -1306,9 +1306,9 @@
   {
     "lpa": "Bracknell Forest LPA",
     "site_count": 1,
-    "registered_habitat_hectares": 0,
+    "registered_habitat_hectares": 0.47,
     "allocated_habitat_area": 0,
-    "remaining_habitat_area": 0,
+    "remaining_habitat_area": 0.47,
     "utilisation_percent": 0
   },
   {

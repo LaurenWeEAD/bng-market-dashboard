@@ -24525,10 +24525,20 @@
     "lpa": "Bracknell Forest LPA",
     "lnrs": "Berkshire",
     "authority": "Bracknell Forest LPA",
-    "sizeHa": 0,
+    "sizeHa": 0.47,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Grassland - Modified grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.47,
+        "allocated_extent": 0,
+        "remaining_extent": 0.47
+      }
+    ]
   },
   {
     "code": "BGS-051225001",
@@ -27044,47 +27054,10 @@
     "lpa": "Wiltshire LPA",
     "lnrs": "Wiltshire and Swindon",
     "authority": "Wiltshire LPA",
-    "sizeHa": 19.23,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 17.97,
-        "allocated_extent": 0,
-        "remaining_extent": 17.97
-      },
-      {
-        "habitat": "Heathland and shrub - Mixed scrub",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 1.23,
-        "allocated_extent": 0,
-        "remaining_extent": 1.23
-      },
-      {
-        "habitat": "Lakes - Ponds (Priority Habitat)",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.03,
-        "allocated_extent": 0,
-        "remaining_extent": 0.03
-      },
-      {
-        "habitat": "Species-rich native hedgerow",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 1.899,
-        "allocated_extent": 0,
-        "remaining_extent": 1.899
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-270825002",
