@@ -1,20 +1,20 @@
 [
   {
-    "code": "BGS-100926002",
-    "title": "Biodiversity gain site",
-    "lpa": "Dacorum LPA",
-    "nca": "",
-    "lnrs": "Hertfordshire",
-    "gainSiteSizeHa": 64.55,
-    "first_seen_date": "2026-10-10"
-  },
-  {
     "code": "BGS-140926001",
     "title": "Biodiversity gain site",
     "lpa": "South Downs National Park LPA",
     "nca": "",
     "lnrs": "Hampshire",
     "gainSiteSizeHa": 30.33,
+    "first_seen_date": "2026-10-10"
+  },
+  {
+    "code": "BGS-100926002",
+    "title": "Biodiversity gain site",
+    "lpa": "Dacorum LPA",
+    "nca": "",
+    "lnrs": "Hertfordshire",
+    "gainSiteSizeHa": 64.55,
     "first_seen_date": "2026-10-10"
   },
   {
@@ -36,21 +36,21 @@
     "first_seen_date": "2026-10-10"
   },
   {
-    "code": "BGS-190826003",
-    "title": "Biodiversity gain site",
-    "lpa": "Wiltshire LPA",
-    "nca": "",
-    "lnrs": "Wiltshire and Swindon",
-    "gainSiteSizeHa": 15,
-    "first_seen_date": "2026-10-07"
-  },
-  {
     "code": "BGS-130826001",
     "title": "Biodiversity gain site",
     "lpa": "Northumberland National Park LPA",
     "nca": "",
     "lnrs": "North of Tyne",
     "gainSiteSizeHa": 134.3,
+    "first_seen_date": "2026-10-07"
+  },
+  {
+    "code": "BGS-190826003",
+    "title": "Biodiversity gain site",
+    "lpa": "Wiltshire LPA",
+    "nca": "",
+    "lnrs": "Wiltshire and Swindon",
+    "gainSiteSizeHa": 15,
     "first_seen_date": "2026-10-07"
   },
   {
@@ -81,15 +81,6 @@
     "first_seen_date": "2026-09-29"
   },
   {
-    "code": "BGS-030726001",
-    "title": "Biodiversity gain site",
-    "lpa": "Northumberland LPA",
-    "nca": "",
-    "lnrs": "North of Tyne",
-    "gainSiteSizeHa": 0.5,
-    "first_seen_date": "2026-09-26"
-  },
-  {
     "code": "BGS-100726003",
     "title": "Biodiversity gain site",
     "lpa": "Huntingdonshire LPA",
@@ -105,6 +96,15 @@
     "nca": "",
     "lnrs": "North Yorkshire and York",
     "gainSiteSizeHa": 21.13,
+    "first_seen_date": "2026-09-26"
+  },
+  {
+    "code": "BGS-030726001",
+    "title": "Biodiversity gain site",
+    "lpa": "Northumberland LPA",
+    "nca": "",
+    "lnrs": "North of Tyne",
+    "gainSiteSizeHa": 0.5,
     "first_seen_date": "2026-09-26"
   },
   {
@@ -126,21 +126,21 @@
     "first_seen_date": "2026-09-25"
   },
   {
-    "code": "BGS-010926001",
-    "title": "Biodiversity gain site",
-    "lpa": "Shropshire LPA",
-    "nca": "",
-    "lnrs": "Shropshire and Telford & Wrekin",
-    "gainSiteSizeHa": 12.08,
-    "first_seen_date": "2026-09-24"
-  },
-  {
     "code": "BGS-300426001",
     "title": "Biodiversity gain site",
     "lpa": "Lichfield LPA",
     "nca": "",
     "lnrs": "Staffordshire and Stoke-on-Trent",
     "gainSiteSizeHa": 3.67,
+    "first_seen_date": "2026-09-24"
+  },
+  {
+    "code": "BGS-010926001",
+    "title": "Biodiversity gain site",
+    "lpa": "Shropshire LPA",
+    "nca": "",
+    "lnrs": "Shropshire and Telford & Wrekin",
+    "gainSiteSizeHa": 12.08,
     "first_seen_date": "2026-09-24"
   },
   {
@@ -153,21 +153,21 @@
     "first_seen_date": "2026-09-23"
   },
   {
-    "code": "BGS-110326003",
-    "title": "Biodiversity gain site",
-    "lpa": "Basildon LPA",
-    "nca": "",
-    "lnrs": "Greater Essex",
-    "gainSiteSizeHa": 21.9,
-    "first_seen_date": "2026-09-22"
-  },
-  {
     "code": "BGS-130826003",
     "title": "Biodiversity gain site",
     "lpa": "Calderdale LPA",
     "nca": "",
     "lnrs": "West Yorkshire",
     "gainSiteSizeHa": 0.44,
+    "first_seen_date": "2026-09-22"
+  },
+  {
+    "code": "BGS-110326003",
+    "title": "Biodiversity gain site",
+    "lpa": "Basildon LPA",
+    "nca": "",
+    "lnrs": "Greater Essex",
+    "gainSiteSizeHa": 21.9,
     "first_seen_date": "2026-09-22"
   },
   {
@@ -180,21 +180,12 @@
     "first_seen_date": "2026-09-22"
   },
   {
-    "code": "BGS-120826001",
+    "code": "BGS-200826001",
     "title": "Biodiversity gain site",
-    "lpa": "Wiltshire LPA",
-    "nca": "",
-    "lnrs": "Wiltshire and Swindon",
-    "gainSiteSizeHa": 4.3,
-    "first_seen_date": "2026-09-21"
-  },
-  {
-    "code": "BGS-290726001",
-    "title": "Biodiversity gain site",
-    "lpa": "West Lindsey LPA",
+    "lpa": "East Lindsey LPA",
     "nca": "",
     "lnrs": "Greater Lincolnshire",
-    "gainSiteSizeHa": 1.37,
+    "gainSiteSizeHa": 50.02,
     "first_seen_date": "2026-09-21"
   },
   {
@@ -207,12 +198,21 @@
     "first_seen_date": "2026-09-21"
   },
   {
-    "code": "BGS-160726003",
+    "code": "BGS-100726002",
     "title": "Biodiversity gain site",
-    "lpa": "Mendip LPA",
+    "lpa": "North Hertfordshire LPA",
     "nca": "",
-    "lnrs": "Somerset",
-    "gainSiteSizeHa": 25.99,
+    "lnrs": "Hertfordshire",
+    "gainSiteSizeHa": 23.24,
+    "first_seen_date": "2026-09-21"
+  },
+  {
+    "code": "BGS-170726001",
+    "title": "Biodiversity gain site",
+    "lpa": "County Durham LPA",
+    "nca": "",
+    "lnrs": "County Durham",
+    "gainSiteSizeHa": 24.81,
     "first_seen_date": "2026-09-21"
   },
   {
