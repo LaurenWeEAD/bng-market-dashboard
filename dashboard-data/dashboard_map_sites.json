@@ -19480,92 +19480,10 @@
     "lpa": "North Lincolnshire LPA",
     "lnrs": "Greater Lincolnshire",
     "authority": "West Lindsey LPA, North Lincolnshire LPA",
-    "sizeHa": 69.8,
+    "sizeHa": 0,
     "first_seen_date": "2026-08-08",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Individual trees - Rural tree",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.1845,
-        "allocated_extent": 0,
-        "remaining_extent": 0.1845
-      },
-      {
-        "habitat": "Grassland - Lowland meadows",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 3.5707,
-        "allocated_extent": 0,
-        "remaining_extent": 3.5707
-      },
-      {
-        "habitat": "Lakes - Ponds (non-priority habitat)",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.1618,
-        "allocated_extent": 0,
-        "remaining_extent": 0.1618
-      },
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 56.3568,
-        "allocated_extent": 0,
-        "remaining_extent": 56.3568
-      },
-      {
-        "habitat": "Heathland and shrub - Mixed scrub",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 2.1643,
-        "allocated_extent": 0,
-        "remaining_extent": 2.1643
-      },
-      {
-        "habitat": "Woodland and forest - Lowland mixed deciduous woodland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 7.1139,
-        "allocated_extent": 0,
-        "remaining_extent": 7.1139
-      },
-      {
-        "habitat": "Woodland and forest - Lowland mixed deciduous woodland",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.2432,
-        "allocated_extent": 0,
-        "remaining_extent": 0.2432
-      },
-      {
-        "habitat": "Woodland and forest - Other woodland; broadleaved",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.2133,
-        "allocated_extent": 0,
-        "remaining_extent": 0.2133
-      },
-      {
-        "habitat": "Species-rich native hedgerow with trees",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 3.126,
-        "allocated_extent": 0,
-        "remaining_extent": 3.126
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-130726001",
