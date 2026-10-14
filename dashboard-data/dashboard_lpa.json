@@ -632,14 +632,6 @@
     "utilisation_percent": 4.7
   },
   {
-    "lpa": "Cherwell LPA",
-    "site_count": 2,
-    "registered_habitat_hectares": 35.74,
-    "allocated_habitat_area": 1.66,
-    "remaining_habitat_area": 34.08,
-    "utilisation_percent": 4.7
-  },
-  {
     "lpa": "East Lindsey LPA",
     "site_count": 2,
     "registered_habitat_hectares": 68.72,
@@ -822,6 +814,14 @@
     "allocated_habitat_area": 2.74,
     "remaining_habitat_area": 154.94,
     "utilisation_percent": 1.7
+  },
+  {
+    "lpa": "Cherwell LPA",
+    "site_count": 2,
+    "registered_habitat_hectares": 14.67,
+    "allocated_habitat_area": 0.23,
+    "remaining_habitat_area": 14.43,
+    "utilisation_percent": 1.6
   },
   {
     "lpa": "Mendip LPA",

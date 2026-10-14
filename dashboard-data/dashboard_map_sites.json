@@ -15255,7 +15255,7 @@
     "authority": "Fera Science Limited",
     "sizeHa": 19.87,
     "first_seen_date": "2026-10-14",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Grassland - Lowland meadows",
@@ -20470,29 +20470,10 @@
     "lpa": "Cherwell LPA",
     "lnrs": "Oxfordshire",
     "authority": "Cherwell LPA",
-    "sizeHa": 21.07,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Grassland - Floodplain wetland mosaic and CFGM",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 15.6296,
-        "allocated_extent": 0.047,
-        "remaining_extent": 15.5826
-      },
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 5.4448,
-        "allocated_extent": 1.3848,
-        "remaining_extent": 4.06
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-240625001",
