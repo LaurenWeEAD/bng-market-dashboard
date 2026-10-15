@@ -1146,13 +1146,13 @@
     "allocated_units_last_90_days": 3.15,
     "allocated_units_last_180_days": 27.51,
     "allocated_units_last_365_days": 27.51,
-    "registered_habitat_hectares": 281.22,
+    "registered_habitat_hectares": 340.06,
     "allocated_habitat_area": 5.51,
-    "remaining_habitat_area": 275.71,
-    "utilisation_percent": 2,
+    "remaining_habitat_area": 334.55,
+    "utilisation_percent": 1.6,
     "activity_score": 10.2,
-    "pressure_score": 2,
-    "opportunity_score": 6.9,
+    "pressure_score": 1.6,
+    "opportunity_score": 6.8,
     "opportunity_rating": "Low"
   },
   {
