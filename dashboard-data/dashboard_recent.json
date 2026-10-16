@@ -18,15 +18,6 @@
     "first_seen_date": "2026-10-13"
   },
   {
-    "code": "BGS-260226001 - 09/10/2026 09:38",
-    "title": "Biodiversity gain site",
-    "lpa": "Cheshire West and Chester LPA",
-    "nca": "",
-    "lnrs": "Cheshire",
-    "gainSiteSizeHa": 0,
-    "first_seen_date": "2026-10-10"
-  },
-  {
     "code": "BGS-100926002",
     "title": "Biodiversity gain site",
     "lpa": "Dacorum LPA",
@@ -45,6 +36,15 @@
     "first_seen_date": "2026-10-10"
   },
   {
+    "code": "BGS-070826001",
+    "title": "Biodiversity gain site",
+    "lpa": "Herefordshire, County of LPA",
+    "nca": "",
+    "lnrs": "Herefordshire",
+    "gainSiteSizeHa": 28.46,
+    "first_seen_date": "2026-10-07"
+  },
+  {
     "code": "BGS-130826001",
     "title": "Biodiversity gain site",
     "lpa": "Northumberland National Park LPA",
@@ -60,15 +60,6 @@
     "nca": "",
     "lnrs": "Wiltshire and Swindon",
     "gainSiteSizeHa": 15,
-    "first_seen_date": "2026-10-07"
-  },
-  {
-    "code": "BGS-070826001",
-    "title": "Biodiversity gain site",
-    "lpa": "Herefordshire, County of LPA",
-    "nca": "",
-    "lnrs": "Herefordshire",
-    "gainSiteSizeHa": 28.46,
     "first_seen_date": "2026-10-07"
   },
   {
@@ -90,12 +81,12 @@
     "first_seen_date": "2026-09-29"
   },
   {
-    "code": "BGS-110826002",
+    "code": "BGS-100726003",
     "title": "Biodiversity gain site",
-    "lpa": "Selby LPA",
+    "lpa": "Huntingdonshire LPA",
     "nca": "",
-    "lnrs": "North Yorkshire and York",
-    "gainSiteSizeHa": 21.13,
+    "lnrs": "Cambridgeshire and Peterborough",
+    "gainSiteSizeHa": 58.18,
     "first_seen_date": "2026-09-26"
   },
   {
@@ -108,22 +99,13 @@
     "first_seen_date": "2026-09-26"
   },
   {
-    "code": "BGS-100726003",
+    "code": "BGS-110826002",
     "title": "Biodiversity gain site",
-    "lpa": "Huntingdonshire LPA",
+    "lpa": "Selby LPA",
     "nca": "",
-    "lnrs": "Cambridgeshire and Peterborough",
-    "gainSiteSizeHa": 58.18,
+    "lnrs": "North Yorkshire and York",
+    "gainSiteSizeHa": 21.13,
     "first_seen_date": "2026-09-26"
-  },
-  {
-    "code": "BGS-230126001",
-    "title": "Biodiversity gain site",
-    "lpa": "Swindon LPA",
-    "nca": "",
-    "lnrs": "Wiltshire and Swindon",
-    "gainSiteSizeHa": 59.44,
-    "first_seen_date": "2026-09-25"
   },
   {
     "code": "BGS-100926001",
@@ -132,6 +114,15 @@
     "nca": "",
     "lnrs": "Wiltshire and Swindon",
     "gainSiteSizeHa": 27.01,
+    "first_seen_date": "2026-09-25"
+  },
+  {
+    "code": "BGS-230126001",
+    "title": "Biodiversity gain site",
+    "lpa": "Swindon LPA",
+    "nca": "",
+    "lnrs": "Wiltshire and Swindon",
+    "gainSiteSizeHa": 59.44,
     "first_seen_date": "2026-09-25"
   },
   {
@@ -149,7 +140,7 @@
     "lpa": "Lichfield LPA",
     "nca": "",
     "lnrs": "Staffordshire and Stoke-on-Trent",
-    "gainSiteSizeHa": 3.67,
+    "gainSiteSizeHa": 0,
     "first_seen_date": "2026-09-24"
   },
   {
@@ -162,21 +153,21 @@
     "first_seen_date": "2026-09-23"
   },
   {
-    "code": "BGS-110326003",
-    "title": "Biodiversity gain site",
-    "lpa": "Basildon LPA",
-    "nca": "",
-    "lnrs": "Greater Essex",
-    "gainSiteSizeHa": 21.9,
-    "first_seen_date": "2026-09-22"
-  },
-  {
     "code": "BGS-200726002",
     "title": "Biodiversity gain site",
     "lpa": "Wakefield LPA",
     "nca": "",
     "lnrs": "West Yorkshire",
     "gainSiteSizeHa": 19.86,
+    "first_seen_date": "2026-09-22"
+  },
+  {
+    "code": "BGS-110326003",
+    "title": "Biodiversity gain site",
+    "lpa": "Basildon LPA",
+    "nca": "",
+    "lnrs": "Greater Essex",
+    "gainSiteSizeHa": 21.9,
     "first_seen_date": "2026-09-22"
   },
   {
@@ -189,30 +180,30 @@
     "first_seen_date": "2026-09-22"
   },
   {
-    "code": "BGS-120826001",
+    "code": "BGS-290726001",
     "title": "Biodiversity gain site",
-    "lpa": "Wiltshire LPA",
+    "lpa": "West Lindsey LPA",
     "nca": "",
-    "lnrs": "Wiltshire and Swindon",
-    "gainSiteSizeHa": 4.3,
+    "lnrs": "Greater Lincolnshire",
+    "gainSiteSizeHa": 1.37,
     "first_seen_date": "2026-09-21"
   },
   {
-    "code": "BGS-300426002",
+    "code": "BGS-260326002",
     "title": "Biodiversity gain site",
-    "lpa": "Sheffield LPA",
+    "lpa": "East Riding of Yorkshire LPA",
     "nca": "",
-    "lnrs": "South Yorkshire",
-    "gainSiteSizeHa": 4.48,
+    "lnrs": "Hull and East Yorkshire",
+    "gainSiteSizeHa": 3.42,
     "first_seen_date": "2026-09-21"
   },
   {
-    "code": "BGS-300626001",
+    "code": "BGS-210426001",
     "title": "Biodiversity gain site",
-    "lpa": "Cornwall LPA",
+    "lpa": "Eden LPA",
     "nca": "",
-    "lnrs": "Cornwall and the Isles of Scilly",
-    "gainSiteSizeHa": 242.8,
+    "lnrs": "Cumbria",
+    "gainSiteSizeHa": 30,
     "first_seen_date": "2026-09-21"
   },
   {
@@ -222,6 +213,15 @@
     "nca": "",
     "lnrs": "Greater Essex",
     "gainSiteSizeHa": 12.77,
+    "first_seen_date": "2026-09-21"
+  },
+  {
+    "code": "BGS-230626002",
+    "title": "Biodiversity gain site",
+    "lpa": "Peterborough LPA",
+    "nca": "",
+    "lnrs": "Cambridgeshire and Peterborough",
+    "gainSiteSizeHa": 83.5,
     "first_seen_date": "2026-09-21"
   }
 ]
