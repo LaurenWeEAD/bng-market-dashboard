@@ -488,6 +488,14 @@
     "utilisation_percent": 8.6
   },
   {
+    "lpa": "Allerdale LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 30.05,
+    "allocated_habitat_area": 2.57,
+    "remaining_habitat_area": 27.48,
+    "utilisation_percent": 8.6
+  },
+  {
     "lpa": "South Staffordshire LPA",
     "site_count": 1,
     "registered_habitat_hectares": 31.7,
@@ -856,14 +864,6 @@
     "utilisation_percent": 1.4
   },
   {
-    "lpa": "Lichfield LPA",
-    "site_count": 5,
-    "registered_habitat_hectares": 26.06,
-    "allocated_habitat_area": 0.37,
-    "remaining_habitat_area": 25.69,
-    "utilisation_percent": 1.4
-  },
-  {
     "lpa": "Bradford LPA",
     "site_count": 2,
     "registered_habitat_hectares": 59.22,
@@ -885,6 +885,14 @@
     "registered_habitat_hectares": 76.14,
     "allocated_habitat_area": 0.91,
     "remaining_habitat_area": 75.22,
+    "utilisation_percent": 1.2
+  },
+  {
+    "lpa": "Lichfield LPA",
+    "site_count": 5,
+    "registered_habitat_hectares": 29.71,
+    "allocated_habitat_area": 0.37,
+    "remaining_habitat_area": 29.33,
     "utilisation_percent": 1.2
   },
   {
@@ -1181,14 +1189,6 @@
     "registered_habitat_hectares": 143.8,
     "allocated_habitat_area": 0,
     "remaining_habitat_area": 143.8,
-    "utilisation_percent": 0
-  },
-  {
-    "lpa": "Allerdale LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 0,
-    "allocated_habitat_area": 0,
-    "remaining_habitat_area": 0,
     "utilisation_percent": 0
   },
   {

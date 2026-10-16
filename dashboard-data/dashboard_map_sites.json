@@ -9175,10 +9175,110 @@
     "lpa": "Allerdale LPA",
     "lnrs": "Cumbria",
     "authority": "Plantlife International",
-    "sizeHa": 0,
+    "sizeHa": 29.94,
     "first_seen_date": "2026-07-02",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Woodland and forest - Other woodland; broadleaved",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.1988,
+        "allocated_extent": 0.0985,
+        "remaining_extent": 0.1003
+      },
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 9.4127,
+        "allocated_extent": 1.6857,
+        "remaining_extent": 7.727
+      },
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 5.6311,
+        "allocated_extent": 0.4928,
+        "remaining_extent": 5.1383
+      },
+      {
+        "habitat": "Grassland - Lowland meadows",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 13.3754,
+        "allocated_extent": 0.0322,
+        "remaining_extent": 13.3432
+      },
+      {
+        "habitat": "Woodland and forest - Other woodland; mixed",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.3446,
+        "allocated_extent": 0.1714,
+        "remaining_extent": 0.1732
+      },
+      {
+        "habitat": "Lakes - Ponds (Priority Habitat)",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.1347,
+        "allocated_extent": 0,
+        "remaining_extent": 0.1347
+      },
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.4329,
+        "allocated_extent": 0,
+        "remaining_extent": 0.4329
+      },
+      {
+        "habitat": "Woodland and forest - Other woodland; broadleaved",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.1805,
+        "allocated_extent": 0.0892,
+        "remaining_extent": 0.0913
+      },
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.2307,
+        "allocated_extent": 0,
+        "remaining_extent": 0.2307
+      },
+      {
+        "habitat": "Individual trees - Rural tree",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.1099,
+        "allocated_extent": 0,
+        "remaining_extent": 0.1099
+      },
+      {
+        "habitat": "Priority habitat",
+        "condition": "Moderate",
+        "habitat_type": "watercourse",
+        "unit": "km",
+        "proposed_extent": 0.7773,
+        "allocated_extent": 0.2423,
+        "remaining_extent": 0.535
+      }
+    ]
   },
   {
     "code": "BGS-140826001",
@@ -23938,10 +24038,47 @@
     "lpa": "Lichfield LPA",
     "lnrs": "Staffordshire and Stoke-on-Trent",
     "authority": "Lichfield LPA",
-    "sizeHa": 0,
+    "sizeHa": 3.67,
     "first_seen_date": "2026-09-24",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 1.031,
+        "allocated_extent": 0,
+        "remaining_extent": 1.031
+      },
+      {
+        "habitat": "Grassland - Modified grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 1.023,
+        "allocated_extent": 0,
+        "remaining_extent": 1.023
+      },
+      {
+        "habitat": "Woodland and forest - Other woodland; broadleaved",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 1.591,
+        "allocated_extent": 0,
+        "remaining_extent": 1.591
+      },
+      {
+        "habitat": "Native hedgerow with trees",
+        "condition": "Moderate",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.088,
+        "allocated_extent": 0,
+        "remaining_extent": 0.088
+      }
+    ]
   },
   {
     "code": "BGS-240625001",
