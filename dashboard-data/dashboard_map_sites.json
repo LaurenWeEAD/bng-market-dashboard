@@ -18441,7 +18441,7 @@
     "authority": "RSK Biocensus Limited",
     "sizeHa": 25.12,
     "first_seen_date": "2026-10-17",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Heathland and shrub - Mixed scrub",
