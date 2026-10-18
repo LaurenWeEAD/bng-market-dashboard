@@ -49,10 +49,10 @@
   },
   {
     "group": "Grassland",
-    "registered_extent": 7882.08,
-    "allocated_extent": 649.02,
-    "available_extent": 7233.06,
-    "allocated_units": 3445.27,
+    "registered_extent": 7887.67,
+    "allocated_extent": 650.06,
+    "available_extent": 7237.61,
+    "allocated_units": 3450.69,
     "utilisation_percent": 8.2
   },
   {
@@ -65,9 +65,9 @@
   },
   {
     "group": "Woodland and Forest",
-    "registered_extent": 1275.81,
+    "registered_extent": 1277.11,
     "allocated_extent": 70.68,
-    "available_extent": 1205.13,
+    "available_extent": 1206.43,
     "allocated_units": 473.33,
     "utilisation_percent": 5.5
   },

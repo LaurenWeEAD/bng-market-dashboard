@@ -18707,10 +18707,38 @@
     "lpa": "East Suffolk LPA",
     "lnrs": "Suffolk",
     "authority": "East Suffolk LPA",
-    "sizeHa": 0,
+    "sizeHa": 6.89,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Grassland - Lowland meadows",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 4.46,
+        "allocated_extent": 1.0396,
+        "remaining_extent": 3.4204
+      },
+      {
+        "habitat": "Grassland - Traditional orchards",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 1.13,
+        "allocated_extent": 0,
+        "remaining_extent": 1.13
+      },
+      {
+        "habitat": "Woodland and forest - Wet woodland",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 1.3,
+        "allocated_extent": 0,
+        "remaining_extent": 1.3
+      }
+    ]
   },
   {
     "code": "BGS-040326001",
