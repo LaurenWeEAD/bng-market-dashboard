@@ -424,6 +424,14 @@
     "utilisation_percent": 10.3
   },
   {
+    "lpa": "South Downs National Park LPA",
+    "site_count": 11,
+    "registered_habitat_hectares": 316.24,
+    "allocated_habitat_area": 32.11,
+    "remaining_habitat_area": 284.13,
+    "utilisation_percent": 10.2
+  },
+  {
     "lpa": "East Cambridgeshire LPA",
     "site_count": 3,
     "registered_habitat_hectares": 41.59,
@@ -502,22 +510,6 @@
     "allocated_habitat_area": 8.2,
     "remaining_habitat_area": 89.46,
     "utilisation_percent": 8.4
-  },
-  {
-    "lpa": "Harrogate LPA",
-    "site_count": 7,
-    "registered_habitat_hectares": 154,
-    "allocated_habitat_area": 12.45,
-    "remaining_habitat_area": 141.55,
-    "utilisation_percent": 8.1
-  },
-  {
-    "lpa": "South Downs National Park LPA",
-    "site_count": 11,
-    "registered_habitat_hectares": 428.48,
-    "allocated_habitat_area": 32.11,
-    "remaining_habitat_area": 396.37,
-    "utilisation_percent": 7.5
   },
   {
     "lpa": "Shropshire LPA",
@@ -766,6 +758,14 @@
     "allocated_habitat_area": 4.45,
     "remaining_habitat_area": 181.66,
     "utilisation_percent": 2.4
+  },
+  {
+    "lpa": "Harrogate LPA",
+    "site_count": 7,
+    "registered_habitat_hectares": 121.38,
+    "allocated_habitat_area": 2.66,
+    "remaining_habitat_area": 118.72,
+    "utilisation_percent": 2.2
   },
   {
     "lpa": "St Albans LPA",
