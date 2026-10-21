@@ -1,11 +1,38 @@
 [
   {
-    "code": "BGS-230926001",
+    "code": "BGS-280826002",
     "title": "Biodiversity gain site",
-    "lpa": "Hambleton LPA",
+    "lpa": "Leeds LPA",
+    "nca": "",
+    "lnrs": "West Yorkshire",
+    "gainSiteSizeHa": 17.3,
+    "first_seen_date": "2026-10-21"
+  },
+  {
+    "code": "BGS-200726004",
+    "title": "Biodiversity gain site",
+    "lpa": "Richmondshire LPA",
     "nca": "",
     "lnrs": "North Yorkshire and York",
-    "gainSiteSizeHa": 9.46,
+    "gainSiteSizeHa": 15.21,
+    "first_seen_date": "2026-10-21"
+  },
+  {
+    "code": "BGS-040926001",
+    "title": "Biodiversity gain site",
+    "lpa": "Wiltshire LPA",
+    "nca": "",
+    "lnrs": "Wiltshire and Swindon",
+    "gainSiteSizeHa": 7.76,
+    "first_seen_date": "2026-10-21"
+  },
+  {
+    "code": "BGS-170826001",
+    "title": "Biodiversity gain site",
+    "lpa": "Stratford-on-Avon LPA",
+    "nca": "",
+    "lnrs": "Warwickshire",
+    "gainSiteSizeHa": 26.26,
     "first_seen_date": "2026-10-20"
   },
   {
@@ -18,12 +45,12 @@
     "first_seen_date": "2026-10-20"
   },
   {
-    "code": "BGS-170826001",
+    "code": "BGS-230926001",
     "title": "Biodiversity gain site",
-    "lpa": "Stratford-on-Avon LPA",
+    "lpa": "Hambleton LPA",
     "nca": "",
-    "lnrs": "Warwickshire",
-    "gainSiteSizeHa": 26.26,
+    "lnrs": "North Yorkshire and York",
+    "gainSiteSizeHa": 9.46,
     "first_seen_date": "2026-10-20"
   },
   {
@@ -72,6 +99,15 @@
     "first_seen_date": "2026-10-10"
   },
   {
+    "code": "BGS-070826001",
+    "title": "Biodiversity gain site",
+    "lpa": "Herefordshire, County of LPA",
+    "nca": "",
+    "lnrs": "Herefordshire",
+    "gainSiteSizeHa": 28.46,
+    "first_seen_date": "2026-10-07"
+  },
+  {
     "code": "BGS-190826003",
     "title": "Biodiversity gain site",
     "lpa": "Wiltshire LPA",
@@ -87,15 +123,6 @@
     "nca": "",
     "lnrs": "North of Tyne",
     "gainSiteSizeHa": 134.3,
-    "first_seen_date": "2026-10-07"
-  },
-  {
-    "code": "BGS-070826001",
-    "title": "Biodiversity gain site",
-    "lpa": "Herefordshire, County of LPA",
-    "nca": "",
-    "lnrs": "Herefordshire",
-    "gainSiteSizeHa": 28.46,
     "first_seen_date": "2026-10-07"
   },
   {
@@ -117,21 +144,21 @@
     "first_seen_date": "2026-09-29"
   },
   {
-    "code": "BGS-110826002",
-    "title": "Biodiversity gain site",
-    "lpa": "Selby LPA",
-    "nca": "",
-    "lnrs": "North Yorkshire and York",
-    "gainSiteSizeHa": 21.13,
-    "first_seen_date": "2026-09-26"
-  },
-  {
     "code": "BGS-100726003",
     "title": "Biodiversity gain site",
     "lpa": "Huntingdonshire LPA",
     "nca": "",
     "lnrs": "Cambridgeshire and Peterborough",
     "gainSiteSizeHa": 58.18,
+    "first_seen_date": "2026-09-26"
+  },
+  {
+    "code": "BGS-110826002",
+    "title": "Biodiversity gain site",
+    "lpa": "Selby LPA",
+    "nca": "",
+    "lnrs": "North Yorkshire and York",
+    "gainSiteSizeHa": 21.13,
     "first_seen_date": "2026-09-26"
   },
   {
@@ -144,15 +171,6 @@
     "first_seen_date": "2026-09-26"
   },
   {
-    "code": "BGS-230126001",
-    "title": "Biodiversity gain site",
-    "lpa": "Swindon LPA",
-    "nca": "",
-    "lnrs": "Wiltshire and Swindon",
-    "gainSiteSizeHa": 59.44,
-    "first_seen_date": "2026-09-25"
-  },
-  {
     "code": "BGS-100926001",
     "title": "Biodiversity gain site",
     "lpa": "Wiltshire LPA",
@@ -162,13 +180,13 @@
     "first_seen_date": "2026-09-25"
   },
   {
-    "code": "BGS-010926001",
+    "code": "BGS-230126001",
     "title": "Biodiversity gain site",
-    "lpa": "Shropshire LPA",
+    "lpa": "Swindon LPA",
     "nca": "",
-    "lnrs": "Shropshire and Telford & Wrekin",
-    "gainSiteSizeHa": 12.08,
-    "first_seen_date": "2026-09-24"
+    "lnrs": "Wiltshire and Swindon",
+    "gainSiteSizeHa": 59.44,
+    "first_seen_date": "2026-09-25"
   },
   {
     "code": "BGS-300426001",
@@ -177,6 +195,15 @@
     "nca": "",
     "lnrs": "Staffordshire and Stoke-on-Trent",
     "gainSiteSizeHa": 3.67,
+    "first_seen_date": "2026-09-24"
+  },
+  {
+    "code": "BGS-010926001",
+    "title": "Biodiversity gain site",
+    "lpa": "Shropshire LPA",
+    "nca": "",
+    "lnrs": "Shropshire and Telford & Wrekin",
+    "gainSiteSizeHa": 12.08,
     "first_seen_date": "2026-09-24"
   },
   {
@@ -189,24 +216,6 @@
     "first_seen_date": "2026-09-23"
   },
   {
-    "code": "BGS-200726002",
-    "title": "Biodiversity gain site",
-    "lpa": "Wakefield LPA",
-    "nca": "",
-    "lnrs": "West Yorkshire",
-    "gainSiteSizeHa": 19.86,
-    "first_seen_date": "2026-09-22"
-  },
-  {
-    "code": "BGS-130826003",
-    "title": "Biodiversity gain site",
-    "lpa": "Calderdale LPA",
-    "nca": "",
-    "lnrs": "West Yorkshire",
-    "gainSiteSizeHa": 0.44,
-    "first_seen_date": "2026-09-22"
-  },
-  {
     "code": "BGS-110326003",
     "title": "Biodiversity gain site",
     "lpa": "Basildon LPA",
@@ -214,14 +223,5 @@
     "lnrs": "Greater Essex",
     "gainSiteSizeHa": 21.9,
     "first_seen_date": "2026-09-22"
-  },
-  {
-    "code": "BGS-290726001",
-    "title": "Biodiversity gain site",
-    "lpa": "West Lindsey LPA",
-    "nca": "",
-    "lnrs": "Greater Lincolnshire",
-    "gainSiteSizeHa": 1.37,
-    "first_seen_date": "2026-09-21"
   }
 ]
