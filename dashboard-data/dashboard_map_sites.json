@@ -6030,7 +6030,7 @@
     "authority": "On Nature Ltd",
     "sizeHa": 17.3,
     "first_seen_date": "2026-10-21",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Heathland and shrub - Mixed scrub",
@@ -7523,7 +7523,7 @@
     "authority": "Fera Science Ltd",
     "sizeHa": 15.21,
     "first_seen_date": "2026-10-21",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Grassland - Other neutral grassland",
@@ -8115,20 +8115,10 @@
     "lpa": "Northumberland LPA",
     "lnrs": "North of Tyne",
     "authority": "Northumberland LPA",
-    "sizeHa": 1.02,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Woodland and forest - Wet woodland",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 1.022,
-        "allocated_extent": 0,
-        "remaining_extent": 1.022
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-060225001",
@@ -18667,7 +18657,7 @@
     "authority": "Wiltshire LPA",
     "sizeHa": 7.76,
     "first_seen_date": "2026-10-21",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Woodland and forest - Other woodland; broadleaved",
