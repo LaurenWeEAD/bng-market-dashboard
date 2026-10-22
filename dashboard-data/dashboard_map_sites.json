@@ -5239,7 +5239,7 @@
     "authority": "Northumberland LPA",
     "sizeHa": 0.39,
     "first_seen_date": "2026-10-22",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Woodland and forest - Other woodland; broadleaved",
@@ -6497,7 +6497,7 @@
     "authority": "North Lincolnshire LPA",
     "sizeHa": 18.63,
     "first_seen_date": "2026-10-22",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Grassland - Other neutral grassland",
@@ -6693,29 +6693,10 @@
     "lpa": "Maldon LPA",
     "lnrs": "Greater Essex",
     "authority": "Maldon LPA",
-    "sizeHa": 6.4,
+    "sizeHa": 0,
     "first_seen_date": "2026-06-18",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 6.18,
-        "allocated_extent": 0,
-        "remaining_extent": 6.18
-      },
-      {
-        "habitat": "Woodland and forest - Other woodland; broadleaved",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.23,
-        "allocated_extent": 0,
-        "remaining_extent": 0.23
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-210725001",
@@ -11336,7 +11317,7 @@
     "authority": "Fera Science Limited",
     "sizeHa": 28.8,
     "first_seen_date": "2026-10-22",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Woodland and forest - Lowland mixed deciduous woodland",
@@ -24086,38 +24067,10 @@
     "lpa": "Rushcliffe LPA",
     "lnrs": "Nottinghamshire and Nottingham",
     "authority": "RSK Biocensus",
-    "sizeHa": 10.48,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Heathland and shrub - Mixed scrub",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 6.2899,
-        "allocated_extent": 0,
-        "remaining_extent": 6.2899
-      },
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 4.1053,
-        "allocated_extent": 0,
-        "remaining_extent": 4.1053
-      },
-      {
-        "habitat": "Species-rich native hedgerow",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.4,
-        "allocated_extent": 0,
-        "remaining_extent": 0.4
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-100626002",
@@ -26490,7 +26443,7 @@
     "authority": "Cherwell LPA",
     "sizeHa": 21.46,
     "first_seen_date": "2026-10-22",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Grassland - Other neutral grassland",

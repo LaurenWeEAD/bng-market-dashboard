@@ -954,9 +954,9 @@
   {
     "lpa": "Maldon LPA",
     "site_count": 2,
-    "registered_habitat_hectares": 76.61,
+    "registered_habitat_hectares": 70.2,
     "allocated_habitat_area": 0.45,
-    "remaining_habitat_area": 76.16,
+    "remaining_habitat_area": 69.75,
     "utilisation_percent": 0.6
   },
   {
@@ -1322,9 +1322,9 @@
   {
     "lpa": "Rushcliffe LPA",
     "site_count": 1,
-    "registered_habitat_hectares": 10.4,
+    "registered_habitat_hectares": 0,
     "allocated_habitat_area": 0,
-    "remaining_habitat_area": 10.4,
+    "remaining_habitat_area": 0,
     "utilisation_percent": 0
   },
   {
