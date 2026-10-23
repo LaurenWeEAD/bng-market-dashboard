@@ -56,14 +56,6 @@
     "utilisation_percent": 100
   },
   {
-    "lpa": "Barnsley LPA",
-    "site_count": 2,
-    "registered_habitat_hectares": 6.13,
-    "allocated_habitat_area": 6.06,
-    "remaining_habitat_area": 0.07,
-    "utilisation_percent": 98.9
-  },
-  {
     "lpa": "Halton LPA",
     "site_count": 1,
     "registered_habitat_hectares": 12.41,
@@ -94,6 +86,14 @@
     "allocated_habitat_area": 11.22,
     "remaining_habitat_area": 3.36,
     "utilisation_percent": 77
+  },
+  {
+    "lpa": "Barnsley LPA",
+    "site_count": 2,
+    "registered_habitat_hectares": 24.58,
+    "allocated_habitat_area": 17.48,
+    "remaining_habitat_area": 7.09,
+    "utilisation_percent": 71.1
   },
   {
     "lpa": "Wigan LPA",
@@ -296,14 +296,6 @@
     "utilisation_percent": 16.7
   },
   {
-    "lpa": "Cheshire East LPA",
-    "site_count": 10,
-    "registered_habitat_hectares": 126.74,
-    "allocated_habitat_area": 21.08,
-    "remaining_habitat_area": 105.66,
-    "utilisation_percent": 16.6
-  },
-  {
     "lpa": "Hertsmere LPA",
     "site_count": 1,
     "registered_habitat_hectares": 44.62,
@@ -478,6 +470,14 @@
     "allocated_habitat_area": 1.29,
     "remaining_habitat_area": 13.59,
     "utilisation_percent": 8.7
+  },
+  {
+    "lpa": "Cheshire East LPA",
+    "site_count": 10,
+    "registered_habitat_hectares": 99.26,
+    "allocated_habitat_area": 8.57,
+    "remaining_habitat_area": 90.69,
+    "utilisation_percent": 8.6
   },
   {
     "lpa": "South Staffordshire LPA",
@@ -1026,9 +1026,9 @@
   {
     "lpa": "Selby LPA",
     "site_count": 2,
-    "registered_habitat_hectares": 176.51,
-    "allocated_habitat_area": 0.48,
-    "remaining_habitat_area": 176.03,
+    "registered_habitat_hectares": 155.38,
+    "allocated_habitat_area": 0.46,
+    "remaining_habitat_area": 154.92,
     "utilisation_percent": 0.3
   },
   {

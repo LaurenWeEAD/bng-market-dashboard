@@ -7721,92 +7721,10 @@
     "lpa": "Cheshire East LPA",
     "lnrs": "Cheshire",
     "authority": "RSK Biocensus Limited",
-    "sizeHa": 28.04,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Lakes - Ponds (non-priority habitat)",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.348,
-        "allocated_extent": 0,
-        "remaining_extent": 0.348
-      },
-      {
-        "habitat": "Urban - Open Mosaic Habitats on Previously Developed Land",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 7.828,
-        "allocated_extent": 1.2809,
-        "remaining_extent": 6.5471
-      },
-      {
-        "habitat": "Woodland and forest - Wet woodland",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 1.016,
-        "allocated_extent": 0.521,
-        "remaining_extent": 0.495
-      },
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 8.382,
-        "allocated_extent": 4.9808,
-        "remaining_extent": 3.4012
-      },
-      {
-        "habitat": "Woodland and forest - Other woodland; broadleaved",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.019,
-        "allocated_extent": 0,
-        "remaining_extent": 0.019
-      },
-      {
-        "habitat": "Heathland and shrub - Mixed scrub",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 3.595,
-        "allocated_extent": 1.1962,
-        "remaining_extent": 2.3988
-      },
-      {
-        "habitat": "Woodland and forest - Other woodland; broadleaved",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 5.088,
-        "allocated_extent": 4.3471,
-        "remaining_extent": 0.7409
-      },
-      {
-        "habitat": "Sparsely vegetated land - Ruderal/Ephemeral",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 1.205,
-        "allocated_extent": 0.1899,
-        "remaining_extent": 1.0151
-      },
-      {
-        "habitat": "Ditches",
-        "condition": "Good",
-        "habitat_type": "watercourse",
-        "unit": "km",
-        "proposed_extent": 1.04,
-        "allocated_extent": 0.2701,
-        "remaining_extent": 0.7699
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-100926001",
@@ -8135,10 +8053,56 @@
     "lpa": "Barnsley LPA",
     "lnrs": "South Yorkshire",
     "authority": "RSK Biocensus Limited",
-    "sizeHa": 0,
+    "sizeHa": 18.13,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 2.06,
+        "allocated_extent": 1.1656,
+        "remaining_extent": 0.8944
+      },
+      {
+        "habitat": "Woodland and forest - Other woodland; broadleaved",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 5.49,
+        "allocated_extent": 1.1462,
+        "remaining_extent": 4.3438
+      },
+      {
+        "habitat": "Lakes - Ponds (Priority Habitat)",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 1.26,
+        "allocated_extent": 0.1781,
+        "remaining_extent": 1.0819
+      },
+      {
+        "habitat": "Urban - Open Mosaic Habitats on Previously Developed Land",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 5.92,
+        "allocated_extent": 5.2145,
+        "remaining_extent": 0.7055
+      },
+      {
+        "habitat": "Species-rich native hedgerow",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 1.1,
+        "allocated_extent": 0.326,
+        "remaining_extent": 0.774
+      }
+    ]
   },
   {
     "code": "BGS-150626001",
@@ -18689,74 +18653,10 @@
     "lpa": "Selby LPA",
     "lnrs": "North Yorkshire and York",
     "authority": "Harry Ferguson Holdings Limited",
-    "sizeHa": 21.13,
+    "sizeHa": 0,
     "first_seen_date": "2026-09-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Grassland - Traditional orchards",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 2.9291,
-        "allocated_extent": 0,
-        "remaining_extent": 2.9291
-      },
-      {
-        "habitat": "Woodland and forest - Lowland mixed deciduous woodland",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 1.6155,
-        "allocated_extent": 0,
-        "remaining_extent": 1.6155
-      },
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 6.9038,
-        "allocated_extent": 0,
-        "remaining_extent": 6.9038
-      },
-      {
-        "habitat": "Urban - Open Mosaic Habitats on Previously Developed Land",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 3.257,
-        "allocated_extent": 0.0175,
-        "remaining_extent": 3.2395
-      },
-      {
-        "habitat": "Heathland and shrub - Mixed scrub",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 6.4257,
-        "allocated_extent": 0,
-        "remaining_extent": 6.4257
-      },
-      {
-        "habitat": "Species-rich native hedgerow with trees",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 1.4648,
-        "allocated_extent": 0,
-        "remaining_extent": 1.4648
-      },
-      {
-        "habitat": "Ditches",
-        "condition": "Moderate",
-        "habitat_type": "watercourse",
-        "unit": "km",
-        "proposed_extent": 1.3284,
-        "allocated_extent": 0,
-        "remaining_extent": 1.3284
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-221025002",
