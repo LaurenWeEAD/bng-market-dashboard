@@ -9218,10 +9218,29 @@
     "lpa": "Huntingdonshire LPA",
     "lnrs": "Cambridgeshire and Peterborough",
     "authority": "RSK Biocensus Limited",
-    "sizeHa": 0,
+    "sizeHa": 49.39,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 20.087,
+        "allocated_extent": 0,
+        "remaining_extent": 20.087
+      },
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 29.2996,
+        "allocated_extent": 0.33,
+        "remaining_extent": 28.9696
+      }
+    ]
   },
   {
     "code": "BGS-160426002",
@@ -15380,7 +15399,7 @@
     "authority": "East Riding of Yorkshire LPA",
     "sizeHa": 0.7,
     "first_seen_date": "2026-10-24",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": []
   },
   {
@@ -16950,56 +16969,10 @@
     "lpa": "Eden LPA",
     "lnrs": "Cumbria",
     "authority": "RSK Biocensus",
-    "sizeHa": 30,
+    "sizeHa": 0,
     "first_seen_date": "2026-09-21",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Individual trees - Rural tree",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.1751,
-        "allocated_extent": 0,
-        "remaining_extent": 0.1751
-      },
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 27.856,
-        "allocated_extent": 0,
-        "remaining_extent": 27.856
-      },
-      {
-        "habitat": "Heathland and shrub - Mixed scrub",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.6187,
-        "allocated_extent": 0,
-        "remaining_extent": 0.6187
-      },
-      {
-        "habitat": "Woodland and forest - Other woodland; broadleaved",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 1.003,
-        "allocated_extent": 0,
-        "remaining_extent": 1.003
-      },
-      {
-        "habitat": "Species-rich native hedgerow",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 1.07,
-        "allocated_extent": 0,
-        "remaining_extent": 1.07
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-010425001",
@@ -18068,7 +18041,7 @@
     "authority": "Harry Ferguson Holdings Limited",
     "sizeHa": 76.26,
     "first_seen_date": "2026-10-24",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Heathland and shrub - Mixed scrub",
@@ -25819,20 +25792,10 @@
     "lpa": "County Durham LPA",
     "lnrs": "County Durham",
     "authority": "County Durham LPA",
-    "sizeHa": 6.15,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Woodland and forest - Lowland mixed deciduous woodland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 6.15,
-        "allocated_extent": 0,
-        "remaining_extent": 6.15
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-191124001",
