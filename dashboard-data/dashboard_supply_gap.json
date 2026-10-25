@@ -456,14 +456,6 @@
     "utilisation_percent": 9.1
   },
   {
-    "lpa": "Rother LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 11.96,
-    "allocated_habitat_area": 1.08,
-    "remaining_habitat_area": 10.88,
-    "utilisation_percent": 9.1
-  },
-  {
     "lpa": "Cheshire West and Chester LPA",
     "site_count": 5,
     "registered_habitat_hectares": 153.93,
@@ -1181,6 +1173,14 @@
     "registered_habitat_hectares": 56.43,
     "allocated_habitat_area": 0.02,
     "remaining_habitat_area": 56.41,
+    "utilisation_percent": 0
+  },
+  {
+    "lpa": "Rother LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 0,
+    "allocated_habitat_area": 0,
+    "remaining_habitat_area": 0,
     "utilisation_percent": 0
   },
   {

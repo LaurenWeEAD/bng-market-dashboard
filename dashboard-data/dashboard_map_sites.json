@@ -8291,47 +8291,10 @@
     "lpa": "Rother LPA",
     "lnrs": "East Sussex and Brighton & Hove",
     "authority": "RSK Biocensus",
-    "sizeHa": 12.08,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Grassland - Lowland dry acid grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 2.48,
-        "allocated_extent": 0.0854,
-        "remaining_extent": 2.3946
-      },
-      {
-        "habitat": "Woodland and forest - Lowland mixed deciduous woodland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 7.755,
-        "allocated_extent": 0.5488,
-        "remaining_extent": 7.2062
-      },
-      {
-        "habitat": "Grassland - Other lowland acid grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 1.729,
-        "allocated_extent": 0.4505,
-        "remaining_extent": 1.2785
-      },
-      {
-        "habitat": "Species-rich native hedgerow with trees",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.05,
-        "allocated_extent": 0.0044,
-        "remaining_extent": 0.0456
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-240526001",
