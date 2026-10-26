@@ -400,6 +400,14 @@
     "utilisation_percent": 11
   },
   {
+    "lpa": "Dartmoor National Park LPA",
+    "site_count": 4,
+    "registered_habitat_hectares": 49.05,
+    "allocated_habitat_area": 5.23,
+    "remaining_habitat_area": 43.82,
+    "utilisation_percent": 10.7
+  },
+  {
     "lpa": "Tonbridge and Malling LPA",
     "site_count": 1,
     "registered_habitat_hectares": 40.44,
@@ -501,14 +509,6 @@
     "registered_habitat_hectares": 97.66,
     "allocated_habitat_area": 8.25,
     "remaining_habitat_area": 89.41,
-    "utilisation_percent": 8.4
-  },
-  {
-    "lpa": "Dartmoor National Park LPA",
-    "site_count": 4,
-    "registered_habitat_hectares": 47.86,
-    "allocated_habitat_area": 4.04,
-    "remaining_habitat_area": 43.82,
     "utilisation_percent": 8.4
   },
   {

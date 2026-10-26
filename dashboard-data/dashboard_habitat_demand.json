@@ -285,6 +285,21 @@
     "opportunity_rating": "Low"
   },
   {
+    "habitat": "Other lowland acid grassland",
+    "habitat_group": "Grassland",
+    "habitat_type": "habitat",
+    "registered_extent": 82.12,
+    "allocated_extent": 6.8,
+    "remaining_extent": 75.33,
+    "allocation_count": 27,
+    "allocation_row_count": 28,
+    "utilisation_percent": 8.3,
+    "demand_score": 1.4,
+    "pressure_score": 8.3,
+    "opportunity_score": 4.1,
+    "opportunity_rating": "Low"
+  },
+  {
     "habitat": "Native Hedgerow",
     "habitat_group": "Hedgerow",
     "habitat_type": "hedgerow",
@@ -327,21 +342,6 @@
     "demand_score": 0.8,
     "pressure_score": 7.8,
     "opportunity_score": 3.6,
-    "opportunity_rating": "Low"
-  },
-  {
-    "habitat": "Other lowland acid grassland",
-    "habitat_group": "Grassland",
-    "habitat_type": "habitat",
-    "registered_extent": 80.93,
-    "allocated_extent": 5.6,
-    "remaining_extent": 75.33,
-    "allocation_count": 26,
-    "allocation_row_count": 27,
-    "utilisation_percent": 6.9,
-    "demand_score": 1.2,
-    "pressure_score": 6.9,
-    "opportunity_score": 3.5,
     "opportunity_rating": "Low"
   },
   {
