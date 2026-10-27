@@ -1,5 +1,14 @@
 [
   {
+    "code": "BGS-210726003",
+    "title": "Biodiversity gain site",
+    "lpa": "Eastleigh LPA",
+    "nca": "",
+    "lnrs": "Hampshire",
+    "gainSiteSizeHa": 23.38,
+    "first_seen_date": "2026-10-27"
+  },
+  {
     "code": "BGS-290926001",
     "title": "Biodiversity gain site",
     "lpa": "East Riding of Yorkshire LPA",
@@ -16,6 +25,15 @@
     "lnrs": "Suffolk",
     "gainSiteSizeHa": 76.26,
     "first_seen_date": "2026-10-24"
+  },
+  {
+    "code": "BGS-021026002",
+    "title": "Biodiversity gain site",
+    "lpa": "Cherwell LPA",
+    "nca": "",
+    "lnrs": "Oxfordshire",
+    "gainSiteSizeHa": 21.46,
+    "first_seen_date": "2026-10-22"
   },
   {
     "code": "BGS-120426001",
@@ -45,30 +63,12 @@
     "first_seen_date": "2026-10-22"
   },
   {
-    "code": "BGS-021026002",
-    "title": "Biodiversity gain site",
-    "lpa": "Cherwell LPA",
-    "nca": "",
-    "lnrs": "Oxfordshire",
-    "gainSiteSizeHa": 21.46,
-    "first_seen_date": "2026-10-22"
-  },
-  {
     "code": "BGS-280826002",
     "title": "Biodiversity gain site",
     "lpa": "Leeds LPA",
     "nca": "",
     "lnrs": "West Yorkshire",
     "gainSiteSizeHa": 17.3,
-    "first_seen_date": "2026-10-21"
-  },
-  {
-    "code": "BGS-040926001",
-    "title": "Biodiversity gain site",
-    "lpa": "Wiltshire LPA",
-    "nca": "",
-    "lnrs": "Wiltshire and Swindon",
-    "gainSiteSizeHa": 7.76,
     "first_seen_date": "2026-10-21"
   },
   {
@@ -81,12 +81,21 @@
     "first_seen_date": "2026-10-21"
   },
   {
-    "code": "BGS-230926001",
+    "code": "BGS-040926001",
+    "title": "Biodiversity gain site",
+    "lpa": "Wiltshire LPA",
+    "nca": "",
+    "lnrs": "Wiltshire and Swindon",
+    "gainSiteSizeHa": 7.76,
+    "first_seen_date": "2026-10-21"
+  },
+  {
+    "code": "BGS-270926001",
     "title": "Biodiversity gain site",
     "lpa": "Hambleton LPA",
     "nca": "",
     "lnrs": "North Yorkshire and York",
-    "gainSiteSizeHa": 9.46,
+    "gainSiteSizeHa": 8.73,
     "first_seen_date": "2026-10-20"
   },
   {
@@ -99,12 +108,12 @@
     "first_seen_date": "2026-10-20"
   },
   {
-    "code": "BGS-270926001",
+    "code": "BGS-230926001",
     "title": "Biodiversity gain site",
     "lpa": "Hambleton LPA",
     "nca": "",
     "lnrs": "North Yorkshire and York",
-    "gainSiteSizeHa": 8.73,
+    "gainSiteSizeHa": 9.46,
     "first_seen_date": "2026-10-20"
   },
   {
@@ -135,15 +144,6 @@
     "first_seen_date": "2026-10-13"
   },
   {
-    "code": "BGS-140926001",
-    "title": "Biodiversity gain site",
-    "lpa": "South Downs National Park LPA",
-    "nca": "",
-    "lnrs": "Hampshire",
-    "gainSiteSizeHa": 30.33,
-    "first_seen_date": "2026-10-10"
-  },
-  {
     "code": "BGS-100926002",
     "title": "Biodiversity gain site",
     "lpa": "Dacorum LPA",
@@ -153,13 +153,13 @@
     "first_seen_date": "2026-10-10"
   },
   {
-    "code": "BGS-130826001",
+    "code": "BGS-140926001",
     "title": "Biodiversity gain site",
-    "lpa": "Northumberland National Park LPA",
+    "lpa": "South Downs National Park LPA",
     "nca": "",
-    "lnrs": "North of Tyne",
-    "gainSiteSizeHa": 134.3,
-    "first_seen_date": "2026-10-07"
+    "lnrs": "Hampshire",
+    "gainSiteSizeHa": 30.33,
+    "first_seen_date": "2026-10-10"
   },
   {
     "code": "BGS-190826003",
@@ -177,6 +177,15 @@
     "nca": "",
     "lnrs": "Herefordshire",
     "gainSiteSizeHa": 28.46,
+    "first_seen_date": "2026-10-07"
+  },
+  {
+    "code": "BGS-130826001",
+    "title": "Biodiversity gain site",
+    "lpa": "Northumberland National Park LPA",
+    "nca": "",
+    "lnrs": "North of Tyne",
+    "gainSiteSizeHa": 134.3,
     "first_seen_date": "2026-10-07"
   },
   {
@@ -213,15 +222,6 @@
     "nca": "",
     "lnrs": "Cambridgeshire and Peterborough",
     "gainSiteSizeHa": 58.18,
-    "first_seen_date": "2026-09-26"
-  },
-  {
-    "code": "BGS-030726001",
-    "title": "Biodiversity gain site",
-    "lpa": "Northumberland LPA",
-    "nca": "",
-    "lnrs": "North of Tyne",
-    "gainSiteSizeHa": 0.5,
     "first_seen_date": "2026-09-26"
   }
 ]
