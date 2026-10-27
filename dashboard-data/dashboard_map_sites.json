@@ -6744,56 +6744,10 @@
     "lpa": "Cotswold LPA",
     "lnrs": "Gloucestershire",
     "authority": "Cotswold LPA",
-    "sizeHa": 14.34,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Woodland and forest - Other woodland; broadleaved",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 1,
-        "allocated_extent": 0,
-        "remaining_extent": 1
-      },
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 11.44,
-        "allocated_extent": 0,
-        "remaining_extent": 11.44
-      },
-      {
-        "habitat": "Grassland - Lowland meadows",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 1.9,
-        "allocated_extent": 0,
-        "remaining_extent": 1.9
-      },
-      {
-        "habitat": "Species-rich native hedgerow with trees",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.93,
-        "allocated_extent": 0,
-        "remaining_extent": 0.93
-      },
-      {
-        "habitat": "Species-rich native hedgerow with trees - associated with bank or ditch",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.633,
-        "allocated_extent": 0,
-        "remaining_extent": 0.633
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-010426003",
@@ -9586,10 +9540,137 @@
     "lpa": "Bolton LPA",
     "lnrs": "Greater Manchester",
     "authority": "RSK Biocensus Limited",
-    "sizeHa": 0,
+    "sizeHa": 20.07,
     "first_seen_date": "2026-07-21",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Lakes - Ponds (non-priority habitat)",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.1629,
+        "allocated_extent": 0,
+        "remaining_extent": 0.1629
+      },
+      {
+        "habitat": "Woodland and forest - Other woodland; mixed",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.3407,
+        "allocated_extent": 0,
+        "remaining_extent": 0.3407
+      },
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 15.3857,
+        "allocated_extent": 0.687,
+        "remaining_extent": 14.6987
+      },
+      {
+        "habitat": "Woodland and forest - Other woodland; broadleaved",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 1.4347,
+        "allocated_extent": 0.3644,
+        "remaining_extent": 1.0703
+      },
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 1.4309,
+        "allocated_extent": 0.055,
+        "remaining_extent": 1.3759
+      },
+      {
+        "habitat": "Lakes - Ponds (non-priority habitat)",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.0361,
+        "allocated_extent": 0,
+        "remaining_extent": 0.0361
+      },
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.2029,
+        "allocated_extent": 0,
+        "remaining_extent": 0.2029
+      },
+      {
+        "habitat": "Individual trees - Rural tree",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.2769,
+        "allocated_extent": 0,
+        "remaining_extent": 0.2769
+      },
+      {
+        "habitat": "Species-rich native hedgerow with trees",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.377,
+        "allocated_extent": 0,
+        "remaining_extent": 0.377
+      },
+      {
+        "habitat": "Species-rich native hedgerow",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.871,
+        "allocated_extent": 0.0251,
+        "remaining_extent": 0.8459
+      },
+      {
+        "habitat": "Ecologically valuable line of trees - associated with bank or ditch",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.086,
+        "allocated_extent": 0,
+        "remaining_extent": 0.086
+      },
+      {
+        "habitat": "Species-rich native hedgerow with trees - associated with bank or ditch",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.268,
+        "allocated_extent": 0,
+        "remaining_extent": 0.268
+      },
+      {
+        "habitat": "Species-rich native hedgerow - associated with bank or ditch",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.141,
+        "allocated_extent": 0,
+        "remaining_extent": 0.141
+      },
+      {
+        "habitat": "Ditches",
+        "condition": "Moderate",
+        "habitat_type": "watercourse",
+        "unit": "km",
+        "proposed_extent": 0.217,
+        "allocated_extent": 0,
+        "remaining_extent": 0.217
+      }
+    ]
   },
   {
     "code": "BGS-070725001",
@@ -18160,83 +18241,10 @@
     "lpa": "Basingstoke and Deane LPA",
     "lnrs": "Hampshire",
     "authority": "RSK Biocensus Limited",
-    "sizeHa": 99.37,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Woodland and forest - Lowland mixed deciduous woodland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 74.8326,
-        "allocated_extent": 0.2537,
-        "remaining_extent": 74.5789
-      },
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.5415,
-        "allocated_extent": 0.143,
-        "remaining_extent": 0.3985
-      },
-      {
-        "habitat": "Heathland and shrub - Mixed scrub",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 2.3809,
-        "allocated_extent": 0,
-        "remaining_extent": 2.3809
-      },
-      {
-        "habitat": "Grassland - Lowland meadows",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 7.9779,
-        "allocated_extent": 1.275,
-        "remaining_extent": 6.7029
-      },
-      {
-        "habitat": "Woodland and forest - Other woodland; broadleaved",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 7.8846,
-        "allocated_extent": 0.052,
-        "remaining_extent": 7.8326
-      },
-      {
-        "habitat": "Lakes - Ponds (non-priority habitat)",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.1283,
-        "allocated_extent": 0,
-        "remaining_extent": 0.1283
-      },
-      {
-        "habitat": "Woodland and forest - Other woodland; mixed",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 5.3312,
-        "allocated_extent": 0,
-        "remaining_extent": 5.3312
-      },
-      {
-        "habitat": "Species-rich native hedgerow",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.3643,
-        "allocated_extent": 0.0299,
-        "remaining_extent": 0.3344
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-080925002",
@@ -23145,7 +23153,7 @@
     "authority": "RSK Biocensus Limited",
     "sizeHa": 23.38,
     "first_seen_date": "2026-10-27",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Individual trees - Rural tree",

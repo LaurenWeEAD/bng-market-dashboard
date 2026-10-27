@@ -152,6 +152,14 @@
     "utilisation_percent": 40.9
   },
   {
+    "lpa": "Basingstoke and Deane LPA",
+    "site_count": 4,
+    "registered_habitat_hectares": 16.08,
+    "allocated_habitat_area": 6.54,
+    "remaining_habitat_area": 9.54,
+    "utilisation_percent": 40.7
+  },
+  {
     "lpa": "Malvern Hills LPA",
     "site_count": 2,
     "registered_habitat_hectares": 21.21,
@@ -216,20 +224,20 @@
     "utilisation_percent": 31.4
   },
   {
-    "lpa": "Bolton LPA",
-    "site_count": 4,
-    "registered_habitat_hectares": 59.75,
-    "allocated_habitat_area": 16.11,
-    "remaining_habitat_area": 43.63,
-    "utilisation_percent": 27
-  },
-  {
     "lpa": "Bassetlaw LPA",
     "site_count": 2,
     "registered_habitat_hectares": 37.6,
     "allocated_habitat_area": 8.55,
     "remaining_habitat_area": 29.04,
     "utilisation_percent": 22.7
+  },
+  {
+    "lpa": "Bolton LPA",
+    "site_count": 4,
+    "registered_habitat_hectares": 79.02,
+    "allocated_habitat_area": 17.22,
+    "remaining_habitat_area": 61.8,
+    "utilisation_percent": 21.8
   },
   {
     "lpa": "Chesterfield LPA",
@@ -534,14 +542,6 @@
     "allocated_habitat_area": 8.38,
     "remaining_habitat_area": 104.77,
     "utilisation_percent": 7.4
-  },
-  {
-    "lpa": "Basingstoke and Deane LPA",
-    "site_count": 4,
-    "registered_habitat_hectares": 115.16,
-    "allocated_habitat_area": 8.27,
-    "remaining_habitat_area": 106.89,
-    "utilisation_percent": 7.2
   },
   {
     "lpa": "Wealden LPA",
@@ -1090,9 +1090,9 @@
   {
     "lpa": "Cotswold LPA",
     "site_count": 5,
-    "registered_habitat_hectares": 143.8,
+    "registered_habitat_hectares": 129.46,
     "allocated_habitat_area": 0,
-    "remaining_habitat_area": 143.8,
+    "remaining_habitat_area": 129.46,
     "utilisation_percent": 0
   },
   {
