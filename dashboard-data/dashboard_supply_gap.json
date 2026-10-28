@@ -576,20 +576,20 @@
     "utilisation_percent": 6.5
   },
   {
-    "lpa": "Stratford-on-Avon LPA",
-    "site_count": 8,
-    "registered_habitat_hectares": 148.98,
-    "allocated_habitat_area": 9.72,
-    "remaining_habitat_area": 139.26,
-    "utilisation_percent": 6.5
-  },
-  {
     "lpa": "Lewes LPA",
     "site_count": 2,
     "registered_habitat_hectares": 88.97,
     "allocated_habitat_area": 5.77,
     "remaining_habitat_area": 83.2,
     "utilisation_percent": 6.5
+  },
+  {
+    "lpa": "Stratford-on-Avon LPA",
+    "site_count": 8,
+    "registered_habitat_hectares": 157.3,
+    "allocated_habitat_area": 9.72,
+    "remaining_habitat_area": 147.58,
+    "utilisation_percent": 6.2
   },
   {
     "lpa": "Dorset LPA",
@@ -704,6 +704,14 @@
     "utilisation_percent": 3.5
   },
   {
+    "lpa": "Wiltshire LPA",
+    "site_count": 10,
+    "registered_habitat_hectares": 222.88,
+    "allocated_habitat_area": 7.65,
+    "remaining_habitat_area": 215.23,
+    "utilisation_percent": 3.4
+  },
+  {
     "lpa": "South Hams LPA",
     "site_count": 2,
     "registered_habitat_hectares": 25.89,
@@ -760,14 +768,6 @@
     "utilisation_percent": 2.7
   },
   {
-    "lpa": "Wiltshire LPA",
-    "site_count": 10,
-    "registered_habitat_hectares": 288.98,
-    "allocated_habitat_area": 7.65,
-    "remaining_habitat_area": 281.33,
-    "utilisation_percent": 2.6
-  },
-  {
     "lpa": "Breckland LPA",
     "site_count": 3,
     "registered_habitat_hectares": 380.68,
@@ -814,6 +814,14 @@
     "allocated_habitat_area": 0.66,
     "remaining_habitat_area": 29.04,
     "utilisation_percent": 2.2
+  },
+  {
+    "lpa": "Mole Valley LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 25.76,
+    "allocated_habitat_area": 0.55,
+    "remaining_habitat_area": 25.21,
+    "utilisation_percent": 2.1
   },
   {
     "lpa": "Bath and North East Somerset LPA",
@@ -1325,14 +1333,6 @@
     "registered_habitat_hectares": 23.42,
     "allocated_habitat_area": 0,
     "remaining_habitat_area": 23.42,
-    "utilisation_percent": 0
-  },
-  {
-    "lpa": "Mole Valley LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 0,
-    "allocated_habitat_area": 0,
-    "remaining_habitat_area": 0,
     "utilisation_percent": 0
   },
   {

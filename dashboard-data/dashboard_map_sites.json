@@ -7177,10 +7177,38 @@
     "lpa": "Stratford-on-Avon LPA",
     "lnrs": "Warwickshire",
     "authority": "RSK Biocensus",
-    "sizeHa": 0,
+    "sizeHa": 8.2,
     "first_seen_date": "2026-10-06",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 4.32,
+        "allocated_extent": 0,
+        "remaining_extent": 4.32
+      },
+      {
+        "habitat": "Individual trees - Rural tree",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.1221,
+        "allocated_extent": 0,
+        "remaining_extent": 0.1221
+      },
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 3.8769,
+        "allocated_extent": 0,
+        "remaining_extent": 3.8769
+      }
+    ]
   },
   {
     "code": "BGS-141125002",
@@ -10516,7 +10544,7 @@
     "authority": "Fera Science Limited",
     "sizeHa": 15.92,
     "first_seen_date": "2026-10-28",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Lakes - Ponds (non-priority habitat)",
@@ -15868,65 +15896,10 @@
     "lpa": "Wiltshire LPA",
     "lnrs": "Wiltshire and Swindon",
     "authority": "Harry Ferguson Holdings Limited",
-    "sizeHa": 82,
+    "sizeHa": 0,
     "first_seen_date": "2026-08-19",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 27.18,
-        "allocated_extent": 0,
-        "remaining_extent": 27.18
-      },
-      {
-        "habitat": "Watercourse footprint - Watercourse footprint",
-        "condition": "Unable to Map",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.27,
-        "allocated_extent": 0,
-        "remaining_extent": 0.27
-      },
-      {
-        "habitat": "Heathland and shrub - Mixed scrub",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 11.21,
-        "allocated_extent": 0,
-        "remaining_extent": 11.21
-      },
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 5.62,
-        "allocated_extent": 0,
-        "remaining_extent": 5.62
-      },
-      {
-        "habitat": "Woodland and forest - Wood-pasture and parkland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 21.82,
-        "allocated_extent": 0,
-        "remaining_extent": 21.82
-      },
-      {
-        "habitat": "Other rivers and streams",
-        "condition": "Fairly Good",
-        "habitat_type": "watercourse",
-        "unit": "km",
-        "proposed_extent": 0.788,
-        "allocated_extent": 0,
-        "remaining_extent": 0.788
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-250626002",
@@ -18818,10 +18791,146 @@
     "lpa": "Mole Valley LPA",
     "lnrs": "Surrey",
     "authority": "RSK Biocensus Limited",
-    "sizeHa": 0,
+    "sizeHa": 26.26,
     "first_seen_date": "2026-08-08",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Grassland - Other lowland acid grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 7.1595,
+        "allocated_extent": 0,
+        "remaining_extent": 7.1595
+      },
+      {
+        "habitat": "Woodland and forest - Lowland mixed deciduous woodland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 13.6179,
+        "allocated_extent": 0.1236,
+        "remaining_extent": 13.4943
+      },
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.3143,
+        "allocated_extent": 0.0338,
+        "remaining_extent": 0.2805
+      },
+      {
+        "habitat": "Heathland and shrub - Lowland Heathland",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 1.2372,
+        "allocated_extent": 0,
+        "remaining_extent": 1.2372
+      },
+      {
+        "habitat": "Woodland and forest - Lowland mixed deciduous woodland",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.1638,
+        "allocated_extent": 0,
+        "remaining_extent": 0.1638
+      },
+      {
+        "habitat": "Grassland - Lowland meadows",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.1376,
+        "allocated_extent": 0,
+        "remaining_extent": 0.1376
+      },
+      {
+        "habitat": "Grassland - Lowland meadows",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.4667,
+        "allocated_extent": 0.059,
+        "remaining_extent": 0.4077
+      },
+      {
+        "habitat": "Woodland and forest - Other woodland; broadleaved",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.7452,
+        "allocated_extent": 0,
+        "remaining_extent": 0.7452
+      },
+      {
+        "habitat": "Grassland - Traditional orchards",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.3441,
+        "allocated_extent": 0,
+        "remaining_extent": 0.3441
+      },
+      {
+        "habitat": "Grassland - Lowland dry acid grassland",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.3422,
+        "allocated_extent": 0,
+        "remaining_extent": 0.3422
+      },
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 1.2301,
+        "allocated_extent": 0.3321,
+        "remaining_extent": 0.898
+      },
+      {
+        "habitat": "Ecologically valuable line of trees",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.41,
+        "allocated_extent": 0,
+        "remaining_extent": 0.41
+      },
+      {
+        "habitat": "Species-rich native hedgerow",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.908,
+        "allocated_extent": 0,
+        "remaining_extent": 0.908
+      },
+      {
+        "habitat": "Species-rich native hedgerow with trees",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.601,
+        "allocated_extent": 0,
+        "remaining_extent": 0.601
+      },
+      {
+        "habitat": "Ditches",
+        "condition": "Moderate",
+        "habitat_type": "watercourse",
+        "unit": "km",
+        "proposed_extent": 0.351,
+        "allocated_extent": 0,
+        "remaining_extent": 0.351
+      }
+    ]
   },
   {
     "code": "BGS-171225001",
