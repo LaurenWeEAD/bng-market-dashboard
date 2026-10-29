@@ -9114,10 +9114,47 @@
     "lpa": "Chorley LPA",
     "lnrs": "Lancashire",
     "authority": "Chorley LPA",
-    "sizeHa": 0,
+    "sizeHa": 18.24,
     "first_seen_date": "2026-08-08",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Wetland - Reedbeds",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 1.1,
+        "allocated_extent": 0,
+        "remaining_extent": 1.1
+      },
+      {
+        "habitat": "Individual trees - Rural tree",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.0861,
+        "allocated_extent": 0,
+        "remaining_extent": 0.0861
+      },
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 17.1391,
+        "allocated_extent": 0,
+        "remaining_extent": 17.1391
+      },
+      {
+        "habitat": "Species-rich native hedgerow",
+        "condition": "Moderate",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.276,
+        "allocated_extent": 0,
+        "remaining_extent": 0.276
+      }
+    ]
   },
   {
     "code": "BGS-200526001",
@@ -12533,7 +12570,7 @@
     "authority": "RSK Biocensus Limited",
     "sizeHa": 13.28,
     "first_seen_date": "2026-10-29",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Grassland - Other neutral grassland",
@@ -20182,10 +20219,146 @@
     "lpa": "Cornwall LPA",
     "lnrs": "Cornwall and the Isles of Scilly",
     "authority": "RSK Biocensus Limited",
-    "sizeHa": 0,
+    "sizeHa": 242.8,
     "first_seen_date": "2026-09-21",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Grassland - Upland acid grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 39.1278,
+        "allocated_extent": 0,
+        "remaining_extent": 39.1278
+      },
+      {
+        "habitat": "Woodland and forest - Other woodland; broadleaved",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.0203,
+        "allocated_extent": 0,
+        "remaining_extent": 0.0203
+      },
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 59.3062,
+        "allocated_extent": 0,
+        "remaining_extent": 59.3062
+      },
+      {
+        "habitat": "Grassland - Upland hay meadows",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 37.8357,
+        "allocated_extent": 0,
+        "remaining_extent": 37.8357
+      },
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 31.7781,
+        "allocated_extent": 0,
+        "remaining_extent": 31.7781
+      },
+      {
+        "habitat": "Wetland - Purple moor grass and rush pastures",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 8.7489,
+        "allocated_extent": 0,
+        "remaining_extent": 8.7489
+      },
+      {
+        "habitat": "Lakes - Ponds (non-priority habitat)",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.8618,
+        "allocated_extent": 0,
+        "remaining_extent": 0.8618
+      },
+      {
+        "habitat": "Grassland - Upland acid grassland",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 37.697,
+        "allocated_extent": 0,
+        "remaining_extent": 37.697
+      },
+      {
+        "habitat": "Individual trees - Rural tree",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 2.337,
+        "allocated_extent": 0,
+        "remaining_extent": 2.337
+      },
+      {
+        "habitat": "Heathland and shrub - Upland Heathland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.1756,
+        "allocated_extent": 0,
+        "remaining_extent": 0.1756
+      },
+      {
+        "habitat": "Woodland and forest - Lowland mixed deciduous woodland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 4.8725,
+        "allocated_extent": 0,
+        "remaining_extent": 4.8725
+      },
+      {
+        "habitat": "Heathland and shrub - Lowland Heathland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 21.7468,
+        "allocated_extent": 0,
+        "remaining_extent": 21.7468
+      },
+      {
+        "habitat": "Wetland - Fens (upland and lowland)",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.0106,
+        "allocated_extent": 0,
+        "remaining_extent": 0.0106
+      },
+      {
+        "habitat": "Heathland and shrub - Willow scrub",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.2006,
+        "allocated_extent": 0,
+        "remaining_extent": 0.2006
+      },
+      {
+        "habitat": "Priority habitat",
+        "condition": "Good",
+        "habitat_type": "watercourse",
+        "unit": "km",
+        "proposed_extent": 1.769,
+        "allocated_extent": 0,
+        "remaining_extent": 1.769
+      }
+    ]
   },
   {
     "code": "BGS-060625001",
