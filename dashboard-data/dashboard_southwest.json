@@ -20,16 +20,6 @@
     "registered_watercourse_km": 3.62
   },
   {
-    "area": "Cornwall and the Isles of Scilly",
-    "site_count": 6,
-    "registered_habitat_hectares": 312.02,
-    "allocated_habitat_area": 3.36,
-    "remaining_habitat_area": 308.66,
-    "utilisation_percent": 1.1,
-    "registered_hedgerow_km": 0.89,
-    "registered_watercourse_km": 1.77
-  },
-  {
     "area": "Dorset",
     "site_count": 4,
     "registered_habitat_hectares": 199.69,
@@ -38,5 +28,15 @@
     "utilisation_percent": 6.1,
     "registered_hedgerow_km": 1.82,
     "registered_watercourse_km": 1.98
+  },
+  {
+    "area": "Cornwall and the Isles of Scilly",
+    "site_count": 6,
+    "registered_habitat_hectares": 67.3,
+    "allocated_habitat_area": 3.65,
+    "remaining_habitat_area": 63.66,
+    "utilisation_percent": 5.4,
+    "registered_hedgerow_km": 0.89,
+    "registered_watercourse_km": 0
   }
 ]
