@@ -120,6 +120,14 @@
     "utilisation_percent": 62.4
   },
   {
+    "lpa": "Fareham LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 6.71,
+    "allocated_habitat_area": 3.72,
+    "remaining_habitat_area": 2.99,
+    "utilisation_percent": 55.5
+  },
+  {
     "lpa": "Newcastle-under-Lyme LPA",
     "site_count": 2,
     "registered_habitat_hectares": 8.91,
@@ -408,14 +416,6 @@
     "utilisation_percent": 10.5
   },
   {
-    "lpa": "Dorset LPA",
-    "site_count": 4,
-    "registered_habitat_hectares": 116.81,
-    "allocated_habitat_area": 12.12,
-    "remaining_habitat_area": 104.69,
-    "utilisation_percent": 10.4
-  },
-  {
     "lpa": "South Oxfordshire LPA",
     "site_count": 2,
     "registered_habitat_hectares": 25.57,
@@ -590,6 +590,14 @@
     "allocated_habitat_area": 9.72,
     "remaining_habitat_area": 147.58,
     "utilisation_percent": 6.2
+  },
+  {
+    "lpa": "Dorset LPA",
+    "site_count": 4,
+    "registered_habitat_hectares": 199.69,
+    "allocated_habitat_area": 12.12,
+    "remaining_habitat_area": 187.58,
+    "utilisation_percent": 6.1
   },
   {
     "lpa": "Doncaster LPA",
@@ -1240,14 +1248,6 @@
     "utilisation_percent": 0
   },
   {
-    "lpa": "Fareham LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 0,
-    "allocated_habitat_area": 0,
-    "remaining_habitat_area": 0,
-    "utilisation_percent": 0
-  },
-  {
     "lpa": "Bracknell Forest LPA",
     "site_count": 1,
     "registered_habitat_hectares": 0.47,
@@ -1338,9 +1338,9 @@
   {
     "lpa": "Eden LPA",
     "site_count": 1,
-    "registered_habitat_hectares": 0,
+    "registered_habitat_hectares": 29.65,
     "allocated_habitat_area": 0,
-    "remaining_habitat_area": 0,
+    "remaining_habitat_area": 29.65,
     "utilisation_percent": 0
   },
   {

@@ -10155,10 +10155,65 @@
     "lpa": "Dorset LPA",
     "lnrs": "Dorset",
     "authority": "Harry Ferguson Holdings Limited, HF Environmental Ltd",
-    "sizeHa": 0,
+    "sizeHa": 84,
     "first_seen_date": "2026-07-14",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 44.8883,
+        "allocated_extent": 0,
+        "remaining_extent": 44.8883
+      },
+      {
+        "habitat": "Grassland - Lowland calcareous grassland",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 8.612,
+        "allocated_extent": 0,
+        "remaining_extent": 8.612
+      },
+      {
+        "habitat": "Grassland - Lowland calcareous grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 2.6,
+        "allocated_extent": 0,
+        "remaining_extent": 2.6
+      },
+      {
+        "habitat": "Woodland and forest - Other woodland; broadleaved",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 1.4072,
+        "allocated_extent": 0,
+        "remaining_extent": 1.4072
+      },
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 24.4878,
+        "allocated_extent": 0,
+        "remaining_extent": 24.4878
+      },
+      {
+        "habitat": "Woodland and forest - Other woodland; broadleaved",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.8944,
+        "allocated_extent": 0,
+        "remaining_extent": 0.8944
+      }
+    ]
   },
   {
     "code": "BGS-140525001",
@@ -16600,10 +16655,47 @@
     "lpa": "Fareham LPA",
     "lnrs": "Hampshire",
     "authority": "RSK Biocensus Limited",
-    "sizeHa": 0,
+    "sizeHa": 12.81,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.8794,
+        "allocated_extent": 0.8584,
+        "remaining_extent": 0.021
+      },
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 4.8818,
+        "allocated_extent": 2.1559,
+        "remaining_extent": 2.7259
+      },
+      {
+        "habitat": "Grassland - Traditional orchards",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.9512,
+        "allocated_extent": 0.7088,
+        "remaining_extent": 0.2424
+      },
+      {
+        "habitat": "Species-rich native hedgerow with trees",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.5374,
+        "allocated_extent": 0.0147,
+        "remaining_extent": 0.5227
+      }
+    ]
   },
   {
     "code": "BGS-281125001",
@@ -27528,10 +27620,56 @@
     "lpa": "Eden LPA",
     "lnrs": "Cumbria",
     "authority": "RSK Biocensus",
-    "sizeHa": 0,
+    "sizeHa": 30,
     "first_seen_date": "2026-09-21",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Individual trees - Rural tree",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.1751,
+        "allocated_extent": 0,
+        "remaining_extent": 0.1751
+      },
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 27.856,
+        "allocated_extent": 0,
+        "remaining_extent": 27.856
+      },
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.6187,
+        "allocated_extent": 0,
+        "remaining_extent": 0.6187
+      },
+      {
+        "habitat": "Woodland and forest - Other woodland; broadleaved",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 1.003,
+        "allocated_extent": 0,
+        "remaining_extent": 1.003
+      },
+      {
+        "habitat": "Species-rich native hedgerow",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 1.07,
+        "allocated_extent": 0,
+        "remaining_extent": 1.07
+      }
+    ]
   },
   {
     "code": "BGS-090426001",
