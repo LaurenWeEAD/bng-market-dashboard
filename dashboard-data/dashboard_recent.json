@@ -1,5 +1,14 @@
 [
   {
+    "code": "BGS-121026001",
+    "title": "Biodiversity gain site",
+    "lpa": "Wealden LPA",
+    "nca": "",
+    "lnrs": "East Sussex and Brighton & Hove",
+    "gainSiteSizeHa": 7.8,
+    "first_seen_date": "2026-10-31"
+  },
+  {
     "code": "BGS-021026001",
     "title": "Biodiversity gain site",
     "lpa": "Tonbridge and Malling LPA",
@@ -45,15 +54,6 @@
     "first_seen_date": "2026-10-24"
   },
   {
-    "code": "BGS-021026002",
-    "title": "Biodiversity gain site",
-    "lpa": "Cherwell LPA",
-    "nca": "",
-    "lnrs": "Oxfordshire",
-    "gainSiteSizeHa": 21.46,
-    "first_seen_date": "2026-10-22"
-  },
-  {
     "code": "BGS-170926001",
     "title": "Biodiversity gain site",
     "lpa": "Chelmsford LPA",
@@ -63,12 +63,12 @@
     "first_seen_date": "2026-10-22"
   },
   {
-    "code": "BGS-120426001",
+    "code": "BGS-021026002",
     "title": "Biodiversity gain site",
-    "lpa": "Northumberland LPA",
+    "lpa": "Cherwell LPA",
     "nca": "",
-    "lnrs": "North of Tyne",
-    "gainSiteSizeHa": 0.39,
+    "lnrs": "Oxfordshire",
+    "gainSiteSizeHa": 21.46,
     "first_seen_date": "2026-10-22"
   },
   {
@@ -78,6 +78,15 @@
     "nca": "",
     "lnrs": "Greater Lincolnshire",
     "gainSiteSizeHa": 18.63,
+    "first_seen_date": "2026-10-22"
+  },
+  {
+    "code": "BGS-120426001",
+    "title": "Biodiversity gain site",
+    "lpa": "Northumberland LPA",
+    "nca": "",
+    "lnrs": "North of Tyne",
+    "gainSiteSizeHa": 0.39,
     "first_seen_date": "2026-10-22"
   },
   {
@@ -117,21 +126,21 @@
     "first_seen_date": "2026-10-20"
   },
   {
-    "code": "BGS-270926001",
-    "title": "Biodiversity gain site",
-    "lpa": "Hambleton LPA",
-    "nca": "",
-    "lnrs": "North Yorkshire and York",
-    "gainSiteSizeHa": 8.73,
-    "first_seen_date": "2026-10-20"
-  },
-  {
     "code": "BGS-170826001",
     "title": "Biodiversity gain site",
     "lpa": "Stratford-on-Avon LPA",
     "nca": "",
     "lnrs": "Warwickshire",
     "gainSiteSizeHa": 26.26,
+    "first_seen_date": "2026-10-20"
+  },
+  {
+    "code": "BGS-270926001",
+    "title": "Biodiversity gain site",
+    "lpa": "Hambleton LPA",
+    "nca": "",
+    "lnrs": "North Yorkshire and York",
+    "gainSiteSizeHa": 8.73,
     "first_seen_date": "2026-10-20"
   },
   {
@@ -180,21 +189,21 @@
     "first_seen_date": "2026-10-10"
   },
   {
-    "code": "BGS-070826001",
-    "title": "Biodiversity gain site",
-    "lpa": "Herefordshire, County of LPA",
-    "nca": "",
-    "lnrs": "Herefordshire",
-    "gainSiteSizeHa": 28.46,
-    "first_seen_date": "2026-10-07"
-  },
-  {
     "code": "BGS-190826003",
     "title": "Biodiversity gain site",
     "lpa": "Wiltshire LPA",
     "nca": "",
     "lnrs": "Wiltshire and Swindon",
     "gainSiteSizeHa": 15,
+    "first_seen_date": "2026-10-07"
+  },
+  {
+    "code": "BGS-070826001",
+    "title": "Biodiversity gain site",
+    "lpa": "Herefordshire, County of LPA",
+    "nca": "",
+    "lnrs": "Herefordshire",
+    "gainSiteSizeHa": 28.46,
     "first_seen_date": "2026-10-07"
   },
   {
@@ -214,14 +223,5 @@
     "lnrs": "Warwickshire",
     "gainSiteSizeHa": 8.2,
     "first_seen_date": "2026-10-06"
-  },
-  {
-    "code": "BGS-240826001",
-    "title": "Biodiversity gain site",
-    "lpa": "Aylesbury Vale LPA",
-    "nca": "",
-    "lnrs": "Buckinghamshire and Milton Keynes",
-    "gainSiteSizeHa": 18.15,
-    "first_seen_date": "2026-09-29"
   }
 ]

@@ -10,10 +10,10 @@
   {
     "group": "Individual Trees",
     "registered_extent": 61.77,
-    "allocated_extent": 11.35,
-    "available_extent": 50.42,
-    "allocated_units": 204.05,
-    "utilisation_percent": 18.4
+    "allocated_extent": 11.41,
+    "available_extent": 50.36,
+    "allocated_units": 205.15,
+    "utilisation_percent": 18.5
   },
   {
     "group": "Urban",
@@ -25,9 +25,9 @@
   },
   {
     "group": "Lakes and Ponds",
-    "registered_extent": 68.63,
+    "registered_extent": 68.42,
     "allocated_extent": 8.89,
-    "available_extent": 59.74,
+    "available_extent": 59.53,
     "allocated_units": 388.53,
     "utilisation_percent": 13
   },
@@ -49,34 +49,34 @@
   },
   {
     "group": "Grassland",
-    "registered_extent": 8083.67,
-    "allocated_extent": 668.08,
-    "available_extent": 7415.59,
-    "allocated_units": 3561.35,
+    "registered_extent": 8054.17,
+    "allocated_extent": 669.41,
+    "available_extent": 7384.76,
+    "allocated_units": 3569.2,
     "utilisation_percent": 8.3
   },
   {
     "group": "Heathland and Shrub",
-    "registered_extent": 1453.29,
-    "allocated_extent": 102.64,
-    "available_extent": 1350.65,
-    "allocated_units": 1507.43,
+    "registered_extent": 1445.78,
+    "allocated_extent": 102.65,
+    "available_extent": 1343.13,
+    "allocated_units": 1508.29,
     "utilisation_percent": 7.1
   },
   {
     "group": "Woodland and Forest",
-    "registered_extent": 1324.6,
-    "allocated_extent": 73.52,
-    "available_extent": 1251.08,
-    "allocated_units": 481.46,
+    "registered_extent": 1325.8,
+    "allocated_extent": 73.89,
+    "available_extent": 1251.91,
+    "allocated_units": 484.1,
     "utilisation_percent": 5.6
   },
   {
     "group": "Hedgerow",
-    "registered_extent": 415.62,
-    "allocated_extent": 11.7,
-    "available_extent": 403.92,
-    "allocated_units": 62.25,
+    "registered_extent": 411.65,
+    "allocated_extent": 11.72,
+    "available_extent": 399.93,
+    "allocated_units": 62.43,
     "utilisation_percent": 2.8
   },
   {
