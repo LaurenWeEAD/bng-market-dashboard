@@ -15850,10 +15850,47 @@
     "lpa": "County Durham LPA",
     "lnrs": "County Durham",
     "authority": "County Durham LPA",
-    "sizeHa": 0,
+    "sizeHa": 2.66,
     "first_seen_date": "2026-09-21",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Lakes - Ponds (non-priority habitat)",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.04,
+        "allocated_extent": 0,
+        "remaining_extent": 0.04
+      },
+      {
+        "habitat": "Individual trees - Rural tree",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.061,
+        "allocated_extent": 0,
+        "remaining_extent": 0.061
+      },
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 2.5823,
+        "allocated_extent": 0,
+        "remaining_extent": 2.5823
+      },
+      {
+        "habitat": "Species-rich native hedgerow",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.156,
+        "allocated_extent": 0,
+        "remaining_extent": 0.156
+      }
+    ]
   },
   {
     "code": "BGS-121224001",
