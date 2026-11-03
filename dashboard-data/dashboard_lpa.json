@@ -504,14 +504,6 @@
     "utilisation_percent": 8.6
   },
   {
-    "lpa": "Hambleton LPA",
-    "site_count": 7,
-    "registered_habitat_hectares": 97.66,
-    "allocated_habitat_area": 8.26,
-    "remaining_habitat_area": 89.4,
-    "utilisation_percent": 8.5
-  },
-  {
     "lpa": "Tonbridge and Malling LPA",
     "site_count": 2,
     "registered_habitat_hectares": 53.79,
@@ -533,6 +525,14 @@
     "registered_habitat_hectares": 113.14,
     "allocated_habitat_area": 8.48,
     "remaining_habitat_area": 104.67,
+    "utilisation_percent": 7.5
+  },
+  {
+    "lpa": "Hambleton LPA",
+    "site_count": 7,
+    "registered_habitat_hectares": 96.66,
+    "allocated_habitat_area": 7.26,
+    "remaining_habitat_area": 89.4,
     "utilisation_percent": 7.5
   },
   {
@@ -797,6 +797,14 @@
     "registered_habitat_hectares": 186.11,
     "allocated_habitat_area": 4.5,
     "remaining_habitat_area": 181.61,
+    "utilisation_percent": 2.4
+  },
+  {
+    "lpa": "Rotherham LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 25.49,
+    "allocated_habitat_area": 0.61,
+    "remaining_habitat_area": 24.88,
     "utilisation_percent": 2.4
   },
   {
@@ -1242,9 +1250,9 @@
   {
     "lpa": "Babergh LPA",
     "site_count": 1,
-    "registered_habitat_hectares": 76.26,
+    "registered_habitat_hectares": 0,
     "allocated_habitat_area": 0,
-    "remaining_habitat_area": 76.26,
+    "remaining_habitat_area": 0,
     "utilisation_percent": 0
   },
   {
@@ -1349,14 +1357,6 @@
     "registered_habitat_hectares": 29.65,
     "allocated_habitat_area": 0,
     "remaining_habitat_area": 29.65,
-    "utilisation_percent": 0
-  },
-  {
-    "lpa": "Rotherham LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 0,
-    "allocated_habitat_area": 0,
-    "remaining_habitat_area": 0,
     "utilisation_percent": 0
   },
   {

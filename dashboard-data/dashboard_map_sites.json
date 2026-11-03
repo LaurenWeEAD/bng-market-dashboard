@@ -3108,7 +3108,7 @@
     "authority": "On Nature Ltd, Restoration Soil Limited",
     "sizeHa": 11.29,
     "first_seen_date": "2026-11-03",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Woodland and forest - Lowland mixed deciduous woodland",
@@ -9729,92 +9729,10 @@
     "lpa": "Babergh LPA",
     "lnrs": "Suffolk",
     "authority": "Harry Ferguson Holdings Limited",
-    "sizeHa": 76.26,
+    "sizeHa": 0,
     "first_seen_date": "2026-10-24",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Heathland and shrub - Mixed scrub",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 6.6439,
-        "allocated_extent": 0,
-        "remaining_extent": 6.6439
-      },
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 45.36,
-        "allocated_extent": 0,
-        "remaining_extent": 45.36
-      },
-      {
-        "habitat": "Grassland - Lowland meadows",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 17.02,
-        "allocated_extent": 0,
-        "remaining_extent": 17.02
-      },
-      {
-        "habitat": "Woodland and forest - Other woodland; broadleaved",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 6.88,
-        "allocated_extent": 0,
-        "remaining_extent": 6.88
-      },
-      {
-        "habitat": "Woodland and forest - Other woodland; broadleaved",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.36,
-        "allocated_extent": 0,
-        "remaining_extent": 0.36
-      },
-      {
-        "habitat": "Species-rich native hedgerow",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 2.344,
-        "allocated_extent": 0,
-        "remaining_extent": 2.344
-      },
-      {
-        "habitat": "Line of Trees",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.07,
-        "allocated_extent": 0,
-        "remaining_extent": 0.07
-      },
-      {
-        "habitat": "Species-rich native hedgerow with trees",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.21,
-        "allocated_extent": 0,
-        "remaining_extent": 0.21
-      },
-      {
-        "habitat": "Other rivers and streams",
-        "condition": "Moderate",
-        "habitat_type": "watercourse",
-        "unit": "km",
-        "proposed_extent": 1.371,
-        "allocated_extent": 0,
-        "remaining_extent": 1.371
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-270326001",
@@ -20810,7 +20728,7 @@
     "lpa": "Hambleton LPA",
     "lnrs": "North Yorkshire and York",
     "authority": "North Yorkshire LPA",
-    "sizeHa": 1,
+    "sizeHa": 0,
     "first_seen_date": "2026-06-26",
     "record_status": "existing",
     "remaining": []
@@ -25953,10 +25871,56 @@
     "lpa": "Rotherham LPA",
     "lnrs": "South Yorkshire",
     "authority": "RSK Biocensus",
-    "sizeHa": 0,
+    "sizeHa": 27.31,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Individual trees - Rural tree",
+        "condition": "Poor",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.0615,
+        "allocated_extent": 0.0041,
+        "remaining_extent": 0.0574
+      },
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 13.7626,
+        "allocated_extent": 0.2311,
+        "remaining_extent": 13.5315
+      },
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 10.078,
+        "allocated_extent": 0.3766,
+        "remaining_extent": 9.7014
+      },
+      {
+        "habitat": "Woodland and forest - Other woodland; broadleaved",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 1.5919,
+        "allocated_extent": 0,
+        "remaining_extent": 1.5919
+      },
+      {
+        "habitat": "Species-rich native hedgerow",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.9867,
+        "allocated_extent": 0,
+        "remaining_extent": 0.9867
+      }
+    ]
   },
   {
     "code": "BGS-090326001",
