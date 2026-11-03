@@ -1,5 +1,14 @@
 [
   {
+    "code": "BGS-130526001",
+    "title": "Biodiversity gain site",
+    "lpa": "Cheshire East LPA",
+    "nca": "",
+    "lnrs": "Cheshire",
+    "gainSiteSizeHa": 11.29,
+    "first_seen_date": "2026-11-03"
+  },
+  {
     "code": "BGS-121026001",
     "title": "Biodiversity gain site",
     "lpa": "Wealden LPA",
@@ -171,15 +180,6 @@
     "first_seen_date": "2026-10-13"
   },
   {
-    "code": "BGS-100926002",
-    "title": "Biodiversity gain site",
-    "lpa": "Dacorum LPA",
-    "nca": "",
-    "lnrs": "Hertfordshire",
-    "gainSiteSizeHa": 64.55,
-    "first_seen_date": "2026-10-10"
-  },
-  {
     "code": "BGS-140926001",
     "title": "Biodiversity gain site",
     "lpa": "South Downs National Park LPA",
@@ -189,13 +189,13 @@
     "first_seen_date": "2026-10-10"
   },
   {
-    "code": "BGS-190826003",
+    "code": "BGS-100926002",
     "title": "Biodiversity gain site",
-    "lpa": "Wiltshire LPA",
+    "lpa": "Dacorum LPA",
     "nca": "",
-    "lnrs": "Wiltshire and Swindon",
-    "gainSiteSizeHa": 15,
-    "first_seen_date": "2026-10-07"
+    "lnrs": "Hertfordshire",
+    "gainSiteSizeHa": 64.55,
+    "first_seen_date": "2026-10-10"
   },
   {
     "code": "BGS-130826001",
@@ -207,6 +207,15 @@
     "first_seen_date": "2026-10-07"
   },
   {
+    "code": "BGS-190826003",
+    "title": "Biodiversity gain site",
+    "lpa": "Wiltshire LPA",
+    "nca": "",
+    "lnrs": "Wiltshire and Swindon",
+    "gainSiteSizeHa": 15,
+    "first_seen_date": "2026-10-07"
+  },
+  {
     "code": "BGS-070826001",
     "title": "Biodiversity gain site",
     "lpa": "Herefordshire, County of LPA",
@@ -214,14 +223,5 @@
     "lnrs": "Herefordshire",
     "gainSiteSizeHa": 28.46,
     "first_seen_date": "2026-10-07"
-  },
-  {
-    "code": "BGS-250826001",
-    "title": "Biodiversity gain site",
-    "lpa": "Stratford-on-Avon LPA",
-    "nca": "",
-    "lnrs": "Warwickshire",
-    "gainSiteSizeHa": 8.2,
-    "first_seen_date": "2026-10-06"
   }
 ]
