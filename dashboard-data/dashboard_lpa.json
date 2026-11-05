@@ -616,6 +616,14 @@
     "utilisation_percent": 6
   },
   {
+    "lpa": "County Durham LPA",
+    "site_count": 12,
+    "registered_habitat_hectares": 366.99,
+    "allocated_habitat_area": 17.97,
+    "remaining_habitat_area": 349.02,
+    "utilisation_percent": 4.9
+  },
+  {
     "lpa": "Bromley LPA",
     "site_count": 1,
     "registered_habitat_hectares": 28.78,
@@ -630,14 +638,6 @@
     "allocated_habitat_area": 2.51,
     "remaining_habitat_area": 52.67,
     "utilisation_percent": 4.6
-  },
-  {
-    "lpa": "County Durham LPA",
-    "site_count": 12,
-    "registered_habitat_hectares": 395.71,
-    "allocated_habitat_area": 17.97,
-    "remaining_habitat_area": 377.74,
-    "utilisation_percent": 4.5
   },
   {
     "lpa": "East Lindsey LPA",
