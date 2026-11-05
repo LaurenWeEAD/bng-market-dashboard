@@ -63,15 +63,6 @@
     "first_seen_date": "2026-10-24"
   },
   {
-    "code": "BGS-120426001",
-    "title": "Biodiversity gain site",
-    "lpa": "Northumberland LPA",
-    "nca": "",
-    "lnrs": "North of Tyne",
-    "gainSiteSizeHa": 0.39,
-    "first_seen_date": "2026-10-22"
-  },
-  {
     "code": "BGS-170926001",
     "title": "Biodiversity gain site",
     "lpa": "Chelmsford LPA",
@@ -87,6 +78,15 @@
     "nca": "",
     "lnrs": "Greater Lincolnshire",
     "gainSiteSizeHa": 18.63,
+    "first_seen_date": "2026-10-22"
+  },
+  {
+    "code": "BGS-120426001",
+    "title": "Biodiversity gain site",
+    "lpa": "Northumberland LPA",
+    "nca": "",
+    "lnrs": "North of Tyne",
+    "gainSiteSizeHa": 0.39,
     "first_seen_date": "2026-10-22"
   },
   {
@@ -126,21 +126,21 @@
     "first_seen_date": "2026-10-21"
   },
   {
-    "code": "BGS-170826001",
-    "title": "Biodiversity gain site",
-    "lpa": "Stratford-on-Avon LPA",
-    "nca": "",
-    "lnrs": "Warwickshire",
-    "gainSiteSizeHa": 26.26,
-    "first_seen_date": "2026-10-20"
-  },
-  {
     "code": "BGS-230926001",
     "title": "Biodiversity gain site",
     "lpa": "Hambleton LPA",
     "nca": "",
     "lnrs": "North Yorkshire and York",
     "gainSiteSizeHa": 9.46,
+    "first_seen_date": "2026-10-20"
+  },
+  {
+    "code": "BGS-170826001",
+    "title": "Biodiversity gain site",
+    "lpa": "Stratford-on-Avon LPA",
+    "nca": "",
+    "lnrs": "Warwickshire",
+    "gainSiteSizeHa": 26.26,
     "first_seen_date": "2026-10-20"
   },
   {
@@ -180,6 +180,15 @@
     "first_seen_date": "2026-10-13"
   },
   {
+    "code": "BGS-140926001",
+    "title": "Biodiversity gain site",
+    "lpa": "South Downs National Park LPA",
+    "nca": "",
+    "lnrs": "Hampshire",
+    "gainSiteSizeHa": 30.33,
+    "first_seen_date": "2026-10-10"
+  },
+  {
     "code": "BGS-100926002",
     "title": "Biodiversity gain site",
     "lpa": "Dacorum LPA",
@@ -189,13 +198,13 @@
     "first_seen_date": "2026-10-10"
   },
   {
-    "code": "BGS-140926001",
+    "code": "BGS-190826003",
     "title": "Biodiversity gain site",
-    "lpa": "South Downs National Park LPA",
+    "lpa": "Wiltshire LPA",
     "nca": "",
-    "lnrs": "Hampshire",
-    "gainSiteSizeHa": 30.33,
-    "first_seen_date": "2026-10-10"
+    "lnrs": "Wiltshire and Swindon",
+    "gainSiteSizeHa": 15,
+    "first_seen_date": "2026-10-07"
   },
   {
     "code": "BGS-130826001",
@@ -213,15 +222,6 @@
     "nca": "",
     "lnrs": "Herefordshire",
     "gainSiteSizeHa": 28.46,
-    "first_seen_date": "2026-10-07"
-  },
-  {
-    "code": "BGS-190826003",
-    "title": "Biodiversity gain site",
-    "lpa": "Wiltshire LPA",
-    "nca": "",
-    "lnrs": "Wiltshire and Swindon",
-    "gainSiteSizeHa": 15,
     "first_seen_date": "2026-10-07"
   }
 ]
