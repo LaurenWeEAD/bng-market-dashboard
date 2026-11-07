@@ -10280,83 +10280,10 @@
     "lpa": "Tunbridge Wells LPA",
     "lnrs": "Kent and Medway",
     "authority": "Plantlife International",
-    "sizeHa": 8.07,
+    "sizeHa": 0,
     "first_seen_date": "2026-07-17",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Heathland and shrub - Mixed scrub",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.342,
-        "allocated_extent": 0,
-        "remaining_extent": 0.342
-      },
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.425,
-        "allocated_extent": 0,
-        "remaining_extent": 0.425
-      },
-      {
-        "habitat": "Individual trees - Rural tree",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.0123,
-        "allocated_extent": 0,
-        "remaining_extent": 0.0123
-      },
-      {
-        "habitat": "Lakes - Ponds (non-priority habitat)",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.136,
-        "allocated_extent": 0,
-        "remaining_extent": 0.136
-      },
-      {
-        "habitat": "Grassland - Lowland meadows",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 6.438,
-        "allocated_extent": 0,
-        "remaining_extent": 6.438
-      },
-      {
-        "habitat": "Woodland and forest - Other woodland; broadleaved",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.729,
-        "allocated_extent": 0,
-        "remaining_extent": 0.729
-      },
-      {
-        "habitat": "Species-rich native hedgerow",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.426,
-        "allocated_extent": 0,
-        "remaining_extent": 0.426
-      },
-      {
-        "habitat": "Species-rich native hedgerow with trees",
-        "condition": "Moderate",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.428,
-        "allocated_extent": 0,
-        "remaining_extent": 0.428
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-060226001",
@@ -28260,7 +28187,7 @@
     "authority": "Fera Science Limited",
     "sizeHa": 61.84,
     "first_seen_date": "2026-11-07",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Woodland and forest - Lowland mixed deciduous woodland",

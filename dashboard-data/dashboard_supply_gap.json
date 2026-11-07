@@ -1210,9 +1210,9 @@
   {
     "lpa": "Tunbridge Wells LPA",
     "site_count": 1,
-    "registered_habitat_hectares": 8.08,
+    "registered_habitat_hectares": 0,
     "allocated_habitat_area": 0,
-    "remaining_habitat_area": 8.08,
+    "remaining_habitat_area": 0,
     "utilisation_percent": 0
   },
   {
