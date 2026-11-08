@@ -216,14 +216,6 @@
     "utilisation_percent": 31.4
   },
   {
-    "lpa": "Scarborough LPA",
-    "site_count": 2,
-    "registered_habitat_hectares": 13.56,
-    "allocated_habitat_area": 4.09,
-    "remaining_habitat_area": 9.46,
-    "utilisation_percent": 30.2
-  },
-  {
     "lpa": "Bolton LPA",
     "site_count": 4,
     "registered_habitat_hectares": 79.02,
@@ -254,6 +246,14 @@
     "allocated_habitat_area": 12.61,
     "remaining_habitat_area": 49.17,
     "utilisation_percent": 20.4
+  },
+  {
+    "lpa": "Scarborough LPA",
+    "site_count": 2,
+    "registered_habitat_hectares": 27.07,
+    "allocated_habitat_area": 5.5,
+    "remaining_habitat_area": 21.58,
+    "utilisation_percent": 20.3
   },
   {
     "lpa": "Rochdale LPA",

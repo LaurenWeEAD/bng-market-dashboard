@@ -18969,10 +18969,47 @@
     "lpa": "Scarborough LPA",
     "lnrs": "North Yorkshire and York",
     "authority": "RSK Biocensus Limited",
-    "sizeHa": 0,
+    "sizeHa": 14.58,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 2.3361,
+        "allocated_extent": 0.0354,
+        "remaining_extent": 2.3007
+      },
+      {
+        "habitat": "Grassland - Lowland meadows",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 8.8921,
+        "allocated_extent": 0.0243,
+        "remaining_extent": 8.8678
+      },
+      {
+        "habitat": "Lakes - Ponds (Priority Habitat)",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.0888,
+        "allocated_extent": 0,
+        "remaining_extent": 0.0888
+      },
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 2.2011,
+        "allocated_extent": 1.3463,
+        "remaining_extent": 0.8548
+      }
+    ]
   },
   {
     "code": "BGS-260326001",
