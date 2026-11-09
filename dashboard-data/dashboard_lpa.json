@@ -16,14 +16,6 @@
     "utilisation_percent": 100
   },
   {
-    "lpa": "Blackpool LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 1.04,
-    "allocated_habitat_area": 1.04,
-    "remaining_habitat_area": 0,
-    "utilisation_percent": 100
-  },
-  {
     "lpa": "Dartford LPA",
     "site_count": 1,
     "registered_habitat_hectares": 0.21,
@@ -1221,6 +1213,14 @@
     "registered_habitat_hectares": 21.9,
     "allocated_habitat_area": 0,
     "remaining_habitat_area": 21.9,
+    "utilisation_percent": 0
+  },
+  {
+    "lpa": "Blackpool LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 0,
+    "allocated_habitat_area": 0,
+    "remaining_habitat_area": 0,
     "utilisation_percent": 0
   },
   {
