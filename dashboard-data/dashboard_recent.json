@@ -9,21 +9,21 @@
     "first_seen_date": "2026-11-07"
   },
   {
-    "code": "BGS-140125001 - 05/11/2026 14:33",
-    "title": "Biodiversity gain site",
-    "lpa": "East Suffolk LPA",
-    "nca": "",
-    "lnrs": "Suffolk",
-    "gainSiteSizeHa": 0,
-    "first_seen_date": "2026-11-06"
-  },
-  {
     "code": "BGS-161026001",
     "title": "Biodiversity gain site",
     "lpa": "King’s Lynn and West Norfolk LPA",
     "nca": "",
     "lnrs": "Norfolk",
     "gainSiteSizeHa": 64.58,
+    "first_seen_date": "2026-11-06"
+  },
+  {
+    "code": "BGS-140125001 - 05/11/2026 14:33",
+    "title": "Biodiversity gain site",
+    "lpa": "East Suffolk LPA",
+    "nca": "",
+    "lnrs": "Suffolk",
+    "gainSiteSizeHa": 0,
     "first_seen_date": "2026-11-06"
   },
   {
@@ -99,12 +99,12 @@
     "first_seen_date": "2026-10-24"
   },
   {
-    "code": "BGS-230626003",
+    "code": "BGS-120426001",
     "title": "Biodiversity gain site",
-    "lpa": "North Lincolnshire LPA",
+    "lpa": "Northumberland LPA",
     "nca": "",
-    "lnrs": "Greater Lincolnshire",
-    "gainSiteSizeHa": 18.63,
+    "lnrs": "North of Tyne",
+    "gainSiteSizeHa": 0.39,
     "first_seen_date": "2026-10-22"
   },
   {
@@ -117,21 +117,21 @@
     "first_seen_date": "2026-10-22"
   },
   {
-    "code": "BGS-120426001",
-    "title": "Biodiversity gain site",
-    "lpa": "Northumberland LPA",
-    "nca": "",
-    "lnrs": "North of Tyne",
-    "gainSiteSizeHa": 0.39,
-    "first_seen_date": "2026-10-22"
-  },
-  {
     "code": "BGS-021026002",
     "title": "Biodiversity gain site",
     "lpa": "Cherwell LPA",
     "nca": "",
     "lnrs": "Oxfordshire",
     "gainSiteSizeHa": 21.46,
+    "first_seen_date": "2026-10-22"
+  },
+  {
+    "code": "BGS-230626003",
+    "title": "Biodiversity gain site",
+    "lpa": "North Lincolnshire LPA",
+    "nca": "",
+    "lnrs": "Greater Lincolnshire",
+    "gainSiteSizeHa": 18.63,
     "first_seen_date": "2026-10-22"
   },
   {
@@ -144,15 +144,6 @@
     "first_seen_date": "2026-10-21"
   },
   {
-    "code": "BGS-200726004",
-    "title": "Biodiversity gain site",
-    "lpa": "Richmondshire LPA",
-    "nca": "",
-    "lnrs": "North Yorkshire and York",
-    "gainSiteSizeHa": 15.21,
-    "first_seen_date": "2026-10-21"
-  },
-  {
     "code": "BGS-280826002",
     "title": "Biodiversity gain site",
     "lpa": "Leeds LPA",
@@ -162,13 +153,13 @@
     "first_seen_date": "2026-10-21"
   },
   {
-    "code": "BGS-230926001",
+    "code": "BGS-200726004",
     "title": "Biodiversity gain site",
-    "lpa": "Hambleton LPA",
+    "lpa": "Richmondshire LPA",
     "nca": "",
     "lnrs": "North Yorkshire and York",
-    "gainSiteSizeHa": 9.46,
-    "first_seen_date": "2026-10-20"
+    "gainSiteSizeHa": 15.21,
+    "first_seen_date": "2026-10-21"
   },
   {
     "code": "BGS-170826001",
@@ -177,6 +168,15 @@
     "nca": "",
     "lnrs": "Warwickshire",
     "gainSiteSizeHa": 26.26,
+    "first_seen_date": "2026-10-20"
+  },
+  {
+    "code": "BGS-230926001",
+    "title": "Biodiversity gain site",
+    "lpa": "Hambleton LPA",
+    "nca": "",
+    "lnrs": "North Yorkshire and York",
+    "gainSiteSizeHa": 9.46,
     "first_seen_date": "2026-10-20"
   },
   {
