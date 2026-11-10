@@ -88,20 +88,20 @@
     "utilisation_percent": 80.4
   },
   {
+    "lpa": "Wigan LPA",
+    "site_count": 2,
+    "registered_habitat_hectares": 26.43,
+    "allocated_habitat_area": 21.23,
+    "remaining_habitat_area": 5.2,
+    "utilisation_percent": 80.3
+  },
+  {
     "lpa": "Barnsley LPA",
     "site_count": 2,
     "registered_habitat_hectares": 24.58,
     "allocated_habitat_area": 17.96,
     "remaining_habitat_area": 6.62,
     "utilisation_percent": 73.1
-  },
-  {
-    "lpa": "Wigan LPA",
-    "site_count": 2,
-    "registered_habitat_hectares": 35.2,
-    "allocated_habitat_area": 22.68,
-    "remaining_habitat_area": 12.52,
-    "utilisation_percent": 64.4
   },
   {
     "lpa": "Wychavon LPA",
@@ -350,14 +350,6 @@
     "allocated_habitat_area": 4.76,
     "remaining_habitat_area": 31.93,
     "utilisation_percent": 13
-  },
-  {
-    "lpa": "North Warwickshire LPA",
-    "site_count": 2,
-    "registered_habitat_hectares": 18.66,
-    "allocated_habitat_area": 2.41,
-    "remaining_habitat_area": 16.25,
-    "utilisation_percent": 12.9
   },
   {
     "lpa": "West Lindsey LPA",
@@ -1165,6 +1157,14 @@
     "registered_habitat_hectares": 19.66,
     "allocated_habitat_area": 0,
     "remaining_habitat_area": 19.66,
+    "utilisation_percent": 0
+  },
+  {
+    "lpa": "North Warwickshire LPA",
+    "site_count": 2,
+    "registered_habitat_hectares": 8.27,
+    "allocated_habitat_area": 0,
+    "remaining_habitat_area": 8.27,
     "utilisation_percent": 0
   },
   {

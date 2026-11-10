@@ -6589,7 +6589,7 @@
     "authority": "RSK Biocensus Limited",
     "sizeHa": 29.37,
     "first_seen_date": "2026-11-10",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Grassland - Other neutral grassland",
@@ -10084,74 +10084,10 @@
     "lpa": "Wigan LPA",
     "lnrs": "Greater Manchester",
     "authority": "Wigan LPA",
-    "sizeHa": 9.97,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Woodland and forest - Other woodland; broadleaved",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 1.146,
-        "allocated_extent": 0,
-        "remaining_extent": 1.146
-      },
-      {
-        "habitat": "Grassland - Lowland meadows",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 7.368,
-        "allocated_extent": 1.4556,
-        "remaining_extent": 5.9124
-      },
-      {
-        "habitat": "Heathland and shrub - Lowland Heathland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.262,
-        "allocated_extent": 0,
-        "remaining_extent": 0.262
-      },
-      {
-        "habitat": "Species-rich native hedgerow with trees - associated with bank or ditch",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.212,
-        "allocated_extent": 0,
-        "remaining_extent": 0.212
-      },
-      {
-        "habitat": "Species-rich native hedgerow - associated with bank or ditch",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.217,
-        "allocated_extent": 0,
-        "remaining_extent": 0.217
-      },
-      {
-        "habitat": "Species-rich native hedgerow",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.768,
-        "allocated_extent": 0.0682,
-        "remaining_extent": 0.6998
-      },
-      {
-        "habitat": "Species-rich native hedgerow with trees",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.327,
-        "allocated_extent": 0,
-        "remaining_extent": 0.327
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-190325001",
@@ -17954,56 +17890,10 @@
     "lpa": "North Warwickshire LPA",
     "lnrs": "Warwickshire",
     "authority": "Warwickshire County Council",
-    "sizeHa": 10.4,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 9.778,
-        "allocated_extent": 1.8583,
-        "remaining_extent": 7.9197
-      },
-      {
-        "habitat": "Woodland and forest - Other woodland; broadleaved",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.613,
-        "allocated_extent": 0.5517,
-        "remaining_extent": 0.0613
-      },
-      {
-        "habitat": "Species-rich native hedgerow",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.216,
-        "allocated_extent": 0,
-        "remaining_extent": 0.216
-      },
-      {
-        "habitat": "Species-rich native hedgerow with trees",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.334,
-        "allocated_extent": 0,
-        "remaining_extent": 0.334
-      },
-      {
-        "habitat": "Native Hedgerow",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.101,
-        "allocated_extent": 0,
-        "remaining_extent": 0.101
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-060324001",
