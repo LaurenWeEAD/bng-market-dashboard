@@ -7271,7 +7271,7 @@
     "authority": "On Nature Ltd",
     "sizeHa": 17.85,
     "first_seen_date": "2026-11-11",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Woodland and forest - Other woodland; broadleaved",
@@ -10967,10 +10967,74 @@
     "lpa": "Thanet LPA",
     "lnrs": "Kent and Medway",
     "authority": "Thanet LPA",
-    "sizeHa": 0,
+    "sizeHa": 8.7,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.364,
+        "allocated_extent": 0,
+        "remaining_extent": 0.364
+      },
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 8.068,
+        "allocated_extent": 0,
+        "remaining_extent": 8.068
+      },
+      {
+        "habitat": "Line of Trees",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.308,
+        "allocated_extent": 0,
+        "remaining_extent": 0.308
+      },
+      {
+        "habitat": "Native hedgerow - associated with bank or ditch",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.119,
+        "allocated_extent": 0,
+        "remaining_extent": 0.119
+      },
+      {
+        "habitat": "Native hedgerow with trees - associated with bank or ditch",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.119,
+        "allocated_extent": 0,
+        "remaining_extent": 0.119
+      },
+      {
+        "habitat": "Species-rich native hedgerow",
+        "condition": "Moderate",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.852,
+        "allocated_extent": 0,
+        "remaining_extent": 0.852
+      },
+      {
+        "habitat": "Ditches",
+        "condition": "Good",
+        "habitat_type": "watercourse",
+        "unit": "km",
+        "proposed_extent": 0.489,
+        "allocated_extent": 0.0643,
+        "remaining_extent": 0.4247
+      }
+    ]
   },
   {
     "code": "BGS-091024001",
@@ -27771,10 +27835,119 @@
     "lpa": "Test Valley LPA",
     "lnrs": "Hampshire",
     "authority": "The Lifescape Project",
-    "sizeHa": 0,
+    "sizeHa": 20.24,
     "first_seen_date": "2026-06-09",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 9.9533,
+        "allocated_extent": 0,
+        "remaining_extent": 9.9533
+      },
+      {
+        "habitat": "Heathland and shrub - Blackthorn scrub",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.5859,
+        "allocated_extent": 0,
+        "remaining_extent": 0.5859
+      },
+      {
+        "habitat": "Grassland - Modified grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.0176,
+        "allocated_extent": 0,
+        "remaining_extent": 0.0176
+      },
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.6486,
+        "allocated_extent": 0.0211,
+        "remaining_extent": 0.6275
+      },
+      {
+        "habitat": "Grassland - Traditional orchards",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.6977,
+        "allocated_extent": 0.0043,
+        "remaining_extent": 0.6934
+      },
+      {
+        "habitat": "Urban - Artificial unvegetated, unsealed surface",
+        "condition": "Unable to Map",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.028,
+        "allocated_extent": 0,
+        "remaining_extent": 0.028
+      },
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 4.7689,
+        "allocated_extent": 0.0547,
+        "remaining_extent": 4.7142
+      },
+      {
+        "habitat": "Woodland and forest - Lowland mixed deciduous woodland",
+        "condition": "Poor",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 1.6,
+        "allocated_extent": 0,
+        "remaining_extent": 1.6
+      },
+      {
+        "habitat": "Grassland - Lowland calcareous grassland",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 1.0476,
+        "allocated_extent": 0,
+        "remaining_extent": 1.0476
+      },
+      {
+        "habitat": "Grassland - Modified grassland",
+        "condition": "Poor",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.3059,
+        "allocated_extent": 0,
+        "remaining_extent": 0.3059
+      },
+      {
+        "habitat": "Species-rich native hedgerow",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 1.031,
+        "allocated_extent": 0,
+        "remaining_extent": 1.031
+      },
+      {
+        "habitat": "Species-rich native hedgerow with trees",
+        "condition": "Good",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.324,
+        "allocated_extent": 0,
+        "remaining_extent": 0.324
+      }
+    ]
   },
   {
     "code": "BGS-210325001",
