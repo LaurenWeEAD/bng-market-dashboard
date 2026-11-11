@@ -33,51 +33,51 @@
   },
   {
     "group": "Urban",
-    "registered_extent": 91.65,
+    "registered_extent": 91.62,
     "allocated_extent": 11.01,
-    "available_extent": 80.64,
+    "available_extent": 80.61,
     "allocated_units": 126.19,
     "utilisation_percent": 12
   },
   {
     "group": "Watercourse",
-    "registered_extent": 100.59,
-    "allocated_extent": 11.22,
-    "available_extent": 89.37,
-    "allocated_units": 29.65,
-    "utilisation_percent": 11.2
+    "registered_extent": 100.1,
+    "allocated_extent": 11.15,
+    "available_extent": 88.95,
+    "allocated_units": 29.43,
+    "utilisation_percent": 11.1
   },
   {
     "group": "Grassland",
-    "registered_extent": 8162.92,
-    "allocated_extent": 673.74,
-    "available_extent": 7489.18,
-    "allocated_units": 3592.16,
-    "utilisation_percent": 8.3
+    "registered_extent": 8159.54,
+    "allocated_extent": 682.35,
+    "available_extent": 7477.19,
+    "allocated_units": 3652.24,
+    "utilisation_percent": 8.4
   },
   {
     "group": "Heathland and Shrub",
-    "registered_extent": 1459.15,
-    "allocated_extent": 103.99,
-    "available_extent": 1355.16,
-    "allocated_units": 1531.8,
+    "registered_extent": 1468.31,
+    "allocated_extent": 104.13,
+    "available_extent": 1364.18,
+    "allocated_units": 1560.88,
     "utilisation_percent": 7.1
   },
   {
     "group": "Woodland and Forest",
-    "registered_extent": 1353.9,
-    "allocated_extent": 74.69,
-    "available_extent": 1279.21,
-    "allocated_units": 485.35,
-    "utilisation_percent": 5.5
+    "registered_extent": 1356.88,
+    "allocated_extent": 75.32,
+    "available_extent": 1281.56,
+    "allocated_units": 517.82,
+    "utilisation_percent": 5.6
   },
   {
     "group": "Hedgerow",
-    "registered_extent": 419.7,
-    "allocated_extent": 11.95,
-    "available_extent": 407.75,
-    "allocated_units": 63.23,
-    "utilisation_percent": 2.8
+    "registered_extent": 419.58,
+    "allocated_extent": 12.03,
+    "available_extent": 407.55,
+    "allocated_units": 63.73,
+    "utilisation_percent": 2.9
   },
   {
     "group": "Wetland",

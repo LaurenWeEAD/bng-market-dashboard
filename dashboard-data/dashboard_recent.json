@@ -1,5 +1,14 @@
 [
   {
+    "code": "BGS-040926002",
+    "title": "Biodiversity gain site",
+    "lpa": "Richmondshire LPA",
+    "nca": "",
+    "lnrs": "North Yorkshire and York",
+    "gainSiteSizeHa": 17.85,
+    "first_seen_date": "2026-11-11"
+  },
+  {
     "code": "BGS-280126004",
     "title": "Biodiversity gain site",
     "lpa": "North Somerset LPA",
@@ -81,6 +90,15 @@
     "first_seen_date": "2026-10-27"
   },
   {
+    "code": "BGS-290926001",
+    "title": "Biodiversity gain site",
+    "lpa": "East Riding of Yorkshire LPA",
+    "nca": "",
+    "lnrs": "Hull and East Yorkshire",
+    "gainSiteSizeHa": 0.7,
+    "first_seen_date": "2026-10-24"
+  },
+  {
     "code": "BGS-110926001",
     "title": "Biodiversity gain site",
     "lpa": "Babergh LPA",
@@ -90,13 +108,13 @@
     "first_seen_date": "2026-10-24"
   },
   {
-    "code": "BGS-290926001",
+    "code": "BGS-021026002",
     "title": "Biodiversity gain site",
-    "lpa": "East Riding of Yorkshire LPA",
+    "lpa": "Cherwell LPA",
     "nca": "",
-    "lnrs": "Hull and East Yorkshire",
-    "gainSiteSizeHa": 0.7,
-    "first_seen_date": "2026-10-24"
+    "lnrs": "Oxfordshire",
+    "gainSiteSizeHa": 21.46,
+    "first_seen_date": "2026-10-22"
   },
   {
     "code": "BGS-120426001",
@@ -117,15 +135,6 @@
     "first_seen_date": "2026-10-22"
   },
   {
-    "code": "BGS-021026002",
-    "title": "Biodiversity gain site",
-    "lpa": "Cherwell LPA",
-    "nca": "",
-    "lnrs": "Oxfordshire",
-    "gainSiteSizeHa": 21.46,
-    "first_seen_date": "2026-10-22"
-  },
-  {
     "code": "BGS-230626003",
     "title": "Biodiversity gain site",
     "lpa": "North Lincolnshire LPA",
@@ -133,6 +142,15 @@
     "lnrs": "Greater Lincolnshire",
     "gainSiteSizeHa": 18.63,
     "first_seen_date": "2026-10-22"
+  },
+  {
+    "code": "BGS-280826002",
+    "title": "Biodiversity gain site",
+    "lpa": "Leeds LPA",
+    "nca": "",
+    "lnrs": "West Yorkshire",
+    "gainSiteSizeHa": 17.3,
+    "first_seen_date": "2026-10-21"
   },
   {
     "code": "BGS-040926001",
@@ -153,13 +171,13 @@
     "first_seen_date": "2026-10-21"
   },
   {
-    "code": "BGS-280826002",
+    "code": "BGS-170826001",
     "title": "Biodiversity gain site",
-    "lpa": "Leeds LPA",
+    "lpa": "Stratford-on-Avon LPA",
     "nca": "",
-    "lnrs": "West Yorkshire",
-    "gainSiteSizeHa": 17.3,
-    "first_seen_date": "2026-10-21"
+    "lnrs": "Warwickshire",
+    "gainSiteSizeHa": 26.26,
+    "first_seen_date": "2026-10-20"
   },
   {
     "code": "BGS-270926001",
@@ -177,15 +195,6 @@
     "nca": "",
     "lnrs": "North Yorkshire and York",
     "gainSiteSizeHa": 9.46,
-    "first_seen_date": "2026-10-20"
-  },
-  {
-    "code": "BGS-170826001",
-    "title": "Biodiversity gain site",
-    "lpa": "Stratford-on-Avon LPA",
-    "nca": "",
-    "lnrs": "Warwickshire",
-    "gainSiteSizeHa": 26.26,
     "first_seen_date": "2026-10-20"
   },
   {
@@ -214,14 +223,5 @@
     "lnrs": "Staffordshire and Stoke-on-Trent",
     "gainSiteSizeHa": 0.15,
     "first_seen_date": "2026-10-13"
-  },
-  {
-    "code": "BGS-140926001",
-    "title": "Biodiversity gain site",
-    "lpa": "South Downs National Park LPA",
-    "nca": "",
-    "lnrs": "Hampshire",
-    "gainSiteSizeHa": 30.33,
-    "first_seen_date": "2026-10-10"
   }
 ]
