@@ -14338,110 +14338,10 @@
     "lpa": "Redcar and Cleveland LPA",
     "lnrs": "Tees Valley",
     "authority": "Harry Ferguson Holdings",
-    "sizeHa": 48.43,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Grassland - Traditional orchards",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 19.8782,
-        "allocated_extent": 14.8298,
-        "remaining_extent": 5.0484
-      },
-      {
-        "habitat": "Woodland and forest - Lowland mixed deciduous woodland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.9848,
-        "allocated_extent": 0.9775,
-        "remaining_extent": 0.0073
-      },
-      {
-        "habitat": "Woodland and forest - Other woodland; broadleaved",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.1056,
-        "allocated_extent": 0.0917,
-        "remaining_extent": 0.0139
-      },
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 2.994,
-        "allocated_extent": 2.4681,
-        "remaining_extent": 0.5259
-      },
-      {
-        "habitat": "Heathland and shrub - Mixed scrub",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 23.9318,
-        "allocated_extent": 22.9569,
-        "remaining_extent": 0.9749
-      },
-      {
-        "habitat": "Species-rich native hedgerow with trees",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 2.001,
-        "allocated_extent": 0.4106,
-        "remaining_extent": 1.5904
-      },
-      {
-        "habitat": "Species-rich native hedgerow with trees - associated with bank or ditch",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.511,
-        "allocated_extent": 0.0027,
-        "remaining_extent": 0.5083
-      },
-      {
-        "habitat": "Species-rich native hedgerow with trees",
-        "condition": "Moderate",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.35,
-        "allocated_extent": 0,
-        "remaining_extent": 0.35
-      },
-      {
-        "habitat": "Other rivers and streams",
-        "condition": "Moderate",
-        "habitat_type": "watercourse",
-        "unit": "km",
-        "proposed_extent": 0.805,
-        "allocated_extent": 0.7952,
-        "remaining_extent": 0.0098
-      },
-      {
-        "habitat": "Ditches",
-        "condition": "Moderate",
-        "habitat_type": "watercourse",
-        "unit": "km",
-        "proposed_extent": 0.194,
-        "allocated_extent": 0.1935,
-        "remaining_extent": 0.0005
-      },
-      {
-        "habitat": "Other rivers and streams",
-        "condition": "Fairly Good",
-        "habitat_type": "watercourse",
-        "unit": "km",
-        "proposed_extent": 0.279,
-        "allocated_extent": 0.2679,
-        "remaining_extent": 0.0111
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-150626001",
@@ -23837,10 +23737,20 @@
     "lpa": "County Durham LPA",
     "lnrs": "County Durham",
     "authority": "County Durham LPA",
-    "sizeHa": 0,
+    "sizeHa": 6.15,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Woodland and forest - Lowland mixed deciduous woodland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 6.15,
+        "allocated_extent": 0,
+        "remaining_extent": 6.15
+      }
+    ]
   },
   {
     "code": "BGS-011025001",

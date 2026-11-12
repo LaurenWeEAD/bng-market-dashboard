@@ -64,14 +64,6 @@
     "utilisation_percent": 89.1
   },
   {
-    "lpa": "Redcar and Cleveland LPA",
-    "site_count": 1,
-    "registered_habitat_hectares": 47.89,
-    "allocated_habitat_area": 41.32,
-    "remaining_habitat_area": 6.57,
-    "utilisation_percent": 86.3
-  },
-  {
     "lpa": "North Kesteven LPA",
     "site_count": 2,
     "registered_habitat_hectares": 14.58,
@@ -594,10 +586,10 @@
   {
     "lpa": "County Durham LPA",
     "site_count": 12,
-    "registered_habitat_hectares": 389.56,
+    "registered_habitat_hectares": 395.71,
     "allocated_habitat_area": 24.88,
-    "remaining_habitat_area": 364.68,
-    "utilisation_percent": 6.4
+    "remaining_habitat_area": 370.83,
+    "utilisation_percent": 6.3
   },
   {
     "lpa": "East Staffordshire LPA",
@@ -1253,6 +1245,14 @@
     "registered_habitat_hectares": 12.98,
     "allocated_habitat_area": 0,
     "remaining_habitat_area": 12.98,
+    "utilisation_percent": 0
+  },
+  {
+    "lpa": "Redcar and Cleveland LPA",
+    "site_count": 1,
+    "registered_habitat_hectares": 0,
+    "allocated_habitat_area": 0,
+    "remaining_habitat_area": 0,
     "utilisation_percent": 0
   },
   {
