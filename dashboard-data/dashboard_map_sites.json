@@ -6683,10 +6683,92 @@
     "lpa": "South Norfolk LPA",
     "lnrs": "Norfolk",
     "authority": "RSK Biocensus Limited",
-    "sizeHa": 0,
+    "sizeHa": 22.66,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": []
+    "remaining": [
+      {
+        "habitat": "Lakes - Ponds (non-priority habitat)",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.804,
+        "allocated_extent": 0,
+        "remaining_extent": 0.804
+      },
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 3.264,
+        "allocated_extent": 0.0234,
+        "remaining_extent": 3.2406
+      },
+      {
+        "habitat": "Heathland and shrub - Mixed scrub",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.391,
+        "allocated_extent": 0.049,
+        "remaining_extent": 0.342
+      },
+      {
+        "habitat": "Grassland - Lowland meadows",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 3.887,
+        "allocated_extent": 0.3394,
+        "remaining_extent": 3.5476
+      },
+      {
+        "habitat": "Grassland - Other neutral grassland",
+        "condition": "Good",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 11.429,
+        "allocated_extent": 1.0478,
+        "remaining_extent": 10.3812
+      },
+      {
+        "habitat": "Grassland - Modified grassland",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 0.349,
+        "allocated_extent": 0,
+        "remaining_extent": 0.349
+      },
+      {
+        "habitat": "Grassland - Traditional orchards",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 1.089,
+        "allocated_extent": 0.0168,
+        "remaining_extent": 1.0722
+      },
+      {
+        "habitat": "Woodland and forest - Other woodland; broadleaved",
+        "condition": "Moderate",
+        "habitat_type": "habitat",
+        "unit": "ha",
+        "proposed_extent": 1.179,
+        "allocated_extent": 0.0079,
+        "remaining_extent": 1.1711
+      },
+      {
+        "habitat": "Species-rich native hedgerow with trees",
+        "condition": "Moderate",
+        "habitat_type": "hedgerow",
+        "unit": "km",
+        "proposed_extent": 0.5064,
+        "allocated_extent": 0.2284,
+        "remaining_extent": 0.278
+      }
+    ]
   },
   {
     "code": "BGS-040924001",
@@ -8065,47 +8147,10 @@
     "lpa": "Dartmoor National Park LPA",
     "lnrs": "Devon",
     "authority": "Dartmoor National Park LPA",
-    "sizeHa": 6.14,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Woodland and forest - Other woodland; broadleaved",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.351,
-        "allocated_extent": 0,
-        "remaining_extent": 0.351
-      },
-      {
-        "habitat": "Grassland - Lowland meadows",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 1.453,
-        "allocated_extent": 0.0344,
-        "remaining_extent": 1.4186
-      },
-      {
-        "habitat": "Heathland and shrub - Mixed scrub",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 4.082,
-        "allocated_extent": 0.303,
-        "remaining_extent": 3.779
-      },
-      {
-        "habitat": "Species-rich native hedgerow with trees - associated with bank or ditch",
-        "condition": "Good",
-        "habitat_type": "hedgerow",
-        "unit": "km",
-        "proposed_extent": 0.181,
-        "allocated_extent": 0,
-        "remaining_extent": 0.181
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-270625001",
@@ -16959,7 +17004,7 @@
     "lpa": "North York Moors National Park LPA",
     "lnrs": "North Yorkshire and York",
     "authority": "Ryedale LPA, North Yorkshire LPA",
-    "sizeHa": 0,
+    "sizeHa": 1.67,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
     "remaining": []
