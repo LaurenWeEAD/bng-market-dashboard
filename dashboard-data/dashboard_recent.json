@@ -90,21 +90,21 @@
     "first_seen_date": "2026-10-27"
   },
   {
-    "code": "BGS-110926001",
-    "title": "Biodiversity gain site",
-    "lpa": "Babergh LPA",
-    "nca": "",
-    "lnrs": "Suffolk",
-    "gainSiteSizeHa": 76.26,
-    "first_seen_date": "2026-10-24"
-  },
-  {
     "code": "BGS-290926001",
     "title": "Biodiversity gain site",
     "lpa": "East Riding of Yorkshire LPA",
     "nca": "",
     "lnrs": "Hull and East Yorkshire",
     "gainSiteSizeHa": 0.7,
+    "first_seen_date": "2026-10-24"
+  },
+  {
+    "code": "BGS-110926001",
+    "title": "Biodiversity gain site",
+    "lpa": "Babergh LPA",
+    "nca": "",
+    "lnrs": "Suffolk",
+    "gainSiteSizeHa": 76.26,
     "first_seen_date": "2026-10-24"
   },
   {
@@ -126,15 +126,6 @@
     "first_seen_date": "2026-10-22"
   },
   {
-    "code": "BGS-021026002",
-    "title": "Biodiversity gain site",
-    "lpa": "Cherwell LPA",
-    "nca": "",
-    "lnrs": "Oxfordshire",
-    "gainSiteSizeHa": 21.46,
-    "first_seen_date": "2026-10-22"
-  },
-  {
     "code": "BGS-120426001",
     "title": "Biodiversity gain site",
     "lpa": "Northumberland LPA",
@@ -144,13 +135,13 @@
     "first_seen_date": "2026-10-22"
   },
   {
-    "code": "BGS-280826002",
+    "code": "BGS-021026002",
     "title": "Biodiversity gain site",
-    "lpa": "Leeds LPA",
+    "lpa": "Cherwell LPA",
     "nca": "",
-    "lnrs": "West Yorkshire",
-    "gainSiteSizeHa": 17.3,
-    "first_seen_date": "2026-10-21"
+    "lnrs": "Oxfordshire",
+    "gainSiteSizeHa": 21.46,
+    "first_seen_date": "2026-10-22"
   },
   {
     "code": "BGS-200726004",
@@ -171,6 +162,15 @@
     "first_seen_date": "2026-10-21"
   },
   {
+    "code": "BGS-280826002",
+    "title": "Biodiversity gain site",
+    "lpa": "Leeds LPA",
+    "nca": "",
+    "lnrs": "West Yorkshire",
+    "gainSiteSizeHa": 17.3,
+    "first_seen_date": "2026-10-21"
+  },
+  {
     "code": "BGS-230926001",
     "title": "Biodiversity gain site",
     "lpa": "Hambleton LPA",
@@ -180,21 +180,21 @@
     "first_seen_date": "2026-10-20"
   },
   {
-    "code": "BGS-270926001",
-    "title": "Biodiversity gain site",
-    "lpa": "Hambleton LPA",
-    "nca": "",
-    "lnrs": "North Yorkshire and York",
-    "gainSiteSizeHa": 8.73,
-    "first_seen_date": "2026-10-20"
-  },
-  {
     "code": "BGS-170826001",
     "title": "Biodiversity gain site",
     "lpa": "Stratford-on-Avon LPA",
     "nca": "",
     "lnrs": "Warwickshire",
     "gainSiteSizeHa": 26.26,
+    "first_seen_date": "2026-10-20"
+  },
+  {
+    "code": "BGS-270926001",
+    "title": "Biodiversity gain site",
+    "lpa": "Hambleton LPA",
+    "nca": "",
+    "lnrs": "North Yorkshire and York",
+    "gainSiteSizeHa": 8.73,
     "first_seen_date": "2026-10-20"
   },
   {
