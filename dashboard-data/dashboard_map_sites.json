@@ -9131,7 +9131,7 @@
     "lpa": "St Albans LPA",
     "lnrs": "Hertfordshire",
     "authority": "St Albans LPA",
-    "sizeHa": 0.49,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-28",
     "record_status": "existing",
     "remaining": []
@@ -19263,56 +19263,10 @@
     "lpa": "Isle of Wight LPA",
     "lnrs": "Isle of Wight",
     "authority": "Isle of Wight LPA",
-    "sizeHa": 6.41,
+    "sizeHa": 0,
     "first_seen_date": "2026-05-26",
     "record_status": "existing",
-    "remaining": [
-      {
-        "habitat": "Grassland - Lowland meadows",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 3.17,
-        "allocated_extent": 0.1328,
-        "remaining_extent": 3.0372
-      },
-      {
-        "habitat": "Grassland - Other neutral grassland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 0.32,
-        "allocated_extent": 0,
-        "remaining_extent": 0.32
-      },
-      {
-        "habitat": "Grassland - Traditional orchards",
-        "condition": "Moderate",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 1.7,
-        "allocated_extent": 0,
-        "remaining_extent": 1.7
-      },
-      {
-        "habitat": "Woodland and forest - Lowland mixed deciduous woodland",
-        "condition": "Good",
-        "habitat_type": "habitat",
-        "unit": "ha",
-        "proposed_extent": 1.22,
-        "allocated_extent": 0,
-        "remaining_extent": 1.22
-      },
-      {
-        "habitat": "Ditches",
-        "condition": "Moderate",
-        "habitat_type": "watercourse",
-        "unit": "km",
-        "proposed_extent": 0.206,
-        "allocated_extent": 0,
-        "remaining_extent": 0.206
-      }
-    ]
+    "remaining": []
   },
   {
     "code": "BGS-160326001",
@@ -27703,7 +27657,7 @@
     "authority": "The Land Trust",
     "sizeHa": 10.29,
     "first_seen_date": "2026-11-14",
-    "record_status": "new",
+    "record_status": "existing",
     "remaining": [
       {
         "habitat": "Grassland - Upland acid grassland",

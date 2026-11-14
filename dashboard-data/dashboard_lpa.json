@@ -264,20 +264,20 @@
     "utilisation_percent": 20.2
   },
   {
+    "lpa": "Isle of Wight LPA",
+    "site_count": 5,
+    "registered_habitat_hectares": 85.63,
+    "allocated_habitat_area": 16.12,
+    "remaining_habitat_area": 69.51,
+    "utilisation_percent": 18.8
+  },
+  {
     "lpa": "Milton Keynes LPA",
     "site_count": 1,
     "registered_habitat_hectares": 37.91,
     "allocated_habitat_area": 6.85,
     "remaining_habitat_area": 31.06,
     "utilisation_percent": 18.1
-  },
-  {
-    "lpa": "Isle of Wight LPA",
-    "site_count": 5,
-    "registered_habitat_hectares": 92.04,
-    "allocated_habitat_area": 16.25,
-    "remaining_habitat_area": 75.79,
-    "utilisation_percent": 17.7
   },
   {
     "lpa": "North Norfolk LPA",
@@ -760,14 +760,6 @@
     "utilisation_percent": 2.7
   },
   {
-    "lpa": "St Albans LPA",
-    "site_count": 2,
-    "registered_habitat_hectares": 25.62,
-    "allocated_habitat_area": 0.7,
-    "remaining_habitat_area": 24.92,
-    "utilisation_percent": 2.7
-  },
-  {
     "lpa": "Wiltshire LPA",
     "site_count": 10,
     "registered_habitat_hectares": 288.98,
@@ -853,6 +845,14 @@
     "registered_habitat_hectares": 4.38,
     "allocated_habitat_area": 0.07,
     "remaining_habitat_area": 4.31,
+    "utilisation_percent": 1.6
+  },
+  {
+    "lpa": "St Albans LPA",
+    "site_count": 2,
+    "registered_habitat_hectares": 25.31,
+    "allocated_habitat_area": 0.4,
+    "remaining_habitat_area": 24.92,
     "utilisation_percent": 1.6
   },
   {
