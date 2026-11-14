@@ -1,5 +1,14 @@
 [
   {
+    "code": "BGS-051026002",
+    "title": "Biodiversity gain site",
+    "lpa": "Peak District National Park LPA",
+    "nca": "",
+    "lnrs": "Derbyshire",
+    "gainSiteSizeHa": 10.29,
+    "first_seen_date": "2026-11-14"
+  },
+  {
     "code": "BGS-040926002",
     "title": "Biodiversity gain site",
     "lpa": "Richmondshire LPA",
@@ -27,21 +36,21 @@
     "first_seen_date": "2026-11-07"
   },
   {
-    "code": "BGS-161026001",
-    "title": "Biodiversity gain site",
-    "lpa": "King’s Lynn and West Norfolk LPA",
-    "nca": "",
-    "lnrs": "Norfolk",
-    "gainSiteSizeHa": 64.58,
-    "first_seen_date": "2026-11-06"
-  },
-  {
     "code": "BGS-221026001",
     "title": "Biodiversity gain site",
     "lpa": "Stratford-on-Avon LPA",
     "nca": "",
     "lnrs": "Warwickshire",
     "gainSiteSizeHa": 8.15,
+    "first_seen_date": "2026-11-06"
+  },
+  {
+    "code": "BGS-161026001",
+    "title": "Biodiversity gain site",
+    "lpa": "King’s Lynn and West Norfolk LPA",
+    "nca": "",
+    "lnrs": "Norfolk",
+    "gainSiteSizeHa": 64.58,
     "first_seen_date": "2026-11-06"
   },
   {
@@ -108,12 +117,12 @@
     "first_seen_date": "2026-10-24"
   },
   {
-    "code": "BGS-170926001",
+    "code": "BGS-021026002",
     "title": "Biodiversity gain site",
-    "lpa": "Chelmsford LPA",
+    "lpa": "Cherwell LPA",
     "nca": "",
-    "lnrs": "Greater Essex",
-    "gainSiteSizeHa": 28.8,
+    "lnrs": "Oxfordshire",
+    "gainSiteSizeHa": 21.46,
     "first_seen_date": "2026-10-22"
   },
   {
@@ -126,21 +135,21 @@
     "first_seen_date": "2026-10-22"
   },
   {
+    "code": "BGS-170926001",
+    "title": "Biodiversity gain site",
+    "lpa": "Chelmsford LPA",
+    "nca": "",
+    "lnrs": "Greater Essex",
+    "gainSiteSizeHa": 28.8,
+    "first_seen_date": "2026-10-22"
+  },
+  {
     "code": "BGS-120426001",
     "title": "Biodiversity gain site",
     "lpa": "Northumberland LPA",
     "nca": "",
     "lnrs": "North of Tyne",
     "gainSiteSizeHa": 0.39,
-    "first_seen_date": "2026-10-22"
-  },
-  {
-    "code": "BGS-021026002",
-    "title": "Biodiversity gain site",
-    "lpa": "Cherwell LPA",
-    "nca": "",
-    "lnrs": "Oxfordshire",
-    "gainSiteSizeHa": 21.46,
     "first_seen_date": "2026-10-22"
   },
   {
@@ -153,21 +162,21 @@
     "first_seen_date": "2026-10-21"
   },
   {
-    "code": "BGS-040926001",
-    "title": "Biodiversity gain site",
-    "lpa": "Wiltshire LPA",
-    "nca": "",
-    "lnrs": "Wiltshire and Swindon",
-    "gainSiteSizeHa": 7.76,
-    "first_seen_date": "2026-10-21"
-  },
-  {
     "code": "BGS-280826002",
     "title": "Biodiversity gain site",
     "lpa": "Leeds LPA",
     "nca": "",
     "lnrs": "West Yorkshire",
     "gainSiteSizeHa": 17.3,
+    "first_seen_date": "2026-10-21"
+  },
+  {
+    "code": "BGS-040926001",
+    "title": "Biodiversity gain site",
+    "lpa": "Wiltshire LPA",
+    "nca": "",
+    "lnrs": "Wiltshire and Swindon",
+    "gainSiteSizeHa": 7.76,
     "first_seen_date": "2026-10-21"
   },
   {
@@ -180,21 +189,21 @@
     "first_seen_date": "2026-10-20"
   },
   {
-    "code": "BGS-170826001",
-    "title": "Biodiversity gain site",
-    "lpa": "Stratford-on-Avon LPA",
-    "nca": "",
-    "lnrs": "Warwickshire",
-    "gainSiteSizeHa": 26.26,
-    "first_seen_date": "2026-10-20"
-  },
-  {
     "code": "BGS-270926001",
     "title": "Biodiversity gain site",
     "lpa": "Hambleton LPA",
     "nca": "",
     "lnrs": "North Yorkshire and York",
     "gainSiteSizeHa": 8.73,
+    "first_seen_date": "2026-10-20"
+  },
+  {
+    "code": "BGS-170826001",
+    "title": "Biodiversity gain site",
+    "lpa": "Stratford-on-Avon LPA",
+    "nca": "",
+    "lnrs": "Warwickshire",
+    "gainSiteSizeHa": 26.26,
     "first_seen_date": "2026-10-20"
   },
   {
@@ -214,14 +223,5 @@
     "lnrs": "County Durham",
     "gainSiteSizeHa": 19.87,
     "first_seen_date": "2026-10-14"
-  },
-  {
-    "code": "BGS-200826003",
-    "title": "Biodiversity gain site",
-    "lpa": "Newcastle-under-Lyme LPA",
-    "nca": "",
-    "lnrs": "Staffordshire and Stoke-on-Trent",
-    "gainSiteSizeHa": 0.15,
-    "first_seen_date": "2026-10-13"
   }
 ]
