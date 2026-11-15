@@ -408,14 +408,6 @@
     "utilisation_percent": 10.7
   },
   {
-    "lpa": "Dartmoor National Park LPA",
-    "site_count": 4,
-    "registered_habitat_hectares": 49.05,
-    "allocated_habitat_area": 5.23,
-    "remaining_habitat_area": 43.82,
-    "utilisation_percent": 10.7
-  },
-  {
     "lpa": "Kettering LPA",
     "site_count": 1,
     "registered_habitat_hectares": 50.05,
@@ -672,6 +664,14 @@
     "utilisation_percent": 4.2
   },
   {
+    "lpa": "Dartmoor National Park LPA",
+    "site_count": 4,
+    "registered_habitat_hectares": 37.38,
+    "allocated_habitat_area": 1.53,
+    "remaining_habitat_area": 35.86,
+    "utilisation_percent": 4.1
+  },
+  {
     "lpa": "South Somerset LPA",
     "site_count": 2,
     "registered_habitat_hectares": 62.72,
@@ -757,14 +757,6 @@
     "registered_habitat_hectares": 288.98,
     "allocated_habitat_area": 7.84,
     "remaining_habitat_area": 281.14,
-    "utilisation_percent": 2.7
-  },
-  {
-    "lpa": "West Berkshire LPA",
-    "site_count": 2,
-    "registered_habitat_hectares": 165.75,
-    "allocated_habitat_area": 4.55,
-    "remaining_habitat_area": 161.2,
     "utilisation_percent": 2.7
   },
   {
@@ -1189,6 +1181,14 @@
     "registered_habitat_hectares": 0.88,
     "allocated_habitat_area": 0,
     "remaining_habitat_area": 0.88,
+    "utilisation_percent": 0
+  },
+  {
+    "lpa": "West Berkshire LPA",
+    "site_count": 2,
+    "registered_habitat_hectares": 46.64,
+    "allocated_habitat_area": 0,
+    "remaining_habitat_area": 46.64,
     "utilisation_percent": 0
   },
   {
