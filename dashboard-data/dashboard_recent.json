@@ -1,110 +1,74 @@
 [
   {
-    "code": "BGS-100926002",
+    "code": "BGS-260325002",
     "title": "",
     "lpa": "",
     "nca": "",
     "lnrs": "",
-    "gainSiteSizeHa": 64.55,
+    "gainSiteSizeHa": 14.01,
     "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-160426001",
+    "code": "BGS-040926002",
     "title": "",
     "lpa": "",
     "nca": "",
     "lnrs": "",
-    "gainSiteSizeHa": 10.63,
+    "gainSiteSizeHa": 17.85,
     "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-150426002",
+    "code": "BGS-171224001",
     "title": "",
     "lpa": "",
     "nca": "",
     "lnrs": "",
-    "gainSiteSizeHa": 22.05,
+    "gainSiteSizeHa": 0.83,
     "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-230724001",
+    "code": "BGS-270325001",
     "title": "",
     "lpa": "",
     "nca": "",
     "lnrs": "",
-    "gainSiteSizeHa": 21.12,
+    "gainSiteSizeHa": 15.62,
     "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-111124001",
+    "code": "BGS-210325001",
     "title": "",
     "lpa": "",
     "nca": "",
     "lnrs": "",
-    "gainSiteSizeHa": 12.42,
+    "gainSiteSizeHa": 274.67,
     "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-051124001",
+    "code": "BGS-140826001",
     "title": "",
     "lpa": "",
     "nca": "",
     "lnrs": "",
-    "gainSiteSizeHa": 25.15,
+    "gainSiteSizeHa": 46.94,
     "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-250425001",
+    "code": "BGS-210726003",
     "title": "",
     "lpa": "",
     "nca": "",
     "lnrs": "",
-    "gainSiteSizeHa": 12.08,
+    "gainSiteSizeHa": 23.38,
     "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-300626001",
+    "code": "BGS-160425002",
     "title": "",
     "lpa": "",
     "nca": "",
     "lnrs": "",
-    "gainSiteSizeHa": 242.8,
-    "first_seen_date": "2026-11-16"
-  },
-  {
-    "code": "BGS-090326001",
-    "title": "",
-    "lpa": "",
-    "nca": "",
-    "lnrs": "",
-    "gainSiteSizeHa": 13.12,
-    "first_seen_date": "2026-11-16"
-  },
-  {
-    "code": "BGS-010426003",
-    "title": "",
-    "lpa": "",
-    "nca": "",
-    "lnrs": "",
-    "gainSiteSizeHa": 8.27,
-    "first_seen_date": "2026-11-16"
-  },
-  {
-    "code": "BGS-290825001",
-    "title": "",
-    "lpa": "",
-    "nca": "",
-    "lnrs": "",
-    "gainSiteSizeHa": 48.35,
-    "first_seen_date": "2026-11-16"
-  },
-  {
-    "code": "BGS-260225002",
-    "title": "",
-    "lpa": "",
-    "nca": "",
-    "lnrs": "",
-    "gainSiteSizeHa": 18.13,
+    "gainSiteSizeHa": 28.04,
     "first_seen_date": "2026-11-16"
   },
   {
@@ -117,111 +81,147 @@
     "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-021026001",
+    "code": "BGS-190626002",
     "title": "",
     "lpa": "",
     "nca": "",
     "lnrs": "",
-    "gainSiteSizeHa": 13.28,
+    "gainSiteSizeHa": 71.82,
     "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-301025002",
+    "code": "BGS-300626001",
     "title": "",
     "lpa": "",
     "nca": "",
     "lnrs": "",
-    "gainSiteSizeHa": 78.91,
+    "gainSiteSizeHa": 242.8,
     "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-120226002",
+    "code": "BGS-130126001",
     "title": "",
     "lpa": "",
     "nca": "",
     "lnrs": "",
-    "gainSiteSizeHa": 20.24,
+    "gainSiteSizeHa": 6.55,
     "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-061125001",
+    "code": "BGS-111124001",
     "title": "",
     "lpa": "",
     "nca": "",
     "lnrs": "",
-    "gainSiteSizeHa": 11.8,
+    "gainSiteSizeHa": 12.42,
     "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-161025001",
+    "code": "BGS-190726001",
     "title": "",
     "lpa": "",
     "nca": "",
     "lnrs": "",
-    "gainSiteSizeHa": 19.02,
+    "gainSiteSizeHa": 13.14,
     "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-221024001",
+    "code": "BGS-130326002",
     "title": "",
     "lpa": "",
     "nca": "",
     "lnrs": "",
-    "gainSiteSizeHa": 29.18,
+    "gainSiteSizeHa": 34.8,
     "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-231026003",
+    "code": "BGS-250425001",
     "title": "",
     "lpa": "",
     "nca": "",
     "lnrs": "",
-    "gainSiteSizeHa": 61.84,
+    "gainSiteSizeHa": 12.08,
     "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-300625002",
+    "code": "BGS-260225002",
     "title": "",
     "lpa": "",
     "nca": "",
     "lnrs": "",
-    "gainSiteSizeHa": 26.29,
+    "gainSiteSizeHa": 18.13,
     "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-271025002",
+    "code": "BGS-130625001",
     "title": "",
     "lpa": "",
     "nca": "",
     "lnrs": "",
-    "gainSiteSizeHa": 19.56,
+    "gainSiteSizeHa": 38.69,
     "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-070426001",
+    "code": "BGS-010926001",
     "title": "",
     "lpa": "",
     "nca": "",
     "lnrs": "",
-    "gainSiteSizeHa": 25.6,
+    "gainSiteSizeHa": 12.08,
     "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-060325001",
+    "code": "BGS-090326001",
     "title": "",
     "lpa": "",
     "nca": "",
     "lnrs": "",
-    "gainSiteSizeHa": 88.14,
+    "gainSiteSizeHa": 13.12,
     "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-060226001",
+    "code": "BGS-101024002",
     "title": "",
     "lpa": "",
     "nca": "",
     "lnrs": "",
-    "gainSiteSizeHa": 0.55,
+    "gainSiteSizeHa": 19.86,
+    "first_seen_date": "2026-11-16"
+  },
+  {
+    "code": "BGS-220825001",
+    "title": "",
+    "lpa": "",
+    "nca": "",
+    "lnrs": "",
+    "gainSiteSizeHa": 0.47,
+    "first_seen_date": "2026-11-16"
+  },
+  {
+    "code": "BGS-250826001",
+    "title": "",
+    "lpa": "",
+    "nca": "",
+    "lnrs": "",
+    "gainSiteSizeHa": 8.2,
+    "first_seen_date": "2026-11-16"
+  },
+  {
+    "code": "BGS-150426002",
+    "title": "",
+    "lpa": "",
+    "nca": "",
+    "lnrs": "",
+    "gainSiteSizeHa": 22.05,
+    "first_seen_date": "2026-11-16"
+  },
+  {
+    "code": "BGS-071125001",
+    "title": "",
+    "lpa": "",
+    "nca": "",
+    "lnrs": "",
+    "gainSiteSizeHa": 53.2,
     "first_seen_date": "2026-11-16"
   }
 ]
