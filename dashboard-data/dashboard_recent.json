@@ -1,47 +1,11 @@
 [
   {
-    "code": "BGS-260325002",
+    "code": "BGS-240326002",
     "title": "",
     "lpa": "",
     "nca": "",
     "lnrs": "",
-    "gainSiteSizeHa": 14.01,
-    "first_seen_date": "2026-11-16"
-  },
-  {
-    "code": "BGS-040926002",
-    "title": "",
-    "lpa": "",
-    "nca": "",
-    "lnrs": "",
-    "gainSiteSizeHa": 17.85,
-    "first_seen_date": "2026-11-16"
-  },
-  {
-    "code": "BGS-171224001",
-    "title": "",
-    "lpa": "",
-    "nca": "",
-    "lnrs": "",
-    "gainSiteSizeHa": 0.83,
-    "first_seen_date": "2026-11-16"
-  },
-  {
-    "code": "BGS-270325001",
-    "title": "",
-    "lpa": "",
-    "nca": "",
-    "lnrs": "",
-    "gainSiteSizeHa": 15.62,
-    "first_seen_date": "2026-11-16"
-  },
-  {
-    "code": "BGS-210325001",
-    "title": "",
-    "lpa": "",
-    "nca": "",
-    "lnrs": "",
-    "gainSiteSizeHa": 274.67,
+    "gainSiteSizeHa": 12.66,
     "first_seen_date": "2026-11-16"
   },
   {
@@ -54,111 +18,12 @@
     "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-210726003",
+    "code": "BGS-080925002",
     "title": "",
     "lpa": "",
     "nca": "",
     "lnrs": "",
-    "gainSiteSizeHa": 23.38,
-    "first_seen_date": "2026-11-16"
-  },
-  {
-    "code": "BGS-160425002",
-    "title": "",
-    "lpa": "",
-    "nca": "",
-    "lnrs": "",
-    "gainSiteSizeHa": 28.04,
-    "first_seen_date": "2026-11-16"
-  },
-  {
-    "code": "BGS-110626001",
-    "title": "",
-    "lpa": "",
-    "nca": "",
-    "lnrs": "",
-    "gainSiteSizeHa": 10.21,
-    "first_seen_date": "2026-11-16"
-  },
-  {
-    "code": "BGS-190626002",
-    "title": "",
-    "lpa": "",
-    "nca": "",
-    "lnrs": "",
-    "gainSiteSizeHa": 71.82,
-    "first_seen_date": "2026-11-16"
-  },
-  {
-    "code": "BGS-300626001",
-    "title": "",
-    "lpa": "",
-    "nca": "",
-    "lnrs": "",
-    "gainSiteSizeHa": 242.8,
-    "first_seen_date": "2026-11-16"
-  },
-  {
-    "code": "BGS-130126001",
-    "title": "",
-    "lpa": "",
-    "nca": "",
-    "lnrs": "",
-    "gainSiteSizeHa": 6.55,
-    "first_seen_date": "2026-11-16"
-  },
-  {
-    "code": "BGS-111124001",
-    "title": "",
-    "lpa": "",
-    "nca": "",
-    "lnrs": "",
-    "gainSiteSizeHa": 12.42,
-    "first_seen_date": "2026-11-16"
-  },
-  {
-    "code": "BGS-190726001",
-    "title": "",
-    "lpa": "",
-    "nca": "",
-    "lnrs": "",
-    "gainSiteSizeHa": 13.14,
-    "first_seen_date": "2026-11-16"
-  },
-  {
-    "code": "BGS-130326002",
-    "title": "",
-    "lpa": "",
-    "nca": "",
-    "lnrs": "",
-    "gainSiteSizeHa": 34.8,
-    "first_seen_date": "2026-11-16"
-  },
-  {
-    "code": "BGS-250425001",
-    "title": "",
-    "lpa": "",
-    "nca": "",
-    "lnrs": "",
-    "gainSiteSizeHa": 12.08,
-    "first_seen_date": "2026-11-16"
-  },
-  {
-    "code": "BGS-260225002",
-    "title": "",
-    "lpa": "",
-    "nca": "",
-    "lnrs": "",
-    "gainSiteSizeHa": 18.13,
-    "first_seen_date": "2026-11-16"
-  },
-  {
-    "code": "BGS-130625001",
-    "title": "",
-    "lpa": "",
-    "nca": "",
-    "lnrs": "",
-    "gainSiteSizeHa": 38.69,
+    "gainSiteSizeHa": 0.01,
     "first_seen_date": "2026-11-16"
   },
   {
@@ -171,57 +36,192 @@
     "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-090326001",
+    "code": "BGS-120226002",
     "title": "",
     "lpa": "",
     "nca": "",
     "lnrs": "",
-    "gainSiteSizeHa": 13.12,
+    "gainSiteSizeHa": 20.24,
     "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-101024002",
+    "code": "BGS-040425001",
     "title": "",
     "lpa": "",
     "nca": "",
     "lnrs": "",
-    "gainSiteSizeHa": 19.86,
+    "gainSiteSizeHa": 28.18,
     "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-220825001",
+    "code": "BGS-051124001",
     "title": "",
     "lpa": "",
     "nca": "",
     "lnrs": "",
-    "gainSiteSizeHa": 0.47,
+    "gainSiteSizeHa": 25.15,
     "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-250826001",
+    "code": "BGS-270325001",
     "title": "",
     "lpa": "",
     "nca": "",
     "lnrs": "",
-    "gainSiteSizeHa": 8.2,
+    "gainSiteSizeHa": 15.62,
     "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-150426002",
+    "code": "BGS-180526001",
     "title": "",
     "lpa": "",
     "nca": "",
     "lnrs": "",
-    "gainSiteSizeHa": 22.05,
+    "gainSiteSizeHa": 15.9,
     "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-071125001",
+    "code": "BGS-171025005",
     "title": "",
     "lpa": "",
     "nca": "",
     "lnrs": "",
-    "gainSiteSizeHa": 53.2,
+    "gainSiteSizeHa": 11.85,
+    "first_seen_date": "2026-11-16"
+  },
+  {
+    "code": "BGS-140526003",
+    "title": "",
+    "lpa": "",
+    "nca": "",
+    "lnrs": "",
+    "gainSiteSizeHa": 55.57,
+    "first_seen_date": "2026-11-16"
+  },
+  {
+    "code": "BGS-110226001",
+    "title": "",
+    "lpa": "",
+    "nca": "",
+    "lnrs": "",
+    "gainSiteSizeHa": 7,
+    "first_seen_date": "2026-11-16"
+  },
+  {
+    "code": "BGS-100926002",
+    "title": "",
+    "lpa": "",
+    "nca": "",
+    "lnrs": "",
+    "gainSiteSizeHa": 64.55,
+    "first_seen_date": "2026-11-16"
+  },
+  {
+    "code": "BGS-090126001",
+    "title": "",
+    "lpa": "",
+    "nca": "",
+    "lnrs": "",
+    "gainSiteSizeHa": 7.86,
+    "first_seen_date": "2026-11-16"
+  },
+  {
+    "code": "BGS-260325002",
+    "title": "",
+    "lpa": "",
+    "nca": "",
+    "lnrs": "",
+    "gainSiteSizeHa": 14.01,
+    "first_seen_date": "2026-11-16"
+  },
+  {
+    "code": "BGS-060226001",
+    "title": "",
+    "lpa": "",
+    "nca": "",
+    "lnrs": "",
+    "gainSiteSizeHa": 0.55,
+    "first_seen_date": "2026-11-16"
+  },
+  {
+    "code": "BGS-250425001",
+    "title": "",
+    "lpa": "",
+    "nca": "",
+    "lnrs": "",
+    "gainSiteSizeHa": 12.08,
+    "first_seen_date": "2026-11-16"
+  },
+  {
+    "code": "BGS-221024001",
+    "title": "",
+    "lpa": "",
+    "nca": "",
+    "lnrs": "",
+    "gainSiteSizeHa": 29.18,
+    "first_seen_date": "2026-11-16"
+  },
+  {
+    "code": "BGS-241025001",
+    "title": "",
+    "lpa": "",
+    "nca": "",
+    "lnrs": "",
+    "gainSiteSizeHa": 28.68,
+    "first_seen_date": "2026-11-16"
+  },
+  {
+    "code": "BGS-260326001",
+    "title": "",
+    "lpa": "",
+    "nca": "",
+    "lnrs": "",
+    "gainSiteSizeHa": 28.63,
+    "first_seen_date": "2026-11-16"
+  },
+  {
+    "code": "BGS-060324001",
+    "title": "",
+    "lpa": "",
+    "nca": "",
+    "lnrs": "",
+    "gainSiteSizeHa": 19.74,
+    "first_seen_date": "2026-11-16"
+  },
+  {
+    "code": "BGS-030726001",
+    "title": "",
+    "lpa": "",
+    "nca": "",
+    "lnrs": "",
+    "gainSiteSizeHa": 0.5,
+    "first_seen_date": "2026-11-16"
+  },
+  {
+    "code": "BGS-090126002",
+    "title": "",
+    "lpa": "",
+    "nca": "",
+    "lnrs": "",
+    "gainSiteSizeHa": 131.64,
+    "first_seen_date": "2026-11-16"
+  },
+  {
+    "code": "BGS-060526001",
+    "title": "",
+    "lpa": "",
+    "nca": "",
+    "lnrs": "",
+    "gainSiteSizeHa": 29.96,
+    "first_seen_date": "2026-11-16"
+  },
+  {
+    "code": "BGS-281125002",
+    "title": "",
+    "lpa": "",
+    "nca": "",
+    "lnrs": "",
+    "gainSiteSizeHa": 17,
     "first_seen_date": "2026-11-16"
   }
 ]
