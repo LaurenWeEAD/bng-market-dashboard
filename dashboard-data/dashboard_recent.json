@@ -1,227 +1,227 @@
 [
   {
-    "code": "BGS-250626003",
+    "code": "BGS-231026001",
     "title": "Biodiversity gain site",
-    "lpa": "Basingstoke and Deane LPA",
+    "lpa": "Yorkshire Dales National Park LPA",
     "nca": "",
-    "lnrs": "Hampshire",
-    "gainSiteSizeHa": 0.44,
-    "first_seen_date": "2026-09-05"
+    "lnrs": "North Yorkshire and York",
+    "gainSiteSizeHa": 4.1,
+    "first_seen_date": "2026-11-23"
   },
   {
-    "code": "BGS-280726001",
+    "code": "BGS-150926001",
     "title": "Biodiversity gain site",
-    "lpa": "South Downs National Park LPA",
-    "nca": "",
-    "lnrs": "East Sussex and Brighton & Hove",
-    "gainSiteSizeHa": 107.75,
-    "first_seen_date": "2026-09-03"
-  },
-  {
-    "code": "BGS-200726001",
-    "title": "Biodiversity gain site",
-    "lpa": "Chelmsford LPA",
-    "nca": "",
-    "lnrs": "Greater Essex",
-    "gainSiteSizeHa": 13.64,
-    "first_seen_date": "2026-09-03"
-  },
-  {
-    "code": "BGS-200726003",
-    "title": "Biodiversity gain site",
-    "lpa": "Ashford LPA",
+    "lpa": "Dover LPA",
     "nca": "",
     "lnrs": "Kent and Medway",
-    "gainSiteSizeHa": 69.96,
-    "first_seen_date": "2026-09-03"
+    "gainSiteSizeHa": 10.62,
+    "first_seen_date": "2026-11-20"
   },
   {
-    "code": "BGS-170726004",
+    "code": "BGS-201026001",
     "title": "Biodiversity gain site",
-    "lpa": "South Kesteven LPA",
+    "lpa": "Wakefield LPA",
     "nca": "",
-    "lnrs": "Greater Lincolnshire",
-    "gainSiteSizeHa": 17.31,
-    "first_seen_date": "2026-09-03"
+    "lnrs": "West Yorkshire",
+    "gainSiteSizeHa": 9.78,
+    "first_seen_date": "2026-11-19"
   },
   {
-    "code": "BGS-040826001",
+    "code": "BGS-031126001",
+    "title": "Biodiversity gain site",
+    "lpa": "Chichester LPA",
+    "nca": "",
+    "lnrs": "West Sussex",
+    "gainSiteSizeHa": 3.08,
+    "first_seen_date": "2026-11-19"
+  },
+  {
+    "code": "BGS-090626001",
+    "title": "Biodiversity gain site",
+    "lpa": "Exmoor National Park LPA",
+    "nca": "",
+    "lnrs": "Somerset",
+    "gainSiteSizeHa": 27.57,
+    "first_seen_date": "2026-11-19"
+  },
+  {
+    "code": "BGS-160425002",
     "title": "Biodiversity gain site",
     "lpa": "Cheshire East LPA",
     "nca": "",
     "lnrs": "Cheshire",
-    "gainSiteSizeHa": 1.83,
-    "first_seen_date": "2026-09-03"
+    "gainSiteSizeHa": 28.04,
+    "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-240726001",
+    "code": "BGS-060324001",
     "title": "Biodiversity gain site",
-    "lpa": "Colchester LPA",
+    "lpa": "Aylesbury Vale LPA",
     "nca": "",
-    "lnrs": "Greater Essex",
-    "gainSiteSizeHa": 24.35,
-    "first_seen_date": "2026-08-30"
+    "lnrs": "Buckinghamshire and Milton Keynes",
+    "gainSiteSizeHa": 19.74,
+    "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-171025005",
+    "code": "BGS-260326001",
     "title": "Biodiversity gain site",
-    "lpa": "North West Leicestershire LPA",
+    "lpa": "Ashford LPA",
+    "nca": "",
+    "lnrs": "Kent and Medway",
+    "gainSiteSizeHa": 28.63,
+    "first_seen_date": "2026-11-16"
+  },
+  {
+    "code": "BGS-130126001",
+    "title": "Biodiversity gain site",
+    "lpa": "Blaby LPA",
     "nca": "",
     "lnrs": "Leicestershire, Leicester and Rutland",
-    "gainSiteSizeHa": 11.85,
-    "first_seen_date": "2026-08-30"
+    "gainSiteSizeHa": 6.55,
+    "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-100626002",
+    "code": "BGS-180925001",
     "title": "Biodiversity gain site",
-    "lpa": "Isle of Wight LPA",
+    "lpa": "Dorset LPA",
     "nca": "",
-    "lnrs": "Isle of Wight",
-    "gainSiteSizeHa": 11.77,
-    "first_seen_date": "2026-08-30"
+    "lnrs": "Dorset",
+    "gainSiteSizeHa": 66,
+    "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-130726001",
+    "code": "BGS-260226001",
     "title": "Biodiversity gain site",
-    "lpa": "South Downs National Park LPA",
+    "lpa": "Cheshire West and Chester LPA",
     "nca": "",
-    "lnrs": "West Sussex",
-    "gainSiteSizeHa": 9.03,
-    "first_seen_date": "2026-08-28"
+    "lnrs": "Cheshire",
+    "gainSiteSizeHa": 74.73,
+    "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-240626001",
+    "code": "BGS-040425001",
     "title": "Biodiversity gain site",
-    "lpa": "Bury LPA",
+    "lpa": "Charnwood LPA",
     "nca": "",
-    "lnrs": "Greater Manchester",
-    "gainSiteSizeHa": 32.45,
-    "first_seen_date": "2026-08-27"
+    "lnrs": "Leicestershire, Leicester and Rutland",
+    "gainSiteSizeHa": 28.18,
+    "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-210726002",
+    "code": "BGS-150424001",
+    "title": "Biodiversity gain site",
+    "lpa": "Aylesbury Vale LPA",
+    "nca": "",
+    "lnrs": "Buckinghamshire and Milton Keynes",
+    "gainSiteSizeHa": 27.24,
+    "first_seen_date": "2026-11-16"
+  },
+  {
+    "code": "BGS-210325001",
+    "title": "Biodiversity gain site",
+    "lpa": "Northumberland LPA",
+    "nca": "",
+    "lnrs": "North of Tyne",
+    "gainSiteSizeHa": 274.67,
+    "first_seen_date": "2026-11-16"
+  },
+  {
+    "code": "BGS-290825001",
+    "title": "Biodiversity gain site",
+    "lpa": "West Berkshire LPA",
+    "nca": "",
+    "lnrs": "Berkshire",
+    "gainSiteSizeHa": 48.35,
+    "first_seen_date": "2026-11-16"
+  },
+  {
+    "code": "BGS-250425001",
+    "title": "Biodiversity gain site",
+    "lpa": "Rother LPA",
+    "nca": "",
+    "lnrs": "East Sussex and Brighton & Hove",
+    "gainSiteSizeHa": 12.08,
+    "first_seen_date": "2026-11-16"
+  },
+  {
+    "code": "BGS-280826002",
+    "title": "Biodiversity gain site",
+    "lpa": "Leeds LPA",
+    "nca": "",
+    "lnrs": "West Yorkshire",
+    "gainSiteSizeHa": 17.3,
+    "first_seen_date": "2026-11-16"
+  },
+  {
+    "code": "BGS-010426003",
+    "title": "Biodiversity gain site",
+    "lpa": "North Warwickshire LPA",
+    "nca": "",
+    "lnrs": "Warwickshire",
+    "gainSiteSizeHa": 8.27,
+    "first_seen_date": "2026-11-16"
+  },
+  {
+    "code": "BGS-300525001",
     "title": "Biodiversity gain site",
     "lpa": "Stratford-on-Avon LPA",
     "nca": "",
     "lnrs": "Warwickshire",
-    "gainSiteSizeHa": 5.08,
-    "first_seen_date": "2026-08-27"
+    "gainSiteSizeHa": 19.98,
+    "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-180626002",
+    "code": "BGS-120526001",
     "title": "Biodiversity gain site",
-    "lpa": "Peak District National Park LPA",
+    "lpa": "Wycombe LPA",
     "nca": "",
-    "lnrs": "Cheshire",
-    "gainSiteSizeHa": 22.7,
-    "first_seen_date": "2026-08-27"
+    "lnrs": "Buckinghamshire and Milton Keynes",
+    "gainSiteSizeHa": 3.95,
+    "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-200526002",
+    "code": "BGS-280225001",
     "title": "Biodiversity gain site",
-    "lpa": "Lichfield LPA",
+    "lpa": "Wealden LPA",
     "nca": "",
-    "lnrs": "Staffordshire and Stoke-on-Trent",
-    "gainSiteSizeHa": 4.68,
-    "first_seen_date": "2026-08-26"
+    "lnrs": "East Sussex and Brighton & Hove",
+    "gainSiteSizeHa": 21.05,
+    "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-090726001",
+    "code": "BGS-230724001",
     "title": "Biodiversity gain site",
-    "lpa": "East Suffolk LPA",
+    "lpa": "East Cambridgeshire LPA",
     "nca": "",
-    "lnrs": "Suffolk",
-    "gainSiteSizeHa": 115.7,
-    "first_seen_date": "2026-08-22"
+    "lnrs": "Cambridgeshire and Peterborough",
+    "gainSiteSizeHa": 21.12,
+    "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-190526003",
+    "code": "BGS-060226001",
     "title": "Biodiversity gain site",
-    "lpa": "Arun LPA",
+    "lpa": "North Norfolk LPA",
     "nca": "",
-    "lnrs": "West Sussex",
-    "gainSiteSizeHa": 148.6,
-    "first_seen_date": "2026-08-22"
+    "lnrs": "Norfolk",
+    "gainSiteSizeHa": 0.55,
+    "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-080726001",
+    "code": "BGS-260625001",
     "title": "Biodiversity gain site",
-    "lpa": "South Lakeland LPA",
+    "lpa": "Middlesbrough LPA",
     "nca": "",
-    "lnrs": "Cumbria",
-    "gainSiteSizeHa": 2.27,
-    "first_seen_date": "2026-08-22"
+    "lnrs": "Tees Valley",
+    "gainSiteSizeHa": 1.25,
+    "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-170726003",
+    "code": "BGS-240225001",
     "title": "Biodiversity gain site",
-    "lpa": "Wiltshire LPA",
+    "lpa": "Sunderland LPA",
     "nca": "",
-    "lnrs": "Wiltshire and Swindon",
-    "gainSiteSizeHa": 82,
-    "first_seen_date": "2026-08-19"
-  },
-  {
-    "code": "BGS-100426003",
-    "title": "Biodiversity gain site",
-    "lpa": "Richmondshire LPA",
-    "nca": "",
-    "lnrs": "North Yorkshire and York",
-    "gainSiteSizeHa": 8,
-    "first_seen_date": "2026-08-19"
-  },
-  {
-    "code": "BGS-070426001",
-    "title": "Biodiversity gain site",
-    "lpa": "Kirklees LPA",
-    "nca": "",
-    "lnrs": "West Yorkshire",
-    "gainSiteSizeHa": 25.6,
-    "first_seen_date": "2026-08-19"
-  },
-  {
-    "code": "BGS-060526003",
-    "title": "Biodiversity gain site",
-    "lpa": "County Durham LPA",
-    "nca": "",
-    "lnrs": "County Durham",
-    "gainSiteSizeHa": 26.03,
-    "first_seen_date": "2026-08-14"
-  },
-  {
-    "code": "BGS-150726001",
-    "title": "Biodiversity gain site",
-    "lpa": "South Downs National Park LPA",
-    "nca": "",
-    "lnrs": "West Sussex",
-    "gainSiteSizeHa": 2.21,
-    "first_seen_date": "2026-08-09"
-  },
-  {
-    "code": "BGS-160426002",
-    "title": "Biodiversity gain site",
-    "lpa": "Barrow-in-Furness LPA",
-    "nca": "",
-    "lnrs": "Cumbria",
-    "gainSiteSizeHa": 9.36,
-    "first_seen_date": "2026-08-09"
-  },
-  {
-    "code": "BGS-040726001",
-    "title": "Biodiversity gain site",
-    "lpa": "Shropshire LPA",
-    "nca": "",
-    "lnrs": "Shropshire and Telford & Wrekin",
-    "gainSiteSizeHa": 9.2,
-    "first_seen_date": "2026-08-08"
-  },
-  {
-    "code": "BGS-250226001",
-    "title": "Biodiversity gain site",
-    "lpa": "Oldham LPA",
-    "nca": "",
-    "lnrs": "Greater Manchester",
-    "gainSiteSizeHa": 2,
-    "first_seen_date": "2026-08-08"
+    "lnrs": "South of Tyne and Wear",
+    "gainSiteSizeHa": 0.6,
+    "first_seen_date": "2026-11-16"
   }
 ]
