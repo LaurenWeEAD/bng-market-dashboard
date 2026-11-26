@@ -1,5 +1,14 @@
 [
   {
+    "code": "BGS-041126003",
+    "title": "Biodiversity gain site",
+    "lpa": "St. Helens LPA",
+    "nca": "",
+    "lnrs": "Liverpool City Region",
+    "gainSiteSizeHa": 9.29,
+    "first_seen_date": "2026-11-26"
+  },
+  {
     "code": "BGS-240725001",
     "title": "Biodiversity gain site",
     "lpa": "South Cambridgeshire LPA",
@@ -54,12 +63,21 @@
     "first_seen_date": "2026-11-19"
   },
   {
-    "code": "BGS-110425001",
+    "code": "BGS-180526001",
     "title": "Biodiversity gain site",
-    "lpa": "Bedford LPA",
+    "lpa": "Amber Valley LPA",
     "nca": "",
-    "lnrs": "Bedfordshire",
-    "gainSiteSizeHa": 18.21,
+    "lnrs": "Derbyshire",
+    "gainSiteSizeHa": 15.9,
+    "first_seen_date": "2026-11-16"
+  },
+  {
+    "code": "BGS-220825001",
+    "title": "Biodiversity gain site",
+    "lpa": "Bracknell Forest LPA",
+    "nca": "",
+    "lnrs": "Berkshire",
+    "gainSiteSizeHa": 0.47,
     "first_seen_date": "2026-11-16"
   },
   {
@@ -72,33 +90,6 @@
     "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-190626002",
-    "title": "Biodiversity gain site",
-    "lpa": "Chiltern LPA",
-    "nca": "",
-    "lnrs": "Buckinghamshire and Milton Keynes",
-    "gainSiteSizeHa": 71.82,
-    "first_seen_date": "2026-11-16"
-  },
-  {
-    "code": "BGS-140526003",
-    "title": "Biodiversity gain site",
-    "lpa": "Wiltshire LPA",
-    "nca": "",
-    "lnrs": "Wiltshire and Swindon",
-    "gainSiteSizeHa": 55.57,
-    "first_seen_date": "2026-11-16"
-  },
-  {
-    "code": "BGS-280826002",
-    "title": "Biodiversity gain site",
-    "lpa": "Leeds LPA",
-    "nca": "",
-    "lnrs": "West Yorkshire",
-    "gainSiteSizeHa": 17.3,
-    "first_seen_date": "2026-11-16"
-  },
-  {
     "code": "BGS-110826002",
     "title": "Biodiversity gain site",
     "lpa": "Selby LPA",
@@ -108,12 +99,12 @@
     "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-150426002",
+    "code": "BGS-130126001",
     "title": "Biodiversity gain site",
-    "lpa": "Blackburn with Darwen LPA",
+    "lpa": "Blaby LPA",
     "nca": "",
-    "lnrs": "Lancashire",
-    "gainSiteSizeHa": 22.05,
+    "lnrs": "Leicestershire, Leicester and Rutland",
+    "gainSiteSizeHa": 6.55,
     "first_seen_date": "2026-11-16"
   },
   {
@@ -126,21 +117,12 @@
     "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-210325001",
+    "code": "BGS-060324001",
     "title": "Biodiversity gain site",
-    "lpa": "Northumberland LPA",
+    "lpa": "Aylesbury Vale LPA",
     "nca": "",
-    "lnrs": "North of Tyne",
-    "gainSiteSizeHa": 274.67,
-    "first_seen_date": "2026-11-16"
-  },
-  {
-    "code": "BGS-260226001",
-    "title": "Biodiversity gain site",
-    "lpa": "Cheshire West and Chester LPA",
-    "nca": "",
-    "lnrs": "Cheshire",
-    "gainSiteSizeHa": 74.73,
+    "lnrs": "Buckinghamshire and Milton Keynes",
+    "gainSiteSizeHa": 19.74,
     "first_seen_date": "2026-11-16"
   },
   {
@@ -153,39 +135,66 @@
     "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-301025002",
+    "code": "BGS-150424001",
     "title": "Biodiversity gain site",
-    "lpa": "Bath and North East Somerset LPA",
+    "lpa": "Aylesbury Vale LPA",
     "nca": "",
-    "lnrs": "West of England",
-    "gainSiteSizeHa": 78.91,
+    "lnrs": "Buckinghamshire and Milton Keynes",
+    "gainSiteSizeHa": 27.24,
     "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-060526001",
+    "code": "BGS-090126002",
     "title": "Biodiversity gain site",
-    "lpa": "Harrogate LPA",
+    "lpa": "East Northamptonshire LPA",
     "nca": "",
-    "lnrs": "North Yorkshire and York",
-    "gainSiteSizeHa": 29.96,
+    "lnrs": "North Northamptonshire",
+    "gainSiteSizeHa": 131.64,
     "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-040924001",
+    "code": "BGS-060325001",
     "title": "Biodiversity gain site",
-    "lpa": "East Lindsey LPA",
+    "lpa": "Waverley LPA",
     "nca": "",
-    "lnrs": "Greater Lincolnshire",
-    "gainSiteSizeHa": 18.75,
+    "lnrs": "Surrey",
+    "gainSiteSizeHa": 88.14,
     "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-070426001",
+    "code": "BGS-070426002",
     "title": "Biodiversity gain site",
-    "lpa": "Kirklees LPA",
+    "lpa": "Tonbridge and Malling LPA",
     "nca": "",
-    "lnrs": "West Yorkshire",
-    "gainSiteSizeHa": 25.6,
+    "lnrs": "Kent and Medway",
+    "gainSiteSizeHa": 40.44,
+    "first_seen_date": "2026-11-16"
+  },
+  {
+    "code": "BGS-160425002",
+    "title": "Biodiversity gain site",
+    "lpa": "Cheshire East LPA",
+    "nca": "",
+    "lnrs": "Cheshire",
+    "gainSiteSizeHa": 28.04,
+    "first_seen_date": "2026-11-16"
+  },
+  {
+    "code": "BGS-090326001",
+    "title": "Biodiversity gain site",
+    "lpa": "Cornwall LPA",
+    "nca": "",
+    "lnrs": "Cornwall and the Isles of Scilly",
+    "gainSiteSizeHa": 13.12,
+    "first_seen_date": "2026-11-16"
+  },
+  {
+    "code": "BGS-140826001",
+    "title": "Biodiversity gain site",
+    "lpa": "Tendring LPA",
+    "nca": "",
+    "lnrs": "Greater Essex",
+    "gainSiteSizeHa": 46.94,
     "first_seen_date": "2026-11-16"
   },
   {
@@ -198,30 +207,21 @@
     "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-241025001",
+    "code": "BGS-080925002",
     "title": "Biodiversity gain site",
-    "lpa": "East Northamptonshire LPA",
+    "lpa": "Breckland LPA",
     "nca": "",
-    "lnrs": "North Northamptonshire",
-    "gainSiteSizeHa": 28.68,
+    "lnrs": "Norfolk",
+    "gainSiteSizeHa": 0.01,
     "first_seen_date": "2026-11-16"
   },
   {
-    "code": "BGS-060326001",
+    "code": "BGS-060226001",
     "title": "Biodiversity gain site",
-    "lpa": "Bradford LPA",
+    "lpa": "North Norfolk LPA",
     "nca": "",
-    "lnrs": "West Yorkshire",
-    "gainSiteSizeHa": 44.9,
-    "first_seen_date": "2026-11-16"
-  },
-  {
-    "code": "BGS-260625001",
-    "title": "Biodiversity gain site",
-    "lpa": "Middlesbrough LPA",
-    "nca": "",
-    "lnrs": "Tees Valley",
-    "gainSiteSizeHa": 1.25,
+    "lnrs": "Norfolk",
+    "gainSiteSizeHa": 0.55,
     "first_seen_date": "2026-11-16"
   }
 ]
